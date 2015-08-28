@@ -15,11 +15,11 @@
 
     <div class="flexright auto" style="padding-left:4px">
         <div class="row gutter auto wrap" data-user="unknown">
-            <a class="action secondary keep" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-            <a class="action fwdcta keep" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up</a>
+            <a id="nav_login" class="action secondary keep" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+            <a id="nav_signup" class="action fwdcta keep" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up</a>
         </div>
 
-        <div class="row gutter auto wrap" data-user="known">
+        <div class="row gutter auto wrap" data-user="known" style="display:none">
             <a id="nav_support" class="box" href="{{ dashboard_url }}/support">Support</a>
             <a id="nav_dashboard" class="box" href="{{ dashboard_url }}">Dashboard</a>
             <a id="nav_account" class="box row keep" href="{{ dashboard_url }}/account">

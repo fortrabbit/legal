@@ -6,53 +6,37 @@
 	</a>
 
 	<nav class="row gutternormal wrap" id="companynav">
-		<div class="spacertopbig" data-user="known">
-			<h5>Dashboard</h5>
-			<a class="box psmall spacertopsmall" href="{{ dashboard_url }}/activities">Activities</a>
-			<a class="box psmall spacertopsmall" href="{{ dashboard_url }}/users">Team</a>
-			<a class="box psmall spacertopsmall" href="{{ dashboard_url }}/apps">Apps</a>
-			<a class="box psmall spacertopsmall" href="{{ dashboard_url }}/apps/new">Create an App</a>
-		</div>
 
-
-		<div class="spacertopbig" data-user="unknown">
+		<div class="spacertopbig">
 			<h5>Hosting a new mindset</h5>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/laravel-hosting" title="High performance Laravel PHP hosting">Laravel</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/symfony-hosting" title="High performance Symfony PHP hosting">Symfony</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/drupal-hosting" title="High performance Drupal PHP hosting">Drupal 8</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/phalcon-hosting"  title="High performance Phalcon PHP hosting">Phalcon</a>
+			<a id="nav_laravel" class="box psmall spacertopsmall" href="{{ www_url }}/laravel-hosting" title="High performance Laravel PHP hosting">Laravel</a>
+			<a id="nav_symfony" class="box psmall spacertopsmall" href="{{ www_url }}/symfony-hosting" title="High performance Symfony PHP hosting">Symfony</a>
+			<a id="nav_drupal8" class="box psmall spacertopsmall" href="{{ www_url }}/drupal-hosting" title="High performance Drupal PHP hosting">Drupal 8</a>
+			<a id="nav_phalcon" class="box psmall spacertopsmall" href="{{ www_url }}/phalcon-hosting"  title="High performance Phalcon PHP hosting">Phalcon</a>
 		</div>
-		<div class="spacertopbig" data-user="unknown">
+		<div class="spacertopbig">
 			<h5>Hosting you</h5>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/freelancer-hosting" title="Hosting for freelance developers">Freelancer</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/startup-hosting" title="Hosting for startups and SMB">Startup</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/agency-hosting" title="Hosting for web agencies">Digital agency</a>
-		</div>
-
-
-		<div class="spacertopbig" data-user="known">
-			<h5>Help</h5>
-			<a class="box psmall spacertopsmall" href="{{ help_url }}/old-and-new-apps">Old and New Apps</a>
-			<a class="box other psmall spacertopsmall" href="{{ help_url }}/">All articles</a>
+			<a id="nav_agency" class="box psmall spacertopsmall" href="{{ www_url }}/freelancer-hosting" title="Hosting for freelance developers">Freelancer</a>
+			<a id="nav_startup" class="box psmall spacertopsmall" href="{{ www_url }}/startup-hosting" title="Hosting for startups and SMB">Startup</a>
+			<a id="nav_freelancer" class="box psmall spacertopsmall" href="{{ www_url }}/agency-hosting" title="Hosting for web agencies">Digital agency</a>
 		</div>
 
 		<div class="spacertopbig">
-			<h5>Contact</h5>
-			<a class="action secondary psmall spacertopsmall" href="{{ dashboard_url }}/support/ticket" data-user="known">File a ticket</a>
+			<h5>Connect</h5>
 			<a class="box psmall spacertopsmall row" href="http://status.fortrabbit.com" id="status">
 				<div>Status</div><div class="auto flexright status none">●</div>
 			</a>
 			<a class="box psmall spacertopsmall" href="https://twitter.com/fortrabbit">Twitter</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/contact">Contact</a>
+			<a id="nav_contact" class="box psmall spacertopsmall" href="{{ www_url }}/contact">Contact</a>
 		</div>
-		<div class="spacertopbig" data-user="unknown">
+		<div class="spacertopbig">
 			<h5>Discover</h5>
-			<a class="box psmall spacertopsmall" href="about" title="Our PHP hosting history">About us</a>
+			<a id="nav_about" class="box psmall spacertopsmall" href="about" title="Our PHP hosting history">About us</a>
 			{#<a class="box psmall spacertopsmall" href="{{ blog_url }}" title="fortrabbit blog">Our Blog</a>#}
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/support" title="Support as a Service">Support as a Service</a>
+			<a id="nav_support" class="box psmall spacertopsmall" href="{{ www_url }}/support" title="Support as a Service">Support as a Service</a>
 		</div>
-		<div class="spacertopbig" data-user="unknown">
-			<h5>Popular help articles</h5>
+		<div class="spacertopbig">
+			<h5>Digg deeper</h5>
 			{#<a class="box psmall spacertopsmall" href="{{ help_url }}/app-design"  title="Fair billing">Application design</a>#}
 			<a class="box psmall spacertopsmall" href="{{ help_url }}/collaboration"  title="Hosting with team work">Teamwork</a>
 			<a class="box psmall spacertopsmall" href="{{ help_url }}/the-platform" title="Developer delight">Platform</a>
@@ -62,9 +46,9 @@
 		<div class="spacertopbig">
 			<h5>Legal</h5>
 			<a class="box psmall spacertopsmall" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/privacy-policy">Privacy policy</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/terms">Terms</a>
-			<a class="box psmall spacertopsmall" href="{{ www_url }}/sla">SLA</a>
+			<a id="nav_privacy" class="box psmall spacertopsmall" href="{{ www_url }}/privacy-policy">Privacy policy</a>
+			<a id="nav_terms" class="box psmall spacertopsmall" href="{{ www_url }}/terms">Terms</a>
+			<a id="nav_sla" class="box psmall spacertopsmall" href="{{ www_url }}/sla">SLA</a>
 		</div>
 	</nav>
 </footer>
