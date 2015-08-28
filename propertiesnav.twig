@@ -4,7 +4,13 @@
         <a class="box" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
         <a class="box" id="nav_help" href="{{ help_url }}">Help</a>
         <a class="box" id="nav_blog" href="{{ blog_url }}">Blog</a>
-        {#<a class="box" id="nav_contact" href="{{ www_url }}/contact">Contact</a>#}
+        {# show contact for outsiders #}
+        <a class="box" id="nav_contact" href="{{ www_url }}/contact" data-user="unknown">Contact</a>
+        {# show status for insiders #}
+        <a class="box row" href="http://status.fortrabbit.com" id="status" data-user="known">
+            <div>Status</div>
+            <div class="auto flexright status none spacerleft">●</div>
+        </a>
     </div>
 
     <div class="flexright auto" style="padding-left:4px">
@@ -14,19 +20,18 @@
         </div>
 
         <div class="row gutter auto wrap" data-user="known">
+            <a id="nav_support" class="box" href="{{ dashboard_url }}/support">Support</a>
             <a id="nav_dashboard" class="box" href="{{ dashboard_url }}">Dashboard</a>
-            <a id="nav_dashboard" class="box row keep" href="{{ dashboard_url }}/account">
+            <a id="nav_account" class="box row keep" href="{{ dashboard_url }}/account">
                 <div>Your Account</div>
-                <div class="media face spacerleftnormal auto" id="gravatar"></div>
+                <div class="media face spacerleftnormal auto" data-gravatar></div>
             </a>
         </div>
     </div>
 </nav>
 
-
-{# TODO: load on bottom on page, set javascripts won't work, could only be used once #}
 <script>
     $(function(){
-        $('#gravatar').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
+        $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
     });
 </script>
