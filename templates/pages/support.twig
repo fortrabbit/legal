@@ -1,0 +1,80 @@
+{% extends "layout.twig" %}
+{% set title = "Hosting support" %}
+{% set activeClass = 'nav_support' %}
+
+
+{% block content %}
+<div class="hero image photo5 spacertop">
+    <h1>
+        Support as 
+        a Service
+    </h1>
+    <p>
+        Your offshore PHP crackerjack team.
+    </p>
+</div>
+<div class="row gutter collapse tablet spacertop wrap">
+    <div class="box other pbig quarter">
+        {% include 'snippets/quotes/support-dixens.twig' %}
+    </div>
+    <div class="box other pbig quarter">
+        {% include 'snippets/quotes/kalle-blackfire.twig' %}
+    </div>
+    <div class="box other pbig quarter">
+        {% include 'snippets/quotes/support-1.twig' %}
+    </div>
+    <div class="box other pbig quarter">
+        {% include 'snippets/quotes/support-2.twig' %}
+    </div>
+</div>
+
+<div class="phuge">
+    <p class="lead">
+        <b>fortrabbit hosting is different</b>. So is our customer service model. Instead of hiding support
+        costs in the general fees we separate them. Here are your options:
+    </p>
+    <div class="row gutterbig">
+        <div>
+            <h4>Help yourself</h4>
+            <p>
+                Use fortrabbit as a self-service. The Dashboard is a self-explaining services, there are extensive <a href="{{ help_url }}">help resources</a>, you can ask a <a href="http://stackoverflow.com/questions/tagged/fortrabbit">community question</a>{# and of course you can always <a href="{{ help_url }}/contact">contact us</a> when you are stuck somewhere#}.
+            </p>
+        </div>
+        <div>
+            <h4>Get professional support</h4>
+            <p>
+                Optional one-on-one dev-to-dev eye-level support directly from the engineering team where we assist you with anything from general coding problems, to deployment work-flows, to performance tuning, to best-practices, to life-cycle planing, to database support{#, to security audits, to customized alerting#}.
+            </p>
+        </div>
+    </div>
+    <h2>Professional Support plans</h2>
+    <div class="row gutter collapse tablet pricetable wrap spacertop">
+    {% for plan in support.plans %}
+        <div class="box third pbig">
+            <h4>{{ plan.title }}</h4>
+            <div>
+                {{ plan.description }}
+            </div>
+            <p class="spacertopbig">
+                {% for name, value in plan.marketing.specs %}
+                {{ name }}: {{ value }} <br>
+                {% endfor %}
+            </p>
+            <div class="flexbottom auto right">
+                <div class="lead">
+                    <span class="thinfont">€</span><span class="boldfont">{{ plan.price }}</span>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{#
+{% include "snippets/last-call-button.twig" with {
+    'campain'          : 'support',
+    'button_wording_1' :  'Sign up',
+    'button_wording_2' :  'and try Pro Support for free'
+}%}
+#}
+
+{% endblock %}

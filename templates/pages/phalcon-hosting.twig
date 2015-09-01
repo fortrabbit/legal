@@ -1,0 +1,42 @@
+{% extends "layout.twig" %}
+{% set title = "Phalcon hosting in the cloud" %}
+{% set activeClass = 'nav_phalcon' %}
+
+
+{% set cta = {
+    'campaign'        : 'phalcon',
+    'button_wording_1': 'Sign up',
+    'button_wording_2': 'test it for free and see Phalcon hosting in action'
+    }
+%}
+
+
+
+{% block content %}
+<div class="hero image phalcon spacertop">
+	<h1>
+		Fly with phalcon
+	</h1>
+	<p>
+		when performance matters most
+	</p>
+	{% include "snippets/hero-button.twig" with {
+		'campaign':'phalcon',
+		'button_wording_2':'— deploy Phalcon like a boss'
+	}%}
+</div>
+
+<article class="wrapper post">
+	<p class="lead">
+		<b>Phalcon</b> — implemented as a C extension — is the fastest PHP web framework ever. Phalcon can deliver a lot more requests with less memory consumption, yet it is feature rich. And: it is already installed on fortrabbit — enable it with a click.
+	</p>
+	<p class="lead">
+		fortrabbit is the managed PHP hosting platform made for a new generation of PHP developers. We ❤ Phalcon, host it here!
+	</p>
+	<h4>Setting up Phalcon is easy</h4>
+	<p>
+		Phalcon comes as a pre-installed extension with each fortrabbit PHP App at no extra costs. You only need to enable it, to use it.
+	</p>
+</article>
+{% include "snippets/why-not-navigation.twig" %}
+{% endblock %}

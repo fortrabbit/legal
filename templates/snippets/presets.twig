@@ -1,0 +1,21 @@
+{% macro preset(presetnumber, title, description, price, class, tryable) %}
+<a href="#preset{{ presetnumber }}" class="box pbig quarter column{% if class %} {{ class }}{% endif %}" id="preset{{ presetnumber }}">
+    <h5 class="auto">{{ title }}</h5>
+    <div class="spacertop auto">
+        {{ description }}
+    </div>
+    <div class="flexbottom">
+        <div class="doubletype">
+            <span class="thinfont">€</span><span class="boldfont">{{ price }}</span>
+        </div>
+        {#<div>monthly</div>#}
+    </div>
+</a>
+{% endmacro %}
+
+{% import _self as thingy %}
+
+{{ thingy.preset('4', 'New App BETA',       'Faster, more advanced, more affordable',               '5'    ,'newapp'  ,'1'        ) }}
+{{ thingy.preset('1', 'Tinkering',          'Development, multi-staging or even small production',   '10'   ,''       ,'1'       ) }}
+{{ thingy.preset('2', 'Modest production',  'Blog, marketing site, lightweight application', '35'   ,''                          ) }}
+{{ thingy.preset('3', 'Mission critical',   'Business application hosting with high availability',                   '140'  ,''  ) }}

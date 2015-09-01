@@ -1,0 +1,42 @@
+{% extends "layout.twig" %}
+{% set title = "fortrabbit VS Heroku" %}
+{% set inverted = 1 %}
+{% block content %}
+
+
+<div class="hero image spacertop" style="background-color: #5B548C">
+    <p>
+        Why fortrabbit instead of Heroku?<br>
+        <b>Because fortrabbit is PHP only!</b>
+    </p>
+    {% include "snippets/hero-button.twig" with {
+        'campaign':'why-not-heroku',
+        'button_wording_1':'See the difference',
+        'button_wording_2':'— deploy an App for free'
+    }%}
+</div>
+<article class="phuge">
+    <p class="lead">
+        Heroku is a great hosting platform. But we think that we can provide a better service for you with our exclusive PHP hosting.
+    </p>
+    <p>
+        Both hosting platforms are managed — which means you can focus on coding, instead of dealing with servers. With both you simply <code>git push</code> to deploy.
+    </p>
+
+    <p>
+        PHP runs our veins. Our mission is to bring <b>PHPower to the PHPeople</b>. We were the first PaaS to introduce native Composer integration. We push modern development and deployment practices and treat legacy workflows respectfully. Heroku doesn't do MySQL at all, with fortrabbit instead it's an integrated component. 
+    </p>
+
+    <h3>Small is beautiful</h3>
+    <p>
+        Salesforce owned Heroku is trying to attract enterprise clients. We are very  <a href="about">serious about hosting</a> and yet closer to you: <a href="freelancer-hosting">freelancer</a>, <a href="agency-hosting">digital agency</a> and <a href="startup-hosting">startup</a>. We can give you better <a href="support">support</a>. 
+    </p>
+</article>
+
+{% include "snippets/last-call-button.twig" with { 'campain': 'why-not-heroku' }%}
+<div class="box phuge spacertop">
+    {% include 'snippets/quotes/silentworks-cloud.twig' %}
+</div>
+{% include 'snippets/why-not-disclaimer.twig' with { 'provider' : 'Heroku' }%}
+
+{% endblock %}
