@@ -1,23 +1,22 @@
-<nav id="propertiesnav" class="row">
-    <div class="row gutter auto wrap" id="main">
+<nav id="propertiesnav" class="row gutter">
+    <div class="row gutter auto wrap">
         <a class="box fortrabbit " id="nav_website" href="{{ www_url }}">•fortrabbit</a>
-        <a class="box" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
+        <a class="box" id="nav_pricing" href="{{ www_url }}/pricing" data-user="unknown">Pricing</a>
         <a class="box" id="nav_help" href="{{ help_url }}">Help</a>
         <a class="box" id="nav_blog" href="{{ blog_url }}">Blog</a>
         <a class="box" id="nav_contact" href="{{ www_url }}/contact" data-user="unknown">Contact</a>
-        <a class="box row" href="http://status.fortrabbit.com" id="status" data-user="known">
-            <div>Status</div>
-            <div class="auto flexright status none spacerleft">●</div>
+        <a class="box" href="http://status.fortrabbit.com" id="status" data-status data-user="known">
+            Status
+            <span class="status none spacerleft" data-status>●</span>
         </a>
     </div>
-
-    <div class="flexright auto" style="padding-left:4px">
+    <div class="flexright auto" style="padding-left:12px">
         <div class="row gutter auto wrap" data-user="unknown">
-            <a id="nav_login" class="action secondary keep" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-            <a id="nav_signup" class="action fwdcta keep" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up</a>
+            <a class="action secondary keep" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+            <a class="action fwdcta keep" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up</a>
         </div>
 
-        <div class="row gutter auto wrap" data-user="known" style="display:none">
+        <div class="row gutter auto wrap" data-user="known">
             <a id="nav_support" class="box" href="{{ dashboard_url }}/support">Support</a>
             <a id="nav_dashboard" class="box" href="{{ dashboard_url }}">Dashboard</a>
             <a id="nav_account" class="box row keep" href="{{ dashboard_url }}/account">
