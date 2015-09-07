@@ -1,0 +1,26 @@
+{% import 'snippets/component-box.twig' as box %}
+
+<div class="group m-top-xs p-xxl comp_detailsgroup">
+    <h3>Memcache scaling</h3>
+    <div class="row gutter m-top-xsbig">
+        <div class="half">
+            <h4>Tinkering</h4>
+            <a href="" class="font-bold box m-top-xs comp_detail" id="memcache-old">Memcache off</a>
+            {{ box.scaling('memcache-xs-old',    'Memcache xs',        '64 MB memory',   '5') }}
+        </div>
+        <div class="half">
+            <h4>Production</h4>
+            {{ box.scaling('memcache-s-old',   'Memcache s',       '2 x 128 MB memory',     '15') }}
+            {{ box.scaling('memcache-m-old',   'Memcache m',       '2 x 512 MB memory',     '60') }}
+        </div>
+    </div>
+    <div class="row gutter m-top-xsbig">
+        <div class="third">
+            <h5>It's for production!</h5>
+            <p class="type-s">
+                PHP production scalings are running on multiple Nodes — distributing requests equally. Memcache stores object data (cache, session, database results) safety on efficiently across multiple Nodes.
+            </p>
+        </div>
+        {# TODO: zweiter motivierender text zu Memcache #}
+    </div>
+</div>

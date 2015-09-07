@@ -1,0 +1,118 @@
+{% extends "layout.twig" %}
+{% set title = "Cheap PHP Hosting for developers" %}
+{% set inverted = 1 %}
+
+
+
+{% block content %}
+
+<div class="hero image photo4 m-top-xs">
+	<p class="type-xl animated zoomIn">
+		Fast, affordable and secure
+	</p>
+	<h1 class="animated zoomIn animdelay1">
+		PHP Hosting Platform
+	</h1>
+	<p class="type-xl animated zoomIn animdelay2">
+		for developers, craftsmen, hackers.
+	</p>
+	{#{% include "snippets/hero-button.twig" with {'campaign':'php-hosting'} %}#}
+</div>
+
+{#
+<p class="type-l">
+	You craft great PHP appliactions. We run the hosting. The infrastructure is AWS, fortrabbit the glue, you just add code.
+</p>
+#}
+
+<div class="wrapper m-top-xs">
+	{% include "snippets/your-benefits-our-service.twig" %}
+</div>
+
+
+<h2>
+	Scope of responsibilities
+</h2>
+<table class="m-top-xs spacious">
+	<thead>
+		<tr>
+			<th></th>
+			<th>DIY hosting</th>
+			<th class="fortrabbit">•fortrabbit</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Coding</td>
+			<td>you</td>
+			<td>you</td>
+		</tr>
+		<tr>
+			<td>Magic juice</td>
+			<td>???</td>
+			<td>us</td>
+		</tr>
+		<tr>
+			<td>Scaling</td>
+			<td>you</td>
+			<td>us</td>
+		</tr>
+		<tr>
+			<td>Deployment workflow</td>
+			<td>you</td>
+			<td>us</td>
+		</tr>
+		<tr>
+			<td>Operating system</td>
+			<td>you</td>
+			<td>us</td>
+		</tr>
+		<tr>
+			<td>Security</td>
+			<td>you</td>
+			<td>together</td>
+		</tr>
+		<tr>
+			<td>Hardware</td>
+			<td>your provider</td>
+			<td>AWS</td>
+		</tr>
+	</tbody>
+</table>
+{% include "snippets/why-not-navigation.twig" %}
+<div class="m-top-xshuge">
+	{% include "snippets/last-call-button.twig" %}
+</div>
+
+
+<div class="row wrap collapse tablet gutterbig m-top-xs">
+	<div class="half">{% include 'snippets/quotes/fabpot-blackfire.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/laravelio.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/kalle-blackfire.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/support-1.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/support-2.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/support-dixens.twig' %}</div>
+	<div class="half">{% include 'snippets/quotes/silentworks-cloud.twig' %}</div>
+</div>
+
+
+<div class="wrapper">
+	<article>
+		<h2>About PHP</h2>
+		<p class="type-l">
+			PHP (recursive acronym for PHP Hypertext Preprocessor) is the most popular web programming language among web developers. As a key part of LAMP (Linux, Apache, MySQL, PHP), PHP is found on Linux servers are powering the web. CMS systems like Joomla, WordPress, or Drupal and frameworks like Laravel, Symfony, CakePHP, Zend, Agavi are based on it. A large number popular websites, including Facebook and Wikipedia, are written in PHP.
+		</p>
+		<h3>Why a PHP hosting platform</h3>
+		<p>
+			Recently a new generation of web developers is looking for a modern more sophisticated, scalable PHP cloud hosting. <strong>fortrabbit PHP hosting platform is the answer.</strong>
+		</p>
+		<p>
+			This is not your Grandmas PHP, nor classical PHP VPS or server hosting. We run an optimized PHP cloud hosting stack. PHP-based websites and web applications are running very fast and secure. But we not only customize our servers for the best PHP hosting performance, we also allow more PHP options than any other hosting company. With fortrabbit PHP hosting you can easily add multiple PHP modules and choose among various PHP versions for your account.
+		</p>
+		<p>
+			Our easy to use web control panel is very different to cPanel, Webmin, Virtualmin or ISPConfig 3. We focus only on one thing the best PHP hosting for professionals. It feels like LAMP hosting, but it's far more advanced — still affordable. 
+		</p>
+	</article>
+</div>
+
+{% endblock %}

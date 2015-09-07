@@ -1,0 +1,215 @@
+{% extends "layout.twig" %}
+{% set title = "Pricing - PHP cloud hosting" %}
+{% set activeClass = 'nav_pricing' %}
+
+
+
+
+{% set javascripts %}
+
+{# TODO: remove franks dummy code here #}
+<script>
+
+    // init
+    $(function() {
+        $('.comp_listitem').hide();                 // hide all individual configs
+        $('.comp_detailsgroup').hide();                  // hide all detailconfigs
+    });
+
+
+    // switch presets and show components
+    $(function() {
+
+        // switch presets & components on click
+        $('#presets a').click(function(e) {
+            e.preventDefault(); // just to be safe
+            $('#presets a').removeClass( 'active' ); // remove all other active 
+            $(this).addClass( 'active' ); // add active class
+            $('.comp_detailsgroup').slideUp('fast'); // hide eventually open details
+            $('.comp_listitem').hide(); // RESET! hide all details
+        });
+
+
+        // New App
+        $('#preset4').click(function() {
+            $('#comp_base-new').show();
+            $('#comp_php-xxs-new').show();
+            $('#comp_mysql-xxs-new').show();
+            $('#comp_memcache-new').show();
+            $('#comp_workers-new').show();
+            $('#comp_tls-new').show();
+            $('#pricing_cta_start_free_trial').show();  // show the TRY button
+
+            $('#betamorebutton').show(); // show beta info more button
+            $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+            $('#filter a[data-showcomps="newapps"]').addClass('active'); // set active class
+        });
+
+        // Tinkering
+        $('#preset1').click(function() {
+            $('#comp_base-old').show();
+            $('#comp_php-xs-old').show();
+            $('#comp_mysql-s-old').show();
+            $('#comp_memcache-old').show();
+            $('#comp_workers-old').show();
+            $('#comp_tls-old').show();
+            $('#pricing_cta_start_free_trial').show(); // show the TRY button
+
+            $('#betamorebutton').hide(); // hide beta info more button
+            $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+            $('#filter a[data-showcomps="oldapps"]').addClass('active'); // set active class
+        });
+
+        // select this for start
+        $('#preset1').trigger('click');
+
+        // modest
+        $('#preset2').click(function() {
+            $('#comp_base-old').show();
+            $('#comp_php-s-old').show();
+            $('#comp_mysql-m-old').show();
+            $('#comp_memcache-xs-old').show();
+            $('#comp_workers-old').show();
+            $('#comp_tls-old').show();
+            $('#pricing_cta_start_free_trial').hide();// hide the TRY button
+
+            $('#betamorebutton').hide(); // hide beta info more button
+            $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+            $('#filter a[data-showcomps="oldapps"]').addClass('active'); // set active class
+        });
+
+        // mission critical
+        $('#preset3').click(function() {
+            $('#comp_base-old').show();
+            $('#comp_php-l-old').show();
+            $('#comp_mysql-l-old').show();
+            $('#comp_memcache-s-old').show();
+            $('#comp_workers-s-old').show();
+            $('#comp_tls-old').show();
+            $('#pricing_cta_start_free_trial').hide();// hide the TRY button
+
+            $('#betamorebutton').hide(); // hide beta info more button
+            $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+            $('#filter a[data-showcomps="oldapps"]').addClass('active'); // set active class
+        });
+    });
+
+
+
+    // switch from components list to detail
+    $(function() {
+        $('.comp_listitem').click(function(e){
+            e.preventDefault();
+            $(this).slideUp('fast'); // hide the thing itself
+            $(this).siblings('.comp_detailsgroup').slideDown('fast'); // show the details
+            $('#presets a').removeClass( 'active' ); // remove active calls from presets
+        });
+    });
+
+    // switch back from component detail to list
+    $(function() {
+        $('.comp_detail').click(function(e){
+            e.preventDefault();
+            var plan = $(this).attr('id');
+            //console.log(plan);
+            $(this).siblings().removeClass('active'); // remove active class from others
+            $(this).addClass( 'active' );
+            $(this).closest('.comp_detailsgroup').slideUp('fast'); // hide these details
+            $(this).closest('.list_row').find('#comp_' + plan).slideDown('fast');;
+            $(this).next('.comp_listitem').slideDown('fast'); // show the list item again
+        });
+    });
+
+    // switch between Old and New App components FILTER
+    $(function() {
+        $('#filter a').click(function(a){
+            a.preventDefault(); // just to be safe
+            $('#filter a').removeClass('active');
+            $(this).addClass('active');
+            $('#presets a').removeClass( 'active' ); // remove active calls from presets
+            $('.comp_listitem').hide(); // RESET! hide all details
+        });
+    });
+
+    // click on the Old Apps filter reveals a basic set of Old Apps
+    $(function() {
+        $('#filter a[data-showcomps="oldapps"]').click(function(){
+            //$('#oldapps').show();
+            //$('#newapps').hide();
+
+            // basically preset 1 Old Apps
+            $('#comp_base-old').show();
+            $('#comp_php-xs-old').show();
+            $('#comp_mysql-s-old').show();
+            $('#comp_memcache-old').show();
+            $('#comp_workers-old').show();
+            $('#comp_tls-old').show();
+            $('#pricing_cta_start_free_trial').show(); // show the TRY button
+
+            $('#betamorebutton').hide(); // hide beta info more button
+            $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+            $('#filter a[data-showcomps="oldapps"]').addClass('active'); // set active class
+        });
+    });
+
+    // click on the New Apps filter reveals a basic set of New Apps
+    $(function() {
+        $('#filter a[data-showcomps="newapps"]').click(function(){
+           //console.log('newapps clicked');
+           //$('#oldapps').hide();
+           //$('#newapps').show();
+
+           // This is basically preset4 (new apps, strange)
+           $('#comp_base-new').show();
+           $('#comp_php-xxs-new').show();
+           $('#comp_mysql-xxs-new').show();
+           $('#comp_memcache-new').show();
+           $('#comp_workers-new').show();
+           $('#comp_tls-new').show();
+           $('#pricing_cta_start_free_trial').show();  // show the TRY button
+
+           $('#betamorebutton').show(); // show beta info more button
+           $('#filter a').removeClass('active'); // remove active from old/new complistfilter
+           $('#filter a[data-showcomps="newapps"]').addClass('active'); // set active class
+        });
+    });
+
+
+
+</script>
+{% endset %}
+
+
+
+{% block content %}
+
+<div class="wrapper">
+    {#<h1 class="hugetype">Pay as you grow</h1>#}
+    <h3><span class="font-thin">1:</span> Presets</h3>
+    {#
+    <div class="row gutter hidemobile">
+        <div class="box psmall newapp quarter">
+            New Apps
+        </div>
+        <div class="box psmall">
+            Old Apps
+        </div>
+    </div>
+    #}
+    <div class="row gutter" id="presets">
+        {% include "snippets/presets.twig" %}
+    </div>
+    <div class="m-top-l" id="components_list">
+        <h3><span class="font-thin">2:</span> Components</h3>
+        <menu class="tabs row" id="filter">
+            <a data-showcomps="newapps" class="newapp quarter keep" href="#">New Apps BETA</a>
+            <a data-showcomps="oldapps" href="#" class="active keep">Old Apps</a>
+        </menu>
+        {% include "snippets/componentslist.twig" %}
+    </div>
+</div>
+{% include "snippets/pricing-faq.twig" %}
+{#{% include "snippets/unsure-pricing-button.twig" %}#}
+
+{% endblock %}
+

@@ -1,0 +1,39 @@
+{% import 'snippets/component-box.twig' as box %}
+
+<div class="group m-top-xs p-xxl comp_detailsgroup">
+    <h3>Workers scaling</h3>
+    <div class="row gutter m-top-xsbig collapse">
+        <div class="half">
+            <h4>Tinkering</h4>
+            <a href="" class="font-bold box m-top-xs comp_detail font-bold" id="workers-old">Workers off</a>
+            {{ box.scaling('workers-xs-old',    'Workers Node xs',  '400 MB memory<br>micro CPU',   '17') }}
+        </div>
+        <div class="half">
+            <h4>Production</h4>
+            {{ box.scaling('workers-s-old',   'Workers Node s',     '1.5 GB memory<br>small CPU',     '35') }}
+            {{ box.scaling('workers-m-old',   'Workers Node m',     '3.5 GB memory<br>medium CPU',    '80') }}
+            {{ box.scaling('workers-l-old',   'Workers Node l',     '3.5 GB memory<br>high CPU',      '140') }}
+        </div>
+    </div>
+    <div class="row gutter m-top-xsbig collapse">
+        <div class="third">
+            <h5>Unlimited SSH</h5>
+            <p class="type-s">
+                {# TODO: beispiele, was ich nachher machen kann! #}
+                The general shared SSH access is limited to common tasks. A Worker is a private dedicated SSH Node removing those limits.
+            </p>
+        </div>
+        <div class="third">
+            <h5>Background jobs</h5>
+            <p class="type-s">
+                Cache generation, mail sending, API communication, image processing — these tasks take long to execute and are probably compute intensive. With Workers you can separate background tasks from web front-end request handling.
+            </p>
+        </div>
+        <div class="third">
+            <h5>Crons</h5>
+            <p class="type-s">
+                A simple <code>scheduler.yml</code> file allows to run Worker tasks periodically. 
+            </p>
+        </div>
+    </div>
+</div>

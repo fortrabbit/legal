@@ -1,0 +1,35 @@
+<nav id="propertiesnav" class="row">
+    <div class="row gutter auto wrap">
+        <a class="box invisible auto p-s fortrabbit " id="nav_website" href="{{ www_url }}">•fortrabbit</a>
+        <a class="box invisible auto p-s" id="nav_pricing" href="{{ www_url }}/pricing" data-user="unknown">Pricing</a>
+        <a class="box invisible auto p-s" id="nav_help" href="{{ help_url }}">Help</a>
+        <a class="box invisible auto p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
+        <a class="box invisible auto p-s" id="nav_contact" href="{{ www_url }}/contact" data-user="unknown">Contact</a>
+        <a class="box invisible auto p-s" href="http://status.fortrabbit.com" id="status" data-status data-user="known">
+            Status
+            <span class="status none spacerleft" data-status>●</span>
+        </a>
+    </div>
+    <div class="flexright auto" style="padding-left:12px">
+
+        <div class="row gutter auto wrap" data-user="unknown" style="display:none">
+            <a class="action secondary keep p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+            <a class="action fwdcta keep p-s" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up</a>
+        </div>
+
+        <div class="row gutter auto wrap" data-user="known">
+            <a id="nav_support" class="box p-s" href="{{ dashboard_url }}/support">Support</a>
+            <a id="nav_dashboard" class="box p-s" href="{{ dashboard_url }}">Dashboard</a>
+            <a id="nav_account" class="box p-s row keep" href="{{ dashboard_url }}/account">
+                <div>Your Account</div>
+                <div class="media face spacerleftnormal auto" data-gravatar></div>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<script>
+    $(function(){
+        $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
+    });
+</script>

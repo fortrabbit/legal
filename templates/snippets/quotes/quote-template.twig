@@ -1,0 +1,14 @@
+<blockquote class="m-top-l">
+    <div class="type-xl font-thin">{{ quote | raw }}</div>
+    <div class="row m-top-m">
+        {% if image %}
+        <div style="background-image: url('{{ image }}')" class="face media large"></div>
+        {% endif %}
+        <div class="{% if image %}m-left-m{% endif %}">
+            <a href="https://twitter.com/{{ twitterhandle }}" title="{{ title }}" class="author font-bold">
+                {{ name }}
+            </a> {{ countrycode }}<br>
+            <span class="font-thin">{{ title }}</span>
+        </div>
+    </div>
+</blockquote>

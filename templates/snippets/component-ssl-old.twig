@@ -1,0 +1,33 @@
+{% import 'snippets/component-box.twig' as box %}
+
+<div class="group m-top-xs p-xl comp_detailsgroup">
+    <h3>TLS</h3>
+    <a href="" class="font-bold box m-top-xsbig comp_detail font-bold" id="tls-old">TLS off</a>
+    {{ box.scaling('tls-old',   'TLS Node',     'https for your custom domain',     '20') }}
+    <div class="row gutter m-top-m wrap collapse">
+        <div class="quarter">
+            <h5>TLS during development</h5>
+            <p class="type-s">
+                Each App comes with a custom App URL which can already be reached over a https address.
+            </p>
+        </div>
+        <div class="quarter">
+            <h5>TLS in production</h5>
+            <p class="type-s">
+                The endpoint Node is a load balancer dedicated for your certificate and enables a https connection for your own custom domain.
+            </p>
+        </div>
+        <div class="quarter">
+            <h5>Bring Your Own</h5>
+            <p class="type-s">
+                Obtain your certificate from another authority. The fortrabbit Dashboard guides your through the setup.
+            </p>
+        </div>
+        <div class="quarter">
+            <h5>100% coverage</h5>
+            <p class="type-s">
+                SNI is not required, thus even older browsers are supported.
+            </p>
+        </div>
+    </div>
+</div>

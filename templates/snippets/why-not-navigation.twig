@@ -1,0 +1,37 @@
+{% set digitalOcean %}
+<a href="why-not-digitalocean" id="why-not-do" class="box">
+    Why not DigitalOcean?
+</a>
+{% endset %}
+
+{% set Forge %}
+<a href="why-not-forge" id="why-not-forge" class="box">
+    Why not Forge?
+</a>
+{% endset %}
+
+{% set Heroku %}
+<a href="why-not-heroku" id="why-not-heroku" class="box">
+    Why not Heroku?
+</a>
+{% endset %}
+
+{% set AWS %}
+<a href="why-not-aws" id="why-not-heroku" class="box">
+    Why not AWS?
+</a>
+{% endset %}
+
+{% set PagodaBox %}
+<a href="why-not-pagodabox" id="why-not-heroku" class="box">
+    Why not Pagoda Box?
+</a>
+{% endset %}
+
+{% set list = [ digitalOcean, AWS, Forge, Heroku, PagodaBox ] %}
+
+<div class="m-top-xs row gutter collapse">
+    {% for item in list | shuffle %}
+    {{ item }}
+    {% endfor %}
+</div>
