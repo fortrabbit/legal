@@ -1,0 +1,44 @@
+<nav class="row main-nav">
+
+    {% if layout.trail | length > 0 %}
+    {% include 'elements/breadcrumb' %}
+    {% endif %}
+
+    <div class="row auto gutter-no properties" data-toggle="properties">
+
+        <a class="box p-s type-thin" href="{{ dashboard_url }}" data-switchto="dashnav" data-user="known">←</a>
+
+        <a class="box fortrabbit p-s" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
+        <a class="box p-s" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
+        <a class="box p-s" id="nav_help" href="{{ help_url }}">Help</a>
+        <a class="box p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
+        <a class="box p-s" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>
+    </div>
+
+
+    {# user unkown #}
+    <div class="flex-right row auto gutter-xs" data-user="unknown" style="display:none">
+        <div>
+            <a class="action b-2 keep p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+        </div>
+        <div>
+            <a class="action type-bold fwdcta keep p-s" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up free</a>
+        </div>
+    </div>
+    
+    {# user known #}
+    <div class="flex-right row gutter-no auto wrap" data-user="known">
+        <a class="box p-s row" id="nav_account" class="row keep" href="{{ dashboard_url }}/account">
+            <div class="hidemobile m-right-m">Your Account</div>
+            <div class="media media-s media-face auto" data-gravatar></div>
+        </a>
+    </div>
+</nav>
+
+
+
+<script>
+    $(function(){
+        $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
+    });
+</script>

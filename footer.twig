@@ -1,8 +1,12 @@
 <footer class="m-top-xs">
 
-    <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action m-top-xl fwdcta p-xl" id="{{ identifier }}" data-user="unknown">
-        <span class="type-bold type-xl">{{ button_wording_1 }}</span> 
-        <span class="type-thin type-xl m-left-m">{{ button_wording_2 }}</span>
+    <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action fwdcta p-xl" id="{{ identifier }}" data-user="unknown">
+        <div class="type-bold type-xxl">{{ button_wording_1 }}</div>
+        <div>{{ button_wording_2 }}</div>
+    </a>
+
+    <a href="{{ dashboard_url }}/support" class="action b-4 p-xl type-bold type-xxl" data-user="known">
+        Contact us
     </a>
 
     <nav class="row gutter-m wrap" id="companynav">
@@ -30,7 +34,7 @@
             <h5>Connect</h5>
             <div class="gutter-no">
                 <a class="rowbox p-xs row type-s" href="http://status.fortrabbit.com" id="status">
-                    <div>Status</div><div class="auto flexright status none">●</div>
+                    <div>Status</div><div class="auto flex-right status none">●</div>
                 </a>
                 <a class="rowbox p-xs type-s" href="https://twitter.com/fortrabbit">Twitter</a>
                 <a id="nav_contact" class="rowbox p-xs type-s" href="{{ www_url }}/contact">Contact</a>

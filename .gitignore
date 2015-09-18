@@ -1,7 +1,0 @@
-vendor
-node_modules/
-dist/
-*.map
-public/dist/
-npm-debug.log
-aws.json
