@@ -1,0 +1,64 @@
+{% extends "layout.twig" %}
+{% set title = "Drupal 8 hosting for startups, freelancers, digital agencies" %}
+{% set activeClass = 'nav_drupal8' %}
+
+{% set cta = {
+    'campaign'        : 'drupal',
+    'button_wording_1': 'Sign up',
+    'button_wording_2': 'test it for free and see Drupal hosting in action'
+    }
+%}
+
+
+
+{% block content %}
+<div class="hero image drupal m-top-xs">
+    <h1>
+        Hosting a<br>
+        modern classic
+    </h1>
+    <p class="type-xl">
+        something for everyone to love
+    </p>
+    {#
+    {% include "snippets/hero-button.twig" with {
+        'campaign':'drupal',
+        'button_wording_2':'— deploy Drupal like a boss'
+    }%}
+    #}
+</div>
+
+    {#
+    Links for us to write an install guide
+    - http://www.acquia.com/blog/moving-your-drupal-8-configuration-local-server-and-back
+    - http://dcycleproject.org/blog/68/approach-code-driven-development-drupal-8
+    - https://github.com/jmolivas/drupal8-links
+    - http://drupalconsole.com/
+
+    #}
+
+<div class="wrapper row gutter-xl collapse">
+    <article class="post">
+        <p class="type-l">
+            <b>Drupal 8</b> is a huge step forward. It features modern, object-oriented code (classes, inheritance,
+            interfaces), requires at least PHP 5.4 and makes use of PHP standards  (PSR-4, namespaces, traits).
+        </p>
+
+        <p>
+            It leverages external libraries like Guzzle, Assetic, many Symfony Components and Twig for templating. HTML5, mobile support and full multi-language integration are two more good arguments to get started with Drupal 8 right now.
+        </p>
+
+        <p>
+            fortrabbit is the managed PHP hosting service made for a new generation of PHP developers. We ❤ Drupal8.
+        </p>
+            <h4>Set up Drupal 8</h4>
+            <p>
+                <a href="{{ help_url }}/install-drupal">Installing Drupal 8</a> on fortrabbit is painless. Use Git to deploy, grab dependencies with Composer, done.
+            </p>
+    </article>
+    <aside class="keep">
+        {% include "snippets/why-not-navigation.twig" %}
+    </aside>
+</div>
+
+{% endblock %}

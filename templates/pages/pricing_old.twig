@@ -1,0 +1,72 @@
+{% extends "layout.twig" %}
+{% set title = "Pricing - PHP cloud hosting" %}
+
+
+{% macro signupbutton(campaign, dashboard_url, help_url) %}
+    <div class="wrapper">
+        <a href="{{ dashboard_url }}/signup?{{ campaign }}" id="pricing_cta_start_free_trial" class="action centered bigger type-bold fwdcta">Start your free trial now</a>
+
+        {#
+        <div class="row gutter-m m-top-xs">
+            <a href="/support" class="action b-2 small" id="pricing_cta_see_support">See support options</a>
+            <a href="{{ help_url }}/billing" class="action b-2 small auto" id="pricing_cta_learn_pricing">Learn about our pricing</a>
+        </div>
+        #}
+
+        {#
+        <a href="#wizard" class="action b-2 small m-top-xs centered" title="Map your App — decsion help" id="pricing_tab_wizard">
+            Help me decide
+        </a>
+        #}
+    </div>
+    <p class="type-s poetry">
+        Visa, Master &amp; SEPA direct debit are accepted. <br>
+        For entrepreneurs only. Prices are net and subject to 19% statutory VAT. <br>
+        5 GB web storage and 50 GB traffic are included (each 5 GB additional traffic 1 €).<br>
+        Cancel at any time.
+    </p>
+{% endmacro %}
+
+
+{% block content %}
+
+{% import _self as buttonmacro %}
+
+<div class="wrapper">
+    <h1 class="huge">Pay as you grow</h1>
+        <div class="row tabs">
+            <a href="#presets" class="tab-nav active" title="Get started with a default" id="pricing_tab_presets">
+                Presets
+            </a>
+            <a href="#custom" class="tab-nav" title="Advanced configurations" id="pricing_tab_custom">
+                Custom
+            </a>
+            <a href="#wizard" class="tab-nav auto" title="Map your App — decsion help" id="pricing_tab_wizard">
+                Wizard
+            </a>
+        </div>
+        <div id="presets" class="tab-body pricetable">
+            {% include "snippets/presets.twig" %}
+            {{ buttonmacro.signupbutton('pricing', dashboard_url, help_url) }}
+        </div>
+        <div id="custom" class="tab-body">
+            {% include "snippets/pricelist.twig" %}
+            {{ buttonmacro.signupbutton('pricing', dashboard_url, dashboard_url) }}
+        </div>
+        <div id="wizard" class="tab-body">
+            {% include "snippets/wizard.twig" %}
+        </div>
+    {#{% include "snippets/why-not-navigation.twig" %}#}
+
+</div>
+{% endblock %}
+
+
+{% set javascripts %}
+<script>
+    $(document).ready(function() {
+        $.initTabNavigation('.tab-nav', '.tab-body');
+        $.executeResponseHightlights();
+    });
+</script>
+{% endset %}

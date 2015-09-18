@@ -1,0 +1,73 @@
+{% extends "layout.twig" %}
+
+{% set title            = "Laravel hosting in the cloud" %}
+{% set activeClass      = 'nav_laravel' %}
+
+{% set cta = {
+    'campaign'        : 'laravel',
+    'button_wording_1': 'Sign up',
+    'button_wording_2': 'test it for free and see Laravel hosting in action'
+    }
+%}
+
+
+{% block content %}
+<div class="hero image laravel m-top-xs">
+    <h1>
+        Hosting artisans
+    </h1>
+    <p class="type-xl">
+        Laravel hosting that doesn't hurt.
+    </p>
+    {#
+    {% include "snippets/hero-button.twig" with {
+        'campaign':'laravel',
+        'button_wording_2':'— deploy Laravel like a boss'
+    }%}
+    #}
+</div>
+{% include 'snippets/quotes/laravelio.twig' %}
+<div class="wrapper row gutter-xl collapse">
+     <article class="post">
+         <p class="type-l">
+             The <b>Laravel</b> framework has disrupted the PHP landscape. It's the poster-child of the PHP renaissance. New developers flock to it because of it's accessibility. Host Laravel here! fortrabbit is managed PHP hosting for your Laravel web apps. And you're in good company: Over 60% of the projects hosted on fortrabbit are powered by Laravel. We ❤ Laravel.
+         </p>
+         <div class="row wrap gutter-l m-top-xl collapse">
+             <div class="quarter half-tablet">
+                 <h4>Easy Laravel set up</h4>
+                 <p>
+                     <a href="{{ help_url }}/install-laravel-5.1-new-app">Installing Laravel</a> on fortrabbit is straight forward. You deploy your code with <code>git push</code>. You can run Composer with a simple <code>[trigger:Composer]</code> in your Git commit message.
+                 </p>
+             </div>
+             <div class="quarter half-tablet">
+                 <h4>Culture</h4>
+                 <p>
+                     We know Laravel well — in fact most parts of the fortrabbit platform are powered by Laravel. That way we can give you great support.
+                 </p>
+             </div>
+             <div class="quarter half-tablet">
+                 <h4>Community</h4>
+                 {#<img src="{{ assetsremote }}/img/laracon-sponsorship.jpg" alt="Laracon badge" class="m-top-xs">#}
+                 <p>
+                     <b><a href="http://laravel.io">Laravel.io</a></b> is the Laravel forum to find like minded artisans. It's hosted on fortrabbit. <b><a href="http://laracon.eu/2014/">Laracon.eu</a></b> is the yearly European Laravel conference in Amsterdam co-sponsored by fortrabbit. <b><a href="http://laracon.eu/2014/">Laravel Berlin Group</a></b> is the monthly artisan meeting  here our headquarters in Berlin Kreuzberg.
+                 </p>
+             </div>
+             <div class="quarter half-tablet">
+                 {% include "snippets/why-not-navigation.twig" %}
+             </div>
+         </div>
+     </article>
+</div>
+
+
+
+
+{# 
+{% include 'snippets/last-call-button.twig' with {
+    'campaign': '',
+    'button_wording_1':'Sign up',
+    'button_wording_2':'and see Laravel hosting in action'
+}%}
+#}
+
+{% endblock %}

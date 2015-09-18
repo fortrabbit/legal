@@ -1,0 +1,26 @@
+{% macro preset(presetnumber, title, description, price, class, tryable) %}
+<div class="quarter half-tablet column">
+    <a href="#preset{{ presetnumber }}" class="preset column box p-l{% if class %} {{ class }}{% endif %}" id="preset{{ presetnumber }}">
+            <div class="type-bold title">{{ title }}</div>
+            <div class="type-thin descr">{{ description }}</div>
+        {#
+        <div class="title type-bold type-l centered">{{ title }}</div>
+        <div class="descr m-top-s type-s centered">{{ description }}</div>
+        #}
+        {#
+        <div class="m-top-m type-xl right">
+            <span class="type-thin">€</span><span class="type-bold">{{ price }}</span>
+        </div>
+        #}
+    </a>
+</div>
+{% endmacro %}
+
+{% import _self as b %}
+
+{#<div class="box">New Apps BETA</div>#}
+{{ b.preset('4', 'New App BETA',     'Faster, more advanced, more affordable',               '5'    ,'newapp'  ,'1'  ) }}
+{#<div class="box m-top-xs">Old Apps</div>#}
+{{ b.preset('1', 'Tinkering',        'Development, multi-staging, small production',         '10'   ,''        ,'1'  ) }}
+{{ b.preset('2', 'Modest production','Blog, marketing site, lightweight application',        '35'   ,''              ) }}
+{{ b.preset('3', 'Mission critical', 'Business application hosting with high availability',  '140'  ,''              ) }}
