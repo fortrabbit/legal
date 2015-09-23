@@ -1,41 +1,45 @@
-<nav class="row main-nav">
+<nav class="row gutter-s">
 
-    {% if layout.trail | length > 0 %}
-    {% include 'elements/breadcrumb' %}
-    {% endif %}
-
-    <div class="row auto gutter-no properties" data-toggle="properties">
-
-        <a class="box p-s type-thin" href="{{ dashboard_url }}" data-switchto="dashnav" data-user="known">←</a>
-
-        <a class="box fortrabbit p-s" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
-        <a class="box p-s" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
-        <a class="box p-s" id="nav_help" href="{{ help_url }}">Help</a>
-        <a class="box p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
-        <a class="box p-s" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>
-    </div>
-
-
-    {# user unkown #}
-    <div class="flex-right row auto gutter-xs" data-user="unknown" style="display:none">
-        <div>
-            <a class="action b-2 keep p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-        </div>
-        <div>
-            <a class="action type-bold fwdcta keep p-s" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up free</a>
-        </div>
-    </div>
-    
-    {# user known #}
-    <div class="flex-right row gutter-no auto wrap" data-user="known">
-        <a class="box p-s row" id="nav_account" class="row keep" href="{{ dashboard_url }}/account">
-            <div class="hidemobile m-right-m">Your Account</div>
-            <div class="media media-s media-face auto" data-gravatar></div>
+    {# Dashboard and you are logged in: #}
+    {% if user.user %}
+    {% include 'elements/breadcrumb.twig' %}
+    <div class="flex-right auto row wrap gutter-no" data-user="known">
+        <a id="nav_support" href="/support" class="box type-s p-xs">
+            Support
+        </a>
+        <a class="box type-s p-xs row keep" id="nav_account" href="/account">
+            <div class="m-right-xs">Your Account</div>
+            <div class="media media-xs media-face auto" data-gravatar></div>
         </a>
     </div>
+
+    {# not logged in (outerspace): #}
+    {% else %}
+    <div class="row auto gutter-no properties wrap" data-navtoggle>
+        <a class="box fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
+        <a class="box" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
+        <a class="box" id="nav_help" href="{{ help_url }}">Help</a>
+        <a class="box" id="nav_blog" href="{{ blog_url }}">Blog</a>
+        <a class="box" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>
+    </div>
+    <div class="flex-right row auto gutter-xs" style="padding-left:1rem">
+        {# user unknown #}
+        <div data-user="unknown">
+            <a class="action b-2 keep p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+        </div>
+        <div data-user="unknown">
+            <a class="action type-bold fwdcta keep p-s" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up free</a>
+        </div>
+        {# user likely known #}
+        <div data-user="known">
+            <a class="box p-s row keep" id="nav_dashboard" href="{{ dashboard_url }}">
+                <div class="m-right-xs">Dashboard</div>
+                <div class="media media-xs media-face auto" data-gravatar></div>
+            </a>
+        </div>
+    </div>
+    {% endif %}
 </nav>
-
-
 
 <script>
     $(function(){
