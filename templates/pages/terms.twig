@@ -1,0 +1,14 @@
+{% extends "layout.twig" %}
+{% set title = "Terms Of Service" %}
+{% set activeClass = 'nav_terms' %}
+
+
+{% block content %}
+
+<article class="p-xl post">
+	{% filter markdown %}
+	{% include 'text/terms.md' %}
+	{% endfilter %}
+</article>
+
+{% endblock %}

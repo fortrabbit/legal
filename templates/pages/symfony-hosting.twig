@@ -1,0 +1,50 @@
+{% extends "layout.twig" %}
+{% set title = "Symfony hosting in the cloud" %}
+{% set activeClass = 'nav_symfony' %}
+
+{% set cta = {
+    'campaign'        : 'symfony',
+    'button_wording_1': 'Start your trial',
+    'button_wording_2': 'and see Symfony hosting in action'
+    }
+%}
+
+
+{% block content %}
+<div class="hero symfony image m-top-xs">
+    <h1>
+        High performance
+    </h1>
+    <p class="type-xl">
+        for a high performance PHP framework
+    </p>
+    {#
+    {% include "snippets/hero-button.twig" with {
+        'campaign':'symfony',
+        'button_wording_2':'— deploy Symfony like a boss'
+    }%}
+    #}
+</div>
+
+{% include 'snippets/quotes/fabpot-blackfire-short.twig' %}
+
+<div class="wrapper row gutter-xl collapse">
+    <article class="post">
+        <p class="type-l">
+            <b>Symfony</b> has been around for a while. Symfony 2 however is not looking old – it's a modern
+            decoupled PHP framework. The core components are powering <a href="laravel-hosting">Laravel</a> and <a href="drupal-hosting">Drupal 8</a>.
+        </p>
+        <p>
+            fortrabbit is the managed PHP hosting platform made for a new generation of PHP developers. We ❤ Symfony.
+        </p>
+        <h3>Easy Symfony set up</h3>
+        <p>
+            <a href="{{ help_url }}/install-symfony-2.x-new-app">Installing Symfony</a> on fortrabbit is straight forward. You deploy your code with <code>git push</code>. You can run Composer with a simple <code>[trigger:Composer]</code> in your Git commit message.
+        </p>
+    </article>
+    <aside class="keep">
+        {% include "snippets/why-not-navigation.twig" %}
+    </aside>
+</div>
+
+{% endblock %}

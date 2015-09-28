@@ -1,0 +1,14 @@
+{% macro preset(presetnumber, title, description, price, class, tryable) %}
+<a id="preset-{{ presetnumber }}" class="preset arrow-active-down third box p-xl{% if class %} {{ class }}{% endif %}" href="#">
+    <div class="row type-l">
+        <div>{{ title }}</div>
+        <div class="right">
+            <span class="type-thin">€</span><span>{{ price }}</span>
+        </div>
+    </div>
+    <div class="type-thin m-top-s">{{ description }}</div>
+    {% if tryable %}
+    <div class="trialbadge">Free trial</div>
+    {% endif %}
+</a>
+{% endmacro %}

@@ -1,0 +1,23 @@
+{% macro row(linkname, title, specs, price, class, nolink, other) %}
+    {% if not nolink %}
+    <a href="#" class="{{ linkname }} box row{% if class %} {{ class }}{% endif %} comp_listitem" id="comp_{{ linkname }}">
+    {% else %}
+    <div class="{{ linkname }} box row{% if class %} {{ class }}{% endif %} comp_listitem" id="comp_{{ linkname }}">
+    {% endif %}
+        <div>
+            <div>{{ title }}</div>
+            <div class="type-thin">{{ specs }}</div>
+        </div>
+        <div class="right auto keep type-xl">
+            {% if price %}
+            <span class="type-thin">€</span><span>{{ price }}</span>
+            {% elseif other %}
+            <span class="type-thin">{{ other|raw }}</span>
+            {% endif %}
+        </div>
+    {% if not nolink %}
+    </a>
+    {% else %}
+    </div>
+    {% endif %}
+{% endmacro %}

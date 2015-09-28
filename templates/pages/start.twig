@@ -1,0 +1,109 @@
+{% extends "layout.twig" %}
+{% set activeClass = 'nav_website' %}
+
+
+{% block content %}
+
+{#
+{% include "snippets/beta-sticker.twig" %}
+#}
+
+<div class="hero m-top-xs other">
+    {#<p class="type-xxl">You code, we deliver</p>#}
+    <h1>PHP as a Service</h1>
+    <p class="type-xxl">
+        {#Serverless <a href="/php-hosting" class="shadylink" id="start_hosting">hosting</a>#}
+
+        {{ random([
+            'serverless hosting',
+            'you code, we deliver',
+            'hosting a new mindset',
+            'PHPower to the PHPeople',
+            'a different kind of hosting',
+            'think outside the box',
+            'Git things done',
+            'pay as you grow',
+            'focus on code fortrabbit the rest'
+        ]) }}
+
+    </p>
+    {#
+    {% include "snippets/hero-button.twig" with {
+        'campaign':'start',
+        'button_wording_1': 'Try it',
+        'button_wording_2': 'for free'
+    }%}
+    #}
+</div>
+
+{% include 'snippets/quotes/shealan-linux.twig' %}
+<article class="row wrap post gutter-l wrapper collapse m-top-l">
+    <div class="quarter half-tablet">
+        <h4>
+            Git
+        </h4>
+        <p>
+            Just <a href="{{ help_url }}/git" id="start_text_git_help">Git-push-to-deploy</a> and see your code changes online almost instantly.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>
+            Composer
+        </h4>
+        <p>
+            <a href="{{ help_url }}/composer" id="start_text_composer_help">Trigger a Composer hook</a> with a special keyword in your commit message.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>
+            Deployment file
+        </h4>
+        <p>
+            Fine-tune your deployment with a <a href="{{ help_url }}/deployment-file" id="start_text_deploymentfile_help">fortrabbit.yml file</a> in your root folder.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>
+            Teamwork
+        </h4>
+        <p>
+            Map your real world business relations and <a href="{{ help_url }}/collaboration" id="start_text_collab_help">manage multiple companies and Apps</a> with one login.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>
+            Help &amp; support
+        </h4>
+        <p>
+            Help yourself with the extensive <a href="{{ help_url }}" id="start_text_help">platform documentation</a> or use our affordable <a href="/support" id="start_text_support">professional support</a> as your PHP back-office.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>
+            Fair pricing
+        </h4>
+        <p>
+            With a <a href="{{ help_url }}/billing" id="start_text_billing_help">consumption based billing</a> you only pay for actual usage. The minimum billing period is one day.
+        </p>
+    </div>
+
+    <div class="quarter half-tablet">
+        <h4>90% automated</h4>
+        <p>
+            The fortrabbit platform is highly abstracted, with built-in fault tolerance, health checks, auto recovery and data replication.
+        </p>
+    </div>
+    <div class="quarter half-tablet">
+        <h4>10% managed</h4>
+        <p>
+            The service is constantly and professionally managed by us — real humans who <a href="/about">really care</a>.
+        </p>
+    </div>
+</article>
+{% endblock %}
+
+
+
+
+{% set javascripts %}
+{% endset %}

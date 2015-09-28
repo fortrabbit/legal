@@ -1,0 +1,49 @@
+
+<a id="sticker" class="anim animdelay3 animated zoomIn hidemobile" href="{{ blog_url }}/new-apps-are-here">
+	<div class="sticker_title">
+		<span class="small">New Apps</span>
+		<span class="big">BETA</span>
+		<span class="small">twice the performance</span>
+		<span class="small">half the price</span>
+	</div>
+</a>
+
+<style>
+	#sticker {
+		position: absolute;
+		right:  6vw;
+		top:    12vh;
+		width:  220px;
+		height: 220px;
+		margin: 0 auto;
+		backface-visibility: hidden;
+		z-index: 100;
+		transform: rotate(17deg);
+		-webkit-transform: rotate(17deg);
+		overflow: hidden;
+		background-color: #D9E10D;
+		transition: .2s transform;
+		border-radius: 50%;
+		box-shadow: 0 0 0 4px #2c2821;
+		box-sizing: border-box;
+	}
+
+	#sticker:hover {
+		background-color: #B6C20E;
+	}
+
+	#sticker .sticker_title {
+		text-align: center;
+		position: absolute;
+		top: 60px;
+		width: 220px;
+	}
+
+	#sticker .sticker_title span {
+		line-height: 1;
+		display: block;
+	}
+
+	.sticker_title .small     { font-size: 15px; }
+	.sticker_title .big       { font-size: 70px; font-weight: 800 }
+</style>

@@ -1,0 +1,15 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  CXO: Frank Lämmer
+  Site: http://franklaemmer.de
+  Twitter: twitter.com/frank_laemmer
+  Location: Berlin
+
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: Sublime Text 3

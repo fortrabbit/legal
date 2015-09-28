@@ -1,0 +1,42 @@
+{% import 'snippets/componentlist-item.twig' as comp %}
+
+
+{#            linkname     title          specs                                           price   dimmed   nolink    #}
+
+<div id="newapps" class="gutter-no m-top-s">
+    <div class="list_row">
+        {{ comp.row('base-new',       'New Base',        'Git, 1 GB storage, 50 GB traffic',   '0'    ,'newapp'       ,'nolink', '<span class="type-thin">€</span><span>0</span>'  ) }}
+    </div>
+    <div class="list_row">
+        {#           linkname,         title,         specs,                               price,         class,       nolink, other #}
+        {{ comp.row('php-xxs-new',    'New PHP xxs',  '32 MB memory',                      '2.50'       ,'newapp'      ,''  ) }}
+        {{ comp.row('php-xs-new',     'New PHP xs',   '64 MB memory',                      '5'          ,'newapp'      ,''  ) }}
+        {{ comp.row('php-s2-new',     'New PHP s 2',  '2 x 128 MB memory',                 '15'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-m2-new',     'New PHP m 2',  '2 x 256 MB memory',                 '30'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-l2-new',     'New PHP l 2',  '2 x 512 MB memory',                 '60'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-s4-new',     'New PHP s 4',  '4 x 128 MB memory',                 '30'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-m4-new',     'New PHP m 4',  '4 x 256 MB memory',                 '60'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-l4-new',     'New PHP l 4',  '4 x 512 MB memory',                 '120'        ,'newapp'      ,''  ) }}
+        {{ comp.row('php-s8-new',     'New PHP s 8',  '8 x 128 MB memory',                 '60'         ,'newapp'      ,''  ) }}
+        {{ comp.row('php-m8-new',     'New PHP m 8',  '8 x 256 MB memory',                 '120'        ,'newapp'      ,''  ) }}
+        {{ comp.row('php-l8-new',     'New PHP l 8',  '8 x 512 MB memory',                 '240'        ,'newapp'      ,''  ) }}
+        {% include 'snippets/component-php-new.twig' %}
+    </div>
+    <div class="list_row">
+        {{ comp.row('mysql-xxs-new',  'New MySQL xxs', '32 MB strorage',                 '2.50'       ,'newapp'       ,''  ) }}
+        {{ comp.row('mysql-xs-new',   'New MySQL xs',  '128 MB strorage',                '5.00'       ,'newapp'       ,''  ) }}
+        {{ comp.row('mysql-s-new',    'New MySQL s',   '512 MB strorage',                '15.00'      ,'newapp'       ,''  ) }}
+        {{ comp.row('mysql-m-new',    'New MySQL m',   '2048 MB strorage',               '50.00'      ,'newapp'       ,''  ) }}
+        {% include 'snippets/component-mysql-new.twig' %}
+    </div>
+    <div class="list_row">
+        {{ comp.row('memcache-new',   'New Memcache',       'Not available yet',           ''          ,'newapp'     ,'nolink'  ) }}
+        {#{% include 'snippets/component-memcache-new.twig' %}#}
+    </div>
+    <div class="list_row">
+        {{ comp.row('workers-new',    'New Workers',     'Not available yet',               ''          ,'newapp'     ,'nolink'  ) }}
+    </div>
+    <div class="list_row">
+        {{ comp.row('tls-new',        'New TLS',         'Not available yet',               ''          ,'newapp'     ,'nolink'  ) }}
+    </div>
+</div>

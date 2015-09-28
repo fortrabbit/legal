@@ -1,0 +1,11 @@
+{% import 'snippets/preset-item.twig' as b %}
+
+<div class="row gutter-no wrap collapse presets">
+    {#           no,  title,             descr,                                           price,  class       tryable #}
+    {{ b.preset('o1', 'Floppy',   'Development, multi-staging, small production',         '10'   ,''        ,'1'  ) }}
+    {{ b.preset('o2', 'Casual',   'Blog, marketing site, lightweight application',        '35'   ,''              ) }}
+    {{ b.preset('o3', 'Business', 'Business application hosting with high availability',  '140'  ,''              ) }}
+</div>
+
+{# NEW app as a trial model #}
+{#{{ b.preset('4', 'New App BETA',     'Faster, more advanced, more affordable',               '5'    ,'newapp'  ,'1'  ) }}#}

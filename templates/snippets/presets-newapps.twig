@@ -1,0 +1,8 @@
+{% import 'snippets/preset-item.twig' as b %}
+
+<div class="row gutter-no wrap collapse presets">
+    {#           no,  title,             descr,                                                  price,  class       tryable #}
+    {{ b.preset('n1', 'Tinkering',        'Development, multi-staging, small production',         '5'   ,''        ,'1'  ) }}
+    {{ b.preset('n2', 'Production',       'Blog, marketing site, lightweight application',        '35'   ,''              ) }}
+    {{ b.preset('n3', 'Mission critical', 'Business application hosting with high availability',  '140'  ,''              ) }}
+</div>

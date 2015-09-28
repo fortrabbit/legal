@@ -1,0 +1,25 @@
+{% extends "layout.twig" %}
+{% block content %}
+
+<h2>Git things done</h2>
+<p>
+	 Good craftsmanship relies on good tools. That's what we provide. Our stack is optimized for the PHP renaissance. Deploy with <code>git push</code> and <code>[trigger:composer]</code>.
+</p>
+
+<h4>Deployment example transcript</h4>
+<pre>
+<code class="bash">$ git push
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 245 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: Step1: Updating repository
+remote: -> OK
+remote: Step2: Deploying
+remote: -> OK
+remote: Step3: Composer Hook
+…</code>
+</pre>
+</div>
+{% include "snippets/yaddayadda.twig" %}
+{% include "snippets/action-call.twig" %}
+{% endblock %}

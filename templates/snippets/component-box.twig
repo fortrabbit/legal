@@ -1,0 +1,27 @@
+{% macro scaling(linkname, title, description, price, class, nolink) %}
+
+{% if nolink %}
+<div class="{{ linkname }} box row{% if class %} {{ class }}{% endif %} comp_detail">
+{% else %}
+<a href="#" class="{{ linkname }} box row{% if class %} {{ class }}{% endif %} comp_detail" id="{{ linkname }}">
+{% endif %}
+
+    <div>
+        <div>{{ title }}</div>
+        <div class="type-thin">{{ description | raw }}</div>
+    </div>
+    <div class="right type-xl auto">
+        {% if price %}
+        <span class="type-thin">€</span><span>{{ price }}</span>
+        {% elseif other %}
+        <span class="type-thin">{{ other }}</span>
+        {% endif %}
+    </div>
+
+{% if nolink %}
+</div>
+{% else %}
+</a>
+{% endif %}
+
+{% endmacro %}
