@@ -4,9 +4,19 @@
         <span class="type-bold">{{ button_wording_1 }}</span> <span class="type-thin">{{ button_wording_2 }}</span>
     </a>
 
-    <a href="{{ dashboard_url }}/support" class="action b-3 p-xl type-xl" data-user="known">
-        Contact us
-    </a>
+
+    <div data-user="known" class="box alert">
+        <div class="row">
+            <div class="box invisible">
+                Still reading? Don't hesitate to:
+            </div>
+            <div class="auto keep">
+                <a href="{{ dashboard_url }}/support" class="action b-3 p-s">
+                    Contact us
+                </a>
+            </div>
+        </div>
+    </div>
 
     <nav class="row gutter-m wrap" id="companynav">
 
