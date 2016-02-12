@@ -1,17 +1,19 @@
-Privacy policy
-==============
+Privacy policy of fortrabbit
+============================
 
-We will respect your right to privacy and treat your personal data in accordance with all applicable laws. The personal data and all information provided by our clients regarding legal matters are protected by the strict German attorney client privilege. All other personal data gathered by us are protected under federal German law, in particular the Federal Data Protection Act ("Bundesdatenschutzgesetz", BDSG) and the Telemedia Act ("Telemediengesetz", TMG). All our employees are bound to these laws, too.
+We will respect your right to privacy (isn't that what everybody is saying?) and treat your personal data in accordance with all applicable laws. The personal data and all information provided by our clients regarding legal matters are protected by the strict German attorney client privilege. All other personal data gathered by us are protected under federal German law, in particular the Federal Data Protection Act ("Bundesdatenschutzgesetz", BDSG) and the Telemedia Act ("Telemediengesetz", TMG). All our employees are bound to these laws, too.
 
 Information gathering
 ---------------------
 
 When visiting our internet services our web server temporarily stores your IP address or your domain name as well as the date of access, the name of the files you access, the URL, the HTTP response code, and the internet page from which you have directed to our pages in order to maintain the security of the system. This information remains anonymous to us. It is not possible to reveal your identity only with this data. Other personal data are not stored, unless you enter personal data in one of our contact forms.
 
+
 Registration
 ------------
 
 When registering with fortrabbit personal data will be collected, namely your e-mail address. The data collected is used exclusively to grant you access and contact you in relevant circumstances.
+
 
 Statistics using Google Analytics
 ---------------------------------
