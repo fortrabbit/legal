@@ -1,7 +1,7 @@
 Allgemeine Geschäftsbedingungen von fortrabbit
 ==========================
 
-zuletzt geändert: 24.09.2012
+zuletzt geändert: 12. Februar 2016
 
 
 
@@ -22,7 +22,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 --------------------------------
 
 1.  Die Anmeldung des Kunden für den vom Anbieter angebotenen Dienst gilt als Angebot zum Abschluß eines Vertrages. Danach wird der Anbieter das Angebot des Kunden annehmen oder ablehnen. Die Annahme kann auch konkludent durch Freischaltung des Kontos erfolgen. Der Vertragstext wird durch den Anbieter nicht dauerhaft gespeichert.
-2.  Mit dem Abschluss des Vertrages wird zwischen dem Anbieter und dem Kunden ein Dauerschuldverhältnis begründet. Bucht der Kunde kostenpflichtige Leistungen, so besteht die Verpflichtung zur Zahlung der dafür anfallenden Gebühren bis zur Kündigung der jeweiligen Leistung im monatlichen Intervall. Nimmt der Kunde die kostenpflichtige Dienstleistung für weniger als einen vollen Kalendermonat, so wird die Leistung anteilig abgerechnet. Die Abrechnung erfolgt in jedem Fall nachfällig monatlich. Kunden, die mit Kreditkarte bezahlen, stimmen ausdrücklich zu, dass ihre Kreditkarte monatlich mit den regelmäßig anfallenden Kosten belastet wird.
+2.  Mit dem Abschluss des Vertrages wird zwischen dem Anbieter und dem Kunden ein Dauerschuldverhältnis begründet. Bucht der Kunde kostenpflichtige Leistungen, so besteht die Verpflichtung zur Zahlung der dafür anfallenden Gebühren bis zur Kündigung der jeweiligen Leistung im monatlichen Intervall. Nimmt der Kunde die kostenpflichtige Dienstleistung für weniger als einen vollen Kalendermonat in Anspruch, so wird die Leistung anteilig abgerechnet. Die Abrechnung erfolgt in jedem Fall nachfällig monatlich. Kunden, die mit Kreditkarte bezahlen, stimmen ausdrücklich zu, dass ihre Kreditkarte monatlich mit den regelmäßig anfallenden Kosten belastet wird.
 3.  Ein Widerrufsrecht des Kunden besteht nicht. Er kann den Vertrag allerdings jederzeit durch Kündigung mit Wirkung für die Zukunft beendigen.
 
 
@@ -53,7 +53,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 § 5 Vergütung und Zahlungsmodalitäten
 -------------------------------------
 
-1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste (fortrabbit.com/pricing).
+1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)).
 2. Kostenpflichtige Leistungen werden monatlich abgerechnet.
 3. Bei verbrauchsabhängigen Leistungen ergibt sich der berechnete Verkehr und Speicher aus der Summe aller mit dem Kundenauftrag in Verbindung stehenden Datentransfers (z.B. Download, Upload, Websitebesucher). Für die Feststellung des Verkehrs und des Speichers entspricht ein Gigabyte eintausend Megabyte, ein Megabyte eintausend Kilobyte und ein Kilobyte eintausend Byte.
 4. Bei Nichteinlösung einer Zahlung (z.B. Lastschrift-Rückgabe oder Kreditkarten-Rückgabe) ist der Anbieter berechtigt dem Kunden die Verursachten Kosten für die Rücklastschrift von zur Zeit 15,00 € (inkl. USt) in Rechnung zu stellen. Der Kunde ist berechtigt, einen niedrigeren Schaden nachzuweisen und der Anbieter, einen höheren.
@@ -102,7 +102,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 4.  Der Anbieter kann Unteraufträge vergeben, hat aber dem Unterauftragnehmer die der Vorziffer (Auftragsdatenverwaltung) entsprechenden Verpflichtungen aufzuerlegen.
 5.  Soweit der Kunde Dritte nach diesem Vertrag ermächtigt, Zugriff auf Informationen zu nehmen, die vom Kunden auf Systemen des Anbieters hinterlegt worden sind, liegt die datenschutzrechtliche Verantwortung auch für diesen Vorgang beim Kunden und dem von ihm ermächtigten Dritten.
 6.  Der Anbieter trifft die technischen und organisatorischen Sicherheitsvorkehrungen und Maßnahmen gemäß der Anlage zu § 9 BDSG.
-7.  Besteht, z.B. durch einen Mitarbeiter- oder Organisationswechsel, die Gefahr der missbräuchlichen oder unbefugten Nutzung von Zugangsdaten, so wird der Kunde umgehend dafür Sorge tragen, dass diese durch den Anbieter geändert werden.        
+7.  Besteht, z.B. durch einen Mitarbeiter- oder Organisationswechsel, die Gefahr der missbräuchlichen oder unbefugten Nutzung von Zugangsdaten, so wird der Kunde umgehend dafür Sorge tragen, dass diese durch den Anbieter geändert werden.
 8.  Der Kunde ist grundsätzlich nicht berechtigt, Zugang zu den Räumlichkeiten mit der Softwareapplikation, dem Server und der Betriebssoftware sowie sonstigen Systemkomponenten des Rechenzentrums des Anbieters zu verlangen. Hiervon unberührt bleiben Zutrittsrechte des Datenschutzbeauftragten des Kunden nach schriftlicher Anmeldung zur Prüfung (§ 11 Abs. 2 BDSG) der Einhaltung der Erfordernisse gemäß Anlage zu §9 BDSG sowie des sonstigen gesetz- und vertragskonformen Umgangs des Anbieters mit personenbezogenen Daten.
 
 
@@ -110,7 +110,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 -----------------------
 
 1.  Es gilt deutsches Recht unter Ausschluss des internationalen Privatrechts.
-2.  Sofern der Kunde Kaufmann ist, wird für alle Streitigkeiten, die sich aus oder im Zusammenhang mit dem vorliegenden Vertrag ergeben, die Stadt Berlin als Gerichtsstand vereinbart.
+2.  Sofern der Kunde Kaufmann ist, wird für alle Streitigkeiten, die sich aus oder im Zusammenhang mit dem vorliegenden Vertrag ergeben, der Sitz des Anbieters als Gerichtsstand vereinbart.
 3.  Sollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder die Wirksamkeit durch einen später eintretenden Umstand verlieren, bleibt die Wirksamkeit des Vertrages im übrigen unberührt.
 4.  Der Anbieter hat sich keinen freiwilligen Verhaltenskodizes unterworfen.
 5.  Vertragssprachen sind Deutsch und Englisch. Für die Auslegung dieser Allgemeinen Geschäftsbedingungen ist die deutsche Version maßgeblich.
