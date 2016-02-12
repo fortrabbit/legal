@@ -1,17 +1,18 @@
 # fortrabbit legal documents
 
-Ever wondered, what actually have changed in that terms? Well, we too. We believe in transparency. See a diff and a version history of our terms and other legal documents. This repo containes the original source of the fortrabbit documents, includung: 
+Ever wondered, what actually have changed in that terms? Well, we too. We believe in transparency. See a diff and a version history of our terms and other legal documents. This repo includes: 
 
-* Terms of service
-* Service level agreemment
+* Terms of service — original German version and English translation
+* Service level agreement
 * Privacy policy
-* Imprint
+* Legal notice (Imprint)
 
-# Contributing
+
+## Contributing
 
 This is a read-only repo for obvious reasons. Pull requests will be rejected.
 
 
-# License
+## License
 
 Do what ever you want with it. Fork and reuse for your own project.
