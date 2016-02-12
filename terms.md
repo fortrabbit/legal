@@ -91,7 +91,3 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 3.  The invalidity or inoperativeness of one or more provisions of this contract does not affect the validity of the rest of the contract and the remaining provisions shall thereby remain unaffected.
 4.  fortrabbit is not subject to a the code of conduct.
 5.  Contracting languages are German and English. The German version of the T&C shall be binding for the interpretation of the contract.
-
-* * *
-
-This is a translation. Original German version on request.
