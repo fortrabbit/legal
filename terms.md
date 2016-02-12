@@ -98,5 +98,5 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 1.  The contract shall be governed by German law, without regard to any choice of law rules adopted thereunder.
 2.  Court of jurisdiction will the providers head office, if the customer is a merchant as defined in sec. 1 to 7 HGB (German Code of Commerce).
 3.  The invalidity or inoperativeness of one or more provisions of this contract does not affect the validity of the rest of the contract and the remaining provisions shall thereby remain unaffected.
-4.  The provider is not subject to a the code of conduct.
+4.  The provider is not subject to a code of conduct.
 5.  Contracting languages are German and English. The German version of the T&C shall be binding for the interpretation of the contract.
