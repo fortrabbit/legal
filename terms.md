@@ -1,7 +1,7 @@
 General terms & conditions of fortrabbit
 ========================================
 
-last amended on February 12st, 2016
+last amended on February 12th, 2016
 
 
 

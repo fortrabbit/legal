@@ -1,6 +1,9 @@
 Privacy policy of fortrabbit
 ============================
 
+last amended on February 12th, 2016
+
+
 We will respect your right to privacy (isn't that what everybody is saying?) and treat your personal data in accordance with all applicable laws. The personal data and all information provided by our clients regarding legal matters are protected by the strict German attorney client privilege. All other personal data gathered by us are protected under federal German law, in particular the Federal Data Protection Act ("Bundesdatenschutzgesetz", BDSG) and the Telemedia Act ("Telemediengesetz", TMG). All our employees are bound to these laws, too.
 
 
