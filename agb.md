@@ -69,28 +69,16 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 3.  Die Haftungsbeschränkung nach § 7 Abs. 1 gilt auch für den Anbieter und ihre Erfüllungsgehilfen sofern Ansprüche aus unerlaubter Handlung geltend gemacht werden, die mit der Vertragserfüllung in Verbindung steht.
 
 
-§ 8 Duration and termination
-----------------------------
-
-1.  The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract in a written form (email or via Dashboard).
-2.  The customer may terminate the contract without reason for the future effect in the Dashboard.
-3.  The provider shall terminate the contract with a term of 12 weeks.
-4.  In all cases each of the parties may terminate the contract instantly, if the termination party can base the termination on an important reason.
-5.  A due and sufficient cause for cancellation without notice exists if the customer comes into default of payment obligations, has suspended payments, or if the customer fails to meet its contractual obligations.
-6.  In the event of a severe violation  of sec. 3.2.1 and  3.2.5 to 3.2.8 of this Terms and Conditions the provider may terminate the contract instantly .
-
-
 § 8 Laufzeit und Kündigung
 --------------------------
 
-1.  The parties shall comply with all applicable statutes on data protection in Germany and commit their employees concerned by the present contract and its execution to data secrecy according to number 5, Federal Law on Data Protection (BDSG), insofar as these are not already already bound by its provisions.
-2.  If the customer collects, processes or utilises personal data, he vouches for the fact that he is authorised to do so under applicable legal requirements, especially with respect to data protection, and in case of violation releases the provider from third-party claims.
-3.  Insofar as the data to be processed are personal data, order data processing is present and the provider shall comply with the legal requirements (sec. 11 BDSG) of order data processing and customer instructions (e.g., concerning compliance with deletion and blocking obligations). Instructions must be provided in writing and in a timely manner.
-4.  The provider may subcontract but must impose obligation to the subcontractor regarded to the regulation above.
-5.  Insofar the customer authorized third parties under this contract in the order to have access to the information that are stored in the provider's systems, the responsibility of the data protection also applies to the customer and its authorized third party.
-6.  The provider shall take technical and organisational security precautions and measures according to the annex to number 9 Federal Law on Data Protection (BDSG).
-7.  In the case of threat caused by change of employee or organisation, the customer will ensure that this will be changed by the provider.
-8.  The customer shall not be entitled to require access to the areas of the software application, server and the service software or any other system components. This does not apply to data protection supervisor with the regard to sec. 11, 2 BGSG with a written approval in compliance with legal and regulatory provision of BDSG.
+1.  Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform z.B. via E-Mail (§ 126 b BGB) oder über das Web Control Panel gekündigt werden.
+2.  Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Web Control Panel kündigen.
+3.  Der Anbieter kann den Vertrag mit einer Frist von 12 Wochen kündigen.
+4.  Das vorzeitige Kündigungsrecht aus wichtigem Grund bleibt den Parteien unbenommen.
+5.  Ein wichtiger Grund zur Kündigung des Vertrages liegt für den Anbieter insbesondere vor, wenn der Kunde seine Verpflichtungen nachhaltig verletzt; der Kunde trotz Zahlungserinnerung und Fristsetzung seiner Verpflichtung zur Zahlung nicht nachkommt.
+6.  Einen Grund zur fristlosen Kündigung stellen auch schwerwiegende Verstöße gegen §§ 3.2.1 und 3.2.5 bis 3.2.8 dieser AGB dar.
+
 
 
 § 9 - Datenschutz
