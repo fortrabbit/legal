@@ -15,7 +15,8 @@ last amended on February 12th, 2016
 5.  The provider endeavors to schedule planned network operation in low traffic periods, usually 10pm - 7am, on Saturday or Sunday.
 6.  In the case of non-compliance of a certain service level, the provider provides an amount of credit granted under the following conditions:
 
-    1.  Credits will be granted if the customer applies within 5 calendar days of the end of the calendar month in a written form (email, fax, mail).
-    2.  The cumulative granted credits of all service levels shall be restricted of the total of the monthly renumeration of this service.
+    1.  Credits will be granted if the customer applies within 10 calendar days of the end of the calendar month in a written form (email, fax).
+    2.  The cumulative granted credits will be calculated by the actual downtime in proportion to the ongoing month.
+    3.  The cumulative granted credits of all service levels shall be restricted of the total of the monthly renumeration of this service.
 
 7.  Any liability for indirect or collateral damages as well as following damages, loss of profit, service interruption, loss of data or information is being granted under the fortrabbit Terms Of Service only.
