@@ -1,10 +1,7 @@
-Imprint according to German law (§5 TMG)
 
-**fortrabbit GmbH**  
-Görlitzer Str. 52  
-10997 Berlin
+Imprint according to German law (§5 TMG)  
 
-**Register entry** (Amtsgericht Charlottenburg)  
+**Register entry**  
 HRB 154552 B  
 
 **UID (VAT IN)**  
