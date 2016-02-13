@@ -1,72 +1,88 @@
-<footer class="m-top-xs">
-
-    <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action type-xl fwdcta p-xl" id="{{ identifier }}" data-user="unknown">
-        <span class="type-bold">{{ button_wording_1 }}</span> <span class="type-thin">{{ button_wording_2 }}</span>
+<footer class="inverted">
+    {% if not hideMainCta %}
+    <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action auto type-l fwdcta p-l m-bottom-m" style="display:inline-block;z-index:10000" id="{{ identifier }}" data-user="unknown">
+        {{ button_wording_1 }}
+        <span class="type-thin">— {{ button_wording_2 }}</span>
     </a>
-
-    <nav class="row gutter-m wrap" id="companynav">
+    <div data-user="unknown">
+        <a class="linkstyle type-s" href="{{ www_url }}/how-it-works">Learn how it works</a>
+    </div>
+    <a href="{{ dashboard_url }}/support" class="action type-l p-l m-bottom-l" data-user="known" style="display:inline-block">
+        Still reading? <span class="type-thin">— Get support!</span> 
+    </a>
+    {% endif %}
+    <nav class="row gutter-l wrap m-top-xl" id="companynav">
 
         <div class="m-top-l">
             <h5>Hosting a new mindset</h5>
-            <div class="gutter-no">
-                <a id="nav_laravel" class="rowbox p-xs type-s" href="{{ www_url }}/laravel-hosting" title="High performance Laravel PHP hosting">Laravel</a>
-                <a id="nav_symfony" class="rowbox p-xs type-s" href="{{ www_url }}/symfony-hosting" title="High performance Symfony PHP hosting">Symfony</a>
-                <a id="nav_drupal8" class="rowbox p-xs type-s" href="{{ www_url }}/drupal-hosting" title="High performance Drupal PHP hosting">Drupal 8</a>
-                <a id="nav_phalcon" class="rowbox p-xs type-s" href="{{ www_url }}/phalcon-hosting"  title="High performance Phalcon PHP hosting">Phalcon</a>
+            <div class="gutter-no m-top-s">
+                <a id="nav_laravel" class="type-s" href="{{ www_url }}/laravel-hosting" title="High performance Laravel PHP hosting">Laravel</a>
+                <a id="nav_symfony" class="type-s" href="{{ www_url }}/symfony-hosting" title="High performance Symfony PHP hosting">Symfony</a>
+                <a id="nav_drupal8" class="type-s" href="{{ www_url }}/drupal-hosting" title="High performance Drupal PHP hosting">Drupal 8</a>
+                <a id="nav_phalcon" class="type-s" href="{{ www_url }}/phalcon-hosting"  title="High performance Phalcon PHP hosting">Phalcon</a>
+                <a id="nav_craft" class="type-s" href="{{ www_url }}/craft-hosting"  title="Craft CMS hosting">Craft CMS</a>
+                {# too long footer, deeplink in: 
+                <a id="nav_php7" class="type-s" href="{{ www_url }}/php7-hosting"  title="PHP 7 hosting">PHP 7</a>
+                <a id="nav_wordpress" class="type-s" href="{{ www_url }}/wordpress-hosting"  title="WordPress hosting in the cloud">WordPress</a>
+                #}
             </div>
         </div>
 
         <div class="m-top-l">
             <h5>Hosting you</h5>
-            <div class="gutter-no">
-                <a id="nav_freelancer" class="rowbox p-xs type-s" href="{{ www_url }}/freelancer-hosting" title="Hosting for freelance developers">Freelancer</a>
-                <a id="nav_startup" class="rowbox p-xs type-s" href="{{ www_url }}/startup-hosting" title="Hosting for startups and SMB">Startup</a>
-                <a id="nav_agency" class="rowbox p-xs type-s" href="{{ www_url }}/agency-hosting" title="Hosting for web agencies">Digital agency</a>
+            <div class="gutter-no m-top-s">
+                <a id="nav_freelancer" class="type-s" href="{{ www_url }}/freelancer-hosting" title="Hosting for freelance developers">Freelancer</a>
+                <a id="nav_startup" class="type-s" href="{{ www_url }}/startup-hosting" title="Hosting for startups and SMB">Startup</a>
+                <a id="nav_agency" class="type-s" href="{{ www_url }}/agency-hosting" title="Hosting for web agencies">Digital agency</a>
             </div>
         </div>
 
         <div class="m-top-l">
             <h5>Connect</h5>
-            <div class="gutter-no">
-                <a class="rowbox p-xs row type-s" href="http://status.fortrabbit.com" id="status">
-                    <div>Status</div><div class="auto flex-right status none">●</div>
+            <div class="gutter-no m-top-s">
+                <a class="row type-s status none" href="http://status.fortrabbit.com" id="status">
+                    Status
                 </a>
-                <a class="rowbox p-xs type-s" href="https://twitter.com/fortrabbit">Twitter</a>
-                <a id="nav_contact" class="rowbox p-xs type-s" href="{{ www_url }}/contact">Contact</a>
+                <a class="type-s" href="https://twitter.com/fortrabbit">Twitter</a>
+                <a id="nav_contact" class="type-s" href="{{ www_url }}/contact">Contact</a>
             </div>
         </div>
 
         <div class="m-top-l">
             <h5>Discover</h5>
-            <div class="gutter-no">
-                <a id="nav_about" class="rowbox p-xs type-s" href="{{ www_url }}/about" title="Our PHP hosting history">About us</a>
-                <a id="nav_support" class="rowbox p-xs type-s" href="{{ www_url }}/support" title="Support as a Service">Support as a Service</a>
+            <div class="gutter-no m-top-s">
+                <a id="nav_about" class="type-s" href="{{ www_url }}/about" title="Our PHP hosting history">About us</a>
+                <a id="nav_support" class="type-s" href="{{ www_url }}/support" title="Support as a Service">Support as a Service</a>
             </div>
         </div>
 
         <div class="m-top-l">
             <h5>Digg deeper</h5>
-            <div class="gutter-no">
-                <a class="rowbox p-xs type-s" href="{{ help_url }}/collaboration"  title="Hosting with team work">Teamwork</a>
-                <a class="rowbox p-xs type-s" href="{{ help_url }}/the-platform" title="Developer delight">Platform</a>
-                <a class="rowbox p-xs type-s" href="{{ help_url }}/security"  title="Secure PHP hosting">Security</a>
-                <a class="rowbox p-xs type-s" href="{{ help_url }}/billing"  title="Fair billing">Billing</a>
+            <div class="gutter-no m-top-s">
+                <a id="nav_specs" class="type-s" href="{{ www_url }}/specs" title="Universal plans and limits">Specs &amp; numbers</a>
+                <a id="nav_teamwork" class="type-s" href="{{ help_url }}/collaboration"  title="Hosting with team work">Teamwork</a>
+                <a id="nav_security" class="type-s" href="{{ help_url }}/security"  title="Secure PHP hosting">Security</a>
+                <a  id="nav_billing" class="type-s" href="{{ help_url }}/billing"  title="Fair billing">Billing</a>
             </div>
         </div>
-
         <div class="m-top-l">
             <h5>Legal</h5>
-            <div class="gutter-no">
-                <a class="rowbox p-xs type-s" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
-                <a id="nav_privacy" class="rowbox p-xs type-s" href="{{ www_url }}/privacy-policy">Privacy policy</a>
-                <a id="nav_terms" class="rowbox p-xs type-s" href="{{ www_url }}/terms">Terms</a>
-                <a id="nav_sla" class="rowbox p-xs type-s" href="{{ www_url }}/sla">SLA</a>
+            <div class="gutter-no m-top-s">
+                <a class="type-s" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
+                <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Privacy policy</a>
+                <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Cookies</a>
+                <a id="nav_terms" class="type-s" href="{{ www_url }}/terms">Terms</a>
+                <a id="nav_sla" class="type-s" href="{{ www_url }}/sla">SLA</a>
             </div>
         </div>
     </nav>
-    <div class="row flex-center m-top-l" data-user="known">
-        <a href="{{ dashboard_url }}/support" class="action b-3 type-l p-m auto">
-            Get support
-        </a>
-    </div>
+    <p class="type-xs m-top-l m-bottom-m">
+        <span class="fortrabbit">•fortrabbit</span>&emsp;is made in Berlin &amp; powered by Amazon Web Services. {#
+        <a href="mailto:hello@fortrabbit.com">hello@fortrabbit.com</a> <br>
+        <a href="tel:+4930609807840">+4930609807840</a>#}
+    </p>
 </footer>
+
+{# US coming banner
+#}
+{% include '/snippets/shared-snippets/us-email-campaign.twig' %}

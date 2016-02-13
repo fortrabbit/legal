@@ -1,10 +1,11 @@
 <nav class="row gutter-m">
-    <div class="row auto gutter-no properties wrap" >
+    <div class="row auto gutter-no properties wrap">
         <a class="box fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
         <a class="box" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
+        {#<a class="box" id="nav_howitworks" href="{{ www_url }}/how-it-works">How it works</a>#}
         <a class="box" id="nav_help" href="{{ help_url }}">Help</a>
         <a class="box" id="nav_blog" href="{{ blog_url }}">Blog</a>
-        <a class="box" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>
+        {#<a class="box" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>#}
     </div>
     <div class="flex-right row auto gutter-xs">
         {# user unknown #}
@@ -13,7 +14,7 @@
         </div>
         <div data-user="unknown">
             <a class="action fwdcta keep p-s" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up free</a>
-        </div>
+        </div>  
         {# user likely known #}
         <div data-user="known">
             <a class="box p-s row keep" id="nav_dashboard" href="{{ dashboard_url }}">
