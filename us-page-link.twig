@@ -1,0 +1,36 @@
+{% if not hide_us_banner %}
+
+<a href="{{ www_url }}/coming-to-us" class="us-link">
+      We are coming to the US
+</a>
+
+
+
+
+{% set blue  = '#06149a' %}
+{% set red   = '#9A0000' %}
+{% set beige = '#D9DDB2' %}
+{% set fancy = '#0066FF' %}
+
+<style>
+    .us-link {
+        padding: .4rem;
+        font-size: .9rem;
+        text-align:center;
+        position: relative;
+        z-index: 1000;
+        background-color: {{ blue }};
+        color: {{ beige }};
+    }
+    .us-link:hover {
+        background-color: {{ red }};
+    }
+
+    .us-link:before, 
+    .us-link:after {
+        content: '★';
+        padding: 0 .4rem;
+    }
+</style>
+
+{% endif %}

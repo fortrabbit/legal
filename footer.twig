@@ -4,9 +4,7 @@
         {{ button_wording_1 }}
         <span class="type-thin">— {{ button_wording_2 }}</span>
     </a>
-    <div data-user="unknown">
-        <a class="linkstyle type-s" href="{{ www_url }}/how-it-works">Learn how it works</a>
-    </div>
+
     <a href="{{ dashboard_url }}/support" class="action type-l p-l m-bottom-l" data-user="known" style="display:inline-block">
         Still reading? <span class="type-thin">— Get support!</span> 
     </a>
@@ -43,16 +41,27 @@
                 <a class="row type-s status none" href="http://status.fortrabbit.com" id="status">
                     Status
                 </a>
-                <a class="type-s" href="https://twitter.com/fortrabbit">Twitter</a>
-                <a id="nav_contact" class="type-s" href="{{ www_url }}/contact">Contact</a>
+                <a class="type-s" href="https://twitter.com/fortrabbit">
+                    Twitter
+                </a>
+                <a id="nav_contact" class="type-s" href="{{ www_url }}/contact">
+                    Contact
+                </a>
             </div>
         </div>
 
         <div class="m-top-l">
             <h5>Discover</h5>
             <div class="gutter-no m-top-s">
-                <a id="nav_about" class="type-s" href="{{ www_url }}/about" title="Our PHP hosting history">About us</a>
-                <a id="nav_support" class="type-s" href="{{ www_url }}/support" title="Support as a Service">Support as a Service</a>
+                <a id="nav_how_it_works" class="type-s" href="{{ www_url }}/how-it-works" title="How fortrabbit works">
+                    How it works
+                </a>
+                <a id="nav_about" class="type-s" href="{{ www_url }}/about" title="Our PHP hosting history">
+                    About us
+                </a>
+                <a id="nav_support" class="type-s" href="{{ www_url }}/support" title="Support as a Service">
+                    Support as a Service
+                </a>
             </div>
         </div>
 
@@ -70,7 +79,9 @@
             <div class="gutter-no m-top-s">
                 <a class="type-s" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
                 <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Privacy policy</a>
+                {#
                 <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Cookies</a>
+                #}
                 <a id="nav_terms" class="type-s" href="{{ www_url }}/terms">Terms</a>
                 <a id="nav_sla" class="type-s" href="{{ www_url }}/sla">SLA</a>
             </div>
@@ -82,7 +93,3 @@
         <a href="tel:+4930609807840">+4930609807840</a>#}
     </p>
 </footer>
-
-{# US coming banner
-#}
-{% include '/snippets/shared-snippets/us-email-campaign.twig' %}

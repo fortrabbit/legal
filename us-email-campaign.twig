@@ -1,3 +1,4 @@
+{% if not hide_us_banner %}
 <!-- Begin MailChimp Signup Form -->
 
 <style>
@@ -54,13 +55,12 @@
 </style>
 
 <div id="mc_embed_signup" class="us-signup-notifier">
-    <h2 class="m-bottom-xs">fortrabbit comes to the US</h2>
+    <h2 class="m-bottom-xs">fortrabbit is coming to the US</h2>
     <p>
-        Get a one time email when the new data center location is ready. 
+        Get an email when the new data center location is ready. 
     </p>
     <form action="//fortrabbit.us5.list-manage.com/subscribe/post?u=0ff2bab22ff27e4f2978f7065&amp;id=5a74d202eb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll" class="row gutter-no">
-
             <input type="email" value="" name="EMAIL" class="required email p-m type-l" id="mce-EMAIL" placeholder="curious.cat@gmail.com">
             <input type="submit" value="Let me know" name="subscribe" id="mc-embedded-subscribe" class="button action auto p-m type-l">
 
@@ -84,3 +84,5 @@
 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+{% endif %}
