@@ -2,7 +2,7 @@
     <div class="row auto gutter-no properties wrap">
         <a class="box fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
         <a class="box" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
-        {#<a class="box" id="nav_howitworks" href="{{ www_url }}/how-it-works">How it works</a>#}
+        <a class="box" id="nav_howitworks" href="{{ www_url }}/how-it-works">How it works</a>
         <a class="box" id="nav_help" href="{{ help_url }}">Help</a>
         <a class="box" id="nav_blog" href="{{ blog_url }}">Blog</a>
         {#<a class="box" id="nav_contact" href="{{ www_url }}/contact#nav_contact">Contact</a>#}
@@ -24,6 +24,8 @@
         </div>
     </div>
 </nav>
+
+{% include 'object-storage-link.twig' %}
 
 <script>
     $(function(){
