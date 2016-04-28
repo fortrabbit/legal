@@ -1,25 +1,32 @@
 <a href="{{ blog_url }}/object-storage-launched" class="os-link">
-    Have you seen our new Object Storage? S3 compatible file storage.
+    Have you seen our new Object Storage?
 </a>
 
 
 {% set actioncolor  = '#ba35fd' %}
 {% set fancycolor   = '#33cc99' %}
 {% set bodycolor    = '#f8f8f7' %}
+{% set textcolor    = '#1b1a18' %}
+{% set textcolor_h  = '#000' %}
 
 <style>
     .os-link {
-        padding: .3rem;
-        font-size: .9rem;
+        padding: .6rem;
+        font-size: .8rem;
         text-align:center;
         position: absolute;
         width: 100%;
         z-index: 1000;
-        background-color: {{ fancycolor }};
+        background-color: {{ textcolor }};
+        /*border-bottom: 2px solid {{ bodycolor }};*/
         color: {{ bodycolor }};
     }
     .os-link:hover {
-        background-color: {{ actioncolor }};
+        background-color: {{ textcolor_h }};
     }
-
+    @media (max-width: 600px) {
+        .os-link {
+            display: none;
+        }
+    }
 </style>
