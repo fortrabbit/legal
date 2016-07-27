@@ -1,0 +1,73 @@
+{#
+
+TODO:
+we like to have ONE method that works, to see if we have a user or not, across all properties.
+
+until now we have two checks: 
+* data-user via JS - works a little
+* user.user via TWIG - works for sure, only in Dashboard
+
+in the meanwhile we include this macro twice, to make sure it works on the dashboard and to make it work a little on all other properties.
+
+#}
+
+{% macro usernav( data_user ) %}
+    <nav class="row inverted" data-user="{{ data_user }}">
+        <a id="nav_dashboard" href="{{ dashboard_url }}/" class="auto p-m">
+            Dashboard
+        </a>
+        <a id="nav_apps" href="{{ dashboard_url }}/apps" class="auto p-m">
+            Apps
+        </a>
+        <a id="nav_activities" href="{{ dashboard_url }}/activities" class="auto p-m hide-p">
+            Activities
+        </a>
+        <a id="nav_companies" href="{{ dashboard_url }}/companies" class="auto p-m hide-p">
+            Companies
+        </a>
+        <a id="nav_users" href="{{ dashboard_url }}/users" class="auto p-m hide-p">
+            Users
+        </a>
+        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right">
+            <div class="m-right-xs">Your Account</div>
+
+            <div class="media media-s media-face auto" data-gravatar {% if user.user %}style="background-image: url('')"{% endif %}></div>
+            {#
+            <div class="media media-s media-face auto" data-gravatar style="background-image: url('{{ gravatar(user.user.email) }}')"></div>
+            #}
+        </a>
+    </nav>
+{% endmacro %}
+
+
+
+
+{# user known via TWIG in dashboard - for sure #}
+
+<header>
+    {% if user.user %}
+        {{ _self.usernav() }}
+    {# user eventually known via JS in www,blog,help … #}
+
+    {% else %}
+        {{ _self.usernav('known') }}
+
+        {# user unknown via JS #}
+        <nav class="row inverted" data-user="unknown">    
+            <a class="auto p-m fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
+            <a class="auto p-m" id="nav_pricing" href="{{ www_url }}/pricing">Pricing</a>
+            <a class="auto p-m" id="nav_help" href="{{ help_url }}">Help</a>
+            <a class="auto p-m" id="nav_blog" href="{{ blog_url }}">Blog</a>
+            <div class="flex-right row auto">
+                <a class="auto p-m" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+                <a class="auto p-m primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up free</a>
+            </div>
+        </nav>
+    {% endif %}
+    {# TODO: when do we need to load this? #}
+    <script>
+        $(function(){
+            $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
+        });
+    </script>
+</header>
