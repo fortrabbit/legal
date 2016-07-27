@@ -6,31 +6,31 @@ TODO: when proper user check in place use just one method, not macro any more.
 
 
 {# footer users see when logged in  #}
-{% macro userfooter( data_user ) %}
+{% macro userfooter( data_user, context) %}
     {% if not theme == 'modal alert' %}
     <footer class="row type-s p-s m-top-xl" data-user="{{ data_user }}">
 
-        <a class="auto linkstyle p-s fortrabbit" id="nav_website" href="{{ www_url }}">
+        <a class="auto linkstyle p-s fortrabbit" id="nav_website" href="{{ context.www_url }}">
             •fortrabbit
         </a>
 
-        <a class="auto linkstyle p-s" id="nav_specs" href="{{ www_url }}/specs">
+        <a class="auto linkstyle p-s" id="nav_specs" href="{{ context.www_url }}/specs">
             Specs
         </a>
 
-        <a class="auto linkstyle p-s" id="nav_specs" href="{{ www_url }}/specs">
+        <a class="auto linkstyle p-s" id="nav_specs" href="http://status.fortrabbit.com">
             Status
         </a>
 
-        <a class="auto linkstyle p-s" id="nav_help" href="{{ help_url }}">
+        <a class="auto linkstyle p-s" id="nav_help" href="{{ context.help_url }}">
             Help
         </a>
 
-        <a class="auto linkstyle p-s" id="nav_blog" href="{{ blog_url }}">
+        <a class="auto linkstyle p-s" id="nav_blog" href="{{ context.blog_url }}">
             Blog
         </a>
 
-        <a class="auto linkstyle p-s" id="nav_support" href="/support">
+        <a class="auto linkstyle p-s" id="nav_support" href="{{ context.dashboard_url }}/support">
             Support
         </a>
 
@@ -43,10 +43,10 @@ TODO: when proper user check in place use just one method, not macro any more.
 
 {# user known via TWIG in dashboard - for sure #}
 {% if user.user %}
-    {{ _self.userfooter() }}
+    {{ _self.userfooter('', _context) }}
 {# user eventually known via JS in www,blog,help … #}
 {% else %}
-    {{ _self.userfooter('known') }}
+    {{ _self.userfooter('known', _context) }}
 
     <footer class="inverted" data-user="unknown">
         {% if not hideMainCta %}
