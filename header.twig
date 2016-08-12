@@ -4,27 +4,27 @@
 
     {% if user.user %}
         {% set gravatar = gravatar(user.user.email) %}
-        <nav class="row inverted" data-user="known">
-            <a id="nav_dashboard" href="{{ dashboard_url }}/" class="auto p-s">
-                Dashboard
-            </a>
-            {% if not layout.wizard %}
-                {% include 'elements/breadcrumb.twig' %}
-            {% elseif layout.wizard %}
-                {% include 'elements/steps.twig' %}
-            {% endif %}
+        <nav class="row inverted">
+            {% include 'elements/breadcrumb.twig' %}
 
-            {% if yourAccount %}
-            <a id="nav_account" href="{{ dashboard_url }}/logout" class="auto p-s primary">
-                Log out ›
-            </a>
+            {% if user.user %}
+                {% if yourAccount %}
+                    <a id="nav_account" href="{{ dashboard_url }}/logout" class="auto p-s primary">
+                        Log out ›
+                    </a>
+                {% else %}
+                    <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-s row keep flex-right account">
+                        Your Account
+                        <div class="mediacontainer">
+                            <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar }}')"></div>
+                        </div>
+                    </a>
+                {% endif %}
             {% else %}
-            <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-s row keep flex-right account">
-                Your Account
-                <div class="mediacontainer">
-                    <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar_user }}')"></div>
+                <div class="flex-right row auto" data-user="unknown">
+                    <a class="auto p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+                    <a class="auto p-s primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
                 </div>
-            </a>
             {% endif %}
         </nav>
 
@@ -51,19 +51,22 @@
                 <a class="auto p-s primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
             </div>
 
-            <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-s row keep flex-right account" data-user="known">
+            <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-s row keep flex-right account" data-user="known" {% if dashboard and not user.user %}style="display:none"{% endif %}>
                 Your Account
                 <div class="mediacontainer">
                     <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar_user }}')"></div>
                 </div>
             </a>
+
         </nav>
     {% endif %}
 
     {# TODO: when do we need to load this? #}
+    {% if not dashboard %}
     <script>
         $(function(){
             $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
         });
     </script>
+    {% endif %}
 </header>

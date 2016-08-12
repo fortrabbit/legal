@@ -1,9 +1,8 @@
-<footer class="row type-s inverted m-top-m" data-user="known">
+<footer class="row type-s inverted m-top-m" {% if not dashboard %}data-user="known"{% endif %}>
     {% if user.user %}
     <a class="auto p-s fortrabbit" id="nav_website" href="{{ www_url }}">
         •fortrabbit
     </a>
-    {% endif %}
     <a class="auto p-s" id="nav_specs" href="{{ www_url }}/specs">
         Specs
     </a>
@@ -19,8 +18,6 @@
     <a class="auto p-s" id="nav_blog" href="{{ blog_url }}">
         Blog
     </a>
-    {% if user.user %}
-
     <a class="auto p-s m-left-s" id="nav_support" href="{{ dashboard_url }}/support">
         Pro Support
     </a>
@@ -33,8 +30,13 @@
     <a class="auto p-s hide-p" id="nav_users" href="{{ dashboard_url }}/users">
         Users
     </a>
+    {% elseif not dashboard and not user.user %}
+    <a class="auto p-s" id="nav_dashboard" href="{{ dashboard_url }}">
+        ‹ Back to the Dashboard
+    </a>
     {% endif %}
 </footer>
+
 {% if not dashboard %}
 <footer class="marketing_footer" data-user="unknown">
     {% if not hideMainCta %}
