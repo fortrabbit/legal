@@ -1,0 +1,84 @@
+{% extends "layout.twig" %}
+
+{#
+
+OBSOLETE!?
+
+
+#}
+
+
+{% set activeClass = 'nav_website' %}
+{% set bodyClass = 'marketing' %}
+
+
+
+{#        
+PHPower to the PHPeople
+hosting a new mindset
+you code, we deliver
+hosting for busy people
+Git things done
+pay as you grow
+more dev, less ops
+think outside the box
+fortrabbit is carefree, no-ops, managed and robust hosting. It's one platform for all your PHP applications.
+
+fortrabbit is PHP as a Service, hosting for modern PHP development
+fortrabbit is the modern PHP hosting you always wanted
+fortrabbit is developer focused PHP hosting without hassle
+
+#}
+
+
+{% block experimentcode %}{% endblock %}
+
+
+
+{% block precontent %}
+<div class="hero oblique-end">
+    <p class="type-xxl type-bold zoomIn animlength2 animated">
+        fortrabbit is <br>
+        the modern PHP hosting <br>
+        you always wanted
+    </p>
+</div>
+{% endblock %}
+
+
+{% block content %}
+<div class="pull-up">
+    {% include 'snippets/feature-screenshots.twig' %}
+</div>
+
+{#
+{% include 'snippets/feature-metrics.twig' %}
+#}
+{% include 'snippets/feature-scaling.twig' %}
+{% include 'snippets/feature-collaboration.twig' %}
+
+{#
+{% include 'snippets/feature-frameworks.twig' %}
+#}
+
+{#
+ EU Flag is broken
+    {% include 'snippets/feature-location.twig' %}
+#}
+
+{% include 'snippets/some-quotes.twig' %}
+
+{% endblock %}
+
+
+
+
+
+
+{% set javascripts %}
+    <script>
+        $(function () {
+            $.setActiveClass('nav_website');
+        });
+    </script>
+{% endset %}

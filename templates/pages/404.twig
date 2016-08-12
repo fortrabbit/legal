@@ -1,0 +1,72 @@
+{% extends "layout.twig" %}
+{% set bodyClass = 'marketing' %}
+
+{% block precontent %}
+<div class="hero image oblique-end">
+    <p class="type-xl type-thin m-bottom-m">Error code 404</p>
+    <h1 class="type-black">
+        File not found
+    </h1>
+    <p class="type-xl type-thin">
+        {{ random([
+            'Blame Canada',
+            'Somebody screwed up — not me',
+            'Do not use the elevators',
+            'Git commit, git push, then leave the building',
+            'Don’t tweet before leaving the building',
+            'Move along, there is nothing to see here',
+            'You are being punished for making up URLs',
+            'You are lost, dude',
+            'Yer off the edge of the map. Here be dragons'
+        ]) }}
+    </p>
+</div>
+{% endblock %}
+
+
+{% block content %}
+<article class="post pull-up">
+    <h2>Please help us get better</h2>
+    <p class="type-l">
+        Please <a href="mailto:feedback@fortrabbit.com">send us feedback</a> where you came from and what you were looking after. We would love to hear from you to find and fix that broken link.
+    </p>
+
+    {#
+    <h2>Search our documentation</h2>
+    <div class="labelinput">
+        <label for="search" class="minilabel">Search help</label>
+        <input type="search" id="search" placeholder="{{ random(['ENV vars', 'The meaning of life', 'multi staging', 'Laravel5', 'database access']) }}" class="type-l input" {% if searchfocus %}autofocus{% endif %}>
+    </div>
+    <div id="search-result"></div>
+
+    <script>
+        $(function(){
+            $('#search').swiftype({
+                engineKey: 'LFLoraZmk_Kw52i3_csR',
+                fetchFields: {'page': ['title','url','info']},
+                setWidth: false,
+                suggestionListType: 'div',
+                resultListSelector: 'a',
+                autocompleteContainingElement: '#search-result',
+                noResultsMessage: 'Ooops, no results',
+
+                resultRenderFunction: function(ctx, results) {
+                    var $list = ctx.list,
+                        config = ctx.config;
+
+                    $.each(results, function(document_type, items) {
+                        $.each(items, function(idx, item) {
+                            ctx.registerResult($(config.renderFunction(document_type, item)).appendTo($list), item);
+                        });
+                    });
+                },
+
+                renderFunction: function(document_type, item) {
+                  return '<a class="box m-top-xs-minus" href="' + item['url'] + '">' + '<div>' + item['title'] + '</div>' + '<div class="clip type-thin">' + item.info + '</div>' + '</a>';
+                }
+            });
+        });
+    </script>
+    #}
+</article>
+{% endblock %}

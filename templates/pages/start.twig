@@ -1,0 +1,89 @@
+{% extends "layout.twig" %}
+
+
+{% set activeClass = 'nav_website' %}
+{% set bodyClass = 'marketing contrast invert' %}
+
+
+{#        
+PHPower to the PHPeople
+hosting a new mindset
+you code, we deliver
+hosting for busy people
+Git things done
+pay as you grow
+more dev, less ops
+think outside the box
+#}
+
+
+{% block experimentcode %}{% endblock %}
+
+
+
+{% block precontent %}
+
+{#
+{% include "snippets/beta-sticker.twig" %}
+#}
+
+
+<div class="hero claim-scroller oblique-end">
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            this is
+        </p>
+        <p class="oblique-claim type-xxxl">
+            PHP as a<br>
+            Service
+        </p>
+    </div>
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            imagine it as
+        </p>
+        <p class="oblique-claim type-xxxl">
+            serverless<br>
+            <a href="/php-hosting" class="shadylink">hosting</a>
+        </p>
+    </div>
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            where
+        </p>
+        <p class="oblique-claim type-xxxl">
+            you code <span class="amp">&amp;</span><br>
+            we deliver
+        </p>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block content %}
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'shealan',
+    'quoteClasses'   : 'hero-quote pull-up'
+}%}
+
+
+{% include 'snippets/features.twig' %}
+
+{#
+{% include 'snippets/how-it-works.twig' %}
+#}
+
+{% include 'snippets/some-quotes.twig' %}
+{% endblock %}
+
+
+
+
+{% set javascripts %}
+    <script>
+        $(function () {
+            $.setActiveClass('nav_website');
+        });
+    </script>
+{% endset %}

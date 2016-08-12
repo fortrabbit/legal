@@ -1,0 +1,170 @@
+{% extends "layout.twig" %}
+{% set title = "Cheap PHP Hosting for developers" %}
+{% set bodyClass = 'marketing' %}
+
+
+{% block precontent %}
+
+<div class="hero photo photo4 oblique-end">
+    <p class="type-xl animated zoomIn oblique-sub m-bottom-l">
+        Fast, affordable and secure
+    </p>
+    <h1 class="animated zoomIn animdelay1 oblique-claim">
+        PHP Hosting Platform
+    </h1>
+    <p class="type-xl animated zoomIn animdelay2 oblique-sub">
+        for developers, craftsmen, hackers
+    </p>
+</div>
+
+{% endblock %}
+
+{% block content %}
+
+
+<article class="post">
+    <h1>
+        Why a PHP hosting platform?
+    </h1>
+    <p class="type-l">
+        A new generation of PHP web developers is looking for a modern more sophisticated, scalable cloud hosting. <strong>The fortrabbit PHP hosting platform is the answer.</strong>
+    </p>
+    <p>
+        This is not your Grandmas PHP, nor classical PHP VPS or server hosting. We are running an optimized PHP cloud hosting stack. PHP-based websites and web applications are running very fast and secure. But we not only customize our servers for the best PHP hosting performance, we also allow more PHP options than any other hosting company. With fortrabbit PHP hosting you can easily add multiple PHP modules and choose among various PHP versions for your account.
+    </p>
+    <p>
+        fortrabbit is an application Platform as a Service (aPaaS) — that's a fancy way to says: self-service cloud hosting service. It automates the configuration, deployment and ongoing management — time- and therefore money saving. Use it during development and to host mission critical applications in production. 
+    </p>
+    <p>
+        Our easy to use web control panel is very different to cPanel, Webmin, Virtualmin or ISPConfig 3. We focus only on one thing the best PHP hosting for professionals. It mostly feels like LAMP hosting, but it's far more advanced — still affordable.
+    </p>
+    <h2>
+        Made for you
+    </h2>
+    <p>
+        You are a sophisticated PHP developer familiar with Git, Composer, the Terminal and modern PHP frameworks and CMS such as <a href="/laravel-hosting">Laravel</a>, <a href="/symfony-hosting">Symfony</a>, <a href="/drupal-hosting">Drupal 8</a> or even WordPress. You work in a <a href="/startup-hosting">Startup</a>, in an <a href="/agency-hosting">digital agency</a>, or simply as a <a href="/freelancer-hosting">freelancer</a>. You craft great PHP applications. We run the hosting. The infrastructure is AWS, fortrabbit the glue, you just add code.
+    </p>
+
+</article>
+
+{% include "snippets/your-benefits.twig" %}
+{% include "snippets/our-service.twig" %}
+{% include "snippets/features.twig" %}
+{% include "snippets/hosting-comparsion.twig" %}
+{#
+{% include "snippets/how-it-works.twig" %}
+{% include "snippets/why-not-meme.twig" %}
+{% include "snippets/videos.twig" %}
+#}
+
+    
+
+<h2 class="m-top-xl m-bottom-m">
+    What our clients are saying
+</h2>
+<div class="row gutter-m wrap collapse m-top-l">
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'dixens',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'silentworks',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'shealan',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+        <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'tattershall',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'       : 'support1',
+            'quoteClasses'    : 'hero-quote',
+            'quoteTextClass'  : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}    
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'kalle',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'support2',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'support3',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+</div>
+
+<h2 class="m-top-xl">Scalability</h2>
+
+<p>
+    In classical infrastructures (root servers, VPS), you rent a single machine. This machine is as big as it is and whether you use 5% of it's resources or 95% - you pay the same. On the fortrabbit platform you have access to a huge amount of resources - while still being able to pay only for the fraction you actually use at the moment.
+</p>
+
+<p>
+    Further more: in classical hosting you would begin with a small or moderate machine. When your traction grows and more visitors come to you (or more clients use your API or ..), then you have to migrate. Meaning: buy a bigger machine, move your data, route your domains and so on. However what size your single machine is: if you grow even larger, eventually you will outgrow the biggest, single server you can rent. Now you have to split your load across multiple machines, which requires an entirely different infrastructure, probably changes in your Apps core and quite a lot of planning and migration.
+</p>
+
+<p>
+    On the fortrabbit platform, you start in an environment which allows you to grow, without migrating data, without re-routing domains or any such things.
+</p>
+
+
+
+
+<div class="m-top-xl">
+    <h2>PHP is PHPantastic</h2>
+    <p>
+        PHP (recursive acronym for PHP Hypertext Preprocessor) is the most popular web programming language among web developers. As a key part of LAMP (Linux, Apache, MySQL, PHP), PHP is found on Linux servers are powering the web. CMS systems like Joomla, WordPress, or Drupal and frameworks like Laravel, Symfony, CakePHP, Zend, Agavi are based on it. A large number popular websites, including Facebook and Wikipedia, are written in PHP.
+    </p>
+
+
+
+    <h2 class="m-top-l">Made for a modern PHP</h2>
+
+<pre class="m-top-s"><code class="nohighlight">                          \`.                                     
+.––––––––––––––.___________) \             T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  T  
+| ////PHP///// |___________[ ]          T  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+`––––––––––––––'           ) (     _  T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+                          ) /</code></pre>
+    <p>
+        You know what they say: PHP is a double claw hammer. And when you have a hammer, everything looks like a nail. True is that PHP is traditionally used to build all kind of Pretty Home Pages. With an ongoing PHP renaissance the language and the community have evolved. It's just not about websites anymore; it's about backends, frontends, APIs — web applications. The fortrabbit hosting platform is hosting a new mindset of PHP developers. The toolset is optimized for a modern PHP!
+    </p>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "layout.twig" %}
+{% set title = "fortrabbit VS forge" %}
+{% set bodyClass = 'marketing' %}
+
+
+
+{% block precontent %}
+<div class="hero oblique-end" style="background-color: #e74430">
+    <p class="type-xl">
+        Why fortrabbit instead of Laravel Forge? <br>
+        <b>Because fortrabbit takes responsibility!</b>
+    </p>
+</div>
+{% endblock %}
+
+
+{% block content %}
+
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'shealan',
+    'quoteClasses'   : 'hero-quote pull-up'
+}%}
+
+<article class="wrapper post">
+    <p class="type-l">
+        Laravel Forge is a great hosting meta service. It helps you setting up your VPS. But what if somethings breaks along the way?
+    </p>
+    <p>
+        Although we also don't manage the bare metal ourselves <a href="about">anymore</a> — fortrabbit is a more classical hosting provider than Laravel Forge. We offer an end-to-end hosting experience. The fortrabbit hosting platform is an abstraction layer on top of AWS cloud infrastructure. It's an orchestration of different services; a hosting system where you can instantly launch and scale Apps — instead of servers.
+    </p>
+    <p>
+        To ensure your <a href="sla">99.9% uptime</a> we have implemented data redundancies, failure tolerance and fail over mechanisms. It's our job to keep your business online.
+    </p>
+    <p>
+        And <a href="laravel-hosting">we love Laravel, too</a>.
+    </p>
+</article>
+{#
+{% include 'snippets/why-not-disclaimer.twig' with { 'provider' : 'Laravel Forge' }%}
+#}
+{% endblock %}

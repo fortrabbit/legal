@@ -1,21 +1,40 @@
-# README #
-
-This repo contains shared snippets among fortrabbit web properties.
+WWW fortrabbit pages
 
 
-## Setup
+* * *
+
+## INSTALL
+
+1. clone (guess what?)
+2. run `composer install`
+3. local PHP server should be: `www.fortrabbit.dev` (so that we can all work together)
+4. make sure docroot is `public/`
 
 
-1 — initialize the remote:
 
-`git subtree add --prefix templates/snippets/shared-snippets https://franklaemmer@bitbucket.org/franklaemmer/shared-snippets.git master --squash`
+## Update on pull
+
+1. run `composer install`
+
+## Integrate latest product definitions
+
+1. run `composer update frbit/product-definition`
+2. only production: Visit `https://www.fortrabbit.com/pricing?flush-cache=please` and `https://www.fortrabbit.com/support?flush-cache=please`
 
 
-2 — pull the snippets:
 
-`git subtree pull --prefix templates/snippets/shared-snippets https://franklaemmer@bitbucket.org/franklaemmer/shared-snippets.git master --squash`
+## Run and develop locally
+
+template and contents can be edited locally. to change styles and global scripts. you need the **fortrabbit-framework** (via bitbucket) on the same level as the root folder of this project
 
 
-3 — push the snippets:
 
-`git subtree push --prefix templates/snippets/shared-snippets https://franklaemmer@bitbucket.org/franklaemmer/shared-snippets.git master --squash`
+## Deploy
+
+* **Content**: `git push` > to deploy to fortrabbit
+* **JS**: run `gulp deploy` > to push static assets to S3 (aws.json required)
+
+
+## Get New Pricings
+
+`php getPricing.php` < aktuellste Version aus dem Dashboard ziehen

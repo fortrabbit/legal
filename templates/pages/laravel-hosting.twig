@@ -1,0 +1,118 @@
+{% extends "layout.twig" %}
+
+{% set title            = "Laravel hosting in the cloud" %}
+{% set activeClass      = 'nav_laravel' %}
+{% set bodyClass        = 'marketing' %}
+
+{% set cta = {
+    'campaign'        : 'laravel',
+    'button_wording_1': 'Start your trial',
+    'button_wording_2': 'see Laravel hosting in action'
+    }
+%}
+
+
+{% block precontent %}
+<div class="hero image laravel oblique-end">
+    <h1 class="oblique-claim zoomIn animlength1 animdelay1 animated">
+        Hosting artisans
+    </h1>
+    <p class="type-xxl m-top-l oblique-sub zoomIn animlength2 animdelay2 animated">
+        Laravel hosting that doesn't hurt
+    </p>
+</div>
+{% endblock %}
+
+
+
+
+
+
+{% block content %}
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'laravelio',
+    'quoteClasses'   : 'hero-quote pull-up'
+}%}
+
+<p class="type-l m-top-xl">
+    The <b>Laravel</b> framework has disrupted the PHP landscape. It's the poster-child of the PHP renaissance. New developers flock to it because of it's accessibility. Host Laravel here! fortrabbit is managed PHP hosting for your Laravel web apps. And you're in good company: Over 60% of the projects hosted on fortrabbit are powered by Laravel. We ❤ Laravel.
+</p>
+
+<p class="type-xs">Laravel is a trademark of Taylor Otwell.</p>
+
+
+
+
+<h2 class="m-top-xl" id="apps">
+    Featured Laravel Apps hosted on fortrabbit
+</h2>
+
+<div class="row gutter-l wrap m-top-m">
+
+    {% set apps = getResource("customers-apps") %}
+    {% for item in apps %}
+    {% if item.technology == "Laravel" and item.single %}
+    <div class="third half-t" data-category="{{item.category | lower}}">
+        <a href="{{ item.url }}" class="browserchrome">
+            <div class="addressbar clip">
+                {{ item.url }}
+            </div>
+            <div class="screenshot" style="background-image:url('{{ assetsremote }}/img/{{ item.screenshotfile }}');"></div>
+        </a>
+        <div class="type-s m-top-s">
+            <b>{{ item.name }}</b>: {{ item.info }}. 
+            {% if item.technolgy %}
+            Buit in {{ item.technology }}
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<p class="type-s m-top-m" style="z-index:1000; position: relative">
+    <a href="/customers">See more from our customers</a>
+</p>
+
+
+
+
+<h2 class="m-top-xxl">Laravel hosting presets</h2>
+{% include '/snippets/simple-presets.twig' with { campaign: 'laravel' }  %}
+
+<div class="row wrap gutter-xl m-top-xl collapse">
+    <div class="third half-t">
+        {% include '/snippets/batteries-included.twig'  %}
+    </div>
+     <div class="third half-t">
+         <h3>Easy set up</h3>
+         <p>
+             <a href="{{ help_url }}/install-laravel">Installing Laravel</a> on fortrabbit is straight forward. You deploy your code with <code>git push</code> and let Composer do the rest for you.
+         </p>
+
+     </div>
+
+     <div class="third half-t">
+         <h3>Culture</h3>
+         <p>
+             We know Laravel well — in fact most parts of the fortrabbit platform are powered by Laravel. That way we can give you good support.
+         </p>
+     </div>
+    <div class="third half-t">
+        <h3>Community</h3>
+        <p>
+            We love to support the crowd. We already sponsored:
+             <a href="http://laravel.io" title="Laravel forum to find like minded artisans">Laravel.io</a>, <a href="http://laracon.eu/" title="European Laravel conference">Laracon.eu</a>, <a href="http://www.meetup.com/laravel-berlin/" title="artisan meeting here fortrabbit headquarters">Laravel Berlin Group</a>.
+         </p>
+     </div>
+     <div class="third half-t">
+         {% include 'snippets/hosting-a-new-mindset.twig' %}
+     </div>
+     <div class="third half-t">
+         {% include "snippets/why-not-navigation.twig" %}
+     </div>
+</div>
+
+
+{% endblock %}

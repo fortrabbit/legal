@@ -1,0 +1,167 @@
+{% extends "layout.twig" %}
+{% set title = "Customers" %}
+{% set activeClass = 'nav_customers' %}
+
+
+
+
+
+{% block content %}
+
+
+<h1 class="type-center type-thin m-top-xl type-xxl">
+    You are in good company
+</h1>
+<div class="type-center m-top-m">
+    Featured {#Reference#} clients &amp; applications running on fortrabbit
+</div>
+
+<h2 class="m-top-xl" id="brands">
+    Brands
+</h2>
+<div class="row gutter-no wrap brands m-top-m">
+{% for item in brands %}
+    {% if item.active %}
+    <div class="fifth half-p brandContainer box p-m">
+        <img src="{{ assetsremote }}/img/{{ item.logofile }}?dfsdf" alt="{{ item.name }}">
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+<div class="type-center m-top-xxl">
+    Never mind big names — meet some of the makers:
+</div>
+
+<div class="row gutter-l m-top-xl m-bottom-s collapse-t" id="customers">
+    <div class="third">
+        <h2 id="freelancers">
+            Freelancers
+        </h2>
+        <div class="gutter-s m-top-m row wrap">
+        {% set freelancers = getResource("customers", "category", "Freelancer") %}
+        {% for item in freelancers %}
+            {% if item.overview %}
+            <div class="half">
+                <div class="box p-m clientContainer">
+                    <div class="media-l media media-face" style="background-image:url({{ assetsremote }}/img/{{ item.imagefile }});"></div>
+                    <div class="name">
+                        {{ item.name }}
+                    </div>
+                    <div class="furtherInfo">
+                        <div title="{{ item.country }}" class="flag icon-{{ item.country | lower }}"></div> 
+                        <span class="type-bold">{{ item.name }}</span>: {{ item.info }}
+                        {% if item.twitter %}
+                            <a title="{{ item.name }} on twitter" href="https://twitter.com/{{ item.twitter }}" class="icon-twitter link-twitter"></a>
+                        {% endif %}
+                        {% if item.url %}
+                            <a title="{{ item.name }} website" href="{{ item.url }}" class="icon-link linkstyle link-url"></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+        </div>
+        <p class="type-s m-top-s">
+            <a href="/freelancer-hosting">Why web designers host on fortrabbit</a>
+        </p>
+    </div>
+    <div class="third">
+        <h2 id="agencies">
+            Agencies
+        </h2>
+        <div class="gutter-s m-top-m row wrap">
+        {% set agencies = getResource("customers", "category", "Agency") %}
+        {% for item in agencies %}
+            {% if item.overview %}
+            <div class="half">
+                <div class="box p-m clientContainer" style="background-image:url({{ assetsremote }}/img/{{ item.imagefile }});">
+                    <div class="furtherInfo">
+                        <div title="{{ item.country }}" class="flag icon-{{ item.country | lower }}"></div> 
+                        <span class="type-bold">{{ item.name }}</span>: {{ item.info }}
+                        {% if item.twitter %}
+                            <a title="{{ item.name }} on twitter" href="https://twitter.com/{{ item.twitter }}" class="icon-twitter link-twitter"></a>
+                        {% endif %}
+                        {% if item.url %}
+                            <a title="{{ item.name }} website" href="{{ item.url }}" class="icon-link linkstyle link-url"></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}  
+        </div>
+        <p class="type-s m-top-s">
+            <a href="/agency-hosting">Why web agencies collaborate with fortrabbit</a>
+        </p>
+
+    </div>
+    <div class="third">
+        <h2 id="startups">
+            Startups
+        </h2>
+        {% set startups = getResource("customers", "category", "Startup") %}
+        <div class="gutter-s row wrap m-top-m">
+        {% for item in startups %}
+            {% if item.overview %}
+            <div class="half">
+                <div class="box p-m clientContainer" style="background-image:url({{ assetsremote }}/img/{{ item.imagefile }});">
+                    <div class="furtherInfo">
+                        <div title="{{ item.country }}" class="flag icon-{{ item.country | lower }}"></div> 
+                        <span class="type-bold">{{ item.name }}</span>: {{ item.info }}
+                        {% if item.twitter %}
+                            <a title="{{ item.name }} on twitter" href="https://twitter.com/{{ item.twitter }}" class="icon-twitter link-twitter"></a>
+                        {% endif %}
+                        {% if item.url %}
+                            <a title="{{ item.name }} website" href="{{ item.url }}" class="icon-link linkstyle link-url"></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}  
+        </div>
+        <p class="type-s m-top-s">
+            <a href="/startup-hosting">Why startups grow with fortrabbit</a>
+        </p>
+    </div>
+</div>{# #brands #}
+
+<div class="type-center m-top-xxl">
+    Enough name dropping — here is some selected craft:
+    {# Talk is cheap, show me the code: #}
+</div>
+
+
+<h2 class="m-top-xl" id="apps">
+    Apps
+</h2>
+
+<div class="row gutter-l wrap m-top-m m-bottom-l">
+    {% set apps = getResource("customers-apps") %}
+    {% for item in apps %}
+    {% if item.active %}
+    <div class="third half-t" data-tech="{{item.technology | lower}}" data-category="{{ item.category | lower }}">
+        <a href="{{ item.url }}" class="browserchrome">
+            <div class="addressbar clip">
+                {{ item.url }}
+            </div>
+            <div class="screenshot" style="background-image:url('{{ assetsremote }}/img/{{ item.screenshotfile }}');"></div>
+        </a>
+        <div class="type-s m-top-s">
+            <b>{{ item.name }}</b>: {{ item.info }} —
+            {{ item.category }} {% if item.technology %}
+            built with {{ item.technology }}{% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'love',
+    'quoteClasses'   : 'hero-quote m-top-xl'
+}%}
+
+{% endblock %}
