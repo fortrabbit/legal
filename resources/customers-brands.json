@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Air France",
+        "active": "yes",
+        "client": "BeOnPref",
+        "logofile": "brand-logo_airfrance.png"
+    },
+    {
+        "name": "Denner",
+        "active": "yes",
+        "client": "Detail",
+        "logofile": "brand-logo_denner.png"
+    },
+    {
+        "name": "Electrolux",
+        "client": "Nucleus",
+        "logofile": "brand-logo_electrolux.png"
+    },
+    {
+        "name": "Lexus",
+        "active": "yes",
+        "client": "Sempro",
+        "logofile": "brand-logo_lexus.png"
+    },
+    {
+        "name": "MTV",
+        "active": "yes",
+        "client": "MetaTalk",
+        "logofile": "brand-logo_mtv.png"
+    },
+    {
+        "name": "Nissan"
+    },
+    {
+        "name": "Pandora",
+        "active": "yes",
+        "client": "Hans Peter Nielsen",
+        "logofile": "brand-logo_pandora.png"
+    },
+    {
+        "name": "Red Bull"
+    },
+    {
+        "name": "Simyo",
+        "active": "yes",
+        "logofile": "brand-logo_simyo.png"
+    },
+    {
+        "name": "Subaru",
+        "active": "yes",
+        "client": "Sempro",
+        "logofile": "brand-logo_subaru.png"
+    },
+    {
+        "name": "Ticketmaster",
+        "active": "yes",
+        "client": "Spreeatelier",
+        "logofile": "brand-logo_ticketmaster.png"
+    },
+    {
+        "name": "Truefitt & Hill London",
+        "client": "Studio Rotate"
+    },
+    {
+        "name": "Volvo",
+        "active": "yes",
+        "logofile": "brand-logo_volvo.png"
+    },
+    {
+        "name": "viva",
+        "active": "yes",
+        "logofile": "brand-logo_viva.png"
+    }
+]

@@ -1,0 +1,50 @@
+{% extends "layout.twig" %}
+{% set title = "Pricing - PHP cloud hosting" %}
+{% set activeClass = 'nav_pricing' %}
+
+{% set cta = {
+    'campaign' : 'pricing',
+}
+%}
+
+
+
+
+{% block content %}
+
+
+    <div class="m-top-xl">
+    {% include innerHtml %}
+    </div>
+    
+    {% include "snippets/pricing-faq.twig" %}
+
+{% endblock %}
+
+{% set javascripts %}
+    <script>
+        $(function () {
+            $.setActiveClass('nav_pricing');
+        });
+        $(function () {
+            if ($('[data-currency]').length) {
+                $('[data-currency]').removeClass('active');
+                $('[data-currency={{ currency }}]').addClass('active');
+            }
+        });
+        $(function () {
+            $('a[href^="#"]').on('click', function (e) {
+                e.preventDefault();
+
+                var target = this.hash;
+                var $target = $(target);
+
+                $('html, body').stop().animate({
+                    'scrollTop': $target.offset().top
+                }, 400, 'swing', function () {
+                    window.location.hash = target;
+                });
+            });
+        });
+    </script>
+{% endset %}

@@ -1,0 +1,280 @@
+[
+    {
+        "name": "4D Software",
+        "single": "yes",
+        "url": "http://4dsoftware.fi/",
+        "twitter": "4DSoftware",
+        "category": "Agency",
+        "country": "FI",
+        "info": "Software company specializing in web and mobile applications",
+        "since": 2014,
+        "imagefile": "client-logo_4dsoftware.png",
+        "internal": "Feature option: Kalle"
+    },
+    {
+        "name": "BeOnPerf",
+        "url": "http://beonperf.com/",
+        "twitter": "BeOnPerf",
+        "category": "Agency",
+        "country": "CH",
+        "info": "Perfomance minded agency with 15 years experience in digital marketing"
+    },
+    {
+        "name": "Detail",
+        "single": "yes",
+        "url": "http://www.detailag.ch/",
+        "category": "Agency",
+        "country": "CH",
+        "info": "Concepts, strategy, design and development of custom applications ",
+        "since": 2015,
+        "imagefile": "client-logo_detail-ag.png",
+        "internal": "3D, power point, web"
+    },
+    {
+        "name": "Harkable",
+        "overview": "yes",
+        "url": "http://harkable.com/",
+        "twitter": "harkable",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Helping brands to be heard above the noise and connect with their audience",
+        "since": 2014,
+        "imagefile": "client-logo_harkable.png"
+    },
+    {
+        "name": "Made by Cloud",
+        "single": "yes",
+        "url": "http://www.madebycloud.com",
+        "twitter": "madebycloud",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Great websites and apps that make a measurable difference",
+        "since": 2015,
+        "imagefile": "client-logo_made-by-cloud.png"
+    },
+    {
+        "name": "MetaTalk",
+        "single": "yes",
+        "url": "http://metatalk.be/",
+        "twitter": "MetaTalk",
+        "category": "Agency",
+        "country": "BE",
+        "info": "Helping brands and companies reach their full online potential",
+        "imagefile": "client-logo_metatalk.png"
+    },
+    {
+        "name": "Netbooster",
+        "url": "http://www.netbooster.dk",
+        "category": "Agency",
+        "country": "DK",
+        "info": "Independent digital agency and a leader in digital marketing",
+        "since": 2014,
+        "imagefile": "client-logo_netbooster.png"
+    },
+    {
+        "name": "Nucleus",
+        "single": "yes",
+        "url": "http://nucleus.no/",
+        "category": "Agency",
+        "country": "NO",
+        "info": "Full service communications agency",
+        "imagefile": "client-logo_nucleus.png"
+    },
+    {
+        "name": "Sempro",
+        "overview": "yes",
+        "url": "http://sempro.no/",
+        "twitter": "Sempro_no",
+        "category": "Agency",
+        "country": "NO",
+        "info": "Digital agency that helps their clients to advertise in the web properly",
+        "since": 2014,
+        "imagefile": "client-logo_sempro.png",
+        "internal": "Team size, Feature option: Daniel"
+    },
+    {
+        "name": "Spreeatelier",
+        "single": "yes",
+        "url": "http://spreeatelier.de/",
+        "category": "Agency",
+        "country": "DE",
+        "info": "Digital boutique and think tank",
+        "since": 2013,
+        "imagefile": "client-logo_spreeatelier.png",
+        "internal": "Feature option: Julius"
+    },
+    {
+        "name": "Studio Rotate",
+        "overview": "yes",
+        "url": "https://studiorotate.com/",
+        "twitter": "StudioRotate",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Here to help ambitious clients thrive online",
+        "imagefile": "client-logo_studio-rotate.png"
+    },
+    {
+        "name": "The Unit",
+        "single": "yes",
+        "url": "http://www.theunit.co.uk",
+        "twitter": "theunitgb",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Results driven digital agency with a focus on creativity & user experience",
+        "since": 2015,
+        "imagefile": "client-logo_the-unit.png"
+    },
+    {
+        "name": "Wondrous",
+        "overview": "yes",
+        "url": "https://www.wearewondrous.com",
+        "twitter": "WondrousInc",
+        "category": "Agency",
+        "country": "CH",
+        "info": "Strategy, design and code, Swiss made",
+        "since": 2015,
+        "imagefile": "client-logo_wondrous.png"
+    },
+    {
+        "name": "Zaengle",
+        "single": "yes",
+        "url": "http://zaengle.com/",
+        "twitter": "zaengle",
+        "category": "Agency",
+        "country": "US",
+        "info": "Be nice, do good - powerful websites & apps that are a joy to use",
+        "imagefile": "client-logo_zaengle.png"
+    },
+    {
+        "name": "Alexander Hempel",
+        "url": "http://halle23.com",
+        "category": "Freelancer",
+        "country": "DE",
+        "internal": "website looks too small"
+    },
+    {
+        "name": "Evangelos Papadakis",
+        "url": "http://diadyo.gr/",
+        "category": "Freelancer",
+        "country": "GR"
+    },
+    {
+        "name": "Hans Peter Nielsen",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://www.digifekt.dk/",
+        "twitter": "webhanspeter",
+        "category": "Freelancer",
+        "country": "DK",
+        "info": "Converting digital needs and challenges to the right solution",
+        "imagefile": "client-logo_hans-peter-nielsen.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000444529136/c157ad42c657894ab0b392592b5c42a7.jpeg"
+    },
+    {
+        "name": "Niek ten Hoopen",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://nthmedia.nl",
+        "twitter": "NiektenHoopen",
+        "category": "Freelancer",
+        "country": "NL",
+        "info": "Web (shop) development & web (shop) consultancy",
+        "imagefile": "client-logo_niek-ten-hoopen.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000698506241/9532b91b45d41f63bec8ae45b1d8baa3.jpeg"
+    },
+    {
+        "name": "Phil Smith",
+        "overview": "yes",
+        "url": "http://amillionmonkeys.co.uk",
+        "twitter": "monkeyphil",
+        "category": "Freelancer",
+        "country": "GB",
+        "info": "Making the web work better",
+        "imagefile": "client-logo_phil-smith.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000594410359/24dee942f3ffb869fc751a1946fe086c.jpeg"
+    },
+    {
+        "name": "Romain Norberg",
+        "single": "yes",
+        "url": "https://romainnorberg.github.io/",
+        "twitter": "romainnorberg",
+        "category": "Freelancer",
+        "country": "NL",
+        "info": "Problem solving developer",
+        "imagefile": "client-logo_romain-norberg.jpg",
+        "internal": "https://media.licdn.com/media/AAEAAQAAAAAAAAUmAAAAJDM0ZTFjZTA2LTZmYTktNDZiMS1iMjc0LWI0NTg5MTlhY2I0Yw.jpg"
+    },
+    {
+        "name": "Shane Rounce",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://shanerounce.com/",
+        "twitter": "srounce",
+        "category": "Freelancer",
+        "country": "GB",
+        "info": "Web/ux developer, designer, photographer, traceur & writer",
+        "imagefile": "client-logo_shane-rounce.jpg",
+        "internal": "http://www.gravatar.com/avatar/0059a8bfd61780052368a4a2b7838c32?s=380"
+    },
+    {
+        "name": "Dot",
+        "overview": "yes",
+        "url": "http://www.dotisfun.com/",
+        "twitter": "dotisfun",
+        "category": "Startup",
+        "country": "BE",
+        "info": "Find out anything about anywhere",
+        "imagefile": "client-logo_dot-is-fun.png"
+    },
+    {
+        "name": "Intelligentpos",
+        "overview": "yes",
+        "single": "yes",
+        "url": "https://www.intelligentpos.com/",
+        "twitter": "intelligentpos",
+        "category": "Startup",
+        "country": "GB",
+        "info": "Affordable, efficient and intelligent point of sale for every business",
+        "imagefile": "client-logo_ipos.png"
+    },
+    {
+        "name": "Specifiedby",
+        "overview": "yes",
+        "url": "https://www.specifiedby.com/",
+        "twitter": "SpecifiedBy",
+        "category": "Startup",
+        "country": "GB",
+        "info": "A smart database of over 20,000 building products and materials",
+        "imagefile": "client-logo_specifiedby.png"
+    },
+    {
+        "name": "Styla",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://www.styla.com/en",
+        "category": "Startup",
+        "country": "DE",
+        "info": "AI powered content commerce",
+        "imagefile": "client-logo_styla.png"
+    },
+    {
+        "name": "Appointedd",
+        "single": "yes",
+        "url": "https://www.appointedd.com/",
+        "twitter": "appointedd",
+        "category": "Startup",
+        "country": "GB",
+        "info": "Online booking for any business. On any device. In any timezone.",
+        "imagefile": "client-logo_appointedd.png"
+    },
+    {
+        "name": "Loyalzoo",
+        "single": "yes",
+        "url": "http://www.loyalzoo.com/",
+        "twitter": "Loyalzoo",
+        "category": "Startup",
+        "country": "GB",
+        "info": "The easiest digital loyalty system for independent businesses",
+        "imagefile": "client-logo_loyalzoo.png"
+    }
+]

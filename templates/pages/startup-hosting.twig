@@ -1,0 +1,124 @@
+{% extends "layout.twig" %}
+{% set title = "Startup Hosting" %}
+{% set activeClass = 'nav_startup' %}
+{% set bodyClass = 'marketing' %}
+
+{% set cta = {
+    'campaign'        : 'startup',
+    'button_wording_1': 'Sign up',
+    'button_wording_2': 'and get your MVP up and running quickly'
+    }
+%}
+
+
+{% block precontent %}
+<div class="hero photo photo0 oblique-end">
+    <h1 class="oblique-claim zoomIn animlength1 animdelay1 animated">
+        PHP hosting for startups
+    </h1>
+    <p class="type-xxl oblique-sub zoomIn animlength2 animdelay2 animated">
+        <accr title="Platform as a Service">PaaS</accr> for your <accr title="Software as a Service">SaaS</accr>
+        {#Platform as a Service for your Software as a Service.#}
+    </p>
+</div>
+{% endblock %}
+
+
+
+
+
+{% block content %}
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'tattershall',
+    'quoteClasses'   : 'hero-quote pull-up'
+}%}
+
+
+
+<article>
+    <p class="type-l">
+        <b>You are building the final PHP App to rule the world?</b> Great. Let's partner up. We provide you with a managed hosting platform to focus on code instead of infrastructure management. Outsource system operations to us.
+    </p>
+
+
+    <h3 class="m-top-xl">
+        Featured startups on fortrabbit
+    </h3>
+    <div class="gutter-m m-top-m row wrap">
+    {% set startups = getResource("customers", "category", "Startup") %}
+    {% for item in startups %}
+        {% if item.single %}
+        <div class="quarter half-t">
+            <div class="box p-m clientContainer" style="background-image:url({{ assetsremote }}/img/{{ item.imagefile }});">
+                <div class="furtherInfo">
+                    <div title="{{ item.country }}" class="flag icon-{{ item.country | lower }}"></div> 
+                    <span class="type-bold">{{ item.name }}</span>: {{ item.info }}
+                    {% if item.twitter %}
+                        <a title="{{ item.name }} on twitter" href="https://twitter.com/{{ item.twitter }}" class="icon-twitter link-twitter"></a>
+                    {% endif %}
+                    {% if item.url %}
+                        <a title="{{ item.name }} website" href="{{ item.url }}" class="icon-link linkstyle link-url"></a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+    <p class="type-s m-top-m">
+        <a href="/customers">See some more clients</a>
+    </p>
+
+
+
+
+
+
+    <div class="row wrap gutter-xl collapse m-top-xl">
+        <div class="third half-t">
+            <h4>
+                Build
+            </h4>
+            <p>
+                Get your <accr title="Minimal Viable Product">MVP</accr> up and running quickly. Our well defined work-flows are built for agile and continuous development with great team- and deployment-features.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h4>
+                Measure
+            </h4>
+            <p>
+                Do your smoke-, A/B- and whatnot-tests with our easy <a href="{{ help_url }}/multi-staging">multi staging</a>. Get your customer feedback, iterate and pivot, pivot, pivot.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h4>
+                Profit
+            </h4>
+            <p>
+                Grow or shrink instantly. With the consumption based billing and a daily billing period you only pay for what you really use - when you use it.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h4>
+                Collaborate
+            </h4>
+            <p>
+                fortrabbit grows with your business. <a href="{{ help_url }}/collaboration">Teamwork</a> made easy: just invite new team members to access certain or all Apps.
+            </p>
+        </div>
+
+        <div class="third half-t">
+            {% include '/snippets/batteries-included.twig'  %}
+        </div>
+        <div class="third half-t">
+            {% include 'snippets/hosting-a-new-mindset.twig' %}
+        </div>
+        <div class="third half-t">
+            {% include "snippets/why-not-navigation.twig" %}
+        </div>
+    </div>
+</article>
+
+{% endblock %}

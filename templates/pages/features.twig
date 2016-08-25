@@ -1,0 +1,132 @@
+{% extends "layout.twig" %}
+
+{#{% set title            = "How it works" %}#}
+{% set activeClass      = 'nav_features' %} {# obsolete? once here, once down below?! #}
+
+
+{% set header      = random(2) %}
+
+
+{% if header == 0 %}
+{% set bodyClass        = 'marketing' %}
+{% elseif header == 1 %}
+{% set bodyClass        = 'marketing contrast' %}
+{% elseif header == 2 %}
+{% set bodyClass        = 'marketing contrast' %}
+{% endif %}
+
+
+
+{#
+{% set cta = {
+    'campaign'        : 'laravel',
+    'button_wording_1': 'Start your trial',
+    'button_wording_2': 'see Laravel hosting in action'
+    }
+%}
+#}
+
+{# alternative wording:
+fast <span class="amp">&amp;</span> secure.
+Leave the hosting to us. We love to handle your hosting with care.
+We handle your hosting with care and we are closer to you.
+We love to handle the hosting for you.
+Get your code up without detours.
+fortrabbit is the hosting platform that is closer to you.
+We are closer to you. 
+the fastest way to go from idea to URL, bypassing all those infrastructure headaches
+Stop messing with Chef, Puppet and alike.
+Stop reinventing DevOps and wasting time on tedious admin chores
+Bypass infrastructure headaches.
+Get your code up quickly.
+Do the math, traditional hosting is only cheaper when your time has no value.
+PHP hosting for busy People.
+Building apps is hard.
+Let's team up. You code, we deliver. Start small — scale out on demand.
+We don't box you in, so you can outgrow later.
+#}
+
+
+
+
+
+
+{% block precontent %}
+
+{% if header == 0 %}
+<div class="hero lala oblique-end">
+    <h1 class="type-xl oblique-claim">
+        <a class="shadylink" href="/php-hosting">PHP hosting</a><br>
+        <span class="type-thin">for busy people</span>
+    </h1>
+    <p class="type-xl type-serif oblique-claim">
+        Take a shortcut — <code>git push</code> your idea into the wild now.
+    </p>
+</div>
+{% elseif header == 1 %}
+<div class="hero photo photo4 oblique-end">
+    <h1 class="type-xl oblique-claim">
+        More Dev,<br>
+        <span class="type-thin">less Ops</span>
+    </h1>
+    <p class="type-xl type-serif oblique-claim">
+        the easiest way to run PHP on AWS
+    </p>
+</div>
+{% elseif header == 2 %}
+<div class="hero photo photo4 oblique-end">
+    <h1 class="type-xl oblique-claim">
+        High value,<br>
+        <span class="type-thin">low costs</span>
+    </h1>
+    <p class="type-xl type-serif oblique-claim">
+        fully managed PHP on AWS
+    </p>
+</div>
+{% endif %}
+
+
+
+{% endblock %}
+
+
+{% block content %}
+
+
+{# those are not the best texts, also images don't look too nice
+<div class="row gutter-l collapse-t m-top-xl">
+    <div class="half">
+        {% include 'snippets/feature-scaling-alternate.twig' %}
+    </div>
+    <div class="half">
+        {% include 'snippets/feature-collaboration-alternate.twig' %}
+    </div>
+</div>
+#}
+<article class="pull-up" style="margin-top:-11rem">
+    {% include 'snippets/your-benefits.twig' %}
+    {% include 'snippets/feature-frameworks.twig' %}
+    {% include 'snippets/how-it-works.twig' %}
+    {% include 'snippets/feature-screenshots.twig' %}
+    {% include "snippets/videos.twig" %}
+    {% include 'snippets/advanced-arguments.twig' %}
+    {% include 'snippets/feature-location.twig' %}
+</article>
+{% include 'snippets/some-quotes.twig' %}
+
+{#
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'shealan',
+    'quoteClasses'   : 'hero-quote m-top-m'
+}%}
+#}
+{% endblock %}
+
+
+{% set javascripts %}
+    <script>
+        $(function () {
+            $.setActiveClass('nav_features');
+        });
+    </script>
+{% endset %}

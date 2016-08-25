@@ -1,0 +1,157 @@
+{% extends "layout.twig" %}
+
+
+{% set activeClass = 'nav_website' %}
+{% set bodyClass = 'marketing contrast invert' %}
+
+
+{#        
+PHPower to the PHPeople
+hosting a new mindset
+you code, we deliver
+hosting for busy people
+Git things done
+pay as you grow
+more dev, less ops
+think outside the box
+#}
+
+
+{% block experimentcode %}{% endblock %}
+
+
+
+{% block precontent %}
+
+
+
+<div class="homepage oblique-end">
+    <div class="row gutter-xl m-top-xl">
+        <div class="formcontainer">
+            <h3 class="m-top-l">
+                Try it for free
+            </h3>
+            <form class="gutter-no m-top-s" action method="post">
+                <div class="labelinput">
+                    <label class="minilabel" for="e-mail">
+                        Your e-mail address
+                    </label>
+                    <input type="email" name="e-mail" id="e-mail" class="input" autofocus required>
+                </div>
+                <div class="labelinput">
+                    <label class="minilabel" for="e-mail">
+                        Choose a save password
+                    </label>
+                    <input type="password" name="password" id="password" class="input" required minlength="8">
+                    <label for="unmask-password" class="passwordtoggle" data-tooltip="Unveil password">
+                        <span>👀</span>
+                        <input type="checkbox" name="unmask-password" id="unmask-password" checked="checked" value="c">
+                    </label>
+                    <div class="info">
+                        8 chars min
+                    </div>
+                </div>
+                <button class="action">
+                    Create a trial App
+                </button>
+            </form>
+            <p class="type-s m-top-s">
+                Cancel at any time. No Credit card required. <a href="/terms">Terms</a> apply.
+            </p>
+            <script>
+                var chkbox      = document.getElementById('unmask-password');
+                var form        = document.getElementById('form');
+
+                chkbox.addEventListener('click', function (e) {
+                    var password    = document.getElementById('password');
+
+                    password.type = e.currentTarget.checked ? 'password' : 'text';
+                    password.autocomplete = 'off';
+                    password.focus();
+                });
+
+                form.addEventListener('submit', function (e) {
+                    password.type = 'password';
+                });
+            </script>
+        </div>
+        <div class="textcontainer">
+            <h1 class="m-top-m type-black">
+                You don't need a server
+                {#
+                <span class="type-l">This is</span><br>
+                <span class="type-black type-xxl">PHP as a Service</span><br>
+                #}
+            </h1>
+            <p class="type-l">
+                This is <strong>PHP as a Service</strong>.<br>
+                Deploy with Git &amp; Composer. <br>
+                Collaborate with ease. <br>
+                Scale on demand. <br>
+                Have fun.
+            </p>
+        </div>
+
+    </div>
+</div>
+
+{#
+<div class="hero claim-scroller oblique-end">
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            this is
+        </p>
+        <p class="oblique-claim type-xxxl">
+            PHP as a<br>
+            Service
+        </p>
+    </div>
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            imagine it as
+        </p>
+        <p class="oblique-claim type-xxxl">
+            serverless<br>
+            <a href="/php-hosting" class="shadylink">hosting</a>
+        </p>
+    </div>
+    <div class="container">
+        <p class="oblique-sub type-xxl">
+            where
+        </p>
+        <p class="oblique-claim type-xxxl">
+            you code <span class="amp">&amp;</span><br>
+            we deliver
+        </p>
+    </div>
+</div>
+#}
+{% endblock %}
+
+{% block content %}
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'shealan',
+    'quoteClasses'   : 'hero-quote pull-up'
+}%}
+
+
+{% include 'snippets/features.twig' %}
+
+{#
+{% include 'snippets/how-it-works.twig' %}
+#}
+
+{% include 'snippets/some-quotes.twig' %}
+{% endblock %}
+
+
+
+
+{% set javascripts %}
+    <script>
+        $(function () {
+            $.setActiveClass('nav_website');
+        });
+    </script>
+{% endset %}

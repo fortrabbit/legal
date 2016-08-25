@@ -1,0 +1,35 @@
+{# 
+Obsolete:
+
+* other texts, same content: Start small, scale later
+
+
+#}
+<h2 class="m-bottom-s">
+    Scaling
+</h2>
+
+<pre><code>
+
+
+
+        ┌──────────┐  ┌──────┐  ┌─────┐  ┌───────────┐
+        │          ├──▶ HTTP ├──▶ PHP ├──▶   MySQL   │
+        │          │  └──────┘  └─────┘  └───────────┘
+┌────┐  │   Load   │              │           ▲
+│Inet├──▶ Balancer │              ├───────────┤
+└────┘  │          │              │           ▼
+        │          │  ┌──────┐  ┌─────┐  ┌──────────┐
+        │          ├──▶ HTTP ├──▶ PHP ├──▶ Memcache │
+        └──────────┘  └──────┘  └─────┘  └──────────┘
+
+
+</code></pre>
+<p>
+    <b>From xxs to xxl</b>: Start lean with a micro setup, scale very large as you grow. With horizontal scaling redundant setup at virtually any size are possible.
+</p>
+<ul>
+    <li>
+        <a href="{{ help_url }}/app-architecture-video">See the architecture video</a>
+    </li>
+</ul>
