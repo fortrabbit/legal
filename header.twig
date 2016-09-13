@@ -1,33 +1,9 @@
 <header>
-
-    {# Dashboard #}
-
-    {% if user.user %}
-        {% set gravatar = gravatar(user.user.email) %}
-        <nav class="row inverted">
+    <nav class="row inverted">
+        {% if dashboard %}
+            {% set gravatar = gravatar(user.user.email) %}
             {% include 'elements/breadcrumb.twig' %}
-
-            {% if user.user %}
-                <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right account">
-                    <span class="bubble">2</span>
-                    <span class="hide-t">Your Account</span>
-                    <div class="mediacontainer">
-                        <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar }}')"></div>
-                    </div>
-                </a>
-            {% else %}
-                <div class="flex-right row auto" data-user="unknown">
-                    <a class="auto p-m" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-                    <a class="auto p-m primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
-                </div>
-            {% endif %}
-        </nav>
-
-    {# www,blog,help … #}
-
-    {% else %}
-
-        <nav class="row inverted">
+        {% else %}
             <a class="auto p-m fortrabbit" id="nav_website" href="{{ www_url }}">
                 •f<span class="hide-p">ortrabbit</span>
             </a>
@@ -40,28 +16,25 @@
             <a class="auto p-m" id="nav_blog" href="{{ blog_url }}">
                 Blog
             </a>
-
-            <div class="flex-right row auto" data-user="unknown">
-                <a class="auto p-m" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-                <a class="auto p-m primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
+        {% endif %}
+        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right account" data-user="known" style="display:none">
+            {% if user.tasks_count %}
+            <span class="bubble">{{ user.tasks_count }}</span>
+            {% endif %}
+            <span class="hide-t">Your Account</span>
+            <div class="mediacontainer">
+                <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar }}')"></div>
             </div>
-
-            <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right account" data-user="known" {% if dashboard and not user.user %}style="display:none"{% endif %}>
-                Your Account
-                <div class="mediacontainer">
-                    <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar_user }}')"></div>
-                </div>
-            </a>
-
-        </nav>
-    {% endif %}
-
-    {# TODO: when do we need to load this? #}
-    {% if not dashboard %}
-    <script>
-        $(function(){
-            $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
-        });
-    </script>
-    {% endif %}
+        </a>
+        <div class="flex-right row auto" data-user="unknown">
+            <a class="auto p-m" id="nav_login" href="{{ dashboard_url }}">Log in</a>
+            <a class="auto p-m primary" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
+        </div>
+    </nav>
 </header>
+
+<script>
+    $(function(){
+        $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
+    });
+</script>
