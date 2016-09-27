@@ -1,0 +1,27 @@
+{# This little teaser to signup can be used beside articles, blog, help #}
+
+<div class="fixedsticky m-top-xl">
+    <h5 class="sectionHeading">
+        About fortrabbit
+    </h5>
+    <p>
+        {{ random([
+        "fortrabbit is PHP hosting for busy people. Take a shortcut, git push your idea into the wild now.",
+        "fortrabbit is PHP as a Service. Imagine it as serverless hosting – where you code and we deliver.",
+        "High value, low costs. fortrabbit is a fully managed PHP hosting platform.",
+        "fortrabbit is the PHP hosting platform to run and scale your PHP apps in a managed cloud."
+        ]) }}
+    </p>
+    <div class="row gutter-xs">
+        <div>
+            <a href="{{ www_url }}" class="action b-2 p-s">
+                ‹ Learn more
+            </a>
+        </div>
+        <div>
+            <a href="{{ dashboard_url }}/signup" class="action b-2 p-s">
+                Sign up free ›
+            </a>
+        </div>
+    </div>
+</div>

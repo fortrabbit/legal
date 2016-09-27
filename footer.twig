@@ -38,7 +38,8 @@
 </footer>
 
 {% if not dashboard %}
-<footer class="marketing_footer" data-user="unknown">
+<footer class="marketing" data-user="unknown">
+
     {% if not hideMainCta %}
     <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action auto type-l fwdcta p-l m-bottom-m" style="display:inline-block;z-index:10000" id="{{ identifier }}" data-user="unknown">
         {{ button_wording_1 }}
@@ -76,9 +77,6 @@
             <div class="gutter-no m-top-s">
                 <a class="row type-s status none" href="http://status.fortrabbit.com" id="status">
                     Status
-                </a>
-                <a class="type-s" href="https://twitter.com/fortrabbit">
-                    Twitter
                 </a>
                 <a id="nav_contact" class="type-s" href="{{ www_url }}/contact">
                     Contact
@@ -126,8 +124,17 @@
             </div>
         </div>
     </nav>
-    <p class="type-xs m-top-xl m-bottom-m">
-        <span class="fortrabbit">•fortrabbit</span>&emsp;is made in Berlin &amp; powered by Amazon Web Services.
-    </p>
+    <div class="row m-top-xl m-bottom-l">
+        <div class="type-s hide-t m-top-m">
+            <span class="fortrabbit">•fortrabbit</span>
+            <span>&emsp;is made in Berlin &amp; powered by Amazon Web Services.</span>
+        </div>
+        <div class="auto type-l">
+            <a class="icon-twitter"  href="https://twitter.com/fortrabbit"></a>
+            <a class="icon-facebook" href="https://www.facebook.com/fortrabbit"></a>
+            <a class="icon-github"   href="https://github.com/fortrabbit/"></a>
+        </div>
+    </div>
+    
 </footer>
 {% endif %}
