@@ -1,4 +1,4 @@
-<footer class="row type-s inverted m-top-m" {% if not dashboard %}data-user="known"{% endif %}>
+<footer class="row type-s inverted m-top-xxl" {% if not dashboard %}data-user="known"{% endif %}>
     {% if user.user %}
     <a class="auto p-s fortrabbit" id="nav_website" href="{{ www_url }}">
         •fortrabbit
@@ -6,15 +6,12 @@
     <a class="auto p-s" id="nav_specs" href="{{ www_url }}/specs">
         Specs
     </a>
-
     <a class="auto p-s" id="nav_specs" href="http://status.fortrabbit.com">
         Status
     </a>
-
     <a class="auto p-s" id="nav_help" href="{{ help_url }}">
         Help
     </a>
-
     <a class="auto p-s" id="nav_blog" href="{{ blog_url }}">
         Blog
     </a>
@@ -31,9 +28,13 @@
         Users
     </a>
     {% elseif not dashboard and not user.user %}
-    <a class="auto p-s" id="nav_dashboard" href="{{ dashboard_url }}">
+    <a class="auto p-s type-bold" id="nav_dashboard" href="{{ dashboard_url }}">
         ‹ Back to the Dashboard
     </a>
+    <a class="auto p-s" id="nav_specs" href="{{ www_url }}/specs">Specs</a>
+    <a class="auto p-s" id="nav_specs" href="http://status.fortrabbit.com">Status</a>
+    <a class="auto p-s" id="nav_contact" href="{{ www_url }}/contact">Contact</a>
+    <a class="auto p-s" id="nav_terms" href="{{ www_url }}/terms">Terms</a>
     {% endif %}
 </footer>
 
@@ -116,9 +117,6 @@
             <div class="gutter-no m-top-s">
                 <a class="type-s" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
                 <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Privacy policy</a>
-                {#
-                <a id="nav_privacy" class="type-s" href="{{ www_url }}/privacy-policy">Cookies</a>
-                #}
                 <a id="nav_terms" class="type-s" href="{{ www_url }}/terms">Terms</a>
                 <a id="nav_sla" class="type-s" href="{{ www_url }}/sla">SLA</a>
             </div>
