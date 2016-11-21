@@ -1,7 +1,7 @@
 Allgemeine Geschäftsbedingungen von fortrabbit
 ==========================
 
-zuletzt geändert: 12. Februar 2016
+zuletzt geändert: 21. November 2016
 
 
 
@@ -72,7 +72,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 § 8 Laufzeit und Kündigung
 --------------------------
 
-1.  Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform z.B. via E-Mail (§ 126 b BGB) oder über das Web Control Panel gekündigt werden.
+1.  Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform (§ 126 b BGB) gekündigt werden.
 2.  Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Web Control Panel kündigen.
 3.  Der Anbieter kann den Vertrag mit einer Frist von 12 Wochen kündigen.
 4.  Das vorzeitige Kündigungsrecht aus wichtigem Grund bleibt den Parteien unbenommen.
