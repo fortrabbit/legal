@@ -1,13 +1,13 @@
 Service level agreement of fortrabbit
 =====================================
 
-last amended on February 12th, 2016
+last amended on November 21th, 2016
 
-1.  fortrabbit will use commercially reasonable efforts to make the fortrabbit platform available with a monthly uptime percentage (defined under sec. 2 of this SLA) depending on the product chosen by you during any monthly billing cycle. In the event fortrabbit does not meet the guaranteed uptime, you will be eligible to receive a Service Credit as described under sec. 6 of this SLA.
+1.  fortrabbit will use commercially reasonable efforts to make the fortrabbit platform available with a monthly uptime percentage (defined under sec. 2 of this SLA) depending on the product chosen by you during any monthly billing cycle. In the event fortrabbit does not meet the guaranteed uptime, you will be eligible to receive a service credit as described under sec. 6 of this SLA.
 
     *  **no uptime guaranteed** during trial
-    *  **99% uptime** in general (tinkering plans)
-    *  **99.9% uptime** for scaling Components with two ore more Nodes (production plans)
+    *  **99% uptime** in general for Universal and Professional development plans
+    *  **99.9% uptime** for scaling Components with two ore more Nodes — Professional production plans
 
 2.  Monthly uptime percentage means the total number of minutes in a monthly billing cycle the fortrabbit storage system was connected to the internet ready to receive and provide information minus the number of minutes of downtime suffered in a monthly billing cycle, divided by the total number of minutes in a monthly billing cycle.
 3.  The provider reserves the right to temporarily restrict the access of certain internet users or internet user groups to the provided services, if the security of network operations, integrity of the network and/or hosted data is endangered.
