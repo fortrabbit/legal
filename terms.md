@@ -1,7 +1,7 @@
 General terms & conditions of fortrabbit
 ========================================
 
-last amended on February 12th, 2016
+last amended on November 21th, 2016
 
 
 
@@ -72,7 +72,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 § 8 Duration and termination
 ----------------------------
 
-1.  The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract in a written form (email or via Dashboard).
+1.  The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract.
 2.  The customer may terminate the contract without reason for the future effect in the Dashboard.
 3.  The provider shall terminate the contract with a term of 12 weeks.
 4.  In all cases each of the parties may terminate the contract instantly, if the termination party can base the termination on an important reason.
