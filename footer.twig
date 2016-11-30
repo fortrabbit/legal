@@ -1,24 +1,38 @@
-<footer class="userfooter m-top-xxl" {% if not dashboard %}data-user="known"{% endif %}>
+{% if user.user %}
+
+<footer class="userfooter m-top-l" {% if not dashboard %}data-user="known"{% endif %}>
     <div class="row inverted type-s p-s">
         <a class="auto p-s fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
 
         <a class="auto p-s" id="nav_help" href="{{ help_url }}">Help</a>
         <a class="auto p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
-        <a class="auto p-s" id="nav_specs" href="{{ www_url }}/specs">Specs</a>
+        <a class="auto p-s hide-t" id="nav_specs" href="{{ www_url }}/specs">Specs</a>
         <a class="auto p-s" id="nav_specs" href="http://status.fortrabbit.com">Status</a>
         <a class="auto p-s" id="nav_terms" href="{{ www_url }}/terms">Terms</a>
 
-        <a class="auto p-s m-left-m" id="nav_dashboard" href="{{ dashboard_url }}">Dashboard</a>
+        {% if not dashboard %}
+        <a class="auto p-s m-left-m" id="nav_dashboard"  href="{{ dashboard_url }}">Dashboard</a>
+        {% endif %}
+
+        {% if user.user %}
         <a class="auto p-s hide-t" id="nav_apps" href="{{ dashboard_url }}/apps">Apps</a>
         <a class="auto p-s hide-t" id="nav_activities" href="{{ dashboard_url }}/activities">Activities</a>
         <a class="auto p-s hide-t" id="nav_users" href="{{ dashboard_url }}/users">Users</a>
-        <a class="auto p-s hide-p" id="nav_support" href="{{ dashboard_url }}/company-plans">Company plans</a>
+        <a class="auto p-s hide-t" id="nav_support" href="{{ dashboard_url }}/company-plans">Company plans</a>
+        {% endif %}
     </div>
 </footer>
 
-{% if not dashboard %}
-<footer class="pagefooter inverted" data-user="unknown">
+{% endif %}
 
+
+
+
+
+{% if not dashboard %}
+<footer class="pagefooter inverted">
+
+    {# TODO: back to the dashboard #}
     {% if not hideMainCta %}
     <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action fancy auto type-l fwdcta p-l m-bottom-m" style="display:inline-block;z-index:10000" id="{{ identifier }}" data-user="unknown">
         {{ button_wording_1 }}
@@ -32,16 +46,10 @@
             <h5>Hosting a new mindset</h5>
             <div class="gutter-no m-top-s">
                 <a id="nav_laravel" href="{{ www_url }}/laravel-hosting" title="High performance Laravel PHP hosting">Laravel</a>
-                {#
-                <a id="nav_drupal8" href="{{ www_url }}/drupal-hosting" title="High performance Drupal PHP hosting">Drupal 8</a>
-                #}
                 <a id="nav_wordpress" href="{{ www_url }}/wordpress-hosting"  title="WordPress hosting in the cloud">WordPress</a>
                 <a id="nav_craft" href="{{ www_url }}/craft-hosting"  title="Craft CMS hosting">Craft CMS</a>
                 <a id="nav_symfony" href="{{ www_url }}/symfony-hosting" title="High performance Symfony PHP hosting">Symfony</a>
                 <a id="nav_phalcon" href="{{ www_url }}/phalcon-hosting"  title="High performance Phalcon PHP hosting">Phalcon</a>
-                {# too long footer, deeplink in: 
-                <a id="nav_php7" class="type-s" href="{{ www_url }}/php7-hosting"  title="PHP 7 hosting">PHP 7</a>
-                #}
             </div>
         </div>
 
@@ -88,16 +96,15 @@
         <div class="m-top-l">
             <h5>Digg deeper</h5>
             <div class="gutter-no m-top-s">
-                {#<a id="nav_specs" href="{{ www_url }}/specs" title="Universal plans and limits">Specs &amp; numbers</a>#}
                 <a id="nav_teamwork" href="{{ help_url }}/collaboration"  title="Hosting with team work">Teamwork</a>
                 <a id="nav_security" href="{{ help_url }}/security"  title="Secure PHP hosting">Security</a>
-                <a  id="nav_billing" href="{{ help_url }}/billing"  title="Fair billing">Billing</a>
+                <a id="nav_billing" href="{{ help_url }}/billing"  title="Fair billing">Billing</a>
             </div>
         </div>
         <div class="m-top-l">
             <h5>Legal</h5>
             <div class="gutter-no m-top-s">
-                <a href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
+                <a id="nav_imprint" href="{{ www_url }}/contact#legal-notice" title="Imprint">Site notice</a>
                 <a id="nav_privacy" href="{{ www_url }}/privacy-policy">Privacy policy</a>
                 <a id="nav_terms" href="{{ www_url }}/terms">Terms</a>
                 <a id="nav_sla" href="{{ www_url }}/sla">SLA</a>
