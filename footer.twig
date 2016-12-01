@@ -1,7 +1,7 @@
 {% if user.user %}
 
 <footer class="userfooter m-top-l" {% if not dashboard %}data-user="known"{% endif %}>
-    <div class="row inverted type-s p-s">
+    <div class="row inverted type-s">
         <a class="auto p-s fortrabbit" id="nav_website" href="{{ www_url }}">•fortrabbit</a>
 
         <a class="auto p-s" id="nav_help" href="{{ help_url }}">Help</a>
@@ -15,10 +15,11 @@
         {% endif %}
 
         {% if user.user %}
-        <a class="auto p-s hide-t" id="nav_apps" href="{{ dashboard_url }}/apps">Apps</a>
+        <a class="auto p-s hide-t m-left-m" id="nav_apps" href="{{ dashboard_url }}/apps">Apps</a>
         <a class="auto p-s hide-t" id="nav_activities" href="{{ dashboard_url }}/activities">Activities</a>
         <a class="auto p-s hide-t" id="nav_users" href="{{ dashboard_url }}/users">Users</a>
         <a class="auto p-s hide-t" id="nav_support" href="{{ dashboard_url }}/company-plans">Company plans</a>
+        <a class="auto p-s hide-t flex-right" id="nav_account" href="{{ dashboard_url }}/logout">Log out ›</a>
         {% endif %}
     </div>
 </footer>
@@ -34,9 +35,13 @@
 
     {# TODO: back to the dashboard #}
     {% if not hideMainCta %}
+    
     <a href="{{ dashboard_url }}/signup?{{ campaign }}" class="action fancy auto type-l fwdcta p-l m-bottom-m" style="display:inline-block;z-index:10000" id="{{ identifier }}" data-user="unknown">
         {{ button_wording_1 }}
         <span class="type-thin">— {{ button_wording_2 }}</span>
+    </a>
+    <a href="{{ dashboard_url }}/" class="action fancy auto type-l p-l m-bottom-m" style="display:inline-block;z-index:10000" data-user="known">
+        Go back to the Dashboard ›
     </a>
     {% endif %}
 
