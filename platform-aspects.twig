@@ -1,0 +1,198 @@
+{#
+
+TODO:
+
+Most imprtantly: !!! compare and merge best passages with this text:
+/snippets/platform-old-features-section.twig
+
+* review outgoing links: are they general of for a stack?
+* review local links (IDs)
+* review if you can maybe delete whole blocks - less is more! see the layout, three in a row. looks best when: total blocks devidaable by three, and by two ;)
+
+#}
+
+
+
+<h2 class="m-top-xxl type-xxl" id="platform-aspects">
+    Platform features
+</h2>
+
+<div class="row wrap gutter-l m-top-xl collapse">
+    <div class="third half-t">
+        <h3 id="managed-hosting">
+            Managed hosting
+        </h3>
+        <p>
+            You code and deploy. We take care of the platform, the deployment process, the database and the Operating System.
+        </p>
+        <p>
+            <a href="{{ help_url }}/security">See our security article ›</a>
+        </p>
+    </div>
+
+    <div class="third half-t">
+        <h3 id="pay-per-app">
+            1 App = 1 website
+        </h3>
+        <p>
+            Each App is an isolated container for one website. Collaboration is flexible. Resources are individually scalable. Create and kill Apps at any time.
+        </p>
+        <p>
+            {# 
+                TODO: 
+                following the link doesn't really explain the platform. find another link or write something about the platform in that article. also see trello ticket in help on that art.
+            #}
+            <a href="{{ help_url }}/app">Learn more the architecture ›</a>
+        </p>
+    </div>
+
+    <div class="third half-t">
+        <h3 id="memory">
+            Dedicated PHP RAM
+        </h3>
+        <p>
+            The memory is dedicated for PHP usage per App. Unlike with other hosting it is not shared with the operating system or other resources.
+        </p>
+        <p>
+            <a href="{{ www_url }}/specs#compatible-software">See compatible software list ›</a>
+        </p>
+    </div>
+
+    <div class="third half-t">
+        <h3 id="php">
+            Fast &amp; secure PHP
+        </h3>
+        <p>
+            Isolated, dedicated, reserved PHP processes via FPM are fast, secure and robust. PHP 7 for ultimate speed is standard.
+        </p>
+    </div>
+
+    <div class="third half-t">
+        <h3 id="git">
+            Git
+        </h3>
+        <p>
+            Each App has a dedicated Git repo. Just <code>git push</code> and see your code changes online almost instantly.
+        </p>
+        <p>
+            <a href="{{ help_url }}/git-deployment">See Git deployment on fortrabbit ›</a>
+        </p>
+    </div>
+
+
+    <div class="third half-t">
+        <h3 id="composer">
+            Composer
+        </h3>
+        <p>
+            Composer install is integrated in the deployment process: Dependencies are automatically handled after each `git push`.
+        </p>
+        <p>
+            <a href="{{ help_url }}/composer">See how to use Composer here ›</a>
+        </p>
+    </div>
+
+
+    <div class="third half-t">
+        <h3 id="mysql">
+            Decoupled MySQL
+        </h3>
+        <p>
+            MySQL is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources. 
+            {# 
+            TODO: review, re-edit, otherwise remove this old text:
+            is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources.  The storage cap is a soft limit. Additional MySQL storage will available for €6 monthly per GB.
+            #}
+        </p>
+        {# TODO: what  #}
+        <p>
+            <a href="{{ help_url }}/mysql">Explore MySQL options ›</a>
+        </p>
+    </div>
+
+
+    <div class="third half-t">
+        <h3 id="https">
+             Automatic HTTPS
+        </h3>
+        <p>
+            Secure connections on all domains are standard. TLS Certificates are provided by Let's Encrypt and installed automatically. 
+            {#
+            TODO: 
+            delete the following or reorder somewhere else, here it is too long and TMI.
+
+            You can also bring your own SSL certificates, for even more security and support for wildcard domains.
+            #}
+        </p>
+        <p>
+            <a href="{{ help_url }}/https">Using HTTPS on fortrabbit ›</a>
+        </p>
+    </div>
+
+
+    <div class="third half-t">
+        <h3 id="collaboration">
+            Collaboration
+        </h3>
+        <p>
+            Never share passwords by e-mail again! Securly grant access using App level collaboration. Map real world business relationships with one login.
+        </p>
+        <p>
+            <a href="{{ help_url }}/collaboration">Learn about collaboration ›</a>
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3 id="metrics">
+            Performance metrics
+        </h3>
+        {% if not dashboard %}
+            {% include 'snippets/performance-graph.twig' %}
+        {% endif %}
+        <p>
+            Monitor performance right in the Dashboard. {% if dashboard %} Identify problems and bottlenecks.{% endif %}
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3 id="limits">
+            App alerts
+            {#Resource control#}
+        </h3>
+        <p>
+            Get notified whenever your App approaches a resource limit. View the historic usage metrics of your App in the Dashboard.
+        </p>
+        <p>
+            <a href="{{ help_url }}/company#toc-automatic-resource-exhaustion-alerts">Learn about automatic alerts ›</a>
+        </p>
+    </div>
+
+    {# 
+    
+    TODO: 
+    remove this, let's be honest here. scaling is actually a PRO feature, not Uni, not platform, just PRO.
+
+    <div class="third half-t">
+        <h3 id="scaling">
+            Scale on demand
+        </h3>
+        <p>
+            Need some more resources or an extra feature? Scale up in seconds in the Dashboard. Beyond the Universal Stack, the Professional Stack features vertical and horizontal scaling to really go large.
+        </p>
+    </div>
+    #}
+
+    <div class="third half-t">
+        <h3 id="billing">
+            Fair billing
+        </h3>
+        <p>
+            With consumption based billing and a precise daily settlement you pay only for what you are using.
+        </p>
+        <p>
+            <a href="{{ help_url }}/billing">Learn about our fair billing ›</a>
+        </p>
+    </div>
+</div>
+
+<p class="m-top-xl m-bottom-m type-l">
+    <a href="{{ www_url }}/features">Explore how it works ›</a>
+</p>
