@@ -3,7 +3,7 @@ Imprint according to German law (§5 TMG)
 **Register entry**  
 HRB 154552 B  
 
-**Register court**  
+**Commercial register**  
 Berlin (Charlottenburg)
 
 **UID (VAT IN)**  
