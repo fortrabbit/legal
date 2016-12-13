@@ -1,0 +1,38 @@
+<div class="tabrow m-bottom-m">
+
+    {#
+    <h2 class="m-top-l m-bottom-s type-center">
+        Choose a Stack
+    </h2>
+    #}
+
+    {#
+    <div class="row m-top-xl m-bottom-s type-center">
+        <h3>
+            Choose a Stack
+        </h3>
+        <div class="type-s right auto flex-right">
+            <a href="{{ help_url }}" class="linkstyle">Compare stacks &rarr;</a>
+        </div>
+    </div>
+    #}
+    <div class="m-top-l">
+    {% include 'snippets/currency-period-chooser.twig' with {
+        'currency': currency,
+        'inverted': true
+    } %}
+    </div>
+    <menu class="row gutter-no m-top-s">
+
+        <a href="/{{ link }}" class="tab auto p-m{% if stack == 'uni' %} active{% endif %}">
+            <div>
+                <span class="type-bold">Universal Stack</span>
+                <span class="type-thin hide-p">for websites</span>
+            </div>
+        </a>
+        <a href="/{{ link }}-pro" class="tab p-m{% if stack == 'pro' %} active{% endif %}">
+            <span class="type-bold">Professional Stack</span>
+            <span class="type-thin hide-p">for modern web applications </span>
+        </a>
+    </menu>
+</div>

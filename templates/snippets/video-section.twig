@@ -1,0 +1,71 @@
+{% macro videothumb(title, text, image, link, assetsremote, help_url) %}
+<div class="third half-phone half-t">
+    <h4 class="m-bottom-s">
+        {{ title }}
+    </h4>
+    <a class="video-thumb" href="{{ help_url }}/{{ link }}">
+        <img src="{{ assetsremote }}/img/{{ image }}" alt="{{ title }}">
+    </a>
+    <p>
+        {{ text }}
+    </p>
+</div>
+{% endmacro %}
+
+
+{% import _self as asd %}
+
+<h2 class="m-top-xl type-xxl">
+    Video sessions
+</h2>
+<div class="row gutter-l m-top-l wrap visited collapse">
+    {#                  video title                       image                                 link    #}
+    {{ asd.videothumb( 
+        'Behind the scenes', 
+        'See what happens in the background when you deploy. From the build part, over the release, to the final distribution.', 
+        'video-deployment-architecture.jpg',  
+        'deployment-architecture-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+    {{ asd.videothumb( 
+        'App architecture',               
+        'See how an App is distributed among multiple decoupled nodes. Each node is optimized for a single service. Each service can be scaled individually.',               
+        'video-app-architecture.jpg',         
+        'app-architecture-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+    {{ asd.videothumb( 
+        'Consumption based billing',            
+        'See our the monthly billing cylce. Learn how you billed only for actual used resources on a daily billing period. ',
+        'video-billing.jpg',                  
+        'billing-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+    {{ asd.videothumb( 
+        'Git deployment',
+        'See the famous 1 minute "Hello World" deployment demo. Watch an annotated shell transcript.',
+        'video-basic-deployment.jpg',
+        'basic-deployment-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+    {{ asd.videothumb( 
+        'Teamwork',
+        'See real world example of what you can actually do with the collaboration features.',
+        'video-teamwork.jpg',
+        'teamwork-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+    {{ asd.videothumb( 
+        'Serverless hosting',
+        'See how the fortrabbit platform compares to classical VPS hosting.',
+        'video-fortrabbit-vs-vps.jpg',
+        'fortrabbit-vs-vps-video', 
+        assetsremote, 
+        help_url  
+    ) }}
+</div>

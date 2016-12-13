@@ -1,17 +1,3 @@
-{#
-
-TODO:
-
-Most imprtantly: !!! compare and merge best passages with this text:
-/snippets/platform-old-features-section.twig
-
-* review outgoing links: are they general of for a stack?
-* review local links (IDs)
-* review if you can maybe delete whole blocks - less is more! see the layout, three in a row. looks best when: total blocks devidaable by three, and by two ;)
-
-#}
-
-
 
 <h2 class="m-top-xxl type-xxl" id="platform-aspects">
     Platform features
@@ -38,10 +24,6 @@ Most imprtantly: !!! compare and merge best passages with this text:
             Each App is an isolated container for one website. Collaboration is flexible. Resources are individually scalable. Create and kill Apps at any time.
         </p>
         <p>
-            {# 
-                TODO: 
-                following the link doesn't really explain the platform. find another link or write something about the platform in that article. also see trello ticket in help on that art.
-            #}
             <a href="{{ help_url }}/app">Learn more the architecture ›</a>
         </p>
     </div>
@@ -98,13 +80,8 @@ Most imprtantly: !!! compare and merge best passages with this text:
             Decoupled MySQL
         </h3>
         <p>
-            MySQL is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources. 
-            {# 
-            TODO: review, re-edit, otherwise remove this old text:
-            is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources.  The storage cap is a soft limit. Additional MySQL storage will available for €6 monthly per GB.
-            #}
+            MySQL is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources.
         </p>
-        {# TODO: what  #}
         <p>
             <a href="{{ help_url }}/mysql">Explore MySQL options ›</a>
         </p>
@@ -116,13 +93,7 @@ Most imprtantly: !!! compare and merge best passages with this text:
              Automatic HTTPS
         </h3>
         <p>
-            Secure connections on all domains are standard. TLS Certificates are provided by Let's Encrypt and installed automatically. 
-            {#
-            TODO: 
-            delete the following or reorder somewhere else, here it is too long and TMI.
-
-            You can also bring your own SSL certificates, for even more security and support for wildcard domains.
-            #}
+            Secure connections on all domains are standard. TLS Certificates are provided by Let's Encrypt and installed automatically. Custom certificates are support as well.
         </p>
         <p>
             <a href="{{ help_url }}/https">Using HTTPS on fortrabbit ›</a>
@@ -164,21 +135,6 @@ Most imprtantly: !!! compare and merge best passages with this text:
             <a href="{{ help_url }}/company#toc-automatic-resource-exhaustion-alerts">Learn about automatic alerts ›</a>
         </p>
     </div>
-
-    {# 
-    
-    TODO: 
-    remove this, let's be honest here. scaling is actually a PRO feature, not Uni, not platform, just PRO.
-
-    <div class="third half-t">
-        <h3 id="scaling">
-            Scale on demand
-        </h3>
-        <p>
-            Need some more resources or an extra feature? Scale up in seconds in the Dashboard. Beyond the Universal Stack, the Professional Stack features vertical and horizontal scaling to really go large.
-        </p>
-    </div>
-    #}
 
     <div class="third half-t">
         <h3 id="billing">

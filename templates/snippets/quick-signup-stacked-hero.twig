@@ -1,0 +1,111 @@
+<div class="row gutter-xl collapse-t m-top-xxl">
+    <div style="flex-basis:45%; flex-grow:0" data-user="unknown">
+        {% if headline %}
+        <h2 class="m-bottom-m">
+            {{ headline }}
+        </h2>
+        {% endif %}
+        <form class="gutter-no" action="{{ dashboard_url }}/signup" method="post">
+            <div class="labelinput m-top-s">
+                <label class="minilabel" for="email">
+                    Your e-mail address
+                </label>
+                <input type="email" name="email" id="email" class="input type-l" autofocus required data-focus="1">
+            </div>
+            <div class="labelinput">
+                <label class="minilabel" for="password">
+                    Choose a save password
+                </label>
+                <input type="password" name="password" id="password" class="input type-l" required minlength="8">
+                <div class="info">
+                    8 chars min
+                </div>
+
+                {% if (campaign is defined) %}
+                    <input type="hidden" name="campaign" value="{{ campaign }}">
+                {% endif %}
+
+            </div>
+            <button class="action type-l" type="submit">
+                {% if button %}{{ button }}{% else %}Test it for free{% endif %}
+            </button>
+            <div class="teaser">
+                <p class="type-s m-top-s">
+                    Cancel at any time. No Credit card required. <a href="{{ www_url }}/terms">Terms</a> apply.
+                </p>
+            </div>
+        </form>
+    </div>
+    <div data-user="known">
+        <a href="{{ dashboard_url }}" class="action fancy type-xl p-l clip inline">Go to the Dashboard ›</a>
+    </div>
+
+    {% if showTeaser %}
+    <div class="teaser">
+        <p class="type-xl read-m">
+            The <span class="type-bold tag">Universal Stack</span> is here — our new hosting generation 
+            starting at only <span data-currency>€</span>3 monthly.
+        </p>
+        <p class="type-m">
+            <a href="/pricing">See plans &amp; pricing ›</a>
+        </p>
+        <p class="type-m">
+            <a href="{{ blog_url }}/universal-stack-launched">Read what's new ›</a>
+        </p>
+    </div>
+    {#
+    that looks ugly, there is a logo below!
+    {% elseif (showBatteries) %}
+    <div class="teaser m-top-l type-s third">
+        {% include '/snippets/batteries-included.twig'  %}
+    </div>
+    #}
+    {% endif %}
+
+    {# 
+
+    TODO: here are some alternative texts … whcih version is best?  or maybe it's better to have some more white space! 
+
+    <div class="hide-t" data-user="unknown">
+
+        version 1 : 
+        focus on personal + different! 
+
+        <p class="type-xl type-thin m-top-xl">
+            fortrabbit hosting is: fast, secure, scalable and DIFFERENT. Check it out yourself: deploy your first App right away.
+        </p>
+
+
+        version 2 : 
+        step by steps (.row needs class .gutter-xl)
+
+
+        <ol class="type-l m-top-l type-thin">
+            <li>
+                Sign up to create a free trial App
+            </li>
+            <li>
+                Check out a different kind of hosting
+            </li>
+            <li>
+                Upgrade for only <b style="white-space: nowrap">3 € monthly</b>
+            </li>
+            <li>
+                Scale on demand
+            </li>
+            <li>
+                Repeat
+            </li>
+        </ol>
+
+        version 3 :
+        like version 1 but more on steps (should have a headline)
+
+
+        <p class="type-l type-thin">
+            Experience a different kind of hosting yourself. Sign up to create a trial App right away. Upgrade to a small App for only <b>3 € monthly</b>. Scale to millons of visitors at any time.
+        </p>
+    </div>
+    #}
+
+</div>

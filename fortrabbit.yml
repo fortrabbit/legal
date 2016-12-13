@@ -1,0 +1,10 @@
+---
+# to differentiate from the deployment files of the old Apps
+version: 2
+
+
+post:
+
+    # relative to ~/htdocs
+    path: getPricing.php
+

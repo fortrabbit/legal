@@ -1,0 +1,98 @@
+<div class="sectionHeading row" id="firewall">
+    <h4>
+        Firewall white-listings
+    </h4>
+    <a href="{{ help_url }}/quirks#toc-firewalling" class="auto linkstyle flex-end type-s">
+        About firewalling
+    </a>
+</div>
+<div class="scrolltablewrapper">
+    <table class="dense">
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Port</th>
+            </tr>
+        </thead>
+        <tbody>
+            {# While 20 & 21 are open, FTP is not possible so do better not promote it
+            <tr>
+                <td>File Transport Protocol (FTP)</td>
+                <td class="numbers">20</td>
+            </tr>
+            <tr>
+                <td>FTP control</td>
+                <td class="numbers">21</td>
+            </tr>
+            #}
+            <tr>
+                <td>Secure Shell (SSH)</td>
+                <td class="numbers">22</td>
+            </tr>
+            <tr>
+                <td>Simple Mail Transfer Protocol (SMTP)</td>
+                <td class="numbers">25</td>
+            </tr>
+            <tr>
+                <td>Domain Name System (DNS)</td>
+                <td class="numbers">53</td>
+            </tr>
+            <tr>
+                <td>Hypertext Transfer Protocol (HTTP)</td>
+                <td class="numbers">80</td>
+            </tr>
+            <tr>
+                <td>Post Office Protocol (POP3), Authenticated Post Office Protocol (APOP)</td>
+                <td class="numbers">110</td>
+            </tr>
+            <tr>
+                <td>Secure Sockets Layer (SSL, "HTTPS")</td>
+                <td class="numbers">443</td>
+            </tr>
+            <tr>
+                <td>Message Submission (Authenticated SMTP)</td>
+                <td class="numbers">465</td>
+            </tr>
+            <tr>
+                <td>Message Submission (Authenticated SMTP)</td>
+                <td class="numbers">587</td>
+            </tr>
+            <tr>
+                <td>IMAP SSL</td>
+                <td class="numbers">993</td>
+            </tr>
+            <tr>
+                <td>POP SSL</td>
+                <td class="numbers">995</td>
+            </tr>
+            <tr>
+                <td>Apple Push Notifications (APNs)</td>
+                <td class="numbers">2195</td>
+            </tr>
+            <tr>
+                <td>Apple Push Notifications (APNs)</td>
+                <td class="numbers">2196</td>
+            </tr>
+            <tr>
+                <td>MySQL</td>
+                <td class="numbers">3306</td>
+            </tr>
+            <tr>
+                <td>PostgreSQL</td>
+                <td class="numbers">5432</td>
+            </tr>
+            <tr>
+                <td>Alternate Hyper Text Transfer Protocol (HTTP) port</td>
+                <td class="numbers">8080</td>
+            </tr>
+            <tr>
+                <td>Elastic(Search)</td>
+                <td class="numbers">9200</td>
+            </tr>
+            <tr>
+                <td>Git</td>
+                <td class="numbers">9418</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

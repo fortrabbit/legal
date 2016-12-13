@@ -1,0 +1,143 @@
+{% extends "layout.twig" %}
+
+{% set title       = "Hosting for web designers and freelancers" %}
+{% set activeClass = 'nav_web_designer' %}
+{% set bodyClass   = 'marketing' %}
+
+{% set cta = {
+    'campaign'        : 'freelancer',
+    'button_wording_1': 'Sign up',
+    'button_wording_2': 'and test it for free, no credit card required'
+    }
+%}
+
+
+
+
+
+{% block precontent %}
+
+<div class="hero oblique-end">
+    <h1 class="type-xxxl">
+        PHP hosting
+    </h1>
+    <p class="claim">
+        for web designers
+    </p>
+    {% include 'snippets/quick-signup-stacked-hero.twig' with {
+        'headline': 'Try a different PHP hosting',
+        'campaign': 'freelancer'
+    }%}
+</div>
+
+{% endblock %}
+
+
+
+
+
+
+{% block content %}
+
+
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'silentworks',
+    'quoteClasses'   : 'hero-quote m-top-xl',
+    'quoteTextClass' : 'type-xl p-l read-xl pull-up'
+}%}
+
+
+
+<!-- calm, fitter, healthier and more productive a pig in a cage on antibiotics. -->
+
+<p class="type-xl m-top-xxl">
+    <b>Are you the famous full stack freelancing PHP web developer?</b> Great! Let's team up! We have automated SysOps so you don't have to. Focus on coding, while we provide you with a managed cloud hosting platform.
+</p>
+
+
+<div class="row gutter-l wrap collapse m-top-xl">
+    <div class="third half-t">
+        <h3>
+            Be yourself
+        </h3>
+        <p>
+            We are what you do and we understand your culture. This service exists because we were fed up with other hosting solutions out there. This is the hosting we wanted to have for ourselves — we hope you like it.
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3>Get happy</h3>
+        <p>
+            Stop tinkering with Linux and enjoy the well defined yet flexible development and deployment workflows. Wear our toolbelt of built-in helpers and features.
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3>
+            Collaborate
+        </h3>
+        <p>
+            {#Collaboration features map real world scenarios. #}This is the only hosting platform that maps your real-life business relations. Manage multiple businesses and Apps from one account — from code access to billing. Transfer Apps to colleagues or clients.
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3>
+            Kill at will
+        </h3>
+        <p>
+            There is no lock-in nor long-term contracts. The minumum billing period is one day. Leave at any time. Create and destroy Apps instantly — as many as you want. Pay only for resources you book and only after you have used them.
+        </p>
+    </div>
+    <div class="third half-t">
+        <h3>
+            Do it right
+        </h3>
+        <p>
+            We are in this together. Only good code can fly, bad code doesn't scale. So we encourage you to use <a href="{{ help_url }}/articles/app-design">best coding practices</a> and strive to you the best and <a href="/support">Professional Support</a> there is.
+        </p>
+    </div>
+    <div class="third half-t">
+        {% include 'snippets/hosting-a-new-mindset.twig' %}
+    </div>
+    <div class="third half-t">
+        {% include "snippets/batteries-included.twig" %}
+    </div>
+    <div class="third half-t">
+        {% include "snippets/why-not-navigation.twig" %}
+    </div>
+</div>
+
+
+<h2 class="m-top-xxl">
+    Freelancers hosted on fortrabbit
+</h2>
+<div class="gutter-m m-top-m row wrap">
+{% set freelancers = getResource("customers", "category", "Freelancer") %}
+{% for item in freelancers %}
+    {% if item.single %}
+    <div class="quarter half-t">
+        <div class="box p-m clientContainer">
+            <div class="media-l media media-face" style="background-image:url({{ assetsremote }}/img/{{ item.imagefile }});"></div>
+            <div class="name">
+                {{ item.name }}
+            </div>
+            <div class="furtherInfo">
+                <div title="{{ item.country }}" class="flag icon-{{ item.country | lower }}"></div> 
+                <span class="type-bold">{{ item.name }}</span>: {{ item.info }}
+                {% if item.twitter %}
+                    <a title="{{ item.name }} on twitter" href="https://twitter.com/{{ item.twitter }}" class="icon-twitter link-twitter"></a>
+                {% endif %}
+                {% if item.url %}
+                    <a title="{{ item.name }} website" href="{{ item.url }}" class="icon-link linkstyle link-url"></a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
+<p class="m-top-m">
+    <a href="/customers">See some more clients &rarr;</a>
+</p>
+
+
+
+{% endblock %}

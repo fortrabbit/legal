@@ -1,0 +1,126 @@
+{% extends "layout.twig" %}
+{% set title = "fortrabbit VS AWS" %}
+
+
+
+{% block precontent %}
+<div class="hero image oblique-end">
+    <h1 class="type-xxl">
+        Why fortrabbit instead of AWS?
+    </h1>
+    <p class="claim">
+        Because fortrabbit is easy to use.
+    </p>
+</div>
+{% endblock %}
+
+
+
+
+{% block content %}
+
+
+<article class="post pull-up edged read-xl">
+    <p class="type-l">
+        Amazon Web Services, Microsoft Azure and the Google Cloud Platform are a great cloud hosting infrastructure services — <abbr title="Infrastructure as a Service">IaaS</abbr>. We use AWS ourselves: the fortrabbit hosting platform runs on top of AWS. <b>Do you have the time to study for your "AWS degree"?</b>
+    </p>
+    <p>
+        AWS provides 70+ services with gazillions of options. You have to invest time to understand and master it. Then you'll need a spreadsheet to calculate your costs. Some parts are managed, but eventually it's your responsibility to maintain and secure it.
+    </p>
+    <p>
+        fortrabbit is a simple to use and fully managed hosting platform. It's made for you — the smart developer: <a href="freelancer-hosting">freelancer</a>, <a href="startup-hosting">startup</a> or <a href="agency-hosting">digital agency</a>. We encourage you to use best development- and deployment-practices. Build your online business in PHP and host it here. Start small and scale on demand. Outgrow to AWS later on.
+    </p>
+
+    <h2 id="fortrabbit-aws-usage" class="m-top-xl">
+        How we use AWS
+    </h2>
+    <p class="type-l">
+        This is not just reselling EC2 servers. The fortrabbit infrastructure is an advanced orchestration making use of multiple AWS services.
+    </p>
+</article>
+
+
+<h3 class="m-top-xl">
+    Topology of a typical App on fortrabbit
+</h3>
+<pre><code>
+                                            ┌─────────────┐
+                                            │ ┌─────────┐ │
+                                            │ │   Web   │ │
+                                            │ │frontend │ │    ┌─────────┐
+              ┌─────────────────────────┐   │ │   EC2   │ │    │  MySQL  ├┐      ┌──────────┐
+              │             ┌─────────┐ │   │ └─────────┘ ├────▶   RDS   │◀──────┤  Tunnel  │
+              │           ┌─▶ Routing │ │   │ ┌─────────┐ │    └┬────────┘│      │   EC2    │
+ ┌──────────┐ │ ┌───────┐ │ │   EC2   │ │   │ │   Web   │ │     └─────────┘      └─────▲────┘
+ │ Internet ├─┼─┼▶ ELB  ├─┤ └─────────┘ ├───┼▶│frontend │ │                            │
+ └──────────┘ │ └───────┘ │ ┌─────────┐ │   │ │   EC2   │ │    ┌─────────┐       ┌─────┴────┐
+              │           │ │ Routing │ │   │ └─────────┘ │    │  Cache  ├┐      │  Remote  │
+              │           └─▶   EC2   │ │   │ ┌─────────┐ ├────▶   EC2   ││      │  MySQL   │
+              │             └─────────┘ │   │ │   Web   │ │    └┬────────┘│      └──────────┘
+              └────────────┬────────────┘   │ │frontend │ │     └─────────┘
+                           │         ┌──────│ │   EC2   │ │
+                           │         │      │ └─────────┘ │
+                      ┌────▼────┐    │      └──────▲──────┘
+                      │   Log   │    │             │
+                      │ parsing ◀────┘             │
+                      │   EC2   │                  │
+                      └────┬────┘                  │
+                           │                 ┌─────┴─────┐
+                           │                 │Deployment │
+                      ┌────▼────┐            │    EC2    │
+                      │ Logging │            └─────▲─────┘
+                      │   EC2   │                  │
+                      └────▲────┘             ┌────┴────┐
+                           │                  │   Git   │           Other AWS services we use:
+                      ┌────┴────┐             └─────────┘
+                      │   SSH   │                                   CloudWatch, DynamoDB, KMS, S3, SQS
+                      └─────────┘
+</code></pre>
+<div class="row gutter-l wrap">
+  <div class="third half-t">
+      <p>
+          <strong>Routing</strong>: Multiple clusters consisting of Amazon's ELB before two EC2 routing instances. Failure of a single routing instances does not affect the availability of any App.
+      </p>
+  </div>
+  <div class="third half-t">
+      <p>
+          <strong>Web frontend</strong>: EC2 instance running a shared, containerized Apache web server and per-App containerized PHP/FPM runtimes. Apps run in multiple containers on different EC2 instances at the same time, so that the failure of one EC2 instance does not affect the App's health. {#Scalability is achieved by scaling out to more PHP/FPM containers on additional EC2 instances.#}
+      </p>
+  </div>
+  <div class="third half-t">
+      <p>
+          <strong>MySQL database</strong>: Redundant RDS instances for shared or dedicated usage. Failure of the master triggers near-instant, automatic takeover of the slave. Slave failure just starts a new slave.
+      </p>
+  </div>
+  <div class="third half-t">
+      <p>
+          <strong>Caching</strong>: Multiple EC2 instances, each providing memcached servers. Plans run on two EC2 instances in parallel. If used in a redundant configuration (recommended) then failure of a single EC2 instances does not affect App health.
+      </p>
+  </div>
+  <div class="third half-t">
+      <p>
+          <strong>Convenient deployment</strong>: Code is deployed using a simple `git push` to an EC2 deployment instance. The following build process runs Composer and optional custom scripts. The resulting build package is deployed to all web frontends <!-- and workers --> within milliseconds.
+      </p>
+  </div>
+  <div class="third half-t">
+      <p>
+          <strong>Centralized logging</strong>: Very easy to use SSH based live log output with multiple log sources, including Apache access logs and custom application logs. Internally this takes multiple EC2 instances parsing, storing and delegating the logs.
+      </p>
+  </div>
+</div>
+
+
+
+{% include "snippets/hosting-comparsion.twig" %}
+
+<div class="read-xl m-top-xl">
+    <h2>
+        How to compare pricing
+    </h2>
+    <p>
+        Purchasing AWS resources directly is cheaper than using fortrabbit. Or is it? We free lots of your time so you can concentrate on development. We preemptive cure the headaches you would have setting up and maintaining a sophisticated hosting setup. See our <a href="/specs">Specs page</a> for a fully transparent overview and to compare the raw AWS costs with ours.
+    </p>
+</div>
+
+
+{% endblock %}

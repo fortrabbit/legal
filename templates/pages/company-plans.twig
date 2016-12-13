@@ -1,0 +1,226 @@
+{% extends "layout.twig" %}
+
+{% set title       = "Company plans: hosting support & collaboration" %}
+{% set activeClass = 'nav_company_plans' %}
+{% set bodyClass   = 'animscroll' %}
+
+
+
+
+
+{#
+
+    TODO:
+    @oli:
+    * get dumped HTML from Dashboard
+
+#}
+
+
+
+
+
+
+
+
+{% block content %}
+
+
+<h1 class="m-top-xxl" style="font-size:7.5vw">
+    Get the work done
+</h1>
+<p class="claim">
+    with Company plans
+</p>
+
+<div class="post m-top-l">
+    <p class="type-xl">
+        <b>Let's team up.</b> Map your business relations within this hosting platform — featuring <a href="#access-roles">access roles</a>{#, consolidated billing#}, <a href="#delegation">delegation</a> and <a href="#prio-support">prioritized support</a>.
+    </p>
+</div>
+
+
+<div class="row m-top-xxl gutter-no m-bottom-m">
+    <h2 class="type-xl">
+        Company plans
+    </h2>
+    <div class="auto flex-end">
+        {% include 'snippets/currency-period-chooser.twig' with {
+            'currency': currency,
+            'inverted': false
+        } %}
+    </div>
+</div>
+
+
+{% macro plan(title, price, description, components, class) %}
+<div class="quarter half-t box p-m column {% if class %} {{ class }}{% endif %}">
+    <h3 class="type-bold auto">
+        {{ title }}
+    </h3>
+    <p class="auto clip">
+        {{ description }}
+    </p>
+    <ul class="rowboxList features-list m-top-m">
+        {% for component_name, component_value in components %}
+            <li>
+                {% if component_value %}
+                <span>{{ component_value.value }}</span>
+                {% endif %}
+                {{ component_name }}
+                {% if component_value.link %}
+                    <a class="helpicon floated" href="#{{ component_value.link }}">?</a>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <div class="m-top-l auto clip">
+        {% if price %}
+        <span class="type-xl"><span class="type-thin" data-currency>€</span><span class="type-bold">{{ price }}</span></span>
+        <span class="type-s">monthly per Company</span>
+        {% else %}
+        <span class="type-xl">free</span>
+        {% endif %}
+    </div>
+
+</div>
+{% endmacro %}
+
+<div class="gutter-no row wrap collapse">
+    {{ _self.plan(
+        'Company xs',
+        '',
+        'independent solo web designer',
+        {
+
+            'support': {
+                'value' : 'Low prio',
+                'link'  : 'prio-support'
+            },
+            'Company member': {
+                'value' : '1',
+                'link'  : 'delegation'
+            },
+            'Billing Contact': {
+                'value' : '1',
+                'link'  : 'billing-contacts'
+            },
+        }
+    )}}
+    {{ _self.plan(
+        'Company s',
+        '10',
+        'helping a busy team',
+        {
+            'support': {
+                'value' : 'Basic prio',
+                'link'  : 'prio-support'
+            },
+            'Company members': {
+                'value' : '3',
+                'link'  : 'delegation'
+            },
+            'Billing Contact': {
+                'value' : '1',
+                'link'  : 'billing-contacts'
+            },
+        }
+    )}}
+
+
+
+    {{ _self.plan(
+        'Company m',
+        '50',
+        'supporting serious business',
+        {
+            'support': {
+                'value' : 'High prio',
+                'link'  : 'prio-support'
+            },
+            'Company members': {
+                'value' : '10',
+                'link'  : 'delegation'
+            },
+            'Billing Contacts': {
+                'value' : '3',
+                'link'  : 'billing-contacts'
+            }
+        }
+    )}}
+    {{ _self.plan(
+        'Company l',
+        '250',
+        'backing large organisations',
+        {
+            'support': {
+                'value' : 'Extended',
+                'link'  : 'prio-support'
+            },
+            'Company members': {
+                'value' : '50',
+                'link'  : 'delegation'
+            },
+            'Billing Contacts': {
+                'value' : '10',
+                'link'  : 'billing-contacts'
+            }
+        }
+    )}}
+</div>
+<p class="read-l m-top-m">
+    <b>Looking for more?</b> We offer even higher levels of managed service with hands-on and pro-active support and custom SLAs. Please <a href="mailto:sales@fortrabbit.com?subject={{ "I need more!"|url_encode }}&body={{ "Hey rabbits,"|url_encode }}">contact us</a>.
+</p>
+
+{% include 'snippets/shared-snippets/company-plans-aspects.twig' %}
+
+
+
+<h2 class="m-top-xl type-xl">
+    Customer quotes
+</h2>
+{% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'dixens',
+    'quoteClasses'   : 'hero-quote m-top-l'
+}%}
+
+<div class="row gutter-m wrap collapse m-top-l">
+    <div class="quarter half-t">
+        {% include 'snippets/quotes.twig' with {
+        'quoteText'      : 'support2',
+        'quoteClasses'   : 'hero-quote',
+        'quoteTextClass' : 'type-m p-m',
+        'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter half-t">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'       : 'support1',
+            'quoteClasses'    : 'hero-quote',
+            'quoteTextClass'  : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter half-t">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'kalle',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+    <div class="quarter half-t">
+        {% include 'snippets/quotes.twig' with {
+            'quoteText'      : 'support3',
+            'quoteClasses'   : 'hero-quote',
+            'quoteTextClass' : 'type-m p-m',
+            'quoteCreditClass': 'type-s'
+        }%}
+    </div>
+</div>
+
+
+
+
+{% endblock %}

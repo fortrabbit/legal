@@ -1,0 +1,101 @@
+<script>
+    $(function() {
+        var refs = {}, usedRefs = {};
+        $('#x-references li').each(function(num) {
+            var id = $(this).attr('id');
+            if (id) refs['#' + id] = {num: num + 1, rel: this};
+        });
+        $('.reflink').each(function() {
+            var ref = $(this).attr('href');
+            if (ref.match(/^#ref\-.+/) && refs[ref] !== undefined) {
+                if (!usedRefs[ref]) {
+                    usedRefs[ref] = [];
+                }
+                usedRefs[ref].push(this);
+                $(this).text(refs[ref].num);
+            } else {
+                //console.log("Missing ", ref);
+                $(this).text('X');
+            }
+        });
+        var count = 1;
+        $('#x-references li').each(function() {
+            var ref = '#'+ $(this).attr('id');
+            if (!usedRefs[ref]) {
+                $(refs[ref].rel).remove()
+            } else {
+                $(usedRefs[ref]).text(count++);
+            }
+        });
+    });
+</script>
+<h3 id="references">
+    References
+</h3>
+
+{# please keep it short + add deep links help article  #}
+<ol class="type-s m-top-m" id="x-references">
+
+    {# Generic #}
+    <li id="ref-scaling"><b>Plan</b>: Identification of this extension state.</li>
+    <li id="ref-level"><b>Level</b>: Category, recommended use case, either Development, Production or Dedicated. <a href="{{ help_url }}/scaling#toc-tinkering">more</a></li>
+    <li id="ref-mprice"><b>Monhtly price</b>: Costs for one full month, billed after usage.</li>
+    <li id="ref-dprice"><b>Daily price</b>: Costs for a single day of use, minimum period.</li>
+
+    {# PHP #}
+    <li id="ref-php-requests"><b>PHP requests per hour</b>: PHP script executions, mostly akin to pageviews. <a href="{{ help_url }}/php-scaling#toc-php-requests">more</a></li>
+    <li id="ref-nodes"><b>Nodes</b>: Individual copies, amout of computing instances, data redundancy.</li>
+    <li id="ref-shared"><b>Shared</b>: Whether the App runs on a shared Node or not. The Dedicated level is not shared.</li>
+    <li id="ref-cpu-priority"><b>CPU priority</b>: How many CPUs are dedicated to the App.</li>
+    <li id="ref-aws-resource"><b>AWS</b>: Which AWS product or service is mainly in use.</li>
+    <li id="ref-load-balancer"><b>Load balancer</b>: Request routing / distribution across Nodes.</li>
+    <li id="ref-php-memory"><b>PHP memory</b>: equals PHP memory_limit. Dedicated plans have a PHP memory_limit of 1 GB. <a href="{{ help_url }}/php-scaling#toc-php-memory">more</a></li>
+    <li id="ref-opcache"><b>OPcache</b>: Max allowed memory for OPcache and APCU usage.</li>
+    <li id="ref-fpm"><b>PHP processes total</b>: Count of concurrent Fast CGI PHP processes, two per Node. <a href="{{ help_url }}/php-scaling#toc-php-processes">more</a></li>
+
+    {# MySQL #}
+    <li id="ref-mysql-storage"><b>MySQL storage</b>: Database capacity including index.</li>
+    <li id="ref-mysql-index"><b>MySQL index</b>: Reserved index space within storage, soft limit. <a href="{{ help_url }}/mysql#toc-index"></a></li>
+    <li id="ref-mysql-memory"><b>MySQL memory</b>: Reserved RAM for indices. Applies only to Dedicated level.</li>{# TODO?: Write something up in the help and link it #}
+    <li id="ref-mysql-connections"><b>MySQL connections</b>: Amount of max allowed concurrent connections. <a href="{{ help_url }}/scaling#toc-mysql">more</a></li>
+    <li id="ref-mysql-iops"><b>MySQL IOPS</b>: Amount if i/o operations per second. Applies only to Dedicated level.</li>{# TODO?: Write something up in the help and link it #}
+
+    {# Memcache #}
+    <li id="ref-memcache-memory"><b>Memcache memory</b>: Reserved RAM.  <a href="{{ help_url }}/scaling#toc-memcache"></a></li>
+
+    {# Worker & Crons #}
+    <li id="ref-worker-memory"><b>Worker memory</b>: Total available RAM to execute background jobs.</li>
+    <li id="ref-worker-jobs"><b>Worker jobs</b>: Amount of max allowed jobs.</li>
+    <li id="ref-cron-jobs"><b>App collaborators</b>: Amount of configurable cron jobs <a href="{{ help_url }}/crons">more</a></li>
+
+    {# SSH & SFTP #}
+    <li id="ref-ssh-memory"><b>SSH memory</b>: RAM available for execution PHP applications.</li>
+    <li id="ref-ssh-concurrency"><b>Concurrent logins</b>: Max parallel SSH and/or SFTP connections at the same time.</li>
+
+    {# Storage #}
+    <li id="ref-object-storage"><b>Object Storage size</b>: Size available to store total files. <a href="{{ help_url }}/object-storage">more</a></li>
+    <li id="ref-ephemeral-storage"><b>Ephemeral storage</b>: Non-persistent local storage that will be replaced on each deploy. <a href="{{ help_url }}/quirks#toc-ephemeral-storage">more</a></li>
+    <li id="ref-web-storage"><b>Web storage size</b>: Size available to store total files permanently on disk. <a href="{{ help_url }}/app-uni">more</a></li>
+    <li id="ref-temporary-storage"><b>Temporary storage size</b>: Storage amount available for temporary store files (<code>/tmp</code>) <a href="{{ help_url }}/directories">more</a></li>
+
+
+    {# App basics & limits #}
+    <li id="ref-deployment-release-package"><b>Deployment release package</b>: Compressed archive of all deployed files <a href="{{ help_url }}/deployment#toc-deployment-release-package">more</a></li>
+    <li id="ref-deploy-memory"><b>Deployment memory</b>: Memory available to Composer, pre &amp; post script execution + remote SSH execution. <a href="{{ help_url }}/deployment">more</a></li>
+    <li id="ref-traffic"><b>Traffic</b>: All traffic generated by request to PHP scripts, static files and files in the Object Storage.</li>
+    <li id="ref-cache-positive"><b>Positive cache</b>: Time duration for cache headers for existing file.</li>
+    <li id="ref-cache-negative"><b>Negative cache</b>: Time duration for cache headers for not existing file (404).</li>
+    <li id="ref-max-remote-execution-time"><b>Max remote execution time</b>: Time duration after which remote SSH executed commands are aborted.</li>
+
+    {# Collaboration #}
+    <li id="ref-collaborators"><b>App collaborators</b>: Amount of available App collaborators without booked team plan. <a href="{{ help_url }}/app-collaboration">more</a></li>
+
+    {# Backup #}
+    <li id="ref-backup-retention"><b>Backup retention</b>: Amount of days backups are stored and downloadable from the Dashboard. <a href="{{ help_url }}/backups-uni">more</a></li>
+    <li id="ref-backup-time"><b>Backup snapshot time</b>: When snapshots are created from which backups are generated</li>
+    <li id="ref-backup-availability"><b>Backup availability</b>: When backups become available in the Dashboard. Depends on the region the App is in</li>
+
+    {# Universal Only #}
+    <li id="ref-ssl-support"><b>SSL Support</b>: Whether custom domain certificates can be installed <a href="{{ help_url }}/tls">more</a></li>
+
+</ol>

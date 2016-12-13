@@ -1,0 +1,11 @@
+{# Just for debugging #}
+var currency = "{{ currency }}";
+
+{# Fist unknown hit #}
+{% if replace %}
+$('{{ replace.selector }}').each(function(key, item) {
+    if ($(item).text() == '{{ replace.from }}') {
+        $(item).text('{{ replace.to }}')
+    }
+})
+{% endif %}
