@@ -165,21 +165,6 @@ Most imprtantly: !!! compare and merge best passages with this text:
         </p>
     </div>
 
-    {# 
-    
-    TODO: 
-    remove this, let's be honest here. scaling is actually a PRO feature, not Uni, not platform, just PRO.
-
-    <div class="third half-t">
-        <h3 id="scaling">
-            Scale on demand
-        </h3>
-        <p>
-            Need some more resources or an extra feature? Scale up in seconds in the Dashboard. Beyond the Universal Stack, the Professional Stack features vertical and horizontal scaling to really go large.
-        </p>
-    </div>
-    #}
-
     <div class="third half-t">
         <h3 id="billing">
             Fair billing
@@ -193,6 +178,8 @@ Most imprtantly: !!! compare and merge best passages with this text:
     </div>
 </div>
 
+{% if not dashboard %}
 <p class="m-top-xl m-bottom-m type-l">
     <a href="{{ www_url }}/features">Explore how it works ›</a>
 </p>
+{% endif %}
