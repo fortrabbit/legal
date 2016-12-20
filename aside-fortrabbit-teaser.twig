@@ -1,27 +1,24 @@
 {# This little teaser to signup can be used beside articles, blog, help #}
 
-<div class="fixedsticky m-top-xl">
+<div class="m-top-xl" data-user="unknown">
     <h5 class="sectionHeading">
         About fortrabbit
     </h5>
-    <p>
+    <p class="type-serif type-italic type-m">
         {{ random([
-        "fortrabbit is PHP hosting for busy people. Take a shortcut, git push your idea into the wild now.",
-        "fortrabbit is PHP as a Service. Imagine it as serverless hosting – where you code and we deliver.",
-        "High value, low costs. fortrabbit is a fully managed PHP hosting platform.",
-        "fortrabbit is the PHP hosting platform to run and scale your PHP apps in a managed cloud."
+        "PHP hosting for busy people. Git push your idea into the wild now.",
+        "Imagine serverless hosting – where you code and we deliver.",
+        "High value, low costs. Fully managed PHP hosting platform.",
+        "The PHP hosting platform to run and scale your Apps in a managed cloud.",
+        "PHP as a Service is where you focus on coding and we run the infra."
         ]) }}
     </p>
-    <div class="row gutter-xs">
-        <div>
-            <a href="{{ www_url }}" class="action b-2 p-s">
-                ‹ Learn more
-            </a>
-        </div>
-        <div>
-            <a href="{{ dashboard_url }}/signup" class="action b-2 p-s">
-                Sign up free ›
-            </a>
-        </div>
+    <div class="row sectionNav">
+        <a href="{{ www_url }}" class="linkstyle">
+            ‹ Learn more
+        </a>
+        <a href="{{ dashboard_url }}/signup" class="linkstyle auto">
+            Sign up free ›
+        </a>
     </div>
 </div>

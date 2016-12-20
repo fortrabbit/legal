@@ -5,8 +5,6 @@ TODO:
 Most imprtantly: !!! compare and merge best passages with this text:
 /snippets/platform-old-features-section.twig
 
-* review outgoing links: are they general of for a stack?
-* review local links (IDs)
 * review if you can maybe delete whole blocks - less is more! see the layout, three in a row. looks best when: total blocks devidaable by three, and by two ;)
 
 #}
@@ -99,12 +97,7 @@ Most imprtantly: !!! compare and merge best passages with this text:
         </h3>
         <p>
             MySQL is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources. 
-            {# 
-            TODO: review, re-edit, otherwise remove this old text:
-            is based on RDS by AWS and thus decoupled from the App, running on isolated Nodes with their own resources.  The storage cap is a soft limit. Additional MySQL storage will available for €6 monthly per GB.
-            #}
         </p>
-        {# TODO: what  #}
         <p>
             <a href="{{ help_url }}/mysql">Explore MySQL options ›</a>
         </p>
@@ -117,12 +110,6 @@ Most imprtantly: !!! compare and merge best passages with this text:
         </h3>
         <p>
             Secure connections on all domains are standard. TLS Certificates are provided by Let's Encrypt and installed automatically. 
-            {#
-            TODO: 
-            delete the following or reorder somewhere else, here it is too long and TMI.
-
-            You can also bring your own SSL certificates, for even more security and support for wildcard domains.
-            #}
         </p>
         <p>
             <a href="{{ help_url }}/https">Using HTTPS on fortrabbit ›</a>
@@ -178,8 +165,12 @@ Most imprtantly: !!! compare and merge best passages with this text:
     </div>
 </div>
 
+{# TODO: ULI: Features does not explain how it works, just says what it does. Either change to "More info" or somesuch or link to other page, which explains how it works.
+
 {% if not dashboard %}
 <p class="m-top-xl m-bottom-m type-l">
     <a href="{{ www_url }}/features">Explore how it works ›</a>
 </p>
 {% endif %}
+
+#}
