@@ -1,4 +1,3 @@
-
 Imprint according to German law (§5 TMG)  
 
 **Register entry**  
