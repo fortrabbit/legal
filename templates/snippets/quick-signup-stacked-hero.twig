@@ -1,0 +1,58 @@
+<div class="row gutter-xl collapse-t m-top-xxl">
+    <div style="flex-basis:45%; flex-grow:0" data-user="unknown">
+        {% if headline %}
+        <h2 class="m-bottom-m">
+            {{ headline }}
+        </h2>
+        {% endif %}
+        <form class="gutter-no" action="{{ dashboard_url }}/signup" method="post">
+            <div class="labelinput m-top-s">
+                <label class="minilabel" for="email">
+                    Your e-mail address
+                </label>
+                <input type="email" name="email" id="email" class="input type-l" autofocus required data-focus="1">
+            </div>
+            <div class="labelinput">
+                <label class="minilabel" for="password">
+                    Choose a safe password
+                </label>
+                <input type="password" name="password" id="password" class="input type-l" required minlength="8">
+                <div class="info">
+                    8 chars min
+                </div>
+
+                {% if (campaign is defined) %}
+                    <input type="hidden" name="campaign" value="{{ campaign }}">
+                {% endif %}
+
+            </div>
+            <button class="action type-l p-m" type="submit">
+                {% if button %}{{ button }}{% else %}Test it for free{% endif %}
+            </button>
+            <div class="teaser">
+                <p class="type-s m-top-s">
+                    Cancel at any time. No Credit card required. <a href="{{ www_url }}/terms">Terms</a> apply.
+                </p>
+            </div>
+        </form>
+    </div>
+    <div data-user="known">
+        <a href="{{ dashboard_url }}" class="action fancy type-xl p-l clip inline">Go to the Dashboard ›</a>
+    </div>
+
+    {% if showTeaser %}
+    <div class="teaser">
+        <p class="type-xl read-m">
+            The <span class="type-bold tag">Universal Stack</span> is here — our new hosting generation 
+            starting at only <span data-currency>€</span>3 monthly.
+        </p>
+        <p class="type-m">
+            <a href="/pricing">See plans &amp; pricing ›</a>
+        </p>
+        <p class="type-m">
+            <a href="{{ blog_url }}/universal-stack-launched">Read what's new ›</a>
+        </p>
+    </div>
+    {% endif %}
+
+</div>

@@ -1,0 +1,142 @@
+{% extends "layout.twig" %}
+{% set title = "fortrabbit VS DigitalOcean, Lightsail, Linode …" %}
+{% set bodyClass = 'marketing' %}
+
+
+{% block precontent %}
+<div class="hero image oblique-end" style="background-color: #005fe7">
+    <h1 style="font-size:4.2vw">
+        Why fortrabbit instead of VPS?
+    </h1>
+    <p class="claim">
+        Because fortrabbit is managed!
+    </p>
+</div>
+{% endblock %}
+
+
+
+
+{% block content %}
+
+<article class="post read-xl pull-up edged">
+    <p class="type-xl">
+        DigitalOcean, Amazon Lightsail, Linode and Vultr are all good <abbr title="Virtual Private Server">VPS</abbr> hosting providers. But we think that we can provide a better service for you with a <a class="shadylink" href="/php-hosting"><b>managed PHP hosting platform</b></a>.
+    </p>
+    <p class="type-l">
+        With VPS you get total control and freedom of choice as the root user. With great power comes great responsibility: you must maintain and secure your server on your own. Your responsibility is not only for your projects, but for your clients livelihood as well. Following a video and setting up your LAMP is easy. Investing the diligence and keeping it up is hard. Don't shortchange yourself: VPS is only cheaper if you don't calculate your own time.
+    </p>
+</article>
+
+{% include "snippets/hosting-comparsion.twig" %}
+
+<div class="row gutter-l m-top-xl collapse">
+    <div class="half">
+        <h2>Server</h2>
+        <p>
+            <strong>Responsibility</strong>:
+            With a server you need to take care of the underlying operating system (most likely Linux) and other software like the webserver (Nginx, Apache, ...) yourself — You are responsible for security and sysop tasks.
+        </p>
+        <p>
+           <strong>Scalability</strong>:
+           Your traditional hosting server has a limited amount of computing resources: it can only be scaled vertically inside the host box. With downtime. Within that box the software for webserver, database and PHP must share resources.
+        </p>
+        <p>
+            <strong>Separation</strong>:
+            You can run multiple websites on one VPS server. Great for your projects. Bad for separating client projects or guarantee performance.
+        </p>
+    </div>
+    <div class="half">
+        <h2>App</h2>
+        <p>
+            <strong>Responsibility</strong>:
+            With an App you just leverage a very developer friendly system — sysadmin stuff is automated and managed by us.
+        </p>
+        <p>
+            <strong>Scalability</strong>:
+            With an App in a cloud hosting platform, like ours, the computing resources are a variable that can be <a href="{{ help_url }}/scaling">scaled up and down</a>. Scaling is applied to individual Components of the App. Scaling is smooth.
+        </p>
+        <p>
+            <strong>Separation</strong>:
+            One App is made for one project or even just a developing branch of a project. So you can spin up an App for a quick test and then trow it away the next day.
+        </p>
+    </div>
+</div>
+
+<h2 class="m-top-xl">
+    VPS pitfalls
+</h2>
+<div class="row gutter-l wrap m-top-l collapse">
+    <div class="third">
+        <h3>
+            Forgetting that time is money
+        </h3>
+        <p>
+            Think twice about the hidden costs of a VPS: You need to be a Linux admin. You need to keep everything up2date. You need to regularly read security bulletins. You need to perform regular maintenance and audits. The list is long. If you rather do that than development - why don't you
+            <a href="mailto:jobs@fortrabbit.com">write us an e-mail</a>?
+        </p>
+    </div>
+    <div class="third">
+        <h3>
+            Reinventing the wheel
+        </h3>
+        <p>
+            Sure, we all want to play with technology. Mastering sysop/devop tasks can be a fun challenge. But is your own hosting setup  production-grade or home-made? Advantages of the many: We bring enterprise-grade to the rest of us. We have built a rock solid hosting infrastructure, so that you don't have to.
+        </p>
+    </div>
+    <div class="third">
+        <h3>
+            Thinking inside the box
+        </h3>
+        <p>
+            Don't put all your eggs in one basket. Think twice before putting multiple websites on a single server. fortrabbit is serverless, service-oriented, isolated, better.
+        </p>
+    </div>
+</div>
+
+
+
+
+<div class="row gutter-xl m-top-xl collapse">
+    <div class="half">
+        <h2>
+            Comparing memory
+        </h2>
+
+        <p class="type-l">
+            Don't compare hosting by raw specs, compare the service level. In case you still want to compare RAM, please mind:
+        </p>
+        <p>
+            At first glance, fortrabbit PHP memory values might seem small compared to VPS memory resources. However, fortrabbit's App memory is only used for the PHP/FPM runtime, whereas the VPS memory is used for lots of things.
+        </p>
+        <p>
+            To explain this best, let's take a look at what you would do with the VPS with 512 MB of memory. Assuming you would want to run a website, which uses a MySQL database and Memcache. You would start an Apache webserver (or NGINX or the like), then start your PHP/FPM processes, then your MySQL database and your Memcache. All those services would consume parts of your VPS memory. Aside from Memcache, you would be hard pressed to set specific size limit to each of the services, so it would be: first come, first serve.
+        </p>
+
+        <p>
+            With fortrabbit Apps, you have a complete isolation of all services: You have a dedicated amount of memory for your PHP/FPM runtime. Apache, Memcache and MySQL run on different Nodes with their own resources. For Apache and MySQL you simply need not care about memory (we do) while for Memcache you can choose a plan which fits your needs.
+        </p>
+
+        <p>
+            The great advantage of our concept is that you can scale each resources as you require and can be assured that they do not "steal" from each other nor conflict nor interfere in any other way - as they would on a VPS.
+        </p>
+    </div>
+    <div class="half">
+        {% include "snippets/why-not-meme.twig" %}
+    </div>
+</div>
+
+<h3 class="m-top-xxl">
+    A visual analogy
+</h3>
+<div>
+    <div class="responsive-video m-top-s">
+        <iframe src="https://www.youtube.com/embed/uT0gaTWhLfE?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+
+
+
+
+{% endblock %}

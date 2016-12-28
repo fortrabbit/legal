@@ -1,0 +1,22 @@
+{% extends "layout.twig" %}
+
+{% set title            = "How it works" %}
+{% set activeClass      = 'nav_features' %}
+
+{% block content %}
+
+<h1 class="type-xxxl m-top-xl">
+    PHPower to the PHPeople
+</h1>
+<p class="claim">fortrabbit features galore</p>
+
+
+<article class="m-top-xxl">
+    {% include 'snippets/benefits-section.twig' %}
+    {% include 'snippets/how-it-works.twig' %}
+    {% include 'snippets/different-section.twig' %}
+    {% include 'snippets/feature-screenshots.twig' %}
+    {% include "snippets/video-section.twig" %}
+</article>
+
+{% endblock %}

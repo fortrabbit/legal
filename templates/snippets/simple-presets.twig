@@ -1,0 +1,70 @@
+{# TODO: either OBSOLETE here — or — grab prices form pricing.YML, upgrade styles (tooo small)  #}
+
+{% macro preset(title, descr, components, vars) %}
+    <div class="box third half-t p-m column">
+        <h3 class="type-l type-center auto">
+            {{ title }}
+        </h3>
+
+        <div class="m-bottom-m m-top-xs type-center auto">
+            {{ descr }}
+        </div>
+
+        <div>
+            {% set total_price = 0 %}
+            {% for component_name, component_price in components %}
+                {% set total_price = total_price + component_price %}
+
+                <div class="row rowbox p-xs type-s">
+                    <div>{{ component_name }}</div>
+                    <div class="auto">
+                        <span class="type-thin">€</span>{{ component_price }}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="m-top-m type-center auto flex-bottom">
+            <span class="type-thin type-xl">€</span><span class="type-xl">{{ total_price }}</span><span class="type-m type-thin">/mo</span>
+        </div>
+
+    </div>
+{% endmacro %}
+
+
+
+
+<div class="row gutter-no m-top-m collapse wrap">
+
+
+    {#{ _self.preset('Play', 'with the tool chain', {
+        'PHP s 1': 5,
+        'MySQL xxs': 2,
+        'Object Storage xs': 1
+    }, { campaign: campaign }) }#}
+
+    {{ _self.preset('Launch', 'with peace of mind', {
+        'PHP s 2': 15,
+        'MySQL s': 15,
+        'Memcache xs': 5,
+        'Object Storage s': 5
+    }, { campaign: campaign }) }}
+
+    {{ _self.preset('Grow', 'without pain', {
+        'PHP m 4': 60,
+        'MySQL l': 125,
+        'Memcache s': 10,
+        'Object Storage m': 15,
+        'TLS custom': 5,
+
+    }, { campaign: campaign }) }}
+
+    {{ _self.preset('Fly', 'with dedicated resources', {
+        'PHP xl 2': 380,
+        'MySQL xxl': 500,
+        'Memcache l': 40,
+        'Object Storage l': 45,
+        'TLS custom': 5
+    }, { campaign: campaign }) }}
+
+</div>

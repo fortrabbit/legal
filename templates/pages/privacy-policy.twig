@@ -1,0 +1,11 @@
+{% extends "layout.twig" %}
+{% set title = "Privacy Policy" %}
+{% set activeClass = 'nav_privacy' %}
+
+{% block content %}
+<article class="m-top-xl post read-xl">
+    {% filter markdown %}
+    {% include 'legal/privacy-policy.md' %}
+    {% endfilter %}
+</article>
+{% endblock %}

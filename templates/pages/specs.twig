@@ -1,0 +1,189 @@
+{% extends "layout.twig" %}
+{% set title = "Specs" %}
+{% set semiActiveClass = 'pricing' %}
+{% set bodyClass = 'animscroll' %}
+{% set stack = 'uni' %}
+{% set link  = 'specs' %}
+
+
+{% set javascripts %}
+<script>
+    $(function() {
+        $.setSemiActiveClass('nav_pricing');
+        $.setActiveClass('nav_specs');
+    });
+</script>
+{% endset %}
+
+{% block precontent %}
+{% include 'snippets/stack-chooser.twig' %}
+{% endblock %}
+
+
+{% block content %}
+
+<h1 class="m-top-xl type-xxl" id="top">
+    Specs <span class="amp">&amp;</span> limits
+</h1>
+
+
+<div class="row m-top-l sectionHeading" id="plans">
+    <h3>Plans</h3>
+    <a href="{{ help_url }}/app-uni" class="auto linkstyle flex-end type-s">
+        About Universal Stack Apps
+    </a>
+</div>
+
+<div class="scrolltablewrapper">
+    <table class="dense">
+        <thead>
+            <tr>
+                <th class="keep">
+                    Plan
+                    <a href="#ref-scaling" class="reflink">1</a>
+                </th>
+                <th class="keep">
+                    PHP memory
+                    <a href="#ref-php-memory" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    Page views/h
+                    <a href="#ref-page-views" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    Web storage
+                    <a href="#ref-web-storage" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    MySQL storage
+                    <a href="#ref-mysql-storage" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    App Collaborators
+                    <a href="#ref-collaborators" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    Backups
+                    <a href="#ref-backup-retention" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    HTTPS
+                    <a href="#ref-https-support" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    Cron Jobs
+                    <a href="#ref-cron-jobs" class="reflink">7</a>
+                </th>
+                <th class="keep">
+                    Monthly price
+                    <a href="#ref-mprice" class="reflink">11</a>
+                </th>
+                <th class="keep">
+                    Daily price
+                    <a href="#ref-dprice" class="reflink">12</a>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="keep"><b>Light</b></td>
+                <td class="numbers">128 MB</td>{# php memory #}
+                <td class="numbers">1k</td>{# page views #}
+                <td class="numbers">512 MB</td>{# web storage #}
+                <td class="numbers">128 MB</td>{# mysql storage #}
+                <td class="keep">No</td>{# app collab #}
+                <td class="keep">No</td>{# backups #}
+                <td class="keep">No</td>{# SSL #}
+                <td class="keep">No</td>{# Crons #}
+                {{ _self.priceCols(3) }}
+            </tr>
+            <tr>
+                <td class="keep"><b>Basic</b></td>
+                <td class="numbers">128 MB</td>{# php memory #}
+                <td class="numbers">1k</td>{# page views #}
+                <td class="numbers">1 GB</td>{# web storage #}
+                <td class="numbers">256 MB</td>{# mysql storage #}
+                <td class="keep">Yes</td>{# app collab #}
+                <td class="keep">No</td>{# backups #}
+                <td class="keep">Automatic</td>{# SSL #}
+                <td class="keep">No</td>{# Crons #}
+                {{ _self.priceCols(6) }}
+            </tr>
+            <tr>
+                <td class="keep"><b>Plus</b></td>
+                <td class="numbers">128 MB</td>{# php memory #}
+                <td class="numbers">1k</td>{# page views #}
+                <td class="numbers">5 GB</td>{# web storage #}
+                <td class="numbers">512 MB</td>{# mysql storage #}
+                <td class="keep">Yes</td>{# app collab #}
+                <td class="keep">Yes</td>{# backups #}
+                <td class="keep">Automatic + Custom</td>{# SSL #}
+                <td class="keep">Yes</td>{# Crons #}
+                {{ _self.priceCols(12) }}
+            </tr>
+        </tbody>
+    </table>
+</div>
+<p>
+    <a href="/pricing">&larr; Back to the simple pricing page</a>
+</p>
+
+
+
+<h2 id="limits" class="m-top-xl m-bottom-m">
+    App specific settings
+</h2>
+<div class="row gutter-l collapse-t">
+    <div class="half">
+        {% include 'snippets/specs/deployment.twig' %}
+        {#{% include 'snippets/specs/remote-execution.twig' %}#}
+        {% include 'snippets/specs/storage-and-traffic-uni.twig' %}
+        {% include 'snippets/specs/backups-uni.twig' %}
+        {% include 'snippets/specs/versions-uni.twig' %}
+        {% include 'snippets/specs/ssh-sftp.twig' %}
+        {% include 'snippets/specs/crons-uni.twig' %}
+        {% include 'snippets/specs/development-extensions-uni.twig' %}
+    </div>{# col #}
+    <div>
+        {% include 'snippets/specs/firewalling.twig' %}
+        {% include 'snippets/specs/php-extensions.twig' %}
+    </div>{# col #}
+</div>
+
+
+{% include 'snippets/specs/compatible-uni.twig' %}
+
+<div class="m-top-xl">
+    {% include 'snippets/specs/references.twig' %}
+</div>
+
+
+
+
+<p class="type-s m-top-l">
+    Go back to: <a href="#top">top</a>, <a href="#php">PHP</a>, <a href="#mysql">MySQL</a>, <a href="#memcache">Memcache</a>. <br>
+    All information provided are subject to errors.
+</p>
+
+
+
+{% endblock %}
+
+{% block postcontent %}{% endblock %}
+
+
+{% macro moreOnRequest(component) %}
+<p class="type-s">
+    {% if component == 'MySQL' %}{% endif %}
+    Larger plans are available. Please <a href="mailto:sales@fortrabbit.com">contact us</a>.
+</p>
+{% endmacro %}
+
+{% macro dayPrice(price = 1) %}
+{{ (price / 30) | round(2) }}
+{% endmacro %}
+
+{% macro priceCols(price = 1, currency = '€') %}
+    <td class="numbers"><span class="type-thin" data-currency>{{ currency }}</span>{{ price | round(2) }}</td><!-- mprice -->
+    <td class="numbers"><span class="type-thin" data-currency>{{ currency }}</span>{{ (price / 30) | round(2) }}</td><!-- dprice -->
+{% endmacro %}
