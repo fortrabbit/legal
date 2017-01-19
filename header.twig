@@ -32,12 +32,6 @@
     </nav>
 </header>
 
-{# TODO: check is this up to date? #}
-{% if dashboard %}
-    {% set gravatar = gravatar(user.user.email) %}
-{% endif %}
-
-{# TODO: is the best place here? #}
 <script>
     $(function(){
         $('[data-gravatar]').loadRemberedGravatar('[data-user="known"]','[data-user="unknown"]');
