@@ -5,22 +5,10 @@
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    {# OLIs tracker > separated properties #}
-    ga('create', 'UA-431527-10', 'auto', { 'name': '{{ property }}' });
-    ga('{{ property }}.send', 'pageview');
-
-    {# FRANKs tracker > one property, different views #}
+    {# Global GA tracker #}
     ga('create', 'UA-431527-14', 'auto');
     ga('send', 'pageview');
 
-    {# Custom jQuery calls #}
-    $(function() {
-
-        // TODO: OBSOLETE is this still in use?
-        $.initCampaignForwarding('a.fwdcta');
-
-        $('#nav_signup').attr('href', $('#nav_signup').attr('href').replace('?top','?{{ (cta.campaign is defined) ? cta.campaign : 'start' }}'));
-    });
 </script>
 
 {# twitter conversion & remarketing test #}
