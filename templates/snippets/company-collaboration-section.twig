@@ -1,0 +1,72 @@
+{# OBSOLETE? old version of collab only #}
+
+<div class="m-top-xl">
+    <h2 class="sectionHeading type-xl m-top-xxl spacey anchored" id="team-plans">
+        Company collaboration <span class="type-thin hide-t">— real world business relations</span>
+        <a href="#team-plans" class="anchor">¶</a>
+    </h2>
+
+    {% macro teamplan(members, price, link) %}
+    <li class="type-l row team-row">
+        <div class="clip">
+            <span class="type-bold">{{ members }}</span> Company members
+            <span class="type-s hide-t">unlimited App collaborators</span>
+        </div>
+        <div class="auto">
+            <span class="type-s">monthly</span>
+            <span class="type-thin" data-currency>€</span><span class="type-bold">{{ price }}</span>
+        </div>
+    </li>
+    {% endmacro %}
+    <style>
+        .team-row { padding: .8rem 0;  }
+    </style>
+    <ul class="rowboxList">
+        {{ _self.teamplan( '2',           '5'   ) }}
+        {{ _self.teamplan( '5',           '10'  ) }}
+        {{ _self.teamplan( 'Unlimited',   '20'  ) }}
+    </ul>
+    <div class="row gutter-l m-top-l wrap collapse">
+        <div class="third half-t">
+            <h3>
+                Workflows made for you
+            </h3>
+            <p>
+                The flexible Company model helps web designers collaborating with their clients, agencies work with projects and startup teams of all sizes.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h3>
+                Role based permissions
+            </h3>
+            <p>
+                Different jobs require different access levels. Team members can be Owners and Admins, grant access on App level to Collaborators.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h3>
+                Delegation on Company level
+            </h3>
+            <p>
+                Admins and Owners act on behalf of the Company: create new Apps and invite other team members.
+            </p>
+        </div>
+        <div class="third half-t">
+            <h3>
+                Collaboration for all Apps
+            </h3>
+            <p>
+                Invite any numbers of Collaborators to your Hobby or Side project Apps.
+            </p>
+        </div>
+
+        <div class="third half-t">
+            <h3>
+                Consolidated billing
+            </h3>
+            <p>
+                Owners can create multiple Billing Contacts per Company. Each Billing Contact has it's own payment method and invoice address.
+            </p>
+        </div>
+    </div>
+</div>

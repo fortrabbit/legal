@@ -1,0 +1,53 @@
+{% set vps %}
+<li>
+    <a href="why-not-vps" id="why-not-do" class="block">
+        fortrabbit VS VPS
+    </a>
+</li>
+{% endset %}
+
+{% set shared %}
+<li>
+    <a href="why-not-shared-hosting" id="why-not-shared-hosting" class="block">
+        fortrabbit VS shared hosting
+    </a>
+</li>
+{% endset %}
+
+{% set Forge %}
+<li>
+    <a href="why-not-forge" id="why-not-forge" class="block">
+        fortrabbit VS Forge
+    </a>
+</li>
+{% endset %}
+
+{% set Heroku %}
+<li>
+    <a href="why-not-heroku" id="why-not-heroku" class="block">
+        fortrabbit VS Heroku
+    </a>
+</li>
+{% endset %}
+
+{% set AWS %}
+<li>
+    <a href="why-not-aws" id="why-not-heroku" class="block">
+        fortrabbit VS AWS
+    </a>
+</li>
+{% endset %}
+
+
+{% set list = [ vps, AWS, Forge, Heroku, shared ] %}
+
+
+<h3>
+    Why fortrabbit, not X?
+</h3>
+
+<ul class="rowboxList m-top-s">
+    {% for item in list | shuffle %}
+    {{ item }}
+    {% endfor %}
+</ul>

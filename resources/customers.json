@@ -1,0 +1,264 @@
+[
+    {
+        "name": "Detail",
+        "single": "yes",
+        "url": "http://www.detailag.ch/",
+        "category": "Agency",
+        "country": "CH",
+        "info": "Concepts, strategy, design and development of custom applications ",
+        "since": 2015,
+        "imagefile": "client-logo_detail-ag.png",
+        "internal": "3D, power point, web"
+    },
+    {
+        "name": "Harkable",
+        "single": "yes",
+        "url": "http://harkable.com/",
+        "twitter": "harkable",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Helping brands to be heard above the noise and connect with their audience",
+        "since": 2014,
+        "imagefile": "client-logo_harkable.png"
+    },
+    {
+        "name": "Hawk",
+        "url": "http://hawk.ca",
+        "twitter": "HawkTweeter",
+        "category": "Agency",
+        "country": "CA",
+        "info": "e believe that the greatest expression of consumers' interests in our clients' brands is LOVE. This is the outcome we work towards every day.",
+        "imagefile": "client-logo_hawk.png"
+    },
+    {
+        "name": "Klopal",
+        "overview": "yes",
+        "single": "yes",
+        "url": "https://www.klopal.fi",
+        "twitter": "KlopalOy",
+        "category": "Agency",
+        "country": "FI",
+        "info": "Looking for software partners, who bring in much more than just code?",
+        "imagefile": "client-logo_klopal.png"
+    },
+    {
+        "name": "Made by Cloud",
+        "single": "yes",
+        "url": "http://www.madebycloud.com",
+        "twitter": "madebycloud",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Great websites and apps that make a measurable difference",
+        "since": 2015,
+        "imagefile": "client-logo_made-by-cloud.png"
+    },
+    {
+        "name": "MetaTalk",
+        "url": "http://metatalk.be/",
+        "twitter": "MetaTalk",
+        "category": "Agency",
+        "country": "BE",
+        "info": "Helping brands and companies reach their full online potential",
+        "imagefile": "client-logo_metatalk.png"
+    },
+    {
+        "name": "Modern Media",
+        "url": "http://modernmedia.ca",
+        "twitter": "modern_musings",
+        "category": "Agency",
+        "country": "CA",
+        "info": "digital assessment, integrated digital strategy , UX planning",
+        "imagefile": "client-logo_modern-media.png"
+    },
+    {
+        "name": "Netbooster",
+        "overview": "yes",
+        "url": "http://www.netbooster.dk",
+        "twitter": "NB_Nordic",
+        "category": "Agency",
+        "country": "DK",
+        "info": "Independent digital agency and a leader in digital marketing",
+        "since": 2014,
+        "imagefile": "client-logo_netbooster.png"
+    },
+    {
+        "name": "Nucleus",
+        "single": "yes",
+        "url": "http://nucleus.no/",
+        "category": "Agency",
+        "country": "NO",
+        "info": "Full service communications agency",
+        "imagefile": "client-logo_nucleus.png"
+    },
+    {
+        "name": "Sempro",
+        "overview": "yes",
+        "url": "http://sempro.no/",
+        "twitter": "Sempro_no",
+        "category": "Agency",
+        "country": "NO",
+        "info": "Digital agency that helps their clients to advertise in the web properly",
+        "since": 2014,
+        "imagefile": "client-logo_sempro.png",
+        "internal": "Team size, Feature option: Daniel"
+    },
+    {
+        "name": "Spreeatelier",
+        "single": "yes",
+        "url": "http://spreeatelier.de/",
+        "category": "Agency",
+        "country": "DE",
+        "info": "Digital boutique and think tank",
+        "since": 2013,
+        "imagefile": "client-logo_spreeatelier.png",
+        "internal": "Feature option: Julius"
+    },
+    {
+        "name": "Studio Rotate",
+        "single": "yes",
+        "url": "https://studiorotate.com/",
+        "twitter": "StudioRotate",
+        "category": "Agency",
+        "country": "GB",
+        "info": "Here to help ambitious clients thrive online",
+        "imagefile": "client-logo_studio-rotate.png"
+    },
+    {
+        "name": "Wondrous",
+        "single": "yes",
+        "url": "https://www.wearewondrous.com",
+        "twitter": "WondrousInc",
+        "category": "Agency",
+        "country": "CH",
+        "info": "Strategy, design and code, Swiss made",
+        "since": 2015,
+        "imagefile": "client-logo_wondrous.png"
+    },
+    {
+        "name": "Zaengle",
+        "overview": "yes",
+        "url": "http://zaengle.com/",
+        "twitter": "zaengle",
+        "category": "Agency",
+        "country": "US",
+        "info": "Be nice, do good - powerful websites & apps that are a joy to use",
+        "imagefile": "client-logo_zaengle.png"
+    },
+    {
+        "name": "Evangelos Papadakis",
+        "url": "http://diadyo.gr/",
+        "category": "Freelancer",
+        "country": "GR"
+    },
+    {
+        "name": "Hans Peter Nielsen",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://www.digifekt.dk/",
+        "twitter": "webhanspeter",
+        "category": "Freelancer",
+        "country": "DK",
+        "info": "Converting digital needs and challenges to the right solution",
+        "imagefile": "client-logo_hans-peter-nielsen.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000444529136/c157ad42c657894ab0b392592b5c42a7.jpeg"
+    },
+    {
+        "name": "Niek ten Hoopen",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://nthmedia.nl",
+        "twitter": "NiektenHoopen",
+        "category": "Freelancer",
+        "country": "NL",
+        "info": "Web (shop) development & web (shop) consultancy",
+        "imagefile": "client-logo_niek-ten-hoopen.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000698506241/9532b91b45d41f63bec8ae45b1d8baa3.jpeg"
+    },
+    {
+        "name": "Phil Smith",
+        "overview": "yes",
+        "url": "http://amillionmonkeys.co.uk",
+        "twitter": "monkeyphil",
+        "category": "Freelancer",
+        "country": "GB",
+        "info": "Making the web work better",
+        "imagefile": "client-logo_phil-smith.jpg",
+        "internal": "https://pbs.twimg.com/profile_images/378800000594410359/24dee942f3ffb869fc751a1946fe086c.jpeg"
+    },
+    {
+        "name": "Romain Norberg",
+        "single": "yes",
+        "url": "https://romainnorberg.github.io/",
+        "twitter": "romainnorberg",
+        "category": "Freelancer",
+        "country": "NL",
+        "info": "Problem solving developer",
+        "imagefile": "client-logo_romain-norberg.jpg",
+        "internal": "https://media.licdn.com/media/AAEAAQAAAAAAAAUmAAAAJDM0ZTFjZTA2LTZmYTktNDZiMS1iMjc0LWI0NTg5MTlhY2I0Yw.jpg"
+    },
+    {
+        "name": "Shane Rounce",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://shanerounce.com/",
+        "twitter": "srounce",
+        "category": "Freelancer",
+        "country": "GB",
+        "info": "Web/ux developer, designer, photographer, traceur & writer",
+        "imagefile": "client-logo_shane-rounce.jpg",
+        "internal": "http://www.gravatar.com/avatar/0059a8bfd61780052368a4a2b7838c32?s=380"
+    },
+    {
+        "name": "Desktop Metal",
+        "overview": "yes",
+        "single": "yes",
+        "url": "http://www.desktopmetal.com",
+        "twitter": "DesktopMetal",
+        "category": "Startup",
+        "country": "US",
+        "info": "Reinventing the way design and manufacturing teams print with metal.",
+        "imagefile": "client-logo_desktop-metal.png"
+    },
+    {
+        "name": "Dot",
+        "single": "yes",
+        "url": "http://www.dotisfun.com/",
+        "twitter": "dotisfun",
+        "category": "Startup",
+        "country": "BE",
+        "info": "Map and share your world",
+        "imagefile": "client-logo_dot-is-fun.png"
+    },
+    {
+        "name": "Intelligentpos",
+        "overview": "yes",
+        "single": "yes",
+        "url": "https://www.intelligentpos.com/",
+        "twitter": "intelligentpos",
+        "category": "Startup",
+        "country": "GB",
+        "info": "Affordable, efficient and intelligent point of sale for every business",
+        "imagefile": "client-logo_ipos.png"
+    },
+    {
+        "name": "Managed by Q",
+        "overview": "yes",
+        "url": "http://www.managedbyq.com",
+        "twitter": "managedbyq",
+        "category": "Startup",
+        "country": "US",
+        "info": "Q makes it easy to run your office",
+        "imagefile": "client-logo_managedbyq.png"
+    },
+    {
+        "name": "Specifiedby",
+        "overview": "yes",
+        "single": "yes",
+        "url": "https://www.specifiedby.com",
+        "twitter": "SpecifiedBy",
+        "category": "Startup",
+        "country": "GB",
+        "info": "A smart database with over 40,000 building products and materials",
+        "imagefile": "client-logo_specifiedby.png"
+    }
+]

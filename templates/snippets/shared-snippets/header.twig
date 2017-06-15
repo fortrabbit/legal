@@ -7,7 +7,7 @@
 <![endif]-->
 
 <header class="pageheader inverted">
-    <nav class="row keep{% if not user.user %} p-s{% endif %}">
+    <nav class="row">
         {% if user.user %}
             {% include 'elements/breadcrumb.twig' %}
         {% else %}
@@ -16,7 +16,7 @@
             <a class="auto p-s" id="nav_help" href="{{ help_url }}">Help</a>
             <a class="auto p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
         {% endif %}
-        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right account" data-user="known" style="display:none">
+        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-s row keep flex-right account" data-user="known" style="display:none">
             {% if user.tasks_count %}
             <span class="bubble">{{ user.tasks_count }}</span>
             {% endif %}
@@ -27,7 +27,7 @@
         </a>
         <div class="flex-right row auto" data-user="unknown">
             <a class="auto p-s" id="nav_login" href="{{ dashboard_url }}">Log in</a>
-            <a class="auto p-s {% if not dashboard %}action fancy{% endif %}" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
+            <a class="auto p-s action fancy" id="nav_signup" href="{{ dashboard_url }}/signup?top">Sign up <span class="hide-p">free</span></a>
         </div>
     </nav>
 </header>

@@ -1,0 +1,363 @@
+[
+    {
+        "name": "Campusjäger",
+        "active": "yes",
+        "url": "https://www.campusjaeger.de",
+        "category": "E-Commerce / Marketplace",
+        "country": "DE",
+        "technology": "CakePHP",
+        "info": "Recruiting marketplace for students and employers looking for talent",
+        "screenshotfile": "screenshot_campus-jaeger.jpg"
+    },
+    {
+        "name": "Aiglon",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.aiglon.ch/",
+        "category": "Corporate Website",
+        "country": "CH",
+        "technology": "Craft",
+        "info": "A renowned, non-profit independent boarding school located high in the Swiss Alps",
+        "screenshotfile": "screenshot_aiglon.jpg"
+    },
+    {
+        "name": "Aligned Datacenters",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.aligneddatacenters.com",
+        "category": "Corporate Website",
+        "country": "US",
+        "technology": "Craft",
+        "info": "The first pay-for-use data center",
+        "screenshotfile": "screenshot_aligned-datacenters.jpg"
+    },
+    {
+        "name": "Anthology",
+        "active": "yes",
+        "url": "https://anthology.london",
+        "category": "Corporate Website",
+        "country": "GB",
+        "client": "Made by Cloud",
+        "technology": "Craft",
+        "info": "Residential developments in London",
+        "screenshotfile": "screenshot_anthology.jpg"
+    },
+    {
+        "name": "GMYLE",
+        "active": "yes",
+        "single": "yes",
+        "url": "https://new.gmyle.com/",
+        "category": "E-Commerce / Marketplace",
+        "country": "HK",
+        "technology": "Craft",
+        "info": "Customizable iphone cases",
+        "screenshotfile": "screenshot_gmyle.jpg"
+    },
+    {
+        "name": "Managed by Q",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.managedbyq.com",
+        "category": "Corporate Website",
+        "country": "US",
+        "technology": "Craft",
+        "info": "We make it easy to run your office",
+        "screenshotfile": "screenshot_managedbyq.jpg"
+    },
+    {
+        "name": "nook",
+        "active": "yes",
+        "single": "yes",
+        "url": "https://www.nooksleep.com",
+        "category": "E-Commerce / Marketplace",
+        "country": "US",
+        "client": "Zaengle",
+        "technology": "Craft",
+        "info": "Non-toxic mattresses for babies, kids and partents",
+        "screenshotfile": "screenshot_nook.jpg"
+    },
+    {
+        "name": "Flinttown",
+        "active": "yes",
+        "url": "http://www.welcometoflinttown.com/",
+        "category": "E-Commerce / Marketplace",
+        "country": "GB",
+        "technology": "Expression Engine",
+        "info": "#FTWN online shop, London based fashion brand",
+        "screenshotfile": "screenshot_flinttown.jpg"
+    },
+    {
+        "name": "24metrics",
+        "active": "yes",
+        "url": "http://24metrics.com/",
+        "category": "SaaS / Mobile App",
+        "country": "DE",
+        "client": "24metrics",
+        "technology": "Laravel",
+        "info": "Fraudshield effectively stops affiliate fraud",
+        "screenshotfile": "screenshot_24-metrics.jpg",
+        "internal": "Feature option: Adian, bid data"
+    },
+    {
+        "name": "Subaru Norge",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.subaru.no",
+        "category": "Corporate Website",
+        "country": "NO",
+        "client": "Sempro",
+        "brand": "Subaru",
+        "technology": "Laravel",
+        "info": "Main website for Subaru Norge and a network of 50+ subsites of local dealers",
+        "screenshotfile": "screenshot_subaru.jpg"
+    },
+    {
+        "name": "The dots",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://the-dots.com",
+        "category": "E-Commerce / Marketplace",
+        "country": "GB",
+        "technology": "Laravel",
+        "info": "Professional network for makers, doers, thinkers, planners and dreamers. ",
+        "screenshotfile": "screenshot_the-dots.jpg"
+    },
+    {
+        "name": "Urakkamaailma",
+        "active": "yes",
+        "url": "http://www.urakkamaailma.fi",
+        "category": "E-Commerce / Marketplace",
+        "country": "FI",
+        "technology": "Laravel",
+        "info": "Marketplace for craft trade services in Finnland",
+        "screenshotfile": "screenshot_urakkamaailma.jpg"
+    },
+    {
+        "name": "Zapiet",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.zapiet.com",
+        "category": "SaaS / Mobile App",
+        "country": "CA",
+        "technology": "Laravel",
+        "info": "The #1 Shopify App for Store pickup and Local delivery",
+        "screenshotfile": "screenshot_zapiet.jpg"
+    },
+    {
+        "name": "Relayto",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.relayto.com",
+        "category": "SaaS / Mobile App",
+        "country": "GB",
+        "technology": "Symfony",
+        "screenshotfile": "screenshot_relayto.jpg"
+    },
+    {
+        "name": "Ruya Foundation",
+        "active": "yes",
+        "single": "yes",
+        "url": "https://ruyafoundation.org",
+        "category": "Corporate Website",
+        "country": "GB",
+        "technology": "WordPress",
+        "info": "Multilingual NGO website of the Ruya Foundation for contemporary culture in Iraq",
+        "screenshotfile": "screenshot_ruya-foundation.jpg"
+    },
+    {
+        "name": "UpGreatLife",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.upgreatlife.com",
+        "category": "E-Commerce / Marketplace",
+        "country": "DE",
+        "technology": "WordPress",
+        "info": "E-commerce platform for healthy food boxes",
+        "screenshotfile": "screenshot_upgreatlife.jpg"
+    },
+    {
+        "name": "Zleep Hotels",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://www.zleephotels.com",
+        "category": "Corporate Website",
+        "country": "DK",
+        "technology": "WordPress",
+        "info": "Multilingual website of the Danish Zleep Hotels chain",
+        "screenshotfile": "screenshot_zleep-hotels.jpg"
+    },
+    {
+        "name": "Customer Care Check",
+        "active": "yes",
+        "url": "http://www.customercarecheck.com",
+        "category": "Online Campaign",
+        "country": "CH",
+        "client": "Wondrous",
+        "info": "Get a view of your service organization's maturity level",
+        "screenshotfile": "screenshot_customer-care-check.jpg",
+        "internal": "Pidas"
+    },
+    {
+        "name": "Ipos",
+        "active": "yes",
+        "url": "https://www.intelligentpos.com/",
+        "category": "SaaS / Mobile App",
+        "country": "GB",
+        "client": "Ipos",
+        "info": "Affordable, efficient and intelligent point of sale for every business",
+        "since": 2013,
+        "screenshotfile": "screenshot_ipos.jpg",
+        "internal": "Feature option: Paul"
+    },
+    {
+        "name": "Ticketmaster Sport 1",
+        "active": "yes",
+        "single": "yes",
+        "url": "http://tickets.sport1.de",
+        "category": "E-Commerce / Marketplace",
+        "country": "DE",
+        "client": "Spreeatelier ",
+        "brand": "Ticketmaster",
+        "info": "Graylabel marketing platform for segmented ticket sales",
+        "screenshotfile": "screenshot_ticketmaster-sport-1.jpg"
+    },
+    {
+        "name": "Creta Live",
+        "single": "yes",
+        "url": "http://www.cretalive.gr/",
+        "category": "Corporate Website",
+        "country": "GR",
+        "technology": "Craft",
+        "info": "Media website with the latest news from Greece",
+        "screenshotfile": "screenshot_creta-live.jpg",
+        "internal": "decent traffic"
+    },
+    {
+        "name": "Desktop Metal",
+        "url": "http://www.desktopmetal.com",
+        "category": "Corporate Website",
+        "country": "US",
+        "technology": "Craft",
+        "screenshotfile": "screenshot_desktop-metal.jpg"
+    },
+    {
+        "name": "MailBeez Website",
+        "url": "https://www.mailbeez.com/",
+        "category": "Corporate Website",
+        "country": "DK",
+        "technology": "Grav",
+        "screenshotfile": "screenshot_vapebox.jpg"
+    },
+    {
+        "name": "Biotrue",
+        "url": "http://www.biotrue.it/",
+        "category": "Online Campaign",
+        "country": "IT",
+        "client": "Dude",
+        "technology": "Laravel",
+        "info": "Product website for one day lenses",
+        "screenshotfile": "screenshot_biotrue.jpg"
+    },
+    {
+        "name": "Gif me more creativity",
+        "url": "http://creativity.mtvmobile.ro/",
+        "category": "Online Campaign",
+        "country": "RO",
+        "client": "MetaTalk",
+        "brand": "MTV",
+        "technology": "Laravel",
+        "info": "Create your own housing mtv mobile x musketon",
+        "screenshotfile": "screenshot_gif-me-more-creativity.jpg"
+    },
+    {
+        "name": "Groundfunding",
+        "single": "yes",
+        "url": "https://www.groundfunding.fi/",
+        "category": "Corporate Website",
+        "country": "FI",
+        "client": "4D Software",
+        "technology": "Laravel",
+        "info": "Platform for real estate finance service in Finland",
+        "screenshotfile": "screenshot_groundfunding.jpg"
+    },
+    {
+        "name": "Happy Hours",
+        "url": "http://www.happyhours-af.ch/",
+        "category": "Online Campaign",
+        "country": "CH",
+        "client": "BeOnPerf",
+        "brand": "Air France",
+        "technology": "Laravel",
+        "info": "Voucher code system",
+        "screenshotfile": "screenshot_happy-hours.jpg"
+    },
+    {
+        "name": "MailBeez App",
+        "url": "http://apps.mailbeez.com/",
+        "country": "DK",
+        "technology": "Laravel",
+        "screenshotfile": "screenshot_vapebox.jpg"
+    },
+    {
+        "name": "Skarvernnet",
+        "url": "http://www.skarverennet.no/",
+        "category": "Online Campaign",
+        "country": "NO",
+        "client": "Sempro",
+        "technology": "Laravel"
+    },
+    {
+        "name": "Specifiedby",
+        "active": "yes",
+        "single": "yes",
+        "url": "https://www.specifiedby.com/",
+        "category": "SaaS / Mobile App",
+        "country": "GB",
+        "client": "Specifiedby",
+        "technology": "Laravel",
+        "info": "Smart database with over 40,000 building products with project management",
+        "screenshotfile": "screenshot_specified-by.jpg",
+        "internal": "b2b"
+    },
+    {
+        "name": "Vapebox",
+        "single": "yes",
+        "url": "https://www.vape-box.com/",
+        "category": "E-Commerce / Marketplace",
+        "country": "US",
+        "technology": "Laravel",
+        "info": "Subscription based vape e-liquids & accessories",
+        "screenshotfile": "screenshot_vapebox.jpg"
+    },
+    {
+        "name": "Dot is fun",
+        "url": "http://www.dotisfun.com/",
+        "category": "SaaS / Mobile App",
+        "country": "NL",
+        "client": "Dot",
+        "technology": "Phalcon",
+        "info": "Find places about subjects that interest you",
+        "screenshotfile": "screenshot_dot-is-fun.jpg"
+    },
+    {
+        "name": "Dealindex",
+        "url": "dealindex",
+        "category": "SaaS / Mobile App",
+        "country": "GB"
+    },
+    {
+        "name": "Denner",
+        "url": "denner-art-new",
+        "category": "SaaS / Mobile App",
+        "country": "CH",
+        "client": "DetailNet",
+        "brand": "Denner"
+    },
+    {
+        "name": "Kixx NL",
+        "url": "warehouse.kixx.nl",
+        "category": "SaaS / Mobile App",
+        "country": "NL",
+        "client": "Niek ten Hoopen"
+    }
+]

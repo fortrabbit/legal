@@ -1,0 +1,110 @@
+{% extends "layout.twig" %}
+{% set title = "Craft CMS hosting for digital agencies" %}
+{% set activeClass = 'nav_craft' %}
+{% set bodyClass   = 'marketing' %}
+
+
+{% set cta = {
+'button_wording_1': 'Start your trial',
+'button_wording_2': 'see Craft hosting in action'
+} %}
+
+
+
+
+{% block precontent %}
+
+    <div class="hero image craft oblique-end">
+        <h1 style="font-size: 9vw">
+            Craftsmen hosting
+        </h1>
+        <p class="claim">
+            fast &amp; reliable Craft CMS hosting
+        </p>
+        {% include 'snippets/quick-signup-stacked-hero.twig' with {
+        'headline': 'Try a better Craft CMS hosting'
+        } %}
+    </div>
+
+{% endblock %}
+
+
+
+
+{% block content %}
+
+    <h2 class="type-xl">
+        Why to host Craft CMS on fortrabbit
+    </h2>
+    <div class="row gutter-l wrap m-top-l">
+        <div class="third half-t">
+            {% include '/snippets/batteries-included.twig' %}
+        </div>
+        <div class="third half-t">
+            <h3>Setting up Craft</h3>
+            <p>
+                <a href="{{ help_url }}/install-craft-uni">Installing Craft</a> on fortrabbit hosting is painless. Just
+                do some configuration changes, push your code and your are good to go.
+            </p>
+        </div>
+        <div class="third half-t">
+            {% include "snippets/why-not-navigation.twig" %}
+        </div>
+    </div>
+
+
+
+    {% include 'snippets/quotes.twig' with {
+    'quoteText'      : 'craft',
+    'quoteClasses'   : 'hero-quote m-top-xl'
+    } %}
+
+
+    <h2 class="m-top-xxl type-xl">
+        Featured Craft CMS sites hosted on fortrabbit
+    </h2>
+
+    <div class="row gutter-l wrap m-top-m">
+
+        {% set apps = getResource("customers-apps") %}
+        {% for item in apps %}
+            {% if item.technology == "Craft" and item.single %}
+                <div class="third half-t" data-category="{{ item.category | lower }}">
+                    <a href="{{ item.url }}" class="browserchrome">
+                        <div class="addressbar clip">
+                            {{ item.url }}
+                        </div>
+                        <div class="screenshot"
+                             style="background-image:url('{{ assetsremote }}/img/{{ item.screenshotfile }}');"></div>
+                    </a>
+                    <div class="type-s m-top-s">
+                        <b>{{ item.name }}</b>: {{ item.info }}.
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <p class="m-top-m" style="z-index:1000; position: relative">
+        <a href="/customers">See more from our customers &rarr;</a>
+    </p>
+
+    <h2 class="m-top-xxl type-xxl">
+        Craft CMS hosting and fortrabbit
+    </h2>
+    {% include 'snippets/software-focus-snippet.twig' with { 'software' : 'Craft' } %}
+
+    <p class="type-l m-top-m">
+        <b>Craft CMS</b> is made for developers and editors. Out of the box, Craft supports multiple environments. This
+        is an absolute must when working in teams so you can develop the site locally, deploy to staging and then deploy
+        to production. With fortrabbit <a href="{{ help_url }}/multi-staging">multi staging</a> is easy: Just spin up an
+        App to create a new environment, import your database and <code>git push</code> your code. <a
+                href="{{ help_url }}/collaboration">Team collaboration</a> is straight forward, code access for your
+        mates based on access roles. fortrabbit is developer friendly, fast and reliable Craft CMS hosting. We ❤ Craft
+        CMS &amp; Craft Commerce.
+    </p>
+
+    <p class="type-s">Craft is a trademark of Pixel &amp; Tonic Inc.</p>
+
+
+{% endblock %}

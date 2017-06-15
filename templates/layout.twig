@@ -1,0 +1,102 @@
+{% set cta_default = {
+    'button_wording_1': 'Test it for free',
+    'button_wording_2': 'join more than 20k developers',
+    'identifier'      : 'cta_lastaction_get_started_for_free'
+    }
+%}
+
+{% set assetsremote   = '//static.frbit.name' %}
+{% set assetslocal    = '/dist' %}
+
+
+{% if environment == 'local' %}
+
+    {% set css_assetpath  = assetslocal %}
+    {% set js_assetpath   = assetsremote %}
+    {% set cache_bust     = '?-' ~ random(100) %}
+    {% set www_url        = 'http://www.fortrabbit.dev' %}
+    {% set help_url       = 'http://help.fortrabbit.dev' %}
+    {% set blog_url       = 'http://blog.fortrabbit.dev' %}
+    {% set dashboard_url  = 'http://dashboard.fortrabbit.dev' %}
+
+{% else %} {# production! #}
+
+    {% set css_assetpath = assetsremote %}
+    {% set js_assetpath  = assetsremote %}
+    {% set www_url       = 'https://www.fortrabbit.com' %}
+    {% set help_url      = 'https://help.fortrabbit.com' %}
+    {% set blog_url      = 'https://blog.fortrabbit.com' %}
+    {% set dashboard_url = 'https://dashboard.fortrabbit.com' %}
+    {% set cache_bust    = '?-' ~ "now"|date("Ymd") %}
+
+{% endif %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{% if title %}{{ title }}{% else %}fortrabbit | PHP cloud hosting{% endif %}</title>
+    <meta name="keywords" content="php, paas, saas, iaas, laravel, application, hosting, cloud, platform, webhosting, web-hosting, apc, memcache, europe, berlin">
+
+    {% include 'snippets/shared-snippets/head.twig'  %}
+    <meta name="referrer" content="unsafe-url">{# SEO, check refferers from unsafe URLs #}
+    {% block headstuff %}{% endblock %}
+</head>
+
+{% block experimentcode %}{% endblock %}
+
+
+<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
+
+{% include 'snippets/shared-snippets/header.twig'  %}
+
+{% filter currency %}
+    {% block precontent %}{% endblock %}
+{% endfilter %}
+
+<main role="main" class="wrapper">
+    {% filter currency %}
+    {% block content %}{% endblock %}
+    {% endfilter %}
+</main>
+
+{# use default values or the ones set in the main content block #}
+{% set cta = cta_default|merge(cta ? cta : {}) %}
+{% include "snippets/shared-snippets/footer.twig" with cta %}
+
+{% block postcontent %}{% endblock %}
+
+
+{% include "snippets/shared-snippets/surveillance-scripts.twig" with {
+    cta : cta,
+    'property' : 'www_prop'
+} %}
+
+{% if javascripts %}{{ javascripts }}{% endif %}
+
+{% if activeClass %}
+<script>$(function () { $.setActiveClass('{{activeClass}}'); });</script>
+{% endif %}
+
+<script>
+$(function() {
+    if ($.cookie('via') == undefined || document.location.search.length > 1) {
+        $.ajax({
+            url: '//dashboard.fortrabbit.com/via',
+            headers: {
+                'X-HREF': document.location.href,
+                'X-REF': document.referrer
+            },
+            xhrFields: {
+                withCredentials: true
+            }
+        });
+    }
+});
+</script>
+
+<script src="/country.js"></script>
+
+</body>
+</html>
+<!-- you have found the end of the interwebs -->

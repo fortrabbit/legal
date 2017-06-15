@@ -1,0 +1,51 @@
+{% extends "layout.twig" %}
+{% set title = "Service Level Agreement" %}
+{% set activeClass = 'nav_uptime' %}
+{% set bodyClass = 'animscroll' %}
+
+
+{% block content %}
+
+
+<div class="m-top-l m-bottom-l">
+    <h1 class="type-xxl">
+        Keeping your business online <br>
+        is our business
+    </h1>
+    <div class="read-l m-top-l post">
+        <p class="type-l">
+            We promise do to everything we can to keep your Apps up. See the following links to get a picture of the service you can expect here:
+        </p>
+        <ul>
+            <li>
+                <a href="http://checks.paaswatch.com/607521/history">
+                    <b>External uptime report</b>
+                </a>
+                - of this website from 2012 until now
+            </li>
+            <li>
+                <a href="http://status.fortrabbit.com">
+                    <b>Status page</b>
+                </a>
+                - downtime communication on past incidents
+            </li>
+            <li>
+                <a href="{{ help_url }}/scaling-pro">
+                    <b>High availabilty options</b>
+                </a>
+                - horizontally scaling for extra redunandcy
+            </li>
+            {# IDEA: link to specs (page views) #}
+        </ul>
+        <p>
+            But let's be realistic about this — things will go wrong one day. Read the following <a href="#sla">SLA</a> to learn about refund you'll get for downtime:
+        </p>
+    </div>
+</div>
+
+<article class="m-top-xl post read-xl" id="sla">
+    {% filter markdown %}
+    {% include 'legal/sla.md' %}
+    {% endfilter %}
+</article>
+{% endblock %}

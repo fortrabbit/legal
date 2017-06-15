@@ -1,0 +1,19 @@
+<div class="row gutter-s">
+
+    {# TODO:
+        FRANK: implement this - or make an A/B test
+
+    <menu class="row auto gutter-no type-s">
+        <div class="inverted box p-xs">Billing:</div>
+        <a href="#" class="inverted box p-xs active">Monthly</a>
+        <a href="#" class="inverted box p-xs">Daily</a>
+    </menu>
+    #}
+
+    <menu class="row gutter-no auto flex-right type-s">
+        <div class="{{ inverted ? 'inverted' : '' }} box p-xs">Currency:</div>
+        <a href="?currency=EUR" class="{{ inverted ? 'inverted' : '' }} box p-xs {{ (currency == 'EUR') ? 'active' : '' }}" data-currency="EUR">EUR</a>
+        <a href="?currency=USD" class="{{ inverted ? 'inverted' : '' }} box p-xs {{ (currency == 'USD') ? 'active' : '' }}" data-currency="USD">USD</a>
+    </menu>
+
+</div>
