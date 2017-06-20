@@ -16,11 +16,11 @@
             <a class="auto p-s" id="nav_help" href="{{ help_url }}">Help</a>
             <a class="auto p-s" id="nav_blog" href="{{ blog_url }}">Blog</a>
         {% endif %}
-        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto p-m row keep flex-right account" data-user="known" style="display:none">
+        <a id="nav_account" href="{{ dashboard_url }}/account" class="auto{% if user.user %} p-m{% else %} p-s{% endif %} row keep flex-right account" data-user="known" style="display:none">
             {% if user.tasks_count %}
             <span class="bubble">{{ user.tasks_count }}</span>
             {% endif %}
-            <span class="hide-t">Your Account</span>
+            <span class="hide-p">Your Account</span>
             <div class="mediacontainer">
                 <div class="media media-face" data-gravatar style="background-image: url('{{ gravatar }}')"></div>
             </div>
