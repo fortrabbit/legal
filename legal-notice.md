@@ -9,5 +9,5 @@ Berlin (Charlottenburg)
 **UID (VAT IN)**  
 DE292700027
 
-**Authorised representatives**  
+**Authorized representatives**  
 Frank Lämmer, Oliver Stark
