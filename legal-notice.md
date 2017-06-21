@@ -10,4 +10,4 @@ Berlin (Charlottenburg)
 DE292700027
 
 **Authorised representatives**  
-Frank Lämmer, Ulrich Kautz, Oliver Stark
+Frank Lämmer, Oliver Stark
