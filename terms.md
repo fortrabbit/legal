@@ -1,39 +1,34 @@
-General terms & conditions of fortrabbit
-========================================
+# General terms & conditions of fortrabbit
+
 
 last amended on November 21th, 2016
 
 
 
-Preamble
---------
+## Preamble
 
 The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Regulations to the terms and conditions as well as to these T&C's diverged agreements are legal, preconditioned they have been formally approved in written form by the provider.
 
 
-§ 1 Subject
------------
+## § 1 Subject
 
 1.  Subject to these conditions of use is the provision of data storage and the computing capacity for connecting to the internet (Cloud Webhosting Platform). The client will have access to upload the source code and to adjust the service.
 2.  All services described in this terms and conditions are available only to business units, public agencies and entrepreneurs. The registration of private customers is prohibited.
 
 
-§ 2 Conclusion of the contract
-------------------------------
+## § 2 Conclusion of the contract
 
 1.  The customer's registration for one of provider’s service shall be deemed to be an offer to enter into a contract. The provider may accept or refuse this offer. The acceptance of this offer takes place either expressly or impliedly by activation of the user's account The concluded contract is not permanently stored by the provider.
 2.  It is agreed on concluding this contract between the provider and the customer that there is a contract for the performance of a continuing obligation. If the customer selects the service with costs, he will be obliged to pay monthly the arising fees until the cancellation of the contract. If the customer select the service for less than one calendar month, the fee for the service  will be charged proportionately. The billing will be carried out on the following month and on a monthly basis. Customers paying by credit card expressly agree to have their credit card account billed monthly for the recurring charges for the life of the contract including any automatic renewal periods.
 3.  A right of revocation does not exist for the customer. But the customer can cancel the contract at any time.
 
 
-§ 3 Obligations of the provider
--------------------------------
+## § 3 Obligations of the provider
 
 1.  The provider shall ensure that customer has access to the provider's services.
 
 
-§ 4 Obligations of the customer
--------------------------------
+## § 4 Obligations of the customer
 
 1.  If the customer is facing any failures using the system, the customer shall inform the provider and without delay of such interferences.
 2.  The customer is obliged to use his access data carefully and to avoid an unauthorised use by third parties. Furthermore, the customer shall inform the provider of such unauthorised use by third parties without delay.
@@ -50,8 +45,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 13.  If and so far as the customer uses the contractual storage in contrary to the assurance the non-distribution of illegal content, the provider will have the right to block access via world wide web to such content.
 
 
-§ 5 Remuneration and methods of payment
----------------------------------------
+## § 5 Remuneration and methods of payment
 
 1.  The up-to-date price list applies at all the times ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)) if not otherwise agreed in a written form.
 2.  The cost related service is to be paid monthly.
@@ -61,16 +55,14 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 6.  The customer's fee will be billed in a written form for remuneration, if expressly required.
 
 
-§ 7 Guarantee or liability
---------------------------
+## § 7 Guarantee or liability
 
 1.  In the event of a material breach of this agreement caused by slight negligence, the provider excludes all liability unless the liability involves injury of life, body or health or the breach of fundamental contractual duties that facilitate the enforcement of this contract in such due form the customer trustfully relies upon or to the claims granted by the Product Liability Act.
 2.  In cases of force majeure (in particular in case of strikes, lockouts, official or legal orders, technical difficulties, negligence of a third party) that are not in the responsibility of the provider, the provider will not be liable.
 3.  The limitation of liability related to section 7 (1) of this agreement also applies to the providers vicarious agents within the scope of the contract compliance.
 
 
-§ 8 Duration and termination
-----------------------------
+## § 8 Duration and termination
 
 1.  The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract.
 2.  The customer may terminate the contract without reason for the future effect in the Dashboard.
@@ -92,8 +84,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 7.  In the case of threat caused by change of employee or organisation, the customer will ensure that this will be changed by the provider.
 8.  The customer shall not be entitled to require access to the areas of the software application, server and the service software or any other system components. This does not apply to data protection supervisor with the regard to sec. 11, 2 BGSG with a written approval in compliance with legal and regulatory provision of BDSG.
 
-§ 10 Final provisions
----------------------
+## § 10 Final provisions
 
 1.  The contract shall be governed by German law, without regard to any choice of law rules adopted thereunder.
 2.  Court of jurisdiction will the providers head office, if the customer is a merchant as defined in sec. 1 to 7 HGB (German Code of Commerce).
