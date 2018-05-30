@@ -1,4 +1,4 @@
-Imprint according to German law (§5 TMG)  
+# Imprint according to German law (§5 TMG)  
 
 **Register entry**  
 HRB 154552 B  
@@ -13,8 +13,8 @@ DE292700027
 Frank Lämmer, Oliver Stark
 
 **Postal address**  
-fortrabbit GmbH 
-Görlitzer Str. 52 
+fortrabbit GmbH  
+Görlitzer Str. 52  
 10997 Berlin
 
 **E-mail address**  
