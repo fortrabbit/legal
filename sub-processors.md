@@ -6,28 +6,38 @@ THIS DRAFT WAS last amended on May 30th, 2018
 
 The fortrabbit itselfs platform runs on **Amazon Web Services**, (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront …) are used in combination.
 
-1.  Apps will be stored in the data center location you are choosing.
-2.  Billing related and Account data is stored in Ireland.
+*  Apps will be stored in the data center location you are choosing.
+*  Billing related and Account data is stored in Ireland.
 
 ## Payment processing
 
 Credit card billing informations are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account informations are stored with our databases.
 
-## Usage statistics, tracking & marketing
+## Usage statistics
 
-We are making use of **Google Analytics** and potentially of **Google AdWords**. We might use re-marketing from Google, as it is an effective way to stay on the radar of potential clients. We might also advertise on **Twitter**, for this we are sharing about your visit, think "Tailored Audiences".
+We are making use of **Google Analytics**. fortrabbit uses AdWords and Remarketing Lists features of Google Analytics for Display Advertisers. 
+
+You may opt-out of Google Analytics for Display Advertisers including AdWords and opt-out of customized Google Display Network ads by visiting the Google Ads Preferences Manager. To provide website visitors more choice on how their data is collected by Google Analytics, Google has developed an Opt-out Browser add-on, which is available by visiting [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), to enable you to opt-out of Google’s programs.
+
+
+## Marketing & tracking
+
+We potentially use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients. We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences". 
+
+fortrabbit and Google use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Site. This means that vendors including Google will display fortrabbit promotional material on other sites you visit across the Internet.
+
 
 ## Client communication
 
 In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will chat or have contact by e-mail.
 
-## Support service
+### Support service
 
 The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted.
 
-## Newsletter subscription
+### Newsletter subscription
 
-We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant informations on service updates and feature announcements. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
+We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant informations on service updates and feature announcements, so these are not Newsletter in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
 
 ## Transactional e-mails
 
