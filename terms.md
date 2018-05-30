@@ -1,4 +1,4 @@
-# General terms & conditions of fortrabbit
+# General terms of fortrabbit
 
 
 last amended on November 21th, 2016
