@@ -12,7 +12,7 @@ It is not allowed to use, encourage, promote, facilitate or instruct others to u
 * Illegal or harmful content: Illegal contents, that violate the rights of others, or that may be harmful to others, reputation, including disseminating, promoting or facilitating child pornography, offering or disseminating fraudulent goods, services, schemes, promotions, make-money-fast schemes, ponzi and pyramid schemes, phishing, pharming, crypto-currency mining.
 * Infringing content: Content that infringes or misappropriates the intellectual property or proprietary rights of others.
 * Offensive content: Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
-* Harmful content: Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including trojan horses, viruses, worms, time bombs, cancelbots, Facebook frauds.
+* Harmful content: Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including trojan horses, cancelbots, viruses, worms, time bombs, Facebook friend bots.
 
 
 ## Prohibited actions
