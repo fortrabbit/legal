@@ -23,7 +23,7 @@ This is the original source of text. We include this repo as a Git subtree in th
 
 ### 3 — push
 
-* `git subtree push --prefix templates/legal git@github.com:fortrabbit/legal master --squash`
+`git subtree push --prefix templates/legal git@github.com:fortrabbit/legal master --squash`
 
 
 
