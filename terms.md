@@ -1,7 +1,7 @@
 # General terms of fortrabbit
 
 
-last amended on November 21th, 2016
+last reviewed on November 21th, 2016
 
 
 

@@ -1,6 +1,6 @@
 # Acceptable use policy of fortrabbit
 
-THIS DRAFT WAS last amended on May 30th, 2018
+THIS DRAFT WAS last reviewed on May 30th, 2018
 
 fortrabbit is intended to be used to host websites, web-applications, and web-APIs. This policy describes forbidden uses of the fortrabbit platform. The examples described here are not exhaustive. We may modify this policy at any time. By using the services, you agree to the latest version of this policy.
 

@@ -1,7 +1,7 @@
 Service level agreement of fortrabbit
 =====================================
 
-last amended on November 21th, 2016
+last reviewed on November 21th, 2016
 
 1.  fortrabbit will use commercially reasonable efforts to make the fortrabbit platform available with a monthly uptime percentage (defined under sec. 2 of this SLA) depending on the product chosen by you during any monthly billing cycle. In the event fortrabbit does not meet the guaranteed uptime, you will be eligible to receive a service credit as described under sec. 6 of this SLA.
 
