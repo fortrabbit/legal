@@ -1,5 +1,4 @@
-Service level agreement of fortrabbit
-=====================================
+# Service level agreement of fortrabbit
 
 last reviewed on November 21th, 2016
 
