@@ -1,6 +1,6 @@
 # Security measures of fortrabbit
 
-THIS DRAFT WAS last amended on May 30th, 2018
+last reviewed on June 1st, 2018
 
 **It's our duty to keep the infrastructure secure.** While we don’t like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
 
@@ -67,4 +67,4 @@ All sensible access data is stored "hashed + salted". Asymmetric encryption and 
 
 ## Supplier relationships
 
-All subcontractors are tested for privacy and security suitability. Rhere are appropriate terms in place.
+All subcontractors are tested for privacy and security suitability. There are appropriate terms in place.
