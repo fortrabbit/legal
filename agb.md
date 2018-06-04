@@ -1,39 +1,33 @@
-Allgemeine Geschäftsbedingungen von fortrabbit
-==========================
+# Allgemeine Geschäftsbedingungen von fortrabbit
 
 zuletzt geändert: 21. November 2016
 
 
 
-Präambel
---------
+## Präambel
 
 Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52, 10997 Berlin. Von diesen Geschäftsbedingungen insgesamt oder teilweise abweichende AGB des Kunden werden vom Anbieter nicht anerkannt, es sei denn, der Anbieter hat diesen ausdrücklich zugestimmt.
 
 
-§ 1 Gegenstand
------------
+## § 1 Gegenstand
 
 1.  Gegenstand der vorliegenden Nutzungsbedingungen ist die Bereitstellung von Datenspeicher und Rechenkapazität zur Anbindung an das Internet (Cloud WebHosting Plattform). Der Kunde erhält Zugänge um Quelltext hochzuladen und den Dienst anzupassen.
 2.  Die in diesen AGB beschriebenen Dienste stehen nur für Unternehmen, Behörden und Selbständige zur Verfügung. Verbraucher sind von der Anmeldung ausgenommen. 
 
 
-§ 2 Zustandekommen des Vertrages
---------------------------------
+## § 2 Zustandekommen des Vertrages
 
 1.  Die Anmeldung des Kunden für den vom Anbieter angebotenen Dienst gilt als Angebot zum Abschluß eines Vertrages. Danach wird der Anbieter das Angebot des Kunden annehmen oder ablehnen. Die Annahme kann auch konkludent durch Freischaltung des Kontos erfolgen. Der Vertragstext wird durch den Anbieter nicht dauerhaft gespeichert.
 2.  Mit dem Abschluss des Vertrages wird zwischen dem Anbieter und dem Kunden ein Dauerschuldverhältnis begründet. Bucht der Kunde kostenpflichtige Leistungen, so besteht die Verpflichtung zur Zahlung der dafür anfallenden Gebühren bis zur Kündigung der jeweiligen Leistung im monatlichen Intervall. Nimmt der Kunde die kostenpflichtige Dienstleistung für weniger als einen vollen Kalendermonat in Anspruch, so wird die Leistung anteilig abgerechnet. Die Abrechnung erfolgt in jedem Fall nachfällig monatlich. Kunden, die mit Kreditkarte bezahlen, stimmen ausdrücklich zu, dass ihre Kreditkarte monatlich mit den regelmäßig anfallenden Kosten belastet wird.
 3.  Ein Widerrufsrecht des Kunden besteht nicht. Er kann den Vertrag allerdings jederzeit durch Kündigung mit Wirkung für die Zukunft beendigen.
 
 
-§ 3 Pflicht des Anbieters
--------------------------
+## § 3 Pflicht des Anbieters
 
 1.  Der Anbieter trägt dafür Sorge, dass der Kunde die Möglichkeit des Zugriffs auf die Dienste des Anbieters hat.
 
 
-§ 4 Pflichten des Kunden
-------------------------
+## § 4 Pflichten des Kunden
 
 1.  Sollte es bei der Nutzung des Systems zu Störungen kommen, so wird der Kunde den Anbieter von diesen Störungen unverzüglich in Kenntnis setzen.
 2.  Der Kunde ist verpflichtet, mit den Zugangsdaten sorgfältig umzugehen und eine missbräuchliche Benutzung durch Dritte zu verhindern und den Anbieter sofort davon in Kenntnis zu setzen, wenn sich ein Dritter unerlaubt Zugang zu den Zugangsdaten des Kunden erschlichen hat.
@@ -50,8 +44,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 13.  Wenn und soweit der Kunde den vertragsgegenständlichen Speicherplatz entgegen der Zusicherung für die Verbreitung rechtswidriger Inhalte nutzt, ist der Anbieter berechtigt, den Zugriff auf diese Inhalte über das World Wide Web durch geeignete Maßnahmen zu sperren.
 
 
-§ 5 Vergütung und Zahlungsmodalitäten
--------------------------------------
+## § 5 Vergütung und Zahlungsmodalitäten
 
 1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)).
 2. Kostenpflichtige Leistungen werden monatlich abgerechnet.
@@ -61,16 +54,14 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 6. Rechnungen an den Kunden werden nur auf ausdrücklichen Wunsch des Kunden und gegen Entgelt schriftlich erstellt.
 
 
-§ 7 Gewährleistung und Haftung
-------------------------------
+## § 7 Gewährleistung und Haftung
 
 1.  Der Anbieter schließt die Haftung für leicht fahrlässige Pflichtverletzungen aus, sofern nicht Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder Verletzung einer Garantie oder Ansprüche nach dem Produkthaftungsgesetz berührt sind. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf.
 2.  Der Anbieter trägt keine Verantwortung für Leistungsausfälle verursacht durch höherer Gewalt, Verschulden Dritter, Streiks, behördliche Eingriffe, juristische Eingriffe oder technische oder sonstige Probleme, die außerhalb des Einflussberreichs des Anbieters liegen.
 3.  Die Haftungsbeschränkung nach § 7 Abs. 1 gilt auch für den Anbieter und ihre Erfüllungsgehilfen sofern Ansprüche aus unerlaubter Handlung geltend gemacht werden, die mit der Vertragserfüllung in Verbindung steht.
 
 
-§ 8 Laufzeit und Kündigung
---------------------------
+## § 8 Laufzeit und Kündigung
 
 1.  Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform (§ 126 b BGB) gekündigt werden.
 2.  Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Web Control Panel kündigen.
@@ -80,9 +71,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 6.  Einen Grund zur fristlosen Kündigung stellen auch schwerwiegende Verstöße gegen § 4 dieser AGB dar.
 
 
-
-§ 9 - Datenschutz
------------------
+## § 9 Datenschutz
 
 1.  Beide Parteien werden die jeweils anwendbaren, insbesondere die in Deutschland gültigen datenschutzrechtlichen Bestimmungen beachten und ihre im Zusammenhang mit dem Vertrag eingesetzten Beschäftigten auf das Datengeheimnis gem. § 5 BDSG verpflichten, soweit diese nicht bereits allgemein entsprechend verpflichtet sind.
 2.  Erhebt, verarbeitet oder nutzt der Kunde auf vom Anbieter bereitgestellten Einrichtungen personenbezogene Daten, so steht er dafür ein, dass er dazu nach den anwendbaren, insb. datenschutzrechtlichen Bestimmungen berechtigt ist und stellt im Falle eines Verstoßes den Anbieter von Ansprüchen Dritter frei. Dies gilt auch für den Fall, dass der Kunde die Daten unter Nutzung der Einrichtungen des Anbieters an Dritte versendet oder für diese zur Abholung bereitstellt.
@@ -94,8 +83,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 8.  Der Kunde ist grundsätzlich nicht berechtigt, Zugang zu den Räumlichkeiten mit der Softwareapplikation, dem Server und der Betriebssoftware sowie sonstigen Systemkomponenten des Rechenzentrums des Anbieters zu verlangen. Hiervon unberührt bleiben Zutrittsrechte des Datenschutzbeauftragten des Kunden nach schriftlicher Anmeldung zur Prüfung (§ 11 Abs. 2 BDSG) der Einhaltung der Erfordernisse gemäß Anlage zu §9 BDSG sowie des sonstigen gesetz- und vertragskonformen Umgangs des Anbieters mit personenbezogenen Daten.
 
 
-§ 10 Schlussbestimmungen
------------------------
+## § 10 Schlussbestimmungen
 
 1.  Es gilt deutsches Recht unter Ausschluss des internationalen Privatrechts.
 2.  Sofern der Kunde Kaufmann ist, wird für alle Streitigkeiten, die sich aus oder im Zusammenhang mit dem vorliegenden Vertrag ergeben, der Sitz des Anbieters als Gerichtsstand vereinbart.
