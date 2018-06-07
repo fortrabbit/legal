@@ -8,7 +8,7 @@ zuletzt geändert: 07. Juni 2018
 1. Dieser Vertrag kommt zwischen dem Kunden der fortrabbit GmbH, im Folgenden Auftraggeber, und der fortrabbit GmbH, im Folgenden Auftragnehmer zustande. Er ergänzt jeden bestehenden Hostingvertrag zwischen dem Auftragnehmer und dem Auftraggeber, im Folgenden auch Hauptvertrag, wenn der Auftraggeber Verarbeitung von personenbezogenen Daten auf der Hosting Plattform des Auftraggebers vornimmt. In seinem Anwendungsbereich geht er dem Hauptvertrag des Auftragnehmers vor. 
 2. Dieser Vertrag regelt die Rechte und Pflichten von Auftraggeber und -nehmer, im Folgenden auch Parteien genannt.
 3. Dieser Vertrag findet auf alle Tätigkeiten Anwendung, bei denen Mitarbeiter des Auftragnehmers oder durch ihn beauftragte Unterauftragnehmer (Subunternehmer) personenbezogene Daten des Auftraggebers verarbeiten.
-4. In diesem Vertrag verwendete Begriffe sind entsprechend ihrer Definition in der EU Datenschutz-Grundverordnung zu verstehen. Soweit Erklärungen im Folgenden „schriftlich“ zu erfolgen haben, ist die Schriftform nach § 126 BGB gemeint. Im Übrigen können Erklärungen auch in anderer Form erfolgen, soweit eine angemessene Nachweisbarkeit gewährleistet ist.
+4. In diesem Vertrag verwendete Begriffe sind entsprechend ihrer Definition in der EU Datenschutz-Grundverordnung zu verstehen. Soweit Erklärungen im Folgenden "schriftlich" zu erfolgen haben, ist die Schriftform nach § 126 BGB gemeint. Im Übrigen können Erklärungen auch in anderer Form erfolgen, soweit eine angemessene Nachweisbarkeit gewährleistet ist.
 
 
 ## 2. Gegenstand und Dauer der Verarbeitung
