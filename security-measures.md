@@ -50,7 +50,7 @@ A PCI Level 1 compliant provider for processing credit card payments is used. Se
 
 ## Internal protocols
 
-All employees are trained in safety aspects and best security practices, including how to identify social engineering, phishing scams, and hackers. All employees undergo criminal history and credit background checks prior to employment. All employees sign a privacy safeguard agreement outlining their responsibility in protecting client data.
+All employees are trained in safety aspects and best security practices, including how to identify social engineering, phishing scams, and hackers. All employees undergo criminal history and credit background checks prior to employment. All employees agree to privacy safeguard policies outlining their responsibility in protecting client data.
 
 Binding internal security policies that are evaluated on a regular basis are in place. It is regularly checked whether all responsibilities have been clearly assigned and that they are practicable. There are documented rules and contingency plans.
 
