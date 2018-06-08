@@ -121,8 +121,11 @@ zuletzt geändert: 07. Juni 2018
 
 ## 12. Haftung
 
-1. Der Auftragnehmer haftet grundsätzlich nur für eigenes Verschulden. Eine Haftung des Auftragnehmers für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, sofern nicht Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder Garantien betroffen oder Ansprüche nach dem Produkthaftungsgesetz berührt sind. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (Kardinalspflichten). Vorstehende Haftungsbeschränkung gilt unabhängig vom Rechtsgrund der Haftung und auch zugunsten von Angestellten und Erfüllungsgehilfen des Auftragnehmers.  
-2. Eine Schadenersatzpflicht des Auftragnehmers gegenüber dem Auftraggeber ist ausgeschlossen, soweit der Schaden durch die korrekte Umsetzung der beauftragten Dienstleistung oder einer vom Auftraggeber erteilten Weisung entstanden ist.
+1. Der Auftragnehmer haftet grundsätzlich nur für eigenes Verschulden. 
+2. Eine Haftung des Auftragnehmers für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, sofern nicht Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder Garantien betroffen oder Ansprüche nach dem Produkthaftungsgesetz berührt sind. 
+3. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (Kardinalspflichten). 
+4. Vorstehende Haftungsbeschränkung gilt unabhängig vom Rechtsgrund der Haftung und auch zugunsten von Angestellten und Erfüllungsgehilfen des Auftragnehmers.  
+5. Eine Schadenersatzpflicht des Auftragnehmers gegenüber dem Auftraggeber ist ausgeschlossen, soweit der Schaden durch die korrekte Umsetzung der beauftragten Dienstleistung oder einer vom Auftraggeber erteilten Weisung entstanden ist.
 
 
 ## 13. Sonderkündigungsrecht
@@ -134,8 +137,9 @@ zuletzt geändert: 07. Juni 2018
 
 ## 14. Sonstiges
 
-1. Beide Parteien sind verpflichtet, alle im Rahmen des Vertragsverhältnisses erlangten Kenntnisse von Geschäftsgeheimnissen und Datensicherheitsmaßnahmen der jeweils anderen Partei auch über die Beendigung des Vertrages vertraulich zu behandeln. Bestehen Zweifel, ob eine Information der Geheimhaltungspflicht unterliegt, ist sie bis zur schriftlichen Freigabe durch die andere Partei als vertraulich zu behandeln.
-2. Sollte Eigentum des Auftraggebers beim Auftragnehmer durch Maßnahmen Dritter (etwa durch Pfändung oder Beschlagnahme), durch ein Insolvenz- oder Vergleichsverfahren oder durch sonstige Ereignisse gefährdet werden, so hat der Auftragnehmer den Auftraggeber unverzüglich zu verständigen.
-3. Für Nebenabreden ist die Schriftform erforderlich.
-4. Die Einrede des Zurückbehaltungsrechts i. S. v. § 273 BGB wird hinsichtlich der im Auftrag verarbeiteten Daten und der zugehörigen Datenträger ausgeschlossen.
-5. Sollten einzelne Teile dieser Vereinbarung unwirksam sein, so berührt dies die Wirksamkeit der Vereinbarung im Übrigen nicht.
+1. Beide Parteien sind verpflichtet, alle im Rahmen des Vertragsverhältnisses erlangten Kenntnisse von Geschäftsgeheimnissen und Datensicherheitsmaßnahmen der jeweils anderen Partei auch über die Beendigung des Vertrages vertraulich zu behandeln. 
+2. Bestehen Zweifel, ob eine Information der Geheimhaltungspflicht unterliegt, ist sie bis zur schriftlichen Freigabe durch die andere Partei als vertraulich zu behandeln.
+3. Sollte Eigentum des Auftraggebers beim Auftragnehmer durch Maßnahmen Dritter (etwa durch Pfändung oder Beschlagnahme), durch ein Insolvenz- oder Vergleichsverfahren oder durch sonstige Ereignisse gefährdet werden, so hat der Auftragnehmer den Auftraggeber unverzüglich zu verständigen.
+4. Für Nebenabreden ist die Schriftform erforderlich.
+5. Die Einrede des Zurückbehaltungsrechts i. S. v. § 273 BGB wird hinsichtlich der im Auftrag verarbeiteten Daten und der zugehörigen Datenträger ausgeschlossen.
+6. Sollten einzelne Teile dieser Vereinbarung unwirksam sein, so berührt dies die Wirksamkeit der Vereinbarung im Übrigen nicht.
