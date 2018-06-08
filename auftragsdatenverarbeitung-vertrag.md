@@ -75,7 +75,9 @@ zuletzt geändert: 07. Juni 2018
 13. Der Auftraggeber veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite. 
 14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen, Die Adresse lautet: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md). 
 15. Sofern der Auftraggeber mit einem neuen Subunternehmen nicht einverstanden ist, besteht das Recht zur sofortigen Kündigung.
-16. Unterauftragsverhältnisse im Sinne dieses Vertrags sind nur solche Leistungen, die einen direkten Zusammenhang mit der Erbringung der Hauptleistung aufweisen. Nebenleistungen, wie beispielsweise Transport, Wartung und Reinigung sowie die Inanspruchnahme von Telekommunikationsdienstleistungen oder Benutzerservice sind nicht erfasst. Die Pflicht des Auftragnehmers, auch in diesen Fällen die Beachtung von Datenschutz und Datensicherheit sicherzustellen, bleibt unberührt.
+16. Unterauftragsverhältnisse im Sinne dieses Vertrags sind nur solche Leistungen, die einen direkten Zusammenhang mit der Erbringung der Hauptleistung aufweisen. 
+17. Nebenleistungen, wie beispielsweise Transport, Wartung und Reinigung sowie die Inanspruchnahme von Telekommunikationsdienstleistungen oder Benutzerservice sind nicht erfasst. 
+18. Die Pflicht des Auftragnehmers, auch in diesen Fällen die Beachtung von Datenschutz und Datensicherheit sicherzustellen, bleibt unberührt.
 
 
 ## 8. Rechte und Pflichten des Auftraggebers
