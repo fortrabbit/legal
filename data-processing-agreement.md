@@ -118,21 +118,25 @@ last modified: 07th June 2018
 
 ## 12. Liability
 
-1. The contractor is liable in principle only for its own fault. A liability of the contractor for slightly negligent breaches of duty is excluded, as far as damages from the injury of the life, the body or the health or guarantees are concerned or claims according to the product liability law are not affected. Furthermore, the liability for the breach of obligations, the fulfillment of which enables the proper execution of the contract in the first place and on whose observance the customer may regularly rely (cardinal obligations) remains unaffected. The above limitation of liability applies regardless of the legal grounds of liability and also in favor of employees and vicarious agents of the contractor.
-2. A duty of compensation of the contractor against the client is excluded, as far as the damage was caused by the correct implementation of the commissioned service or an instruction given by the client.
+1. The contractor is liable in principle only for its own fault. 
+2. A liability of the contractor for slightly negligent breaches of duty is excluded, as far as damages from the injury of the life, the body or the health or guarantees are concerned or claims according to the product liability law are not affected. 
+3. Furthermore, the liability for the breach of obligations, the fulfillment of which enables the proper execution of the contract in the first place and on whose observance the customer may regularly rely (cardinal obligations) remains unaffected. 
+4. The above limitation of liability applies regardless of the legal grounds of liability and also in favor of employees and vicarious agents of the contractor.
+5. A duty of compensation of the contractor against the client is excluded, as far as the damage was caused by the correct implementation of the commissioned service or an instruction given by the client.
 
 
 ## 13. Special right of termination
 
-1. The client may terminate the principal agreement and this agreement at any time without notice ("extraordinary termination") in the event of a serious breach by the Contractor of data protection regulations or the provisions of this Agreement, the contractor can not or will not execute a lawful instruction from the Principal or the contractor refuses inspection rights of the client in breach of contract.
+1. The client may terminate the main contract and this agreement at any time without notice ("extraordinary termination") in the event of a serious breach by the contractor of data protection regulations or the provisions of this agreement, the contractor can not or will not execute an instruction from the client or the contractor refuses inspection rights of the client in breach of contract.
 2. A serious breach shall, in particular, exist if the contractor has not materially fulfilled or has not fulfilled the obligations specified in this agreement, in particular the agreed technical and organizational measures.
 3. In the case of insignificant infringements, the client shall set a reasonable deadline for the contractor to remedy the situation. If the remedy does not occur in time, the client is entitled to extraordinary termination as described in this section.
 
 
 ## 14. Other
 
-1. Both parties are obliged to confidentially treat all knowledge of business secrets and data security measures of the respective other party obtained in the course of the contractual relationship as regards the termination of the contract. If there are any doubts as to whether the information is subject to confidentiality, it must be treated as confidential until written approval by the other party.
-2. If the client property is endangered by measures taken by third parties (such as seizure or confiscation), insolvency or settlement proceedings or other events, the client must inform the contractor immediately.
-3. The written form is required for side agreements.
-4. The plea of ​​retention i. P. V. § 273 BGB is excluded with regard to the data processed in the order and the associated data carrier.
-5. Should individual parts of this agreement be ineffective, this does not affect the validity of the agreement otherwise.
+1. Both parties are obliged to confidentially treat all knowledge of business secrets and data security measures of the respective other party obtained in the course of the contractual relationship as regards the termination of the contract. 
+2. If there are any doubts as to whether the information is subject to confidentiality, it must be treated as confidential until written approval by the other party.
+3. If the client property is endangered by measures taken by third parties (such as seizure or confiscation), insolvency or settlement proceedings or other events, the client must inform the contractor immediately.
+4. The written form is required for side agreements.
+5. The plea of ​​retention i. P. V. § 273 BGB is excluded with regard to the data processed in the order and the associated data carrier.
+6. Should individual parts of this agreement be ineffective, this does not affect the validity of the agreement otherwise.
