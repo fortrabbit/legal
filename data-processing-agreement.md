@@ -1,4 +1,4 @@
-# Contract for the processing of personal data by fortrabbit, translated
+# Data processing agreement by fortrabbit, translated
 
 last modified: 07th June 2018
 
