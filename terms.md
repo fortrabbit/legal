@@ -72,19 +72,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 6.  In the event of a severe violation of § 4 of this Terms and Conditions the provider may terminate the contract instantly.
 
 
-§ 9 Data protection
--------------------
-
-1.  The parties shall comply with all applicable statutes on data protection in Germany and commit their employees concerned by the present contract and its execution to data secrecy according to number 5, Federal Law on Data Protection (BDSG), insofar as these are not already already bound by its provisions.
-2.  If the customer collects, processes or utilises personal data, he vouches for the fact that he is authorised to do so under applicable legal requirements, especially with respect to data protection, and in case of violation releases the provider from third-party claims.
-3.  Insofar as the data to be processed are personal data, order data processing is present and the provider shall comply with the legal requirements (sec. 11 BDSG) of order data processing and customer instructions (e.g., concerning compliance with deletion and blocking obligations). Instructions must be provided in writing and in a timely manner.
-4.  The provider may subcontract but must impose obligation to the subcontractor regarded to the regulation above.
-5.  Insofar the customer authorized third parties under this contract in the order to have access to the information that are stored in the provider's systems, the responsibility of the data protection also applies to the customer and its authorized third party.
-6.  The provider shall take technical and organisational security precautions and measures according to the annex to number 9 Federal Law on Data Protection (BDSG).
-7.  In the case of threat caused by change of employee or organisation, the customer will ensure that this will be changed by the provider.
-8.  The customer shall not be entitled to require access to the areas of the software application, server and the service software or any other system components. This does not apply to data protection supervisor with the regard to sec. 11, 2 BGSG with a written approval in compliance with legal and regulatory provision of BDSG.
-
-## § 10 Final provisions
+## § 9 Final provisions
 
 1.  The contract shall be governed by German law, without regard to any choice of law rules adopted thereunder.
 2.  Court of jurisdiction will the providers head office, if the customer is a merchant as defined in sec. 1 to 7 HGB (German Code of Commerce).
