@@ -73,7 +73,7 @@ zuletzt geändert: 07. Juni 2018
 11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors), im Folgenden Transparenz-Seite,  genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert. 
 12. Der Auftraggeber behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
 13. Der Auftraggeber veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite. 
-14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen, Die Adresse lautet: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md). 
+14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md). 
 15. Sofern der Auftraggeber mit einem neuen Subunternehmen nicht einverstanden ist, besteht das Recht zur sofortigen Kündigung.
 16. Unterauftragsverhältnisse im Sinne dieses Vertrags sind nur solche Leistungen, die einen direkten Zusammenhang mit der Erbringung der Hauptleistung aufweisen. 
 17. Nebenleistungen, wie beispielsweise Transport, Wartung und Reinigung sowie die Inanspruchnahme von Telekommunikationsdienstleistungen oder Benutzerservice sind nicht erfasst. 
@@ -84,8 +84,12 @@ zuletzt geändert: 07. Juni 2018
 
 1. Für die Beurteilung der Zulässigkeit der beauftragten Verarbeitung sowie für die Wahrung der Rechte von Betroffenen ist allein der Auftraggeber verantwortlich.
 2. Der Auftraggeber erteilt alle Aufträge, Teilaufträge oder Weisungen dokumentiert. In Eilfällen können Weisungen mündlich erteilt werden. Solche Weisungen wird der Auftraggeber unverzüglich dokumentiert bestätigen.
-3. Der Auftraggeber ist berechtigt, die Einhaltung der Vorschriften über den Datenschutz und der vertraglichen Vereinbarungen beim Auftragnehmer in angemessenem Umfang selbst oder durch Dritte, insbesondere durch die Einholung von Auskünften und die Einsichtnahme in die gespeicherten Daten und die Datenverarbeitungsprogramme sowie sonstige Kontrollen vor Ort zu kontrollieren. Den mit der Kontrolle betrauten Personen ist vom Auftragnehmer soweit erforderlich Zutritt und Einblick zu ermöglichen. Der Auftragnehmer ist verpflichtet, erforderliche Auskünfte zu erteilen, Abläufe zu demonstrieren und Nachweise zu führen, die zur Durchführung einer Kontrolle erforderlich sind.
-4. Kontrollen beim Auftragnehmer haben ohne vermeidbare Störungen seines Geschäftsbetriebs zu erfolgen. Soweit nicht aus vom Auftraggeber zu dokumentierenden, dringlichen Gründen anders angezeigt, finden Kontrollen nach angemessener Vorankündigung und zu Geschäftszeiten des Auftragnehmers, sowie nicht häufiger als alle 12 Monate statt. Soweit der Auftragnehmer den Nachweis der korrekten Umsetzung der vereinbarten Datenschutzpflichten wie unter Kapitel 5.6 dieses Vertrages vorgesehen erbringt, soll sich eine Kontrolle auf Stichproben beschränken.
+3. Der Auftraggeber ist berechtigt, die Einhaltung der Vorschriften über den Datenschutz und der vertraglichen Vereinbarungen beim Auftragnehmer in angemessenem Umfang selbst oder durch Dritte, insbesondere durch die Einholung von Auskünften und die Einsichtnahme in die gespeicherten Daten und die Datenverarbeitungsprogramme sowie sonstige Kontrollen vor Ort zu kontrollieren. 
+4. Den mit der Kontrolle betrauten Personen ist vom Auftragnehmer soweit erforderlich Zutritt und Einblick zu ermöglichen.
+5. Der Auftragnehmer ist verpflichtet, erforderliche Auskünfte zu erteilen, Abläufe zu demonstrieren und Nachweise zu führen, die zur Durchführung einer Kontrolle erforderlich sind.
+6. Kontrollen beim Auftragnehmer haben ohne vermeidbare Störungen seines Geschäftsbetriebs zu erfolgen. 
+7. Soweit nicht aus vom Auftraggeber zu dokumentierenden, dringlichen Gründen anders angezeigt, finden Kontrollen nach angemessener Vorankündigung und zu Geschäftszeiten des Auftragnehmers, sowie nicht häufiger als alle 12 Monate statt. 
+8. Soweit der Auftragnehmer den Nachweis der korrekten Umsetzung der vereinbarten Datenschutzpflichten wie unter Kapitel 5.6 dieses Vertrages vorgesehen erbringt, soll sich eine Kontrolle auf Stichproben beschränken.
 
 
 ## 9. Mitteilungspflichten
