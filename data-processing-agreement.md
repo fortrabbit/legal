@@ -83,9 +83,13 @@ last modified: 07th June 2018
 ## 8. Rights and obligations of the client
 
 1. The client alone is responsible for the assessment of the admissibility of the commissioned processing as well as for the protection of the rights of those concerned.
-2. The client issues all orders, partial orders or instructions documented. In urgent cases, instructions can be given orally. Such instructions will be confirmed by the client without delay.
-3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections check. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight. The contractor is required to provide the necessary information, to demonstrate procedures and to provide the evidence required to carry out an inspection.
-4. Inspections of the contractor shall be carried out without avoidable disruption of his business operations. Unless otherwise indicated for urgent reasons to be documented by the client, controls shall take place after reasonable advance notice and during business hours of the contractor, and not more frequently than every 12 months. Insofar as the contractor provides evidence of the correct implementation of the agreed data protection obligations as stipulated in chapter 5.6 of this contract, a check shall be limited to random samples.
+2. The client issues all orders, partial orders or instructions documented. In urgent cases, instructions can be given orally. Such instructions will be confirmed by the contractor without delay.
+3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections check. 
+4. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight. 
+5. The contractor is required to provide the necessary information, to demonstrate procedures and to provide the evidence required to carry out an inspection.
+6. Inspections of the contractor shall be carried out without avoidable disruption of his business operations. 
+7. Unless otherwise indicated for urgent reasons to be documented by the client, controls shall take place after reasonable advance notice and during business hours of the contractor, and not more frequently than every 12 months. 
+8. Insofar as the contractor provides evidence of the correct implementation of the agreed data protection obligations as stipulated in chapter 5.6 of this contract, a check shall be limited to random samples.
 
 ## 9. Notification requirements
 
