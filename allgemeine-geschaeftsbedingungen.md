@@ -1,6 +1,6 @@
 # Allgemeine Geschäftsbedingungen von fortrabbit
 
-zuletzt geändert: 21. November 2016
+zuletzt geändert: 8. Juni 2018
 
 
 
@@ -71,19 +71,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 6.  Einen Grund zur fristlosen Kündigung stellen auch schwerwiegende Verstöße gegen § 4 dieser AGB dar.
 
 
-## § 9 Datenschutz
-
-1.  Beide Parteien werden die jeweils anwendbaren, insbesondere die in Deutschland gültigen datenschutzrechtlichen Bestimmungen beachten und ihre im Zusammenhang mit dem Vertrag eingesetzten Beschäftigten auf das Datengeheimnis gem. § 5 BDSG verpflichten, soweit diese nicht bereits allgemein entsprechend verpflichtet sind.
-2.  Erhebt, verarbeitet oder nutzt der Kunde auf vom Anbieter bereitgestellten Einrichtungen personenbezogene Daten, so steht er dafür ein, dass er dazu nach den anwendbaren, insb. datenschutzrechtlichen Bestimmungen berechtigt ist und stellt im Falle eines Verstoßes den Anbieter von Ansprüchen Dritter frei. Dies gilt auch für den Fall, dass der Kunde die Daten unter Nutzung der Einrichtungen des Anbieters an Dritte versendet oder für diese zur Abholung bereitstellt.
-3.  Soweit die zu verarbeitenden Daten personenbezogene Daten sind, liegt eine Auftragsdatenverarbeitung (§ 11 BDSG) vor und der Anbieter wird die Weisungen des Kunden (z.B. zur Einhaltung von Löschungs- und Sperrungspflichten) beachten. Die Weisungen müssen rechtzeitig schriftlich mitgeteilt werden.
-4.  Der Anbieter kann Unteraufträge vergeben, hat aber dem Unterauftragnehmer die der Vorziffer (Auftragsdatenverwaltung) entsprechenden Verpflichtungen aufzuerlegen.
-5.  Soweit der Kunde Dritte nach diesem Vertrag ermächtigt, Zugriff auf Informationen zu nehmen, die vom Kunden auf Systemen des Anbieters hinterlegt worden sind, liegt die datenschutzrechtliche Verantwortung auch für diesen Vorgang beim Kunden und dem von ihm ermächtigten Dritten.
-6.  Der Anbieter trifft die technischen und organisatorischen Sicherheitsvorkehrungen und Maßnahmen gemäß der Anlage zu § 9 BDSG.
-7.  Besteht, z.B. durch einen Mitarbeiter- oder Organisationswechsel, die Gefahr der missbräuchlichen oder unbefugten Nutzung von Zugangsdaten, so wird der Kunde umgehend dafür Sorge tragen, dass diese durch den Anbieter geändert werden.
-8.  Der Kunde ist grundsätzlich nicht berechtigt, Zugang zu den Räumlichkeiten mit der Softwareapplikation, dem Server und der Betriebssoftware sowie sonstigen Systemkomponenten des Rechenzentrums des Anbieters zu verlangen. Hiervon unberührt bleiben Zutrittsrechte des Datenschutzbeauftragten des Kunden nach schriftlicher Anmeldung zur Prüfung (§ 11 Abs. 2 BDSG) der Einhaltung der Erfordernisse gemäß Anlage zu §9 BDSG sowie des sonstigen gesetz- und vertragskonformen Umgangs des Anbieters mit personenbezogenen Daten.
-
-
-## § 10 Schlussbestimmungen
+## § 9 Schlussbestimmungen
 
 1.  Es gilt deutsches Recht unter Ausschluss des internationalen Privatrechts.
 2.  Sofern der Kunde Kaufmann ist, wird für alle Streitigkeiten, die sich aus oder im Zusammenhang mit dem vorliegenden Vertrag ergeben, der Sitz des Anbieters als Gerichtsstand vereinbart.
