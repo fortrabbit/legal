@@ -17,6 +17,7 @@ last reviewed on June 1st, 2018
 * Answering general how-to questions and best practices
 * Replying to billing related questions
 * Recommending site architecture
+* Performance tuning help
 
 
 ## Not covered with support
@@ -24,7 +25,6 @@ last reviewed on June 1st, 2018
 * Rewriting client application code
 * Debugging client applications
 * Setting up local development
-* Tuning performance
 * Modifying or patching software on behalf of clients
 * General coding questions
 * Training in Git
