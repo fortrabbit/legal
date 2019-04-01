@@ -1,6 +1,6 @@
 # Sub-processors of fortrabbit
 
-last reviewed on June 1st, 2018
+last reviewed on April 1st, 2019
 
 ## Cloud hosting & data centers
 
@@ -11,7 +11,7 @@ The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes ou
 
 ## Payment processing
 
-Credit card billing informations are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account informations are stored with our databases.
+Credit card billing information are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account information are stored with our databases.
 
 ## Usage statistics
 
@@ -31,11 +31,11 @@ The little chat bubble on the bottom right is powered by **Intercom**. This serv
 
 ### Product information subscription
 
-We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant informations on service updates and feature announcements, so these are not Newsletter in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
+We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not Newsletter in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
 
 ## Transactional e-mails
 
-We are using **Postmark** to send automated transactionsal e-mails to Accounts. These e-mails include relevant informations. They are either trigged by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com".
+We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com".
 
 ## Status updates
 
@@ -47,19 +47,19 @@ We are using a software to manage our hiring processes, to source, evaluate and 
 
 ## Account meta data
 
-We will store additional meta data with your Account when you signup. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geolocation that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
+We will store additional meta data with your Account when you signup. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
 
 ## Internal case management
 
-We use **Trello** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases fron the chat system or billing related informations there as well.
+We use **Trello** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases fron the chat system or billing related information there as well.
 
 ## Account profile pictures
 
-We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your pofile picture from over there, when not a unique generic profile icon will be displayed.
+We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your profile picture from over there, when not a unique generic profile icon will be displayed.
 
 ## Accounting
 
-We are emplyoing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Natuarlly, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive**.
+We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive**.
 
 ## Embedded content
 
@@ -71,4 +71,4 @@ We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (
 
 ## Disclaimer
 
-To err is human. We do our best to keep theese informations up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
+To err is human. We do our best to keep this page up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
