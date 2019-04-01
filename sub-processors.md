@@ -15,11 +15,11 @@ Credit card billing information are getting stored with our credit card payment 
 
 ## Usage statistics
 
-We are making use of **Google Analytics**. fortrabbit uses AdWords and Remarketing Lists features of Google Analytics for Display Advertisers.
+We are making use of **Matomo** to analyze traffic and help us to improve your user experience. Your IP address and cookies are stored on your browser. This data is only processed by us.
 
 ## Marketing & tracking
 
-We potentially use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients. We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences". 
+We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences" (currently disabled). 
 
 ## Client communication
 
@@ -33,7 +33,7 @@ The little chat bubble on the bottom right is powered by **Intercom**. This serv
 
 We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not Newsletter in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
 
-## Transactional e-mails
+### Transactional e-mails
 
 We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com".
 
