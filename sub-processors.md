@@ -1,6 +1,6 @@
 # Sub-processors of fortrabbit
 
-last reviewed on April 1st, 2019
+last modified: 1st of April 2019.
 
 ## Cloud hosting & data centers
 

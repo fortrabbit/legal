@@ -1,6 +1,6 @@
 # Privacy statement by fortrabbit, translated
 
-last modified: 07th June 2018.
+last modified: 1st of April 2019.
 
 
 ## 1. Name and address of the responsible
