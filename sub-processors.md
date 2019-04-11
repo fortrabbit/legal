@@ -51,7 +51,7 @@ We will store additional meta data with your Account when you signup. This inclu
 
 ## Internal case management
 
-We use **Trello** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases fron the chat system or billing related information there as well.
+We use **Trello** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases from the chat system or billing related information there as well.
 
 ## Account profile pictures
 
