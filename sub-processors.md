@@ -43,7 +43,7 @@ Accounts can subscribe — via opt-in — to fortrabbit service status updates f
 
 ## Recruitment software
 
-We are using a software to manage our hiring processes, to source, evaluate and track applicants. Currently we are using **Breezy** for this. Open positions can be found under [fortrabbit.breezy.hr](https://fortrabbit.breezy.hr/).
+We are using a software to manage our hiring processes, to evaluate and track applicants. Currently we are using **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com).
 
 ## Account meta data
 
