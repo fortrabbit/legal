@@ -48,7 +48,7 @@ We are required by law to store all business communication for ten years. So we 
 
 ### Transactional e-mails
 
-We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com".
+We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com". See [Postmark Terms](https://postmarkapp.com/terms-of-service).
 
 
 ## Status updates
