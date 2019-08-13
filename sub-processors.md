@@ -2,34 +2,39 @@
 
 last modified: 13th of Aug 2019.
 
+
 ## Cloud hosting & data centers
 
-The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront …) are used in combination.
+The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront …) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
 
 *  Apps will be stored in the data center location you are choosing.
 *  Billing related and Account data is stored in Ireland.
 
-See [AWS Service Terms](https://aws.amazon.com/service-terms/).
 
 ## Payment processing
 
 Credit card billing information are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account information are stored with our databases.
 
+
 ## Usage statistics
 
-We are making use of **Matomo** to analyze traffic and help us to improve your user experience. Your IP address and cookies are stored on your browser. This data is only processed by us.
+We are making use of **Matomo** to analyze traffic and help us to improve your user experience. Your IP address and cookies are stored on your browser. This data is only processed by us. See [Matamo Trerms](https://matomo.org/terms/)
+
 
 ## Marketing & tracking
 
 We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences" (currently disabled). 
 
+
 ## Client communication
 
 In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will chat or have contact by e-mail.
 
+
 ### Support service
 
 The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted.
+
 
 ### Product information subscription
 
@@ -45,13 +50,16 @@ We are required by law to store all business communication for ten years. So we 
 
 We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com".
 
+
 ## Status updates
 
 Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. It is possible to subscribe by e-mail, Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun** is used.
 
+
 ## Recruitment software
 
 We are using a software to manage our hiring processes, to evaluate and track applicants. Currently we are using **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com).
+
 
 ## Account meta data
 
