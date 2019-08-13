@@ -38,12 +38,12 @@ The little chat bubble on the bottom right is powered by **Intercom**. This serv
 
 ### Product information subscription
 
-We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com".
+We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com". See [MailChimp Terms](https://mailchimp.com/legal/terms/).
 
 
 ### Personal e-mails
 
-We are required by law to store all business communication for ten years. So we will save your e-mails, when you are contacting us by e-mail. Our personal mail (MX) accounts are by **Google** (Apps for business).
+We are required by law to store all business communication for ten years. So we will save your e-mails, when you are contacting us by e-mail. Our personal mail (MX) accounts are by **Google** (gSuite). See [gSuite Terms](https://gsuite.google.com/terms/standard_terms_checkout.html).
 
 
 ### Transactional e-mails
