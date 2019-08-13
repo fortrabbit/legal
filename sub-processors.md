@@ -75,7 +75,7 @@ We are sending a hash of your e-mail address to the **Gravatar** service to see 
 
 ## Accounting
 
-We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive**.
+We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (see above).
 
 ## Embedded content
 
@@ -83,7 +83,7 @@ In certain cases we might embed content from other web services in our websites.
 
 ## Content Delivery Network
 
-We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (www, blog, help, dashboard). The CDN helps us to deliver those files fast, from your nearest location. The CDN URL is "static.frbit.name". Currently we are using **KeyCDN** services for this. When your browser sends the requests to those files, your IP address will be transmitted.
+We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (www, blog, help, dashboard). The CDN helps us to deliver those files fast, from your nearest location. The CDN URL is "static.frbit.name" or "cdn.fortrabbit.com". Currently we are using **KeyCDN** services for this. When your browser sends the requests to those files, your IP address will be transmitted. See [KeyCDN Terms](https://www.keycdn.com/terms).
 
 ## Disclaimer
 
