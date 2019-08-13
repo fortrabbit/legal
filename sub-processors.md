@@ -53,12 +53,12 @@ We are using **Postmark** to send automated transactional e-mails to Accounts. T
 
 ## Status updates
 
-Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. It is possible to subscribe by e-mail, Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun** is used.
+Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. See [SorryApp Terms](https://www.sorryapp.com/terms-of-service.html). It is possible to subscribe by e-mail, Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun**  (see [terms](https://www.mailgun.com/terms)) is used.
 
 
 ## Recruitment software
 
-We are using a software to manage our hiring processes, to evaluate and track applicants. Currently we are using **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com).
+We are using a software to manage our hiring processes, to evaluate and track applicants. Currently we are using **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com). See [Recruitee Terms](https://recruitee.com/terms).
 
 
 ## Account meta data
