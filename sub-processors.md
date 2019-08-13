@@ -13,7 +13,7 @@ The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes ou
 
 ## Payment processing
 
-Credit card billing information are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account information are stored with our databases.
+Credit card billing information are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account information are stored with our databases. Terms available on request.
 
 
 ## Usage statistics
