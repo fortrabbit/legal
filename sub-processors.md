@@ -33,7 +33,7 @@ In order to help you successfully deploy and manage your applications here, we n
 
 ### Support service
 
-The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted.
+The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted. See [Intercom Terms](https://www.intercom.com/terms-and-policies#terms).
 
 
 ### Product information subscription
