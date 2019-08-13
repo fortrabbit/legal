@@ -71,7 +71,7 @@ We use **Trello** as an internal ticketing system to keep track of ongoing busin
 
 ## Account profile pictures
 
-We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your profile picture from over there, when not a unique generic profile icon will be displayed.
+We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your profile picture from over there, when not a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service/).
 
 ## Accounting
 
