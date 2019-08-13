@@ -9,6 +9,8 @@ The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes ou
 *  Apps will be stored in the data center location you are choosing.
 *  Billing related and Account data is stored in Ireland.
 
+See [AWS Service Terms](https://aws.amazon.com/service-terms/).
+
 ## Payment processing
 
 Credit card billing information are getting stored with our credit card payment processor **Wirecard** directly. We only keep a minimum of information: a reference and an identifier. SEPA bank account information are stored with our databases.
