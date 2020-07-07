@@ -91,6 +91,11 @@ In certain cases we might embed content from other web services in our websites.
 We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (www, blog, help, dashboard). The CDN helps us to deliver those files fast, from your nearest location. The CDN URL is "static.frbit.name" or "cdn.fortrabbit.com". Currently we are using **KeyCDN** services for this. When your browser sends the requests to those files, your IP address will be transmitted. See [KeyCDN Terms](https://www.keycdn.com/terms).
 
 
+## Website screenshots
+
+We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the Apps default domain.
+
+
 ## Disclaimer
 
 To err is human. We do our best to keep this page up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
