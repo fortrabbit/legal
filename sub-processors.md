@@ -1,6 +1,6 @@
 # Sub-processors of fortrabbit
 
-last modified: 13th of Aug 2019.
+last modified: 7th of July 2020.
 
 
 ## Cloud hosting & data centers
@@ -24,6 +24,7 @@ We are making use of **Matomo** to analyze traffic and help us to improve your u
 ## Marketing & tracking
 
 We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences" (currently disabled). 
+
 
 ## Client communication
 
@@ -64,25 +65,36 @@ We are using a software to manage our hiring processes, to evaluate and track ap
 
 We will store additional meta data with your Account when you signup. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
 
+
 ## Internal case management
 
 We use **Trello** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases from the chat system or billing related information there as well. See [Atlassian Cloud Terms](https://www.atlassian.com/legal/cloud-terms-of-service).
+
 
 ## Account profile pictures
 
 We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your profile picture from over there, when not a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service/).
 
+
 ## Accounting
 
 We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (see above).
+
 
 ## Embedded content
 
 In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might refer your IP and a timestamp as well.
 
+
 ## Content Delivery Network
 
 We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (www, blog, help, dashboard). The CDN helps us to deliver those files fast, from your nearest location. The CDN URL is "static.frbit.name" or "cdn.fortrabbit.com". Currently we are using **KeyCDN** services for this. When your browser sends the requests to those files, your IP address will be transmitted. See [KeyCDN Terms](https://www.keycdn.com/terms).
+
+
+## Website screenshots
+
+We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the Apps default domain.
+
 
 ## Disclaimer
 
