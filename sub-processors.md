@@ -78,7 +78,7 @@ We are sending a hash of your e-mail address to the **Gravatar** service to see 
 
 ## Accounting
 
-We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (see above).
+We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (Google Apps for Business).
 
 
 ## Embedded content
