@@ -106,6 +106,11 @@ We have a knowledge base software to document our internal standard procedures. 
 Our own original code base is hosted on **GitHub** for most parts. This does not concern any client data.
 
 
+## FOSS
+
+In addition to all the useful commercial services listed above, fortrabbit would not be possible without free and open-source software. We make use of thousands of different open-source software packages.
+
+
 ## Disclaimer
 
 To err is human. We do our best to keep this page up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
