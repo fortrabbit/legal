@@ -101,6 +101,11 @@ We use a service to display screenshots of client Apps with the fortrabbit Dashb
 We have a knowledge base software to document our internal standard procedures. In some cases some client data might be referenced in there. This applies to extra settings or individual agreements for clients. Currently we are using **Notion** for this, see the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
 
 
+## Code hosting
+
+Our own original code base is hosted on **GitHub** for most parts. This does not concern any client data.
+
+
 ## Disclaimer
 
 To err is human. We do our best to keep this page up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
