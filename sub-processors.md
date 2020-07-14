@@ -18,7 +18,7 @@ Credit card billing information are getting stored with our credit card payment 
 
 ## Usage statistics
 
-We are making use of **Matomo** to analyze traffic and help us to improve your user experience. We store minimum data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See [Matamo website](https://matomo.org/)
+We are making use of **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimum data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See [Matomo website](https://matomo.org/)
 
 
 ## Marketing & tracking
