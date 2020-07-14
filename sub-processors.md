@@ -96,6 +96,11 @@ We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (
 We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the Apps default domain.
 
 
+## Knowledge base
+
+We have a knowledge base software to document our internal standard procedures. In some cases some client data might be referenced in there. This applies to extra settings or individual agreements for clients. Currently we are using **Notion** for this, see the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
+
+
 ## Disclaimer
 
 To err is human. We do our best to keep this page up-to-date, complete and correct. We reserve the right to add, change or remove certain services and practices without further announcement.
