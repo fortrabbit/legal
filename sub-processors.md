@@ -1,29 +1,29 @@
 # Sub-processors of fortrabbit
 
-last modified: 14th of Jul 2020.
+last modified: 15th of Jul 2020.
 
 
 ## Cloud hosting & data centers
 
-The fortrabbit platform runs on **Amazon Web Services**, (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront …) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
 
-*  Apps will be stored in the data center location you are choosing.
+*  Apps will be stored in the data center location you choose.
 *  Billing related and Account data is stored in Ireland.
 
 
 ## Payment processing
 
-Credit card billing information are getting stored with our credit card payment processor **Stripe** directly. In addition we also provide Stripe with your zip code to ensure correct authorization. Stripe might also store your IP and user agent data collected from your browser. We only keep a minimum of information on our side: a reference and an identifier. SEPA bank account information are stored with our databases. Terms available on request.
+Credit card billing information is stored with our credit card payment processor **Stripe** directly. In addition we also provide Stripe with your zip code to ensure correct authorization. Stripe might also store your IP and user agent data collected from your browser. We only keep a minimum of information on our side: a reference and an identifier. SEPA bank account information is stored with our databases. Terms available on request.
 
 
 ## Usage statistics
 
-We are making use of **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimum data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See [Matomo website](https://matomo.org/)
+We are making use of **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org/).
 
 
 ## Marketing & tracking
 
-We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing about your visit, think "Tailored Audiences" (currently disabled). 
+We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing information about your visit, think "Tailored Audiences" (currently disabled). 
 
 
 ## Client communication
@@ -33,12 +33,12 @@ In order to help you successfully deploy and manage your applications here, we n
 
 ### Support service
 
-The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted. See [Intercom Terms](https://www.intercom.com/terms-and-policies#terms).
+The little chat bubble on the bottom right is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo-location when you interact and provide your name and e-mail to get in touch with us. For identified Accounts we share your name, company, e-mail and the additional meta-data via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "support@fortrabbit.com" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your Account with fortrabbit, the connected data-set will also get deleted. See [Intercom Terms](https://www.intercom.com/terms-and-policies#terms).
 
 
 ### Product information subscription
 
-We are using **MailChimp** to send occasionally e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is a Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com". See [MailChimp Terms](https://mailchimp.com/legal/terms/).
+We use **MailChimp** to occasionally send e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in the classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is an Account notification setting with the Dashboard to manage subscriptions. We will write from "pleasereply@fortrabbit.com". See [MailChimp Terms](https://mailchimp.com/legal/terms/).
 
 
 ### Personal e-mails
@@ -48,22 +48,22 @@ We are required by law to store all business communication for ten years. So we 
 
 ### Transactional e-mails
 
-We are using **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com". See [Postmark Terms](https://postmarkapp.com/terms-of-service).
+We use **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that you are willing to be contacted by e-mail when signing up. We will write from "pleasereply@fortrabbit.com". See [Postmark Terms](https://postmarkapp.com/terms-of-service).
 
 
 ## Status updates
 
-Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. See [SorryApp Terms](https://www.sorryapp.com/terms-of-service.html). It is possible to subscribe by e-mail, Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun**  (see [terms](https://www.mailgun.com/terms)) is used.
+Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. See [SorryApp Terms](https://www.sorryapp.com/terms-of-service.html). It is possible to subscribe by e-mail and Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun** (see [terms](https://www.mailgun.com/terms)) is used.
 
 
 ## Recruitment software
 
-We are using a software to manage our hiring processes, to evaluate and track applicants. Currently we are using **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com). See [Recruitee Terms](https://recruitee.com/terms).
+We use software to manage our hiring processes, to evaluate and track applicants. Currently we use **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com). See [Recruitee Terms](https://recruitee.com/terms).
 
 
 ## Account meta data
 
-We will store additional meta data with your Account when you signup. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
+We will store additional meta-data with your Account when you sign up. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
 
 
 ## Internal case management
@@ -73,12 +73,12 @@ We use **Trello** as an internal ticketing system to keep track of ongoing busin
 
 ## Account profile pictures
 
-We are sending a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. When you have, we are displaying your profile picture from over there, when not a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service/).
+We send a hash of your e-mail address to the **Gravatar** service to see if you have an Account over there. If you have, we display your profile picture from over there; if not, a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service/).
 
 
 ## Accounting
 
-We are employing a tax agency called **Ecovis**, as well as potentially other accountants to helps us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (Google Apps for Business).
+We employ a tax agency called **Ecovis**, as well as potentially other accountants to help us with financial accounting. Naturally, these service providers have reading access to billing related data and invoices. Billing related data, like invoices, are stored with **Google Drive** (Google Apps for Business).
 
 
 ## Embedded content
@@ -93,17 +93,17 @@ We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (
 
 ## Website screenshots
 
-We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the Apps default domain.
+We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the App's default domain.
 
 
 ## Knowledge base
 
-We have a knowledge base software to document our internal standard procedures. In some cases some client data might be referenced in there. This applies to extra settings or individual agreements for clients. Currently we are using **Notion** for this, see the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
+We have knowledge base software to document our internal standard procedures. In some cases some client data might be referenced in there. This applies to extra settings or individual agreements for clients. Currently we are using **Notion** for this, see the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
 
 
 ## Code hosting
 
-Our own original code base is hosted on **GitHub** for most parts. This does not concern any client data.
+Our own original code base is hosted on **GitHub** for the most part. This does not concern any client data.
 
 
 ## FOSS
