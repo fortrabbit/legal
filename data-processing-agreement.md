@@ -1,4 +1,4 @@
-# Data processing agreement by fortrabbit, translated
+# Data processing agreement by fortrabbit
 
 last modified: 07th June 2018
 
