@@ -2,26 +2,22 @@
 
 last modified: 07th June 2018
 
-
 ## 1. Introduction, scope, definitions
 
-1. This contract is concluded between the customer of fortrabbit GmbH, hereinafter referred to as "client", and fortrabbit GmbH, hereinafter referred to as "contractor". It supplements every existing hosting contract between the contractor and the client, hereinafter also referred to as the "main contract", when the client processes personal data on the hosting platform of the contractor. In his area of ​​application he proceeds to the principal contract of the contractor.
+1. This contract is concluded between the customer of fortrabbit GmbH, hereinafter referred to as "client", and fortrabbit GmbH, hereinafter referred to as "contractor". It supplements every existing hosting contract between the contractor and the client, hereinafter also referred to as the "main contract", when the client processes personal data on the hosting platform of the contractor. In his area of application he proceeds to the principal contract of the contractor.
 2. This contract governs the rights and obligations of client and contractor, hereinafter referred to as the parties.
 3. This contract applies to all activities in which employees of the contractor or subcontractors commissioned by it (subcontractors) process personal data of the client.
 4. Terms used in this agreement shall be understood as defined in the EU General Data Protection Regulation. Insofar as declarations have to be made in the following "in writing", the written form according to § 126 BGB is meant. Incidentally, declarations may also be made in other forms insofar as adequate verifiability is ensured.
-
 
 ## 2. Subject and duration of processing
 
 1. The contractor provides web hosting services. The client receives the possibility to process data: save, modify, transmit, delete. The client receives access to the web space and databases. The activity of the contractor is limited to the provision of this IT infrastructure.
 2. Processing starts from the date on which the client makes use of the services and shall continue for an indefinite period until termination of this contract or the main contract by a party and the subsequent final deletion of any personal data.
 
-
 ## 3. Purpose of the data processing
 
 1. The client processes data for its own purposes. He is not obliged to disclose the purpose of the processing to the contractor.
 2. The client alone is responsible for the type and structure of the data. The contractor has no influence on the type of data and the circle of those affected.
-
 
 ## 4. Obligations of the contractor
 
@@ -35,28 +31,25 @@ last modified: 07th June 2018
 8. If required by law, the contractor shall appoint a competent and reliable person as data protection officer. It has to be ensured that there are no conflicts of interest for the commissioner. In cases of doubt, the client can contact the data protection officer directly. Changes in the person or the internal tasks of the representative shall be communicated by the contractor to the client without delay.
 9. Order processing takes place within the EU or the EEA as well as on data processing equipment of the company Amazon Web Services, partly in the USA. Any transfer to a third country may only take place with the agreement of the contracting authority and under the conditions set out in Chapter V of the General Data Protection Regulation and in compliance with the provisions of this Treaty. With respect to the above-described use of Amazon Cloud, consent is given upon conclusion of the Agreement.
 
-
 ## 5. Technical and organizational measures
 
-1. The data security measures described at [www.fortrabbit.com/security](https://www.fortrabbit.com/security) are determined to be binding. 
-2. They define the minimum owed by the contractor. The description of the measures must be made in such detail that it is clear to a knowledgeable third party at any time, solely on the basis of the description, what the required minimum should be. 
+1. The data security measures described at [www.fortrabbit.com/security](https://www.fortrabbit.com/security) are determined to be binding.
+2. They define the minimum owed by the contractor. The description of the measures must be made in such detail that it is clear to a knowledgeable third party at any time, solely on the basis of the description, what the required minimum should be.
 3. A reference to information that can not be obtained directly from this agreement or its annexes is not permitted.
-4. The data security measures can be adapted to the technical and organizational development as long as the agreed level is not undershot. 
-5. The contractor must implement without delay any changes necessary to maintain information security. 
-6. Changes are to be communicated to the client immediately. 
+4. The data security measures can be adapted to the technical and organizational development as long as the agreed level is not undershot.
+5. The contractor must implement without delay any changes necessary to maintain information security.
+6. Changes are to be communicated to the client immediately.
 7. Significant changes are to be agreed between the parties.
 8. Insofar as the security measures taken do not or no longer meet the requirements of the client, the contractor shall inform the client immediately.
 9. The contractor warrants that the data processed in the order will be strictly separated from other data.
 10. Copies or duplicates are not made without the knowledge of the client. Excluded are technically necessary, temporary reproductions, as far as an impairment of the here agreed data protection level is excluded.
 11. The Contractor will provide regular proof of fulfillment of its obligations under the website [www.fortrabbit.com/security](https://www.fortrabbit.com/security), in particular the full implementation of the agreed technical and organizational measures.
 
-
 ## 6. Rules for the correction, deletion and blocking of data
 
 1. Data processed in the context of the order will only be corrected, deleted or blocked by the contractor in accordance with the contractual agreement or the instructions of the client.
 2. If the client permanently violates his contractual obligations, the contractor is entitled to delete the client's Account. In this case, all data will be deleted. The client is informed in advance of this measure.
 3. The contractor will comply with the client's instructions at any time and beyond the termination of this contract.
-
 
 ## 7. Subcontracting
 
@@ -72,23 +65,22 @@ last modified: 07th June 2018
 10. The contractor will inform the client on request, which concrete data protection guarantees the subcontractor offers and how proof of this can be obtained.
 11. Subcontractors listed on the website [www.fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors), hereinafter referred to as the Transparency Page, at the time of signing the contract, will comply with the terms and conditions of the contractor accepted.
 12. The contractor reserves the right to employ new subcontractors or to replace subcontractors.
-13. The contractor publishes changes in subcontractor relations on the transparency page. 
-14. The client has the option to track changes on GitHub. The address is: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md). 
+13. The contractor publishes changes in subcontractor relations on the transparency page.
+14. The client has the option to track changes on GitHub. The address is: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md).
 15. If the client does not agree with a new subcontractor, the right to immediate termination exists.
-16. Subcontracting relationships within the meaning of this contract are only those services that have a direct connection with the provision of the main service. 
-17. Additional services such as transport, maintenance and cleaning as well as the use of telecommunication services or user services are not included. 
+16. Subcontracting relationships within the meaning of this contract are only those services that have a direct connection with the provision of the main service.
+17. Additional services such as transport, maintenance and cleaning as well as the use of telecommunication services or user services are not included.
 18. The obligation of the contractor to ensure compliance with data protection and data security in these cases remains unaffected.
-
 
 ## 8. Rights and obligations of the client
 
 1. The client alone is responsible for the assessment of the admissibility of the commissioned processing as well as for the protection of the rights of those concerned.
 2. The client issues all orders, partial orders or instructions documented. In urgent cases, instructions can be given orally. Such instructions will be confirmed by the contractor without delay.
-3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections check. 
-4. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight. 
+3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections check.
+4. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight.
 5. The contractor is required to provide the necessary information, to demonstrate procedures and to provide the evidence required to carry out an inspection.
-6. Inspections of the contractor shall be carried out without avoidable disruption of his business operations. 
-7. Unless otherwise indicated for urgent reasons to be documented by the client, controls shall take place after reasonable advance notice and during business hours of the contractor, and not more frequently than every 12 months. 
+6. Inspections of the contractor shall be carried out without avoidable disruption of his business operations.
+7. Unless otherwise indicated for urgent reasons to be documented by the client, controls shall take place after reasonable advance notice and during business hours of the contractor, and not more frequently than every 12 months.
 8. Insofar as the contractor provides evidence of the correct implementation of the agreed data protection obligations as stipulated in chapter 5.6 of this contract, a check shall be limited to random samples.
 
 ## 9. Notification requirements
@@ -109,7 +101,6 @@ last modified: 07th June 2018
 4. Authorized by the client to issue instructions are all persons with a fortrabbit account, who are registered with the company of the client as an employee. With every directive, the employee will have to legitimize himself.
 5. All employees of the contractor are trained and authorized to receive instructions.
 
-
 ## 11. Termination of the contract
 
 1. Upon termination of the contract, the data will be destroyed.
@@ -118,12 +109,11 @@ last modified: 07th June 2018
 
 ## 12. Liability
 
-1. The contractor is liable in principle only for its own fault. 
-2. A liability of the contractor for slightly negligent breaches of duty is excluded, as far as damages from the injury of the life, the body or the health or guarantees are concerned or claims according to the product liability law are not affected. 
-3. Furthermore, the liability for the breach of obligations, the fulfillment of which enables the proper execution of the contract in the first place and on whose observance the customer may regularly rely (cardinal obligations) remains unaffected. 
+1. The contractor is liable in principle only for its own fault.
+2. A liability of the contractor for slightly negligent breaches of duty is excluded, as far as damages from the injury of the life, the body or the health or guarantees are concerned or claims according to the product liability law are not affected.
+3. Furthermore, the liability for the breach of obligations, the fulfillment of which enables the proper execution of the contract in the first place and on whose observance the customer may regularly rely (cardinal obligations) remains unaffected.
 4. The above limitation of liability applies regardless of the legal grounds of liability and also in favor of employees and vicarious agents of the contractor.
 5. A duty of compensation of the contractor against the client is excluded, as far as the damage was caused by the correct implementation of the commissioned service or an instruction given by the client.
-
 
 ## 13. Special right of termination
 
@@ -131,12 +121,11 @@ last modified: 07th June 2018
 2. A serious breach shall, in particular, exist if the contractor has not materially fulfilled or has not fulfilled the obligations specified in this agreement, in particular the agreed technical and organizational measures.
 3. In the case of insignificant infringements, the client shall set a reasonable deadline for the contractor to remedy the situation. If the remedy does not occur in time, the client is entitled to extraordinary termination as described in this section.
 
-
 ## 14. Other
 
-1. Both parties are obliged to confidentially treat all knowledge of business secrets and data security measures of the respective other party obtained in the course of the contractual relationship as regards the termination of the contract. 
+1. Both parties are obliged to confidentially treat all knowledge of business secrets and data security measures of the respective other party obtained in the course of the contractual relationship as regards the termination of the contract.
 2. If there are any doubts as to whether the information is subject to confidentiality, it must be treated as confidential until written approval by the other party.
 3. If the client property is endangered by measures taken by third parties (such as seizure or confiscation), insolvency or settlement proceedings or other events, the client must inform the contractor immediately.
 4. The written form is required for side agreements.
-5. The plea of ​​retention i. P. V. § 273 BGB is excluded with regard to the data processed in the order and the associated data carrier.
+5. The plea of retention i. P. V. § 273 BGB is excluded with regard to the data processed in the order and the associated data carrier.
 6. Should individual parts of this agreement be ineffective, this does not affect the validity of the agreement otherwise.

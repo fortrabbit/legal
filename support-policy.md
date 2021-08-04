@@ -2,7 +2,6 @@
 
 last reviewed on June 1st, 2018
 
-
 ## Support scope
 
 * Answering general questions about the platform
@@ -18,7 +17,6 @@ last reviewed on June 1st, 2018
 * Replying to billing related questions
 * Recommending site architecture
 
-
 ## Not covered with support
 
 * Rewriting client application code
@@ -29,7 +27,6 @@ last reviewed on June 1st, 2018
 * General coding questions
 * Training in Git
 
-
 ## Support channel
 
 Technical support is available through the web based client support system which can be found on all fortrabbit web properties.
@@ -38,16 +35,13 @@ Technical support is available through the web based client support system which
 
 Support inquiries may be submitted at any time. 
 
-
 ## Response time
 
-Every support request will be answered. The main support time frame is bound to our general office hours, Berlin. Monday — Friday, 09:00 — 17:00, excluding public holidays. 
-
+Every support request will be answered. The main support time frame is bound to our general office hours, Berlin. Monday — Friday, 09:00 — 17:00, excluding public holidays.
 
 ## Monitoring
 
-The fortrabbit platform is monitored 24/7 by comprehensive automated systems. On-call schedules and escalation policies for technical support are in place. 
-
+The fortrabbit platform is monitored 24/7 by comprehensive automated systems. On-call schedules and escalation policies for technical support are in place.
 
 ## Incident handling
 

@@ -2,15 +2,15 @@
 
 last reviewed on March 23rd, 2020
 
-**It's our duty to keep the infrastructure secure.** While we don’t like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
+**It's our duty to keep the infrastructure secure.** While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
 
 ## Service scope
 
-fortrabbit provides a hosting self-service, granting clients access to technical systems to store and process code via PHP. Clients can store data on a file system and in databases. Think of fortrabbit as a meta-hosting service, or something like a middleware. 
+fortrabbit provides a hosting self-service, granting clients access to technical systems to store and process code via PHP. Clients can store data on a file system and in databases. Think of fortrabbit as a meta-hosting service, or something like a middleware.
 
 ## Data centers
 
-fortrabbit's physical infrastructure is hosted and managed within Amazon’s secure data centers on Amazon Web Service (AWS) technology. These data centers are certified under a number of security standards, including: 
+fortrabbit's physical infrastructure is hosted and managed within Amazon's secure data centers on Amazon Web Service (AWS) technology. These data centers are certified under a number of security standards, including:
 
 * ISO 27001
 * SOC 1 and SOC 2/SSAE 16/ISAE 3402
@@ -63,7 +63,6 @@ All server accesses are equipped with individual minimum rights and are transmit
 ## Cryptography
 
 All sensible access data is stored "hashed + salted". Asymmetric encryption and AES (Advanced Encryption Standard) encryption are used.
-
 
 ## Supplier relationships
 
