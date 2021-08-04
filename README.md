@@ -12,13 +12,13 @@ This is the original source of text. We include this repo as a Git subtree in th
 
 ```bash
 # 1 — initialize
-git subtree add --prefix templates/legal git@github.com:fortrabbit/legal master
+git subtree add --prefix resources/views/legal git@github.com:fortrabbit/legal master
 
 # 2 — pull
-git subtree pull --prefix templates/legal git@github.com:fortrabbit/legal master
+git subtree pull --prefix resources/views/legal git@github.com:fortrabbit/legal master
 
 # 3 — push
-git subtree push --prefix templates/legal git@github.com:fortrabbit/legal master
+git subtree push --prefix resources/views/legal git@github.com:fortrabbit/legal master
 ```
 
 Probably use the `--squash` parameter on all of the above.
