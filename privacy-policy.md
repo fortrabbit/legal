@@ -1,7 +1,6 @@
-# Privacy statement by fortrabbit, translated
+# Privacy statement by fortrabbit
 
 last modified: 1st of April 2019.
-
 
 ## 1. Name and address of the responsible
 
@@ -13,8 +12,7 @@ Görlitzer Str 52
 info@fortrabbit.com  
 +49 30 609 80 784 0
 
-The following "websites" refer to the internet addresses: `www.fortrabbit.com`,` help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`. 
-
+The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
 
 ## 2. General information about data processing
 
@@ -37,8 +35,6 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`,`
 1. The personal data of the data subject shall be deleted or blocked as soon as the purpose of the storage is removed.
 2. It may also be stored if provided for by the European or national legislator in EU regulations, laws or other regulations to which the controller is subject.
 3. A blocking or deletion of the data takes place even if a prescribed by the standards mentioned storage period expires, unless there is a need for further storage of the data for a contract or fulfillment of the contract.
-
-
 
 ## 3. Providing the website and creating logfiles
 
@@ -73,7 +69,6 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`,`
 1. The collection of the data for the provision of the website and the storage of the data in log files is essential for the operation of the website.
 2. There is consequently no contradiction on the part of the user.
 
-
 ## 4. Use of cookies
 
 ### 1. Description and scope of data processing
@@ -102,8 +97,6 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`,`
 4. Already stored cookies can be deleted at any time.
 5. This can also be done automatically.
 6. If cookies are disabled for our website, not all features can be fully used.
-
-
 
 ## 5. Registration
 
@@ -136,7 +129,6 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`,`
 1. As a user, you have the option of canceling the registration at any time. You can change the data stored about you at any time.
 2. If the data are necessary for the fulfillment of a contract or for the execution of pre-contractual measures, a premature deletion of the data is only possible, as far as non-contractual or legal obligations preclude a deletion.
 
-
 ## 6. Product information
 
 ### 1. Description and scope of data processing
@@ -146,7 +138,7 @@ inform security-relevant changes.
 2. The data from the input mask are transmitted to us during registration.
 3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
 4. In connection with the processing of data for the shipment of product information, no transfer of the data to third parties takes place.
-4. The data will be used exclusively for sending the product information.
+5. The data will be used exclusively for sending the product information.
 
 ### 2. Legal basis for data processing
 
@@ -164,8 +156,6 @@ inform security-relevant changes.
 
 1. You may object to storage for the future if you terminate your customer account at the same time.
 2. It is also possible to suspend the receipt of e-mails temporarily, but this does not end the storage of your e-mail address, which is required for the execution of the contract.
-
-
 
 ## 7. E-mail contact
 
@@ -201,7 +191,6 @@ inform security-relevant changes.
 
 We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
 
-
 ## 9. Rights of data subjects
 
 ### 1. Right to information
@@ -211,11 +200,11 @@ We are using third party sub processors to improve our service offerings. That m
     1. the purposes for which the personal data are processed;
     2. the categories of personal data that are processed;
     3. the recipients or the categories of recipients to whom the personal data relating to you have been disclosed or are still being disclosed;
-    5. the planned duration of the storage of your personal data or, if specific information is not available, criteria for determining the duration of storage;
-    6. the right of rectification or deletion of personal data concerning you, a right to restriction of processing by the person responsible or a right to object to such processing;
-    7. the existence of a right of appeal to a supervisory authority;
-    8. all available information on the source of the data if the personal data are not collected from the data subject;
-    9. the existence of automated decision-making including profiling under Article 22 (1) and (4) GDPR and - at least in these cases - meaningful information about the logic involved, and the scope and intended impact of such processing on the data subject.
+    4. the planned duration of the storage of your personal data or, if specific information is not available, criteria for determining the duration of storage;
+    5. the right of rectification or deletion of personal data concerning you, a right to restriction of processing by the person responsible or a right to object to such processing;
+    6. the existence of a right of appeal to a supervisory authority;
+    7. all available information on the source of the data if the personal data are not collected from the data subject;
+    8. the existence of automated decision-making including profiling under Article 22 (1) and (4) GDPR and - at least in these cases - meaningful information about the logic involved, and the scope and intended impact of such processing on the data subject.
 3. You have the right to request information about whether the personal data concerning you are transmitted to a third country or to an international organization. In this connection, you can request the appropriate guarantees in accordance with. Art. 46 GDPR in connection with the transfer.
 4. In the case of data processing for scientific, historical or statistical research purposes: This right of access may be restricted to the extent that it is likely that the realization of the research or statistical purposes is impossible or seriously impaired and the restriction is necessary for the performance of research or statistical purposes.
 
