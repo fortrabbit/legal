@@ -2,6 +2,8 @@
 
 last modified: 15th of Jul 2020.
 
+fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. Individual data processing terms with those vendors are in place. The following third party services transparency report gives you an overview which external services we use, how and why.
+
 ## Cloud hosting & data centers
 
 The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
