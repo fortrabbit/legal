@@ -2,6 +2,8 @@
 
 last modified: 07th June 2018
 
+Data processing potentially including personal data is happening on multiple levels with web hosting. This agreement is covering cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
+
 ## 1. Introduction, scope, definitions
 
 1. This contract is concluded between the customer of fortrabbit GmbH, hereinafter referred to as "client", and fortrabbit GmbH, hereinafter referred to as "contractor". It supplements every existing hosting contract between the contractor and the client, hereinafter also referred to as the "main contract", when the client processes personal data on the hosting platform of the contractor. In his area of application he proceeds to the principal contract of the contractor.

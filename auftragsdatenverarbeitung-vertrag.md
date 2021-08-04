@@ -1,6 +1,9 @@
 # Vertrag über die Auftragsverarbeitung personenbezogener Daten von fortrabbit
 
-zuletzt geändert: 07. Juni 2018
+zuletzt geändert: 04. August 2021
+
+Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
+
 
 ## 1. Einleitung, Geltungsbereich, Definitionen
 
