@@ -30,7 +30,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 ## § 4 Obligations of the customer
 
 1. If the customer is facing any failures using the system, the customer shall inform the provider and without delay of such interferences.
-2. The customer is obliged to use his access data carefully and to avoid an unauthorised use by third parties. Furthermore, the customer shall inform the provider of such unauthorised use by third parties without delay.
+2. The customer is obliged to use his access data carefully and to avoid an unauthorized use by third parties. Furthermore, the customer shall inform the provider of such unauthorized use by third parties without delay.
 3. The customer shall keep his data up to date at all times and right continuously. The customer is not allowed to sublet the service, unless otherwise agreed with the provider.
 4. The client is not allowed to sublet any service to or with third parties, unless otherwise agreed with the provider.
 5. The customer agrees to be called as a reference customer by the provider in a written and electronic form.
