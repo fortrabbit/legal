@@ -65,7 +65,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 
 1. The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract.
 2. The customer may terminate the contract without reason for the future effect in the Dashboard.
-3. The provider shall terminate the contract with a term of 12 weeks.
+3. The provider shall terminate the contract with a term of one week.
 4. In all cases each of the parties may terminate the contract instantly, if the termination party can base the termination on an important reason.
 5. A due and sufficient cause for cancellation without notice exists if the customer comes into default of payment obligations, has suspended payments, or if the customer fails to meet its contractual obligations.
 6. In the event of a severe violation of § 4 of this Terms and Conditions the provider may terminate the contract instantly.

@@ -56,7 +56,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52,
 
 1. Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform (§ 126 b BGB) gekündigt werden.
 2. Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Web Control Panel kündigen.
-3. Der Anbieter kann den Vertrag mit einer Frist von 12 Wochen kündigen.
+3. Der Anbieter kann den Vertrag mit einer Frist von einer Woche kündigen.
 4. Das vorzeitige Kündigungsrecht aus wichtigem Grund bleibt den Parteien unbenommen.
 5. Ein wichtiger Grund zur Kündigung des Vertrages liegt für den Anbieter insbesondere vor, wenn der Kunde seine Verpflichtungen nachhaltig verletzt; der Kunde trotz Zahlungserinnerung und Fristsetzung seiner Verpflichtung zur Zahlung nicht nachkommt.
 6. Einen Grund zur fristlosen Kündigung stellen auch schwerwiegende Verstöße gegen § 4 dieser AGB dar.
