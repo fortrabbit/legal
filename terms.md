@@ -17,7 +17,7 @@ The following provider is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Reg
 
 ## § 2 Conclusion of the contract
 
-1. The customer's registration for one of provider’s service shall be deemed to be an offer to enter into a contract. The provider may accept or refuse this offer. The acceptance of this offer takes place either expressly or impliedly by activation of the user's account The concluded contract is not permanently stored by the provider.
+1. The customer's registration for one of provider's service shall be deemed to be an offer to enter into a contract. The provider may accept or refuse this offer. The acceptance of this offer takes place either expressly or impliedly by activation of the user's account The concluded contract is not permanently stored by the provider.
 2. It is agreed on concluding this contract between the provider and the customer that there is a contract for the performance of a continuing obligation. If the customer selects the service with costs, he will be obliged to pay monthly the arising fees until the cancellation of the contract. If the customer select the service for less than one calendar month, the fee for the service  will be charged proportionately. The billing will be carried out on the following month and on a monthly basis. Customers paying by credit card expressly agree to have their credit card account billed monthly for the recurring charges for the life of the contract including any automatic renewal periods.
 3. A right of revocation does not exist for the customer. But the customer can cancel the contract at any time.
 
