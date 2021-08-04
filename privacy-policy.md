@@ -2,7 +2,11 @@
 
 last modified: 1st of April 2019.
 
-## 1. Name and address of the responsible
+## 1. Scope of this statement
+
+This is the privacy statement required by German law for surfing our websites. The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
+
+## 2. Name and address of the responsible
 
 The legal responsible, hereinafter also "we", "our" or "operator", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is the:
 
@@ -12,9 +16,8 @@ Görlitzer Str 52
 info@fortrabbit.com  
 +49 30 609 80 784 0
 
-The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
 
-## 2. General information about data processing
+## 3. General information about data processing
 
 ### 1. Scope of processing of personal data
 
@@ -36,7 +39,7 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`, 
 2. It may also be stored if provided for by the European or national legislator in EU regulations, laws or other regulations to which the controller is subject.
 3. A blocking or deletion of the data takes place even if a prescribed by the standards mentioned storage period expires, unless there is a need for further storage of the data for a contract or fulfillment of the contract.
 
-## 3. Providing the website and creating logfiles
+## 4. Providing the website and creating logfiles
 
 ### 1. Description and scope of data processing
 
@@ -69,7 +72,7 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`, 
 1. The collection of the data for the provision of the website and the storage of the data in log files is essential for the operation of the website.
 2. There is consequently no contradiction on the part of the user.
 
-## 4. Use of cookies
+## 5. Use of cookies
 
 ### 1. Description and scope of data processing
 
@@ -98,7 +101,7 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`, 
 5. This can also be done automatically.
 6. If cookies are disabled for our website, not all features can be fully used.
 
-## 5. Registration
+## 6. Registration
 
 ### 1. Description and scope of data processing
 
@@ -129,7 +132,7 @@ The following "websites" refer to the internet addresses: `www.fortrabbit.com`, 
 1. As a user, you have the option of canceling the registration at any time. You can change the data stored about you at any time.
 2. If the data are necessary for the fulfillment of a contract or for the execution of pre-contractual measures, a premature deletion of the data is only possible, as far as non-contractual or legal obligations preclude a deletion.
 
-## 6. Product information
+## 7. Product information
 
 ### 1. Description and scope of data processing
 
@@ -157,7 +160,7 @@ inform security-relevant changes.
 1. You may object to storage for the future if you terminate your customer account at the same time.
 2. It is also possible to suspend the receipt of e-mails temporarily, but this does not end the storage of your e-mail address, which is required for the execution of the contract.
 
-## 7. E-mail contact
+## 8. E-mail contact
 
 ### 1. Description and scope of data processing
 
@@ -187,11 +190,11 @@ inform security-relevant changes.
 3. In such a case, the conversation can not continue.
 
 
-## 8. Data collection by third party companies
+## 9. Data collection by third party companies
 
 We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
 
-## 9. Rights of data subjects
+## 10. Rights of data subjects
 
 ### 1. Right to information
 

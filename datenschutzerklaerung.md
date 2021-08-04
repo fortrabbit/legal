@@ -2,7 +2,11 @@
 
 zuletzt geändert: 07. Juni 2018
 
-## 1. Name und Anschrift des Verantwortlichen
+## 1. Rahmen dieser Vereinbarung
+
+Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` und `dashboard.fortrabbit.com`. 
+
+## 2. Name und Anschrift des Verantwortlichen
 
 Der Verantwortliche, im Folgenden auch "Wir", "Unser" oder "Betreiber", im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
 
@@ -12,9 +16,7 @@ Görlitzer Str. 52
 info@fortrabbit.com  
 +49 30 609 80 784 0
 
-Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` und `dashboard.fortrabbit.com`.
-
-## 2. Allgemeines zur Datenverarbeitung
+## 3. Allgemeines zur Datenverarbeitung
 
 ### 1. Umfang der Verarbeitung personenbezogener Daten
 
@@ -36,7 +38,7 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 2. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde.
 3. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht.
 
-## 3. Bereitstellung der Website und Erstellung von Logfiles
+## 4. Bereitstellung der Website und Erstellung von Logfiles
 
 ### 1.  Beschreibung und Umfang der Datenverarbeitung
 
@@ -69,7 +71,7 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 1. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich.
 2. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-## 4. Verwendung von Cookies
+## 5. Verwendung von Cookies
 
 ### 1. Beschreibung und Umfang der Datenverarbeitung
 
@@ -98,7 +100,7 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 5. Dies kann auch automatisiert erfolgen.
 6. Werden Cookies für unsere Website deaktiviert, können nicht mehr alle Funktionen vollumfänglich genutzt werden.
 
-## 5. Registrierung
+## 6. Registrierung
 
 ### 1. Beschreibung und Umfang der Datenverarbeitung
 
@@ -129,7 +131,7 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 1. Als Nutzer haben sie jederzeit die Möglichkeit, die Registrierung aufzulösen. Die über Sie gespeicherten Daten können Sie jederzeit abändern lassen.
 2. Sind die Daten zur Erfüllung eines Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, ist eine vorzeitige Löschung der Daten nur möglich, soweit nicht vertragliche oder gesetzliche Verpflichtungen einer Löschung entgegenstehen.
 
-## 6. Produktinformationen
+## 7. Produktinformationen
 
 ### 1.  Beschreibung und Umfang der Datenverarbeitung
 
@@ -156,7 +158,7 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 1. Sie können der Speicherung für die Zukunft widersprechen, wenn Sie gleichzeitig Ihr Kundenkonto beenden.
 2. Es besteht ferner die Möglichkeit, den Bezug der E-Mails temporär zu unterbrechen, allerdings wird dadurch die Speicherung Ihrer E-Mail-Adresse, die für die Durchführung des Vertrages benötigt wird, nicht beendet.
 
-## 7. E-Mail Kontakt
+## 8. E-Mail Kontakt
 
 ### 1.  Beschreibung und Umfang der Datenverarbeitung
 
@@ -185,13 +187,13 @@ Die im Folgenden genannten "Webseiten" beziehen sich auf die Internetadressen: `
 2. Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen.
 3. In einem solchen Fall kann die Konversation nicht fortgeführt werden.
 
-## 8.  Datenerhebung durch Drittunternehmen
+## 9.  Datenerhebung durch Drittunternehmen
 
 ### 1. Verwendung von Google Analytics
 
-Diese Webseiten benutzen Google Analytics, einen Webanalysedienst der Google LLC. ("Google"). Google Analytics verwendet Cookies. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Webseiten werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-Anonymisierung auf diesen Webseiten, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Verantwortlichen dieser Webseiten wird Google diese Informationen benutzen, um Ihre Nutzung der Webseiten auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Webseiten vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: Browser Add On zur Deaktivierung von Google Analytics: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter [google.com/analytics/terms](https://www.google.com/analytics/terms/) bzw. unter [google.de/intl/de/policies](https://www.google.de/intl/de/policies/).
+Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors) 
 
-## 9. Rechte der betroffenen Personen
+## 10. Rechte der betroffenen Personen
 
 ### 1. Auskunftsrecht
 
