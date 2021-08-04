@@ -4,7 +4,6 @@ last reviewed on June 1st, 2018
 
 fortrabbit is intended to be used to host websites, web-applications, and web-APIs. This policy describes forbidden uses. The examples described here are not exhaustive. We may modify this policy at any time.
 
-
 ## Prohibited content
 
 It is not allowed to use, encourage, facilitate, promote or instruct others to use the services for any illegal, harmful, fraudulent, infringing or offensive use, or to transmit, store, display, distribute or otherwise make available "evil" content. This includes:
@@ -13,7 +12,6 @@ It is not allowed to use, encourage, facilitate, promote or instruct others to u
 * **Infringing**: Content that infringes or misappropriates the intellectual property or proprietary rights of others.
 * **Harmful**: Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including trojan horses, cancelbots, viruses, worms, time bombs, Facebook friend bots.
 * **Offensive**: Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
-
 
 ## Prohibited actions
 
@@ -31,19 +29,14 @@ It is also not allowed to make network connections to any users, hosts, or netwo
 * **Operation of certain network services**: Operating network services like open proxies, open mail relays, or open recursive domain name servers.
 * **Avoiding System Restrictions**: Using manual or electronic means to avoid any use limitations placed on a System, such as access and storage restrictions.
 
-
-
 ## Prohibited messaging
 
 It is not allowed to distribute, publish, send, or facilitate the sending of unsolicited mass e-mail or other messages, promotions, advertising, or solicitations (SPAM), including advertising and informational announcements. It is not allowed alter or obscure mail headers or assume a sender's identity without the sender's explicit permission. It is not allowed to collect replies to messages sent from another internet service provider if those messages violate this policy or the acceptable use policy of that provider.
-
-
 
 ## Quota and limits
 
 The fortrabbit platform has certain soft and hard limits. Hard limits are automatically enforced by the service. Soft limits are consumable resources that you agree not to exceed. More on those limits can be found here: [help.fortrabbit.com/limits](https://help.fortrabbit.com/limits) and here: [www.fortrabbit.com/specs](https://www.fortrabbit.com/specs)
 
-
 ## Monitoring and enforcement
 
-We reserve the right, but do not assume the obligation, to investigate any violation of this policy. In consequence we may: remove, disable access, or even modify content; report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. This reporting may include disclosing appropriate client information. 
+We reserve the right, but do not assume the obligation, to investigate any violation of this policy. In consequence we may: remove, disable access, or even modify content; report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. This reporting may include disclosing appropriate client information.
