@@ -1,6 +1,6 @@
 # Data processing agreement by fortrabbit
 
-last modified: 07th June 2018
+last modified: 5th of August 2021
 
 Data processing potentially including personal data is happening on multiple levels with web hosting. This agreement is covering cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
 

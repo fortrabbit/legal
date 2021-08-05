@@ -1,6 +1,6 @@
 # Security measures of fortrabbit
 
-last reviewed on March 23rd, 2020
+last modified: 5th of August 2021
 
 **It's our duty to keep the infrastructure secure.** While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
 
