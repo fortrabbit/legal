@@ -107,9 +107,8 @@ info@fortrabbit.com
 
 1. On our website, we offer users the opportunity to register by providing personal information.
 2. The data is entered into an input mask and transmitted to us and stored.
-3. A transfer of the data to third parties does not take place.
-4. In addition to the data that the user enters in our input masks, the IP address of the user, location data and date and time of registration are also stored.
-5. As part of the registration process, the user's consent to the processing of this data is obtained.
+3. In addition to the data that the user enters in our input masks, the IP address of the user, location data and date and time of registration are also stored.
+4. As part of the registration process, the user's consent to the processing of this data is obtained.
 
 ### 2. Legal basis for data processing
 
@@ -188,7 +187,6 @@ inform security-relevant changes.
 1. The user has the opportunity to revoke his consent to the processing of personal data at any time.
 2. If the user contacts us by e-mail, he may object to the storage of his personal data at any time.
 3. In such a case, the conversation can not continue.
-
 
 ## 9. Data collection by third party companies
 
