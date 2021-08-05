@@ -1,6 +1,8 @@
-# Support policy of fortrabbit
+# Support policy
 
 last modified: 5th of August 2021
+
+fortrabbit is a self-service hosting platform for PHP developers. Comprehensive documentation is included. There are questions anyways. We are here to help. Here is our official support policy.
 
 ## Support scope
 
@@ -19,11 +21,11 @@ last modified: 5th of August 2021
 
 ## Not covered with support
 
-* Rewriting client application code
-* Debugging client applications
+* Debugging client application code
+* Troubleshooting slow MySQL queries
 * Setting up local development
-* Tuning performance
-* Modifying or patching software on behalf of clients
+* General performance tuning
+* Modifying or patching client software
 * General coding questions
 * Training in Git
 
