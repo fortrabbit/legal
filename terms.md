@@ -1,4 +1,4 @@
-# General terms
+# General terms of service
 
 last modified: 5th of August 2021
 
