@@ -8,7 +8,7 @@ fortrabbit is intended to be used to host websites, web-applications, and web-AP
 
 It is not allowed to use, encourage, facilitate, promote or instruct others to use the services for any illegal, harmful, fraudulent, infringing or offensive use, or to transmit, store, display, distribute or otherwise make available "evil" content. This includes:
 
-* **Illegal or harmful**: Illegal contents, that violate the rights of others, or that may be harmful to others, reputation, including disseminating, promoting or facilitating child pornography, offering or disseminating fraudulent goods, services, schemes, promotions, make-money-fast schemes, ponzi and pyramid schemes, phishing, pharming, crypto-currency mining.
+* **Illegal or harmful**: Illegal contents, that violate the rights of others, or that may be harmful to others, reputation, including disseminating, promoting or facilitating child pornography, offering or disseminating fraudulent goods, promotions, make-money-fast schemes, ponzi and pyramid schemes, phishing, pharming, crypto-currency mining or brokering, gambling or anything even loosely supporting the before mentioned topics.
 * **Infringing**: Content that infringes or misappropriates the intellectual property or proprietary rights of others.
 * **Harmful**: Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including trojan horses, cancelbots, viruses, worms, time bombs, Facebook friend bots.
 * **Offensive**: Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
