@@ -2,6 +2,8 @@
 
 last modified: 5th of August 2021
 
+We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way. Make fair use of this. This document outlines what is not allowed here.
+
 fortrabbit is intended to be used to host websites, web-applications, and web-APIs. This policy describes forbidden uses. The examples described here are not exhaustive. We may modify this policy at any time.
 
 ## Prohibited content
@@ -12,6 +14,8 @@ It is not allowed to use, encourage, facilitate, promote or instruct others to u
 * **Infringing**: Content that infringes or misappropriates the intellectual property or proprietary rights of others.
 * **Harmful**: Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including trojan horses, cancelbots, viruses, worms, time bombs, Facebook friend bots.
 * **Offensive**: Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
+* **Grey area**: We are aware that there are many business types that are not illegal but questionable. Examples are medical marijuana, dating, fake download websites, SEO farms. If your business is in such a grey area, contact us upfront.
+
 
 ## Prohibited actions
 
@@ -40,3 +44,7 @@ The fortrabbit platform has certain soft and hard limits. Hard limits are automa
 ## Monitoring and enforcement
 
 We reserve the right, but do not assume the obligation, to investigate any violation of this policy. In consequence we may: remove, disable access, or even modify content; report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. This reporting may include disclosing appropriate client information.
+
+## Reporting violations
+
+Please notify us if you become aware of any violation of this policy. Provide us with assistance to stop or remedy the violation. Please follow our [abuse reporting process](/vulnerability-reporting).
