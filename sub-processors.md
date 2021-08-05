@@ -1,8 +1,10 @@
 # Sub-processors of fortrabbit
 
-last modified: 15th of Jul 2020.
+last modified: 5th of August 2021
 
-fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. Individual data processing terms with those vendors are in place. The following third party services transparency report gives you an overview which external services we use, how and why.
+fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
+
+The following third party services transparency report gives you an overview which external services we use, how and why.
 
 ## Cloud hosting & data centers
 
