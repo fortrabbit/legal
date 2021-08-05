@@ -1,4 +1,4 @@
-# Data processing agreement by fortrabbit
+# Data processing agreement
 
 last modified: 5th of August 2021
 

@@ -1,4 +1,4 @@
-# Privacy statement by fortrabbit
+# Privacy statement
 
 last modified: 5th of August 2021
 
