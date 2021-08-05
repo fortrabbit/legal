@@ -1,6 +1,8 @@
-# Service level agreement of fortrabbit
+# Service level agreement
 
 last modified: 5th of August 2021
+
+**We promise to do everything we can to keep your Apps up.** Uptime is our bread-and-butter. We proud ourselves for a good uptime track record. Please see our <a href="http://status.fortrabbit.com">public status page</a> with a history of incidents. The following SLA defines the refund you'll get for downtime.
 
 1. fortrabbit will use commercially reasonable efforts to make the fortrabbit platform available with a monthly uptime percentage (defined under sec. 2 of this SLA) depending on the product chosen by you during any monthly billing cycle. In the event fortrabbit does not meet the guaranteed uptime, you will be eligible to receive a service credit as described under sec. 6 of this SLA.
     *  **no uptime guaranteed** during trial
