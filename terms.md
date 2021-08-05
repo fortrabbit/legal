@@ -1,6 +1,6 @@
 # General terms of fortrabbit
 
-last reviewed: June 8th, 2018
+last modified: 5th of August 2021
 
 ## Preamble
 
