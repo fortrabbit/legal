@@ -1,6 +1,6 @@
 # Support policy of fortrabbit
 
-last reviewed on June 1st, 2018
+last modified: 5th of August 2021
 
 ## Support scope
 
@@ -26,6 +26,10 @@ last reviewed on June 1st, 2018
 * Modifying or patching software on behalf of clients
 * General coding questions
 * Training in Git
+
+## Code peeking
+
+Technically, fortrabbit staff is able to view and even edit all uploaded files and databases. Our aim is to be involved as little as possible. There is an internal policy for that. In many support cases knowledge about configuration or code is essential to find a solution. Where possible and acceptable we will ask for permission to look into your code upfront. In other security related cases, for instance fighting phishing attempts, it is required that we examine code pro-actively. This can take place in suspicion.
 
 ## Support channel
 
