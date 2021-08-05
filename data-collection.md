@@ -28,7 +28,7 @@ Details to the payment information are stored with Billing Contacts which are as
 
 Invoices including the receivers name, postal address and e-mail are kept for 10 years in accordance with German tax laws. Each invoice has an individual non-guessable hidden but public link for convenience.
 
-### Support chats
+### Support chat
 
 Client support communication will get deleted alongside when the Account is deleted, as described above.
 
@@ -60,9 +60,17 @@ The PHP error logs are containing information on runtime exceptions allowing dev
 
 Backups (if booked) for active Apps have a schedule and a retention period as stated with the documentation of the backups. Some days (period might vary) after App deletion the last remaining backups will get deleted as well. This extra retention feature allows to recover recently-deleted Apps (with backups enabled) in case of mistakes.
 
+## Data disclosure
+
+We do not disclose client data to third parties unless legally obligated such with a law enforcement request.
+
 ## Sub-processor data sharing
 
 Please transfer to our [sub-processors page](https://www.fortrabbit.com/sub-processors) to learn more about the data shared with third party vendors.
+
+## Data breach notification
+
+We have internal procedures in place to deal with data breaches on our side. Once a data breach notification is ready and approved internally, we will inform affected affected clients - as soon as possible and with as much detail as possible.
 
 ## Data subject access
 
