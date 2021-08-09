@@ -1,14 +1,16 @@
 # Datenschutzerklärung von fortrabbit
 
-zuletzt geändert: 07. Juni 2018
+zuletzt geändert: 09. August 2021
 
 ## 1. Rahmen dieser Vereinbarung
 
 Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` und `dashboard.fortrabbit.com`.
 
+Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-Besucher als auch für registrierte Kunden.
+
 ## 2. Name und Anschrift des Verantwortlichen
 
-Der Verantwortliche, im Folgenden auch "Wir", "Unser" oder "Betreiber", im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
+Der Verantwortliche, im Folgenden auch "Wir" oder "Unser", im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
 
 fortrabbit GmbH  
 Görlitzer Str. 52  
@@ -32,7 +34,7 @@ info@fortrabbit.com
 4. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
 5. Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung.
 
-### 3.  Datenlöschung und Speicherdauer
+### 3. Datenlöschung und Speicherdauer
 
 1. Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt.
 2. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde.
@@ -40,13 +42,13 @@ info@fortrabbit.com
 
 ## 4. Bereitstellung der Website und Erstellung von Logfiles
 
-### 1.  Beschreibung und Umfang der Datenverarbeitung
+### 1. Beschreibung und Umfang der Datenverarbeitung
 
 1. Bei jedem Aufruf unserer Internetseiten erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.
 2. Folgende Daten werden hierbei erhoben: Informationen über den Browsertyp und die verwendete Version, das Betriebssystem des Nutzers, die IP-Adresse des Nutzers, Datum und Uhrzeit des Zugriffs, Websites, von denen das System des Nutzers auf unsere Internetseite gelangt, Websites, die vom System des Nutzers über unsere Website aufgerufen werden.
 3. Die Daten werden ebenfalls in den Logfiles unseres Systems gespeichert.
 
-### 2.  Rechtsgrundlage für die Datenverarbeitung
+### 2. Rechtsgrundlage für die Datenverarbeitung
 
 1. Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. f DSGVO.
 
@@ -120,13 +122,13 @@ info@fortrabbit.com
 1. Eine Registrierung des Nutzers ist für das Bereithalten bestimmter Inhalte und Leistungen auf unseren Webseiten erforderlich. Im Falle der Registrierung für kostenlose Probeangebote ist insbesondere die Registrierung zur Verhütung von Missbrauch erforderlich.
 2. Eine Registrierung des Nutzers im Zusammenhang mit der Bestellung kostenpflichtiger Dienstleistungen ist zur Erfüllung eines Vertrages mit dem Nutzer oder zur Durchführung vorvertraglicher Maßnahmen erforderlich.
 
-### 4.  Dauer der Speicherung
+### 4. Dauer der Speicherung
 
 1. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind.
 2. Dies ist für die während des Registrierungsvorgangs zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen dann der Fall, wenn die Daten für die Durchführung des Vertrages nicht mehr erforderlich sind.
 3. Auch nach Abschluss des Vertrags kann eine Erforderlichkeit, personenbezogene Daten des Vertragspartners zu speichern, bestehen, um vertraglichen oder gesetzlichen Verpflichtungen, letztere insbesondere nach HGB und dem Steuerrecht nachzukommen.
 
-### 5.  Widerspruchs- und Beseitigungsmöglichkeit
+### 5. Widerspruchs- und Beseitigungsmöglichkeit
 
 1. Als Nutzer haben sie jederzeit die Möglichkeit, die Registrierung aufzulösen. Die über Sie gespeicherten Daten können Sie jederzeit abändern lassen.
 2. Sind die Daten zur Erfüllung eines Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, ist eine vorzeitige Löschung der Daten nur möglich, soweit nicht vertragliche oder gesetzliche Verpflichtungen einer Löschung entgegenstehen.
@@ -160,7 +162,7 @@ info@fortrabbit.com
 
 ## 8. E-Mail Kontakt
 
-### 1.  Beschreibung und Umfang der Datenverarbeitung
+### 1. Beschreibung und Umfang der Datenverarbeitung
 
 1. Es ist eine Kontaktaufnahme über die bereitgestellte E-Mail-Adresse möglich.
 2. In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert.
@@ -187,7 +189,7 @@ info@fortrabbit.com
 2. Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen.
 3. In einem solchen Fall kann die Konversation nicht fortgeführt werden.
 
-## 9.  Datenerhebung durch Drittunternehmen
+## 9. Datenerhebung durch Drittunternehmen
 
 Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
 

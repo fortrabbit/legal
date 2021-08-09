@@ -4,18 +4,19 @@ last modified: 9th of August 2021
 
 ## 1. Scope of this statement
 
-This is the privacy statement required by German law for surfing our websites. The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
+This is the privacy statement required by German law for interacting with our websites. The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
+
+This statement covers usage from unregistered website visitors as well as registered clients.
 
 ## 2. Name and address of the responsible
 
-The legal responsible, hereinafter also "we", "our" or "operator", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is the:
+The legal responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is the:
 
 fortrabbit GmbH  
 Görlitzer Str 52  
 10997 Berlin  
 info@fortrabbit.com  
 +49 30 609 80 784 0
-
 
 ## 3. General information about data processing
 
