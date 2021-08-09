@@ -1,6 +1,6 @@
 # Privacy statement
 
-last modified: 5th of August 2021
+last modified: 9th of August 2021
 
 ## 1. Scope of this statement
 
