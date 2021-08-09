@@ -1,4 +1,4 @@
-# Our sub-processors
+# Sub-processors
 
 last modified: 5th of August 2021
 

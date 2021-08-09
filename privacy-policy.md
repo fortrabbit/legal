@@ -135,7 +135,7 @@ info@fortrabbit.com
 
 ### 1. Description and scope of data processing
 
-1. We regularly contact our registered customers via e-mail for updates, such as scheduled maintenance, new releases and updates
+1. We regularly contact our registered clients via e-mail for updates, such as scheduled maintenance, new releases and updates
 inform security-relevant changes.
 2. The data from the input mask are transmitted to us during registration.
 3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
@@ -152,11 +152,11 @@ inform security-relevant changes.
 
 ### 4. Duration of storage
 
-1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address of the user is therefore (as all contract-related data) stored as long as the customer maintains an active user account.
+1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address of the user is therefore (as all contract-related data) stored as long as the client maintains an active user account.
 
 ### 5. Opposition and removal possibility
 
-1. You may object to storage for the future if you terminate your customer account at the same time.
+1. You may object to storage for the future if you terminate your Account at the same time.
 2. It is also possible to suspend the receipt of e-mails temporarily, but this does not end the storage of your e-mail address, which is required for the execution of the contract.
 
 ## 8. E-mail contact
