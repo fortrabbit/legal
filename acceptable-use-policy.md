@@ -1,4 +1,4 @@
-# Acceptable use policy of fortrabbit
+# Acceptable use policy
 
 last modified: 5th of August 2021
 

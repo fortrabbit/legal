@@ -1,7 +1,3 @@
-## TODO
-
-* [ ] Merge two texts (below)
-
 # Data subject access requests
 
 last modified: 5th of August 2021
