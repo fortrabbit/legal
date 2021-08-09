@@ -16,7 +16,6 @@ It is not allowed to use, encourage, facilitate, promote or instruct others to u
 * **Offensive**: Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
 * **Grey area**: We are aware that there are many business types that are not illegal but questionable. Examples are medical marijuana, dating, fake download websites, SEO farms. If your business is in such a grey area, contact us upfront.
 
-
 ## Prohibited actions
 
 It is not allowed to use the services to violate the security or integrity of any network, computer or communications system, software application, or network or computing device. This includes:
