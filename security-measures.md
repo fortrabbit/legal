@@ -2,7 +2,9 @@
 
 last modified: 5th of August 2021
 
-**We take security very seriously — isn't that what everybody is saying?** It's our business to keep your business online. It's our duty to keep the infrastructure secure. While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
+**We take security very seriously — isn't that what everybody is saying?** It's our business to keep your business online. It's our duty to keep the infrastructure secure.
+
+While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
 
 ## Service scope
 
@@ -67,3 +69,7 @@ All sensible access data is stored "hashed + salted". Asymmetric encryption and 
 ## Supplier relationships
 
 All subcontractors are tested for privacy and security suitability. There are appropriate terms in place.
+
+## Not our liability
+
+fortrabbit will not perform updates on the CMS or framework you are using. You - our client - are liable for the code you write and use on our hosting platform. Update the software you are using frequently. Outdated software puts your project at great risk of being hacked. Continue reading our [security recommendations](https://help.fortrabbit.com/security-design).
