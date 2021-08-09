@@ -2,12 +2,14 @@
 
 last modified: 5th of August 2021
 
-According to GDPR and CCPA you as an individual can request us to disclose if and what kind of data we have stored on you personally and for what. You can also request to get it deleted and corrected. DSAR is the acronym for that.
+According to GDPR and CCPA you as an individual can request us to disclose if and what kind of data we - fortrabbit - have stored on you personally and for what. You can also request to get it deleted and corrected. DSAR is the acronym for that.
+
+fortrabbit is self service with clients in control about most data stored. Clients can explore, edit and delete the data we store on them in the fortrabbit Dashboard. Apps, Companies and Accounts can be deleted. Please see the [data collection and retention page](https://www.fortrabbit.com/data-collection) to learn more about what data is stored, what for and for how long.
 
 ## 1. Right to information
 
-1. You may ask the person in charge to confirm if personal data concerning you is processed by us.
-2. If such processing is available, you can request information from the person responsible about the following information:
+1. You may us to confirm if personal data concerning you is processed by us.
+2. If such processing is available, you can request information about the following information:
     1. the purposes for which the personal data are processed;
     2. the categories of personal data that are processed;
     3. the recipients or the categories of recipients to whom the personal data relating to you have been disclosed or are still being disclosed;
@@ -22,7 +24,7 @@ According to GDPR and CCPA you as an individual can request us to disclose if an
 ## 2. Right to rectification
 
 1. You have a right to rectification and / or completion to the controller, if the personal data you process is incorrect or incomplete.
-2. You can correct many data yourself as a registered and registered customer. Incidentally, the responsible person must make the correction without delay.
+2. You can correct many data yourself as a registered and registered client. Incidentally, the responsible person must make the correction without delay.
 3. In the case of data processing for scientific, historical or statistical research purposes: Your right of rectification may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of the research or statistical purposes.
 
 ## 3. Right to restriction of processing
@@ -64,7 +66,6 @@ According to GDPR and CCPA you as an individual can request us to disclose if an
 ## 5. Right to information
 
 1. If you have asserted the right of rectification, erasure or restriction of the processing to the controller, the latter is obliged to notify all recipients to whom your personal data have been disclosed of this correction or deletion of the data or restriction of processing because, this proves to be impossible or is associated with a disproportionate effort.
-You have a right to the person responsible to be informed about these recipients.
 
 ## 6. Right to data portability
 
@@ -100,28 +101,3 @@ You have a right to the person responsible to be informed about these recipients
 
 1. Without prejudice to any other administrative or judicial remedy, you shall have the right to complain to a supervisory authority, in particular in the Member State of its place of residence, employment or the place of the alleged infringement, if you believe that the processing of your personal data relates to you Data violates the GDPR.
 2. The supervisory authority to which the complaint has been submitted shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy pursuant to Article 78 of the GDPR.
-
-
-
-
-- - - -
-
-## Access
-
-You can see, explore and edit the data we store on you in the fortrabbit Dashboard, visit your Apps, Account, Companies, Billing Contacts.
-
-## Rectification
-
-You can correct the informations on you by editing your Account, Company and Billing Contact details in the Dasboard.
-
-## Erasure
-
-You can make use of your right to be forgotten by deleting your Apps, Companies and Account in the fortrabbit Dashboard. Deletion will be final, irreversible and permanent. Note that App backups will be deleted after retention period and that we still need to keep some billing related data for legal reasons.
-
-## Restriction
-
-There is no self-service tool to automatically restrict access on personal informations so far. But we are happy to help you with that. Please [contact us](javascript:Intercom('showNewMessage')).
-
-## Portability
-
-There is no self-service tool to automatically download the data we store on you. But we will happily fulfill your requests. Please [contact us](javascript:Intercom('showNewMessage')).
