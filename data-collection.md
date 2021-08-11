@@ -62,8 +62,7 @@ Backups (if booked) for active Apps have a schedule and a retention period as st
 
 ## Additional emergency snapshots
 
-Daily emergency backup snapshot are created for all Apps. They have a seven days retention period. Those are meant for emergency cases only and not easily accessible. Once an App is deleted these snapshots will fade out with the retention period. 
-
+Daily emergency backup snapshot are created for all Apps. For Universal Apps they contain all files on the web storage and the database. For Professional Apps they contain only the database. They have a 15 days retention period. These extra backups are meant for emergency cases only and are not accessible to clients. Once an App is deleted these snapshots will fade out with the retention period, after that all traces of an App are gone.
 
 ## Data disclosure
 
