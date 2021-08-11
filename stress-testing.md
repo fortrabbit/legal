@@ -1,6 +1,6 @@
 # Stress testing
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 You want to run a test to check if this works as advertised and if it is secure? We understand the need to ensure integrity and compliance. Some tests might have adverse impacts to other clients, so we only permit certain types within bounds, please review this page carefully before getting started.
 

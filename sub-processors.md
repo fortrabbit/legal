@@ -1,6 +1,6 @@
 # Sub-processors
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
 

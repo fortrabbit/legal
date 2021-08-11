@@ -2,7 +2,7 @@
 
 according to German law (§5 TMG)
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 **Register entry**  
 HRB 154552 B  

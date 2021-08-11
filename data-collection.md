@@ -1,6 +1,6 @@
 # Data collection and retention
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 What kind of data is kept? When is data getting deleted? Our aim is to store only the minimum data required and to delete as much as possible whenever possible.
 

@@ -1,6 +1,6 @@
 # Update policies
 
-last modified: 10th of August 2021
+last modified: 11th of August 2021
 
 This page informs you about when to expect which software updates here on fortrabbit.
 

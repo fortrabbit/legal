@@ -1,6 +1,6 @@
 # Service level agreement
 
-last modified: 9th of August 2021
+last modified: 11th of August 2021
 
 **We promise to do everything we can to keep your Apps up.** Uptime is our bread-and-butter. We proud ourselves for a good uptime track record. Please see our <a href="http://status.fortrabbit.com">public status page</a> with a history of incidents. The following SLA defines the refund you'll get for downtime.
 

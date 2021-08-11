@@ -1,6 +1,6 @@
 # Acceptable use policy
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way. Make fair use of this. This document outlines what is not allowed here.
 

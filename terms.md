@@ -1,6 +1,6 @@
 # Terms of service
 
-last modified: 5th of August 2021
+last modified: 11th of August 2021
 
 **Terms? Too long, didn't read.** Please take the time to review this and the other legal documents associated.  The following provides basic conditions under which fortrabbit is offering it's PHP cloud hosting services to clients.
 
