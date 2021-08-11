@@ -34,7 +34,7 @@ Client support communication will get deleted alongside when the Account is dele
 
 ## App data
 
-Apps are containers where clients can store various types of data including files, databases and a Git repository. Apps can also be deleted in self service by clients through the fortrabbit Dashboard. All App associated data is getting deleted once the App will be removed from the Dashboard.
+Apps are containers where clients can store various types of data including files, databases and a Git repository. Apps can also be deleted in self service by clients through the fortrabbit Dashboard. All App associated data is getting deleted close after the App will be removed from the Dashboard.
 
 ## Logs
 
@@ -46,7 +46,7 @@ System level logs, such as SSH access and connection logs are securely stored in
 
 ### App level logs
 
-Application logs are secured behind key-based or password-based SSH access so that only clients have access to individual logs. App level logs are rotated with `logrotate` on a daily basis and a cap of 100 MB per uncompressed log file. You will most likely find different available historic logging time frames per type of log file. Log files can not be edited by clients. They are retained with the App, so if the App get's removed these logs will be removed as well.
+Application logs are secured behind key-based or password-based SSH access so that only clients have access to individual logs. App level logs are rotated with `logrotate` on a daily basis and a cap of 100 MB per uncompressed log file. You will most likely find different available historic logging time frames per type of log file. Log files can not be edited by clients. They are retained with the App, so if the App gets removed these logs will be removed as well.
 
 #### Web access logs
 
@@ -59,6 +59,11 @@ The PHP error logs are containing information on runtime exceptions allowing dev
 ## Backups
 
 Backups (if booked) for active Apps have a schedule and a retention period as stated with the documentation of the backups. Some days (period might vary) after App deletion the last remaining backups will get deleted as well. This extra retention feature allows to recover recently-deleted Apps (with backups enabled) in case of mistakes.
+
+## Additional emergency snapshots
+
+Daily emergency backup snapshot are created for all Apps. They have a seven days retention period. Those are meant for emergency cases only and not easily accessible. Once an App is deleted these snapshots will fade out with the retention period. 
+
 
 ## Data disclosure
 
