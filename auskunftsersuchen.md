@@ -1,6 +1,6 @@
 ## 1. Auskunftsrecht
 
-zuletzt geändert: 09. August 2021
+zuletzt geändert: 11. August 2021
 
 1. Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
 2. Liegt eine solche Verarbeitung vor, können Sie von dem Verantwortlichen über folgende Informationen Auskunft verlangen:

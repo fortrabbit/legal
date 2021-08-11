@@ -1,6 +1,6 @@
 # Datenschutzerklärung von fortrabbit
 
-zuletzt geändert: 09. August 2021
+zuletzt geändert: 11. August 2021
 
 ## 1. Rahmen dieser Vereinbarung
 
