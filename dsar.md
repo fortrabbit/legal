@@ -35,7 +35,7 @@ fortrabbit is self service, with clients in control about most data stored. Clie
     3. the person responsible no longer needs the personal data for the purposes of the processing, but you need them for the assertion, exercise or defense of legal claims, or
     4. if you have objected to the processing pursuant to Art. 21 (1) GDPR and it is not yet certain whether the legitimate reasons of the person responsible prevail over your reasons.
 2. If the processing of personal data concerning you has been restricted, these data may only be used with your consent or for the purpose of asserting, exercising or defending legal claims or protecting the rights of another natural or legal person or for important reasons such as the public interest of the Union or of a Member State.
-3. Has the restriction of processing been applied to the o.g. If conditions are restricted, you will be informed by the person in charge before the restriction is lifted.
+3. If the restriction of processing according to the aforementioned preconditions is applied, you will be informed by the person in charge before the restriction is lifted.
 4. In the case of data processing for scientific, historical or statistical research purposes: Your right to restriction of processing may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of research or statistical purposes.
 
 ## 4. Right to cancellation
