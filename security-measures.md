@@ -1,8 +1,8 @@
 # Security measures
 
-last modified: 11th of August 2021
+last modified: 16th of August 2021
 
-**We take security very seriously — isn't that what everybody is saying?** It's our business to keep your business online. It's our duty to keep the infrastructure secure.
+**We take security very seriously — isn't that what everybody says?** It's our business to keep your business online. It's our duty to keep the infrastructure secure.
 
 While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
 
@@ -12,7 +12,7 @@ fortrabbit provides a hosting self-service, granting clients access to technical
 
 ## Data centers
 
-fortrabbit's physical infrastructure is hosted and managed within Amazon's secure data centers on Amazon Web Service (AWS) technology. These data centers are certified under a number of security standards, including:
+fortrabbit's physical infrastructure is hosted and managed within Amazon's secure data centers on Amazon Web Services (AWS) technology. These data centers are certified under a number of security standards, including:
 
 * ISO 27001
 * SOC 1 and SOC 2/SSAE 16/ISAE 3402
