@@ -24,7 +24,7 @@ info@fortrabbit.com
 
 1. In principle, we process personal data of our users only insofar as this is necessary to provide a functional website and our content and services.
 2. The processing of personal data of our users takes place regularly only with the consent of the user.
-3. An exception applies in cases in which prior consent is not possible for reasons of fact and the processing of the data is permitted by law.
+3. An exception applies in cases in which prior consent is not possible for actual reasons and the processing of the data is permitted by law.
 
 ### 2. Legal basis for the processing of personal data
 
