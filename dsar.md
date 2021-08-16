@@ -23,7 +23,7 @@ fortrabbit is self service, with clients in control about most data stored. Clie
 
 ## 2. Right to rectification
 
-1. You have a right to rectification and / or completion to the controller, if the personal data you process is incorrect or incomplete.
+1. You have a right to request the controller to rectify and / or complete your data, if your personal data is incorrect or incomplete.
 2. You can correct many data yourself as a registered and registered client. Incidentally, the responsible person must make the correction without delay.
 3. In the case of data processing for scientific, historical or statistical research purposes: Your right of rectification may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of the research or statistical purposes.
 
