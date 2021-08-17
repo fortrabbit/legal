@@ -14,7 +14,7 @@ The following data stored in our databases is encrypted and only accessible for 
 
 ### Account
 
-Client Account data containing information on name, e-mail, geo location, usage and more is retained for as long as the Account is active. Clients can erase associated data by deleting their Account with the fortrabbit Dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events.
+Client Account data containing information on name, e-mail, geo location, usage and more is retained for as long as the Account is active. Clients can erase associated data by deleting their Account with the fortrabbit Dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events. Accounts which have had no activity for more than a given period, and which are not associated with any Apps or Companies, will be deleted automatically.
 
 ### Company
 
