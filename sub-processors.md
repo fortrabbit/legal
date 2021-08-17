@@ -1,6 +1,6 @@
 # Sub-processors
 
-last modified: 11th of August 2021
+last modified: 16th of August 2021
 
 fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
 
@@ -8,7 +8,7 @@ The following third party services transparency report gives you an overview whi
 
 ## Infrastructure & data centers
 
-The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients are creating here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
 
 * Apps will be stored in the data center location you choose.
 * Billing related and Account data is stored in Ireland.
@@ -19,15 +19,15 @@ Credit card billing information is stored with our credit card payment processor
 
 ## Usage statistics
 
-We are making use of **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org/).
+We use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org/).
 
 ## Marketing & tracking
 
-We potentially might use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (currently disabled). We might also advertise on **Twitter** in a similar way, for this we are sharing information about your visit, think "Tailored Audiences" (currently disabled).
+We might potentially use **Google AdWords** for re-marketing, as it is an effective way to stay on the radar of potential clients (it is currently disabled). We might also advertise on **Twitter** in a similar way: for this we would share information about your visit: think "Tailored Audiences" (this is also currently disabled).
 
 ## Client communication
 
-In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will chat or have contact by e-mail.
+In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will use chat or contact you by e-mail.
 
 ### Support service
 
@@ -39,7 +39,7 @@ We use **MailChimp** to occasionally send e-mail updates to subscribed Accounts.
 
 ### Personal e-mails
 
-We are required by law to store all business communication for ten years. So we will save your e-mails, when you are contacting us by e-mail. Our personal mail (MX) accounts are by **Google** (gSuite). See [gSuite Terms](https://gsuite.google.com/terms/standard_terms_checkout.html).
+We are required by law to store all business communication for ten years. So we will save your e-mails, when you contacts us by e-mail. Our personal mail (MX) accounts are by **Google** (gSuite). See [gSuite Terms](https://gsuite.google.com/terms/standard_terms_checkout.html).
 
 ### Transactional e-mails
 
@@ -71,7 +71,7 @@ We employ a tax agency called **Ecovis**, as well as potentially other accountan
 
 ## Embedded content
 
-In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might refer your IP and a timestamp as well.
+In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might contain your IP and a timestamp as well.
 
 ## Content Delivery Network
 

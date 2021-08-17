@@ -1,8 +1,8 @@
 # Data processing agreement
 
-last modified: 11th of August 2021
+last modified: 12th of August 2021
 
-Data processing potentially including personal data is happening on multiple levels with web hosting. This agreement is covering cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
+Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
 
 ## 1. Introduction, scope, definitions
 
@@ -45,7 +45,7 @@ Data processing potentially including personal data is happening on multiple lev
 8. Insofar as the security measures taken do not or no longer meet the requirements of the client, the contractor shall inform the client immediately.
 9. The contractor warrants that the data processed in the order will be strictly separated from other data.
 10. Copies or duplicates are not made without the knowledge of the client. Excluded are technically necessary, temporary reproductions, as far as an impairment of the here agreed data protection level is excluded.
-11. The Contractor will provide regular proof of fulfillment of its obligations under the website [www.fortrabbit.com/security](https://www.fortrabbit.com/security), in particular the full implementation of the agreed technical and organizational measures.
+11. The contractor will provide regular proof of fulfillment of its obligations under the website [www.fortrabbit.com/security](https://www.fortrabbit.com/security), in particular the full implementation of the agreed technical and organizational measures.
 
 ## 6. Rules for the correction, deletion and blocking of data
 
@@ -78,7 +78,7 @@ Data processing potentially including personal data is happening on multiple lev
 
 1. The client alone is responsible for the assessment of the admissibility of the commissioned processing as well as for the protection of the rights of those concerned.
 2. The client issues all orders, partial orders or instructions documented. In urgent cases, instructions can be given orally. Such instructions will be confirmed by the contractor without delay.
-3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections check.
+3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections checks.
 4. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight.
 5. The contractor is required to provide the necessary information, to demonstrate procedures and to provide the evidence required to carry out an inspection.
 6. Inspections of the contractor shall be carried out without avoidable disruption of his business operations.

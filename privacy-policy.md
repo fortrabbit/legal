@@ -1,16 +1,16 @@
 # Privacy statement
 
-last modified: 11th of August 2021
+last modified: 16th of August 2021
 
 ## 1. Scope of this statement
 
-This is the privacy statement required by German law for interacting with our websites. The following "websites" refer to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
+This is the privacy statement required by German law for interacting with our websites. In the following "websites" refers to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
 
 This statement covers usage from unregistered website visitors as well as registered clients.
 
 ## 2. Name and address of the responsible
 
-The legal responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is the:
+The legally responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
 
 fortrabbit GmbH  
 Görlitzer Str 52  
@@ -24,7 +24,7 @@ info@fortrabbit.com
 
 1. In principle, we process personal data of our users only insofar as this is necessary to provide a functional website and our content and services.
 2. The processing of personal data of our users takes place regularly only with the consent of the user.
-3. An exception applies in cases in which prior consent is not possible for reasons of fact and the processing of the data is permitted by law.
+3. An exception applies in cases in which prior consent is not possible for actual reasons and the processing of the data is permitted by law.
 
 ### 2. Legal basis for the processing of personal data
 
@@ -38,14 +38,14 @@ info@fortrabbit.com
 
 1. The personal data of the data subject shall be deleted or blocked as soon as the purpose of the storage is removed.
 2. It may also be stored if provided for by the European or national legislator in EU regulations, laws or other regulations to which the controller is subject.
-3. A blocking or deletion of the data takes place even if a prescribed by the standards mentioned storage period expires, unless there is a need for further storage of the data for a contract or fulfillment of the contract.
+3. A blocking or deletion of the data takes place if the storage period, prescribed by the standards mentioned, expires, unless there is a need for further storage of the data for a contract or fulfillment of the contract.
 
-## 4. Providing the website and creating logfiles
+## 4. Providing the website and creating log files
 
 ### 1. Description and scope of data processing
 
-1. Whenever our website is accessed, our system automatically collects data and information from the computer system of the calling computer.
-2. The following data is collected here: information about the browser type and the version used, the user's operating system, the IP address of the user, the date and time of access, websites from which the user's system accesses our website, websites, which are accessed by the user's system through our website.
+1. Whenever our website is accessed, our system automatically collects data and information from the computer system of the computer making the request.
+2. The following data is collected here: information about the browser type and the version used, the user's operating system, the IP address of the user, the date and time of access, websites from which the user's system accesses our website, websites which are accessed by the user's system through our website.
 3. The data is also stored in the log files of our system.
 
 ### 2. Legal basis for data processing
@@ -58,7 +58,7 @@ info@fortrabbit.com
 2. Storage in log files is done to ensure the functionality of the website.
 3. In addition, the data is used to optimize the website and to ensure the security of our information technology systems.
 4. An evaluation of the data for marketing purposes does not take place in this context.
-5. In these purposes, our legitimate interest in the processing of data according to Art. 6 para. 1 lit. f DSGVO.
+5. In these purposes, our legitimate interest in the processing of data accords with Art. 6 para. 1 lit. f DSGVO.
 
 ### 4. Duration of storage
 
@@ -66,7 +66,7 @@ info@fortrabbit.com
 2. In the case of the collection of data for the provision of the website, this is the case when the respective session is completed.
 3. In the case of storing the data in log files, this is the case after no more than seven days, unless legal or technical reasons or the need for security make longer storage necessary.
 4. Further storage is possible.
-5. In this case, the IP addresses of the users are deleted or alienated, so that an assignment of the calling client is no longer possible.
+5. In this case, the IP addresses of the users are deleted or alienated, so that an identification of the calling client is no longer possible.
 
 ### 5. Removal possibility
 
@@ -91,7 +91,7 @@ info@fortrabbit.com
 1. The purpose of using technically necessary cookies is to facilitate the use of websites for users.
 2. Some features of our website can not be offered without the use of cookies.
 3. For this it is necessary that the browser is recognized even after a page break.
-4. For these purposes, our legitimate interest in the processing of personal data pursuant to Art. 6 para. 1 lit. f DSGVO.
+4. For these purposes, our legitimate interest in the processing of personal data is pursuant to Art. 6 para. 1 lit. f DSGVO.
 
 ### 4. Duration of storage, objection and disposal options
 
@@ -118,7 +118,7 @@ info@fortrabbit.com
 
 ### 3. Purpose of the data processing
 
-1. User registration is required for the provision of certain content and services on our websites. In the case of registration for free trial offers, in particular the registration for the prevention of abuse is required.
+1. User registration is required for the provision of certain content and services on our websites. In the case of registration for free trial offers, registration is required for the prevention of abuse.
 2. Registration of the user in connection with the ordering of paid services is required to fulfill a contract with the user or to carry out pre-contractual measures.
 
 ### 4. Duration of storage
@@ -137,7 +137,7 @@ info@fortrabbit.com
 ### 1. Description and scope of data processing
 
 1. We regularly contact our registered clients via e-mail for updates, such as scheduled maintenance, new releases and updates
-inform security-relevant changes.
+informing of security-relevant changes.
 2. The data from the input mask are transmitted to us during registration.
 3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
 4. In connection with the processing of data for the shipment of product information, no transfer of the data to third parties takes place.
@@ -153,7 +153,7 @@ inform security-relevant changes.
 
 ### 4. Duration of storage
 
-1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address of the user is therefore (as all contract-related data) stored as long as the client maintains an active user account.
+1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address of the user is therefore (like all contract-related data) stored as long as the client maintains an active user account.
 
 ### 5. Opposition and removal possibility
 
@@ -195,4 +195,4 @@ We are using third party sub processors to improve our service offerings. That m
 
 ## 10. Rights of data subjects
 
-Please transfer to [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar)
+Please visit [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar)

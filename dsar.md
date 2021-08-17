@@ -1,14 +1,14 @@
 # Data subject access requests
 
-last modified: 11th of August 2021
+last modified: 12th of August 2021
 
-According to GDPR and CCPA you as an individual can request us to disclose if and what kind of data we - fortrabbit - have stored on you personally and for what. You can also request to get it deleted and corrected. DSAR is the acronym for that.
+According to GDPR and CCPA you as an individual can require us to disclose if and what kind of data we - fortrabbit - have stored on you personally and for what purposes. You can also request to get it deleted and corrected. DSAR is the acronym for that.
 
-fortrabbit is self service with clients in control about most data stored. Clients can explore, edit and delete the data we store on them in the fortrabbit Dashboard. Apps, Companies and Accounts can be deleted. Please see the [data collection and retention page](https://www.fortrabbit.com/data-collection) to learn more about what data is stored, what for and for how long.
+fortrabbit is self service, with clients in control about most data stored. Clients can explore, edit and delete the data we store on them in the fortrabbit Dashboard. Apps, Companies and Accounts can be deleted. Please see the [data collection and retention page](https://www.fortrabbit.com/data-collection) to learn more about what data is stored, what for and for how long.
 
 ## 1. Right to information
 
-1. You may us to confirm if personal data concerning you is processed by us.
+1. You may ask us to confirm if personal data concerning you is processed by us.
 2. If such processing is available, you can request information about the following information:
     1. the purposes for which the personal data are processed;
     2. the categories of personal data that are processed;
@@ -18,12 +18,12 @@ fortrabbit is self service with clients in control about most data stored. Clien
     6. the existence of a right of appeal to a supervisory authority;
     7. all available information on the source of the data if the personal data are not collected from the data subject;
     8. the existence of automated decision-making including profiling under Article 22 (1) and (4) GDPR and - at least in these cases - meaningful information about the logic involved, and the scope and intended impact of such processing on the data subject.
-3. You have the right to request information about whether the personal data concerning you are transmitted to a third country or to an international organization. In this connection, you can request the appropriate guarantees in accordance with. Art. 46 GDPR in connection with the transfer.
+3. You have the right to request information about whether the personal data concerning you are transmitted to a third country or to an international organization. In this connection, you can request the appropriate guarantees in accordance with Art. 46 GDPR in connection with the transfer.
 4. In the case of data processing for scientific, historical or statistical research purposes: This right of access may be restricted to the extent that it is likely that the realization of the research or statistical purposes is impossible or seriously impaired and the restriction is necessary for the performance of research or statistical purposes.
 
 ## 2. Right to rectification
 
-1. You have a right to rectification and / or completion to the controller, if the personal data you process is incorrect or incomplete.
+1. You have a right to request the controller to rectify and / or complete your data, if your personal data is incorrect or incomplete.
 2. You can correct many data yourself as a registered and registered client. Incidentally, the responsible person must make the correction without delay.
 3. In the case of data processing for scientific, historical or statistical research purposes: Your right of rectification may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of the research or statistical purposes.
 
@@ -34,9 +34,9 @@ fortrabbit is self service with clients in control about most data stored. Clien
     2. the processing is unlawful and you refuse the deletion of the personal data and instead demand the restriction of the use of the personal data;
     3. the person responsible no longer needs the personal data for the purposes of the processing, but you need them for the assertion, exercise or defense of legal claims, or
     4. if you have objected to the processing pursuant to Art. 21 (1) GDPR and it is not yet certain whether the legitimate reasons of the person responsible prevail over your reasons.
-2. If the processing of personal data concerning you has been restricted, these data may only be used with your consent or for the purpose of asserting, exercising or defending legal claims or protecting the rights of another natural or legal person or for important reasons the public interest of the Union or of a Member State.
-3. Has the restriction of processing been applied to the o.g. If conditions are restricted, you will be informed by the person in charge before the restriction is lifted.
-4. In the case of data processing for scientific, historical or statistical research purposes: Your right to restriction of processing may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of research or statistical purposes is.
+2. If the processing of personal data concerning you has been restricted, these data may only be used with your consent or for the purpose of asserting, exercising or defending legal claims or protecting the rights of another natural or legal person or for important reasons such as the public interest of the Union or of a Member State.
+3. If the restriction of processing according to the aforementioned preconditions is applied, you will be informed by the person in charge before the restriction is lifted.
+4. In the case of data processing for scientific, historical or statistical research purposes: Your right to restriction of processing may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of research or statistical purposes.
 
 ## 4. Right to cancellation
 
@@ -52,7 +52,7 @@ fortrabbit is self service with clients in control about most data stored. Clien
 
 ### 2. Information on third parties
 
-1. If the person responsible has made the personal data relating to you public and is in accordance with. Article 17 (1) of the GDPR, it shall take appropriate measures, including technical means, to inform data controllers who process the personal data that you have been identified as being affected, taking into account available technology and implementation costs Persons requesting deletion of all links to such personal data or of copies or replications of such personal data.
+1. If the person responsible has made the personal data relating to you public and is in accordance with Article 17 (1) of the GDPR, it shall take appropriate measures, including technical means, to inform data controllers who process the personal data that you have been identified as being affected, taking into account available technology and implementation costs, that you have requested the deletion of all links to such personal data or of copies or replications of such personal data.
 
 ### 3. Exceptions
 
@@ -65,7 +65,7 @@ fortrabbit is self service with clients in control about most data stored. Clien
 
 ## 5. Right to information
 
-1. If you have asserted the right of rectification, erasure or restriction of the processing to the controller, the latter is obliged to notify all recipients to whom your personal data have been disclosed of this correction or deletion of the data or restriction of processing because, this proves to be impossible or is associated with a disproportionate effort.
+1. If you have asserted the right of rectification, erasure or restriction of the processing to the controller, the latter is obliged to notify all recipients to whom your personal data have been disclosed of this correction or deletion of the data or restriction of processing unless this proves to be impossible or is associated with a disproportionate effort.
 
 ## 6. Right to data portability
 
@@ -93,11 +93,11 @@ fortrabbit is self service with clients in control about most data stored. Clien
 1. You have the right not to be subject to a decision based solely on automated processing - including profiling - that will have legal effect or similarly affect you in a similar manner. This does not apply if the decision:
     1. is required for the conclusion or performance of a contract between you and the controller,
     2. is permitted by Union or Member State legislation to which the controller is subject, and where such legislation contains appropriate measures to safeguard your rights and freedoms and legitimate interests, or
-    3. with your express consent.
+    3. has your express consent.
 2. However, these decisions may not be based on specific categories of personal data under Art. 9 (1) GDPR, unless Art. 9 (2) lit. a or g DSGVO applies and reasonable measures have been taken to protect the rights and freedoms as well as your legitimate interests.
 3. With regard to the cases referred to in (1) and (3), the person responsible shall take reasonable measures to uphold the rights and freedoms as well as your legitimate interests, including at least the right to obtain the intervention of a person by the person responsible Position and contesting the decision.
 
 ## 10. Right to complain to a supervisory authority
 
-1. Without prejudice to any other administrative or judicial remedy, you shall have the right to complain to a supervisory authority, in particular in the Member State of its place of residence, employment or the place of the alleged infringement, if you believe that the processing of your personal data relates to you Data violates the GDPR.
+1. Without prejudice to any other administrative or judicial remedy, you shall have the right to complain to a supervisory authority, in particular in the Member State of its place of residence, employment or the place of the alleged infringement, if you believe that the processing of your personal data violates the GDPR.
 2. The supervisory authority to which the complaint has been submitted shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy pursuant to Article 78 of the GDPR.

@@ -1,6 +1,6 @@
 # Update policies
 
-last modified: 11th of August 2021
+last modified: 16th of August 2021
 
 This page informs you about when to expect which software updates here on fortrabbit.
 
@@ -11,7 +11,7 @@ This page informs you about when to expect which software updates here on fortra
 
 ## Updates to be performed by fortrabbit
 
-The fortrabbit platform is getting updated to the latest security patches periodically on irregular intervals. This includes backend services such as networking and containerization not visible to clients but also client facing software. 
+The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to clients, but also client-facing software. 
 
 ### Communication
 
@@ -34,14 +34,14 @@ The fortrabbit platform is getting updated to the latest security patches period
 
 ### PHP extensions
 
-* PHP extensions are usually getting updated alongside with PHP update maintenance.
+* PHP extensions are usually updated alongside PHP update maintenance.
 
 ### MySQL versions
 
-* There usually is one MySQL version for each App.
+* There is usually one MySQL version for each App.
 * MySQL patch updates will be applied automatically.
 * Newer Apps might have newer MySQL versions.
 
 ### Let's Encrypt certs
 
-* Let's Encrypt TLS certificates will be automatically redeployed approximately about every three months.
+* Let's Encrypt TLS certificates will be automatically redeployed approximately every three months.
