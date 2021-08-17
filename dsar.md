@@ -52,7 +52,7 @@ fortrabbit is self service, with clients in control about most data stored. Clie
 
 ### 2. Information on third parties
 
-1. If the person responsible has made the personal data relating to you public and is in accordance with Article 17 (1) of the GDPR, it shall take appropriate measures, including technical means, to inform data controllers who process the personal data that you have been identified as being affected, taking into account available technology and implementation costs Persons requesting deletion of all links to such personal data or of copies or replications of such personal data.
+1. If the person responsible has made the personal data relating to you public and is in accordance with Article 17 (1) of the GDPR, it shall take appropriate measures, including technical means, to inform data controllers who process the personal data that you have been identified as being affected, taking into account available technology and implementation costs, that you have requested the deletion of all links to such personal data or of copies or replications of such personal data.
 
 ### 3. Exceptions
 
