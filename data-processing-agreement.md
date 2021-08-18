@@ -1,6 +1,6 @@
 # Data processing agreement
 
-last modified: 12th of August 2021
+last modified: 18th of August 2021
 
 Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
 

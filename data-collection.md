@@ -1,6 +1,6 @@
 # Data collection and retention
 
-last modified: 17th of August 2021
+last modified: 18th of August 2021
 
 This sections answers questions such as these: What kind of data is kept? When is data deleted Generally speaking, our aim is to store only the minimum data required and to delete as much as possible whenever possible.
 

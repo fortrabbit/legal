@@ -1,6 +1,6 @@
 # Support policy
 
-last modified: 16th of August 2021
+last modified: 18th of August 2021
 
 fortrabbit is a self-service hosting platform for PHP developers. Comprehensive documentation is included. There are still always questions. We are here to help. Here is our official support policy.
 

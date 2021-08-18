@@ -1,6 +1,6 @@
 # Security measures
 
-last modified: 16th of August 2021
+last modified: 18th of August 2021
 
 **We take security very seriously — isn't that what everybody says?** It's our business to keep your business online. It's our duty to keep the infrastructure secure.
 

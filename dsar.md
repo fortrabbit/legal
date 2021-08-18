@@ -1,6 +1,6 @@
 # Data subject access requests
 
-last modified: 12th of August 2021
+last modified: 18th of August 2021
 
 According to GDPR and CCPA you as an individual can require us to disclose if and what kind of data we - fortrabbit - have stored on you personally and for what purposes. You can also request to get it deleted and corrected. DSAR is the acronym for that.
 
