@@ -1,8 +1,8 @@
 # Imprint
 
-according to German law (§5 TMG)
+last modified: 18th of August 2021
 
-last modified: 11th of August 2021
+Legal notice according to German law (§5 TMG)
 
 **Register entry**  
 HRB 154552 B  
