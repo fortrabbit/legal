@@ -1,6 +1,6 @@
 # Sub-processors
 
-last modified: 18th of August 2021
+last modified: 3rd of August 2022
 
 fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
 
@@ -55,7 +55,9 @@ We use software to manage our hiring processes, to evaluate and track applicants
 
 ## Account meta data
 
-We will store additional meta-data with your Account when you sign up. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This might sound sneaky but is an important corner stone in fraud and phishing protection.
+We will store additional meta-data with your Account when you sign up. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This is an important corner stone in fraud and phishing protection.
+
+During signup, you might need to solve a Captcha. We use this to protect us from fraudulent signups. We use **hCaptcha** for this, their terms and privacy applies.
 
 ## Internal case management
 
