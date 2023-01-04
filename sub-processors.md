@@ -1,6 +1,6 @@
 # Sub-processors
 
-last modified: 3rd of August 2022
+last modified: 4th of Januray 2023
 
 fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
 
@@ -74,6 +74,10 @@ We employ a tax agency called **Ecovis**, as well as potentially other accountan
 ## Embedded content
 
 In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might contain your IP and a timestamp as well.
+
+## Fraud protection
+
+We validate associated e-mail addresses when registering an Account against lists of trashmail providers. We use [ZeroBounce](https://www.zerobounce.net/) for that. Certain tyope of e-mails will not be accepted for Account registration.
 
 ## Content Delivery Network
 
