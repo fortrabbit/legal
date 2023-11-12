@@ -71,7 +71,7 @@ We do not disclose client data to third parties unless legally obligated to do s
 
 ## Sub-processor data sharing
 
-Please visit our [sub-processors page](https://www.fortrabbit.com/sub-processors) to learn more about the data shared with third-party vendors.
+Please visit our [sub-processors page](sub-processors) to learn more about the data shared with third-party vendors.
 
 ## Data breach notification
 

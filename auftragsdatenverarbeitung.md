@@ -37,7 +37,7 @@ reviewed: 2023-11-04 14:46:16
 
 ## 5. Technische und organisatorische Maßnahmen
 
-1. Die auf [www.fortrabbit.com/security](https://www.fortrabbit.com/security) beschriebenen Datensicherheitsmaßnahmen werden als verbindlich festgelegt. Sie definieren das vom Auftragnehmer geschuldete Minimum.
+1. Die auf [www.fortrabbit.com/legal/security-measures](https://www.fortrabbit.com//legal/security-measures) beschriebenen Datensicherheitsmaßnahmen werden als verbindlich festgelegt. Sie definieren das vom Auftragnehmer geschuldete Minimum.
 2. Die Beschreibung der Maßnahmen muss so detailliert erfolgen, dass für einen sachkundigen Dritten allein aufgrund der Beschreibung jederzeit zweifelsfrei erkennbar ist, was das geschuldete Minimum sein soll.
 3. Ein Verweis auf Informationen, die dieser Vereinbarung oder ihren Anlagen nicht unmittelbar entnommen werden können, ist nicht zulässig.
 4. Die Datensicherheitsmaßnahmen können der technischen und organisatorischen Weiterentwicklung entsprechend angepasst werden, solange das hier vereinbarte Niveau nicht unterschritten wird.
@@ -47,7 +47,7 @@ reviewed: 2023-11-04 14:46:16
 8. Soweit die getroffenen Sicherheitsmaßnahmen den Anforderungen des Auftraggebers nicht oder nicht mehr genügen, benachrichtigt der Auftragnehmer den Auftraggeber unverzüglich.
 9. Der Auftragnehmer sichert zu, dass die im Auftrag verarbeiteten Daten von sonstigen Datenbeständen strikt getrennt werden.
 10. Kopien oder Duplikate werden ohne Wissen des Auftraggebers nicht erstellt. Ausgenommen sind technisch notwendige, temporäre Vervielfältigungen, soweit eine Beeinträchtigung des hier vereinbarten Datenschutzniveaus ausgeschlossen ist.
-11. Der Auftragnehmer führt unter der Website [www.fortrabbit.com/security](https://www.fortrabbit.com/security) den regelmäßigen Nachweis der Erfüllung seiner Pflichten, insbesondere der vollständigen Umsetzung der vereinbarten technischen und organisatorischen Maßnahmen.
+11. Der Auftragnehmer führt unter der Website [www.fortrabbit.com/legal/security-measures](https://www.fortrabbit.com/legal/security-measures) den regelmäßigen Nachweis der Erfüllung seiner Pflichten, insbesondere der vollständigen Umsetzung der vereinbarten technischen und organisatorischen Maßnahmen.
 
 ## 6. Regelungen zur Berichtigung, Löschung und Sperrung von Daten
 
@@ -67,7 +67,7 @@ reviewed: 2023-11-04 14:46:16
 8. Die Weiterleitung von im Auftrag verarbeiteten Daten an den Subunternehmer ist erst zulässig, wenn sich der Auftragnehmer dokumentiert davon überzeugt hat, dass der Subunternehmer seine Verpflichtungen vollständig erfüllt hat. Der Auftraggeber kann in die Dokumentation Einsicht nehmen.
 9. Die Beauftragung von Subunternehmern, die Verarbeitungen im Auftrag nicht ausschließlich aus dem Gebiet der EU oder des EWR erbringen, ist nur bei Beachtung der in Kapitel 4 dieses Vertrages genannten Bedingungen möglich. Sie ist insbesondere nur zulässig, soweit und solange der Subunternehmer angemessene Datenschutzgarantien bietet.
 10. Der Auftragnehmer teilt dem Auftraggeber auf Anfrage mit, welche konkreten Datenschutzgarantien der Subunternehmer bietet und wie ein Nachweis hierüber zu erlangen ist.
-11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
+11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
 12. Der Auftraggeber behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
 13. Der Auftraggeber veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite.
 14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md).

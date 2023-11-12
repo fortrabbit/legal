@@ -195,8 +195,8 @@ Görlitzer Str. 52
 
 ## 9. Datenerhebung durch Drittunternehmen
 
-Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
+Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors)
 
 ## 10. Rechte der betroffenen Personen
 
-Siehe [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar).
+Siehe [fortrabbit.com/legal/auskunftsersuchen](https://www.fortrabbit.com/legal/auskunftsersuchen).

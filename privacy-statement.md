@@ -193,4 +193,4 @@ informing of security-relevant changes.
 
 ## 9. Data collection by third party companies
 
-We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
+We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors)

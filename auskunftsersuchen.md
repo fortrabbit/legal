@@ -1,6 +1,6 @@
 ---
 title: Auskunftsersuchen
-navigation.excerpt: German version of the DSAR.
+navigation.excerpt: German version of the DSAR policies
 reviewed: 2023-11-04 14:46:19
 enVersion: dsar-policy
 ---

@@ -36,9 +36,7 @@ User and system activity is monitored for signs of abuse — by algorithms and h
 
 ## Firewalling
 
-On the outside, network firewalling and hardened TCP/IP stacks to mitigate resource exhaustion attempts are utilized. Sniffing and spoofing attacks are prevented through the underlying infrastructure.
-
-By default all outgoing traffic on all ports, except for [standard ones](https://www.fortrabbit.com/specs#firewall), is blocked. Clients can request to whitelist a port range.
+On the outside, network firewalling and hardened TCP/IP stacks to mitigate resource exhaustion attempts are utilized. Sniffing and spoofing attacks are prevented through the underlying infrastructure. By default all outgoing traffic on all ports, except for standard ones, are blocked.
 
 ## Dashboard
 
