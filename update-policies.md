@@ -1,8 +1,8 @@
-# Update policies
-
-last modified: 18th of August 2021
-
-This page informs you about when to expect which software updates here on fortrabbit.
+---
+title: Update policies
+reviewed: 2023-11-11 07:07:25
+lead: This page informs you about when to expect which software updates here on fortrabbit.
+---
 
 ## Updates to be performed by clients
 
@@ -11,7 +11,7 @@ This page informs you about when to expect which software updates here on fortra
 
 ## Updates to be performed by fortrabbit
 
-The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to clients, but also client-facing software. 
+The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to clients, but also client-facing software.
 
 ### Communication
 
@@ -22,14 +22,14 @@ The fortrabbit platform is updated to the latest security patches periodically a
 
 ### New PHP versions
 
-* Two or three main PHP versions to choose from for each App are usually provided. This can be different major or minor versions. 
+* Two or three main PHP versions to choose from for each App are usually provided. This can be different major or minor versions.
 * Access to new versions will be provided some time after the final version will be released. This is usually after the first important patch release came out and also once all essential extensions are updated.
 * Clients can then select the newer PHP version for their Apps with the fortrabbit Dashboard.
 
 ### Old PHP versions
 
-* Outdated PHP versions will be removed once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php). 
-* Clients running Apps on old PHP versions will receive notification. 
+* Outdated PHP versions will be removed once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
+* Clients running Apps on old PHP versions will receive notification.
 * While removing an outdated PHP version, Apps still on that version will be force upgraded to the next old but still supported version of PHP.
 
 ### PHP extensions
@@ -38,7 +38,6 @@ The fortrabbit platform is updated to the latest security patches periodically a
 
 ### MySQL versions
 
-* There is usually one MySQL version for each App.
 * MySQL patch updates will be applied automatically.
 * Newer Apps might have newer MySQL versions.
 

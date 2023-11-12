@@ -1,6 +1,8 @@
-# Privacy statement
-
-last modified: 16th of August 2021
+---
+title: Privacy statement
+reviewed: 2023-11-04 14:46:56
+deVersion: datenschutzerklaerung
+---
 
 ## 1. Scope of this statement
 
@@ -15,7 +17,7 @@ The legally responsible, hereinafter also "we" or "our", within meaning of the G
 fortrabbit GmbH  
 Görlitzer Str 52  
 10997 Berlin  
-info@fortrabbit.com  
+<info@fortrabbit.com>  
 +49 30 609 80 784 0
 
 ## 3. General information about data processing
@@ -192,7 +194,3 @@ informing of security-relevant changes.
 ## 9. Data collection by third party companies
 
 We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
-
-## 10. Rights of data subjects
-
-Please visit [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar)

@@ -1,8 +1,10 @@
-# Allgemeine Geschäftsbedingungen von fortrabbit
-
-zuletzt geändert: 11. August 2021
-
-**Bedingungen? Zu lang, nicht gelesen.** Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
+---
+title: Allgemeine Geschäftsbedingungen
+navigation.excerpt: German version of the terms.
+lead: Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
+enVersion: terms
+reviewed: 2023-11-04 14:46:11
+---
 
 ## Präambel
 

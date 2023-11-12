@@ -1,8 +1,9 @@
-# Terms of service
-
-last modified: 18th of August 2021
-
-**Terms? Too long, didn't read.** Please take the time to review this and the other legal documents associated.  The following provides basic conditions under which fortrabbit is offering its PHP cloud hosting services to clients.
+---
+title: Terms of service
+lead: Please take the time to review this and the other legal documents associated. The following provides basic conditions under which fortrabbit is offering its cloud hosting services to customers.
+reviewed: 2023-11-04 14:47:30
+deVersion: allgemeine-geschaeftsbedingungen
+---
 
 ## Preamble
 

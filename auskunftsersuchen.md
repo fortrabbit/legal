@@ -1,6 +1,11 @@
-## 1. Auskunftsrecht
+---
+title: Auskunftsersuchen
+navigation.excerpt: German version of the DSAR.
+reviewed: 2023-11-04 14:46:19
+enVersion: dsar-policy
+---
 
-zuletzt geändert: 11. August 2021
+## 1. Auskunftsrecht
 
 1. Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
 2. Liegt eine solche Verarbeitung vor, können Sie von dem Verantwortlichen über folgende Informationen Auskunft verlangen:

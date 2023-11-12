@@ -1,8 +1,10 @@
-# Vertrag über die Auftragsverarbeitung personenbezogener Daten
-
-zuletzt geändert: 11. August 2021
-
-Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
+---
+title: Auftragsverarbeitung personenbezogener Daten
+navigation.excerpt: German version of the data processing agreement.
+lead: Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
+enVersion: data-processing
+reviewed: 2023-11-04 14:46:16
+---
 
 ## 1. Einleitung, Geltungsbereich, Definitionen
 

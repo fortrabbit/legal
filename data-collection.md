@@ -1,8 +1,9 @@
-# Data collection and retention
-
-last modified: 18th of August 2021
-
-This sections answers questions such as these: What kind of data is kept? When is data deleted Generally speaking, our aim is to store only the minimum data required and to delete as much as possible whenever possible.
+---
+title: Data collection and retention
+navigation.excerpt: What kind of data is stored and when it will get deleted.
+lead: What kind of data is kept? When is data deleted, our aim is to store only the minimum data required and to delete as much as possible whenever possible.
+reviewed: 2023-11-04 14:46:28
+---
 
 fortrabbit stores various types of data during hosting operations to perform relevant business functions. For some of this data fortrabbit clients have full control about erasure, other data needs to be kept for a longer period. Retention periods depend on the different types of data stored.
 
@@ -10,19 +11,19 @@ If a law enforcement request, legal obligation or business need requires it, dat
 
 ## Dashboard data
 
-The data stored in our client database is only accessible for individual clients protected by username/password login. Two-factor authentication is available.
+The data stored in our client database is only accessible for individual clients protected by username/password login.
 
 ### Account
 
-Client Account data containing information on name, e-mail, geo location, usage and more is retained for as long as the Account is active. Clients can erase associated data by deleting their Account with the fortrabbit Dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events. Accounts which have had no activity for more than a given period, and which are not associated with any Apps or Companies, will be deleted automatically.
+Client account data containing information on name, e-mail, geo location, usage and more is retained for as long as the account is active. Clients can erase associated data by deleting their account with the fortrabbit dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events. Accounts which have had no activity for more than a given period, and which are not associated with any apps or teams, will be deleted automatically.
 
-### Company
+### Teams
 
-In the fortrabbit Dashboard, there are Companies, consisting of team members and Billing Contacts. They can also be deleted by clients directly with the fortrabbit Dashboard.
+In the fortrabbit dashboard, there are teams, consisting of team members. They can also be deleted directly with the fortrabbit dashboard.
 
-### Billing Contact
+### Payment methods
 
-Payment information is stored with Billing Contacts, which are associated with Companies, in the fortrabbit Dashboard, and thus can be deleted along with the Company by the client.
+Payment information is stored with payment methods, which are associated with apps and accounts, in the fortrabbit dashboard, and thus can be deleted by our customers.
 
 ### Invoices
 
@@ -30,7 +31,7 @@ Invoices, including the receiver's name, postal address and e-mail, are kept for
 
 ## Support chat
 
-Client support communications between fortrabbit and our clients is deleted when an a Account is deleted.
+Client support communications between fortrabbit and our clients is deleted when an a account is deleted.
 
 ## App data
 
@@ -62,9 +63,7 @@ Backups (if booked) for active Apps have a schedule and a retention period as st
 
 ## Additional emergency snapshots
 
-Daily emergency backup snapshots are created for all Apps. For Universal Apps they contain all files on the web storage and the database. For Professional Apps they contain only the database. They have a 15 days retention period. These extra backups are meant for emergency cases only and are not accessible to clients. Once an App is deleted these snapshots will fade out with the retention period; after that all traces of an App are gone.
-
-The contents of the document root (PHP files, image assets) or "web space" may be stored in an encrypted snapshot for up to 20 days after an App is deleted.
+Daily emergency backup snapshots are created for all app environments. They have a 14 days retention period. These extra backups are meant for emergency cases only and are not accessible to clients. Once an App is deleted these snapshots will fade out with the retention period; after that all traces of an app are gone.
 
 ## Data disclosure
 
@@ -80,4 +79,4 @@ We have internal procedures in place to deal with data breaches on our side. Onc
 
 ## Data subject access
 
-You as an individual can request us to disclose if and what kind of data we have stored on you personally and for what reason. Please visit our [DSAR page](https://www.fortrabbit.com/dsar) for this.
+You as an individual can request us to disclose if and what kind of data we have stored on you personally and for what reason. Please visit our [DSAR page](dsar-policy) for more details.

@@ -1,10 +1,8 @@
-# Security measures
-
-last modified: 18th of August 2021
-
-**We take security very seriously — isn't that what everybody says?** It's our business to keep your business online. It's our duty to keep the infrastructure secure.
-
-While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:
+---
+title: Security measures
+reviewed: 2023-11-11 07:05:40
+lead: It's our business to keep your business online. While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence.
+---
 
 ## Service scope
 
@@ -72,4 +70,4 @@ All subcontractors are tested for privacy and security suitability. There are ap
 
 ## Not our liability
 
-fortrabbit will not perform updates on the CMS or frameworks for clients. You - our client - are liable for the code you write and use on our hosting platform. Update the software you are using frequently. Outdated software puts your project at great risk of being hacked. Continue reading our [security recommendations](https://help.fortrabbit.com/security-design).
+fortrabbit will not perform updates on the CMS or frameworks for clients. You - our client - are liable for the code you write and use on our hosting platform. Update the software you are using frequently. Outdated software puts your project at great risk of being hacked.
