@@ -3,7 +3,11 @@ title: Data subject access requests policies
 naviTitle: Requests for information policies
 navigation.excerpt: Our DSAR policies
 reviewed: 2023-11-11 07:12:18
-deVersion: auskunftsersuchen
+links: 
+  - title: Auskunftsersuchen
+    excerpt: German version
+    route: /legal/auskunftsersuchen
+showGithub: true
 ---
 
 ## Please note

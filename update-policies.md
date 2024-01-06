@@ -1,7 +1,8 @@
 ---
 title: Update policies
-reviewed: 2023-11-11 07:07:25
+reviewed: 2023-11-13 19:50:18
 lead: This page informs you about when to expect which software updates here on fortrabbit.
+showGithub: true
 ---
 
 ## Updates to be performed by clients
@@ -22,15 +23,14 @@ The fortrabbit platform is updated to the latest security patches periodically a
 
 ### New PHP versions
 
-* Two or three main PHP versions to choose from for each App are usually provided. This can be different major or minor versions.
+* Two or three main PHP versions to choose are usually provided. This can be different major or minor versions.
 * Access to new versions will be provided some time after the final version will be released. This is usually after the first important patch release came out and also once all essential extensions are updated.
-* Clients can then select the newer PHP version for their Apps with the fortrabbit Dashboard.
+* Clients can then select the newer PHP version for their app environments with the fortrabbit dashboard.
 
 ### Old PHP versions
 
-* Outdated PHP versions will be removed once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
-* Clients running Apps on old PHP versions will receive notification.
-* While removing an outdated PHP version, Apps still on that version will be force upgraded to the next old but still supported version of PHP.
+* Outdated PHP versions will be removed, usually once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
+* While removing an outdated PHP version, app environments still on that version will be force upgraded to the next old but still supported version of PHP.
 
 ### PHP extensions
 

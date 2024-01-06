@@ -1,7 +1,8 @@
 ---
-title: Sie notice
+title: Site notice
 lead: Legal notice according to German law (§5 TMG)
 reviewed: 2023-11-04 14:46:50
+showGithub: true
 ---
 
 **Register entry**  

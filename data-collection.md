@@ -1,8 +1,9 @@
 ---
 title: Data collection and retention
 navigation.excerpt: What kind of data is stored and when it will get deleted.
-lead: What kind of data is kept? When is data deleted, our aim is to store only the minimum data required and to delete as much as possible whenever possible.
+lead: What kind of data is kept? When is data deleted? Our aim is to store only the minimum data required and to delete as much as possible whenever possible.
 reviewed: 2023-11-04 14:46:28
+showGithub: true
 ---
 
 fortrabbit stores various types of data during hosting operations to perform relevant business functions. For some of this data fortrabbit clients have full control about erasure, other data needs to be kept for a longer period. Retention periods depend on the different types of data stored.

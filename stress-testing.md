@@ -1,8 +1,11 @@
 ---
 title: Stress testing policies
-lead: You want to run a test to check if this works as advertised and whether it's secure? We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
+lead: You want to run a test to check if this works as advertised and whether it's secure?
 reviewed: 2023-11-04 14:47:17
+showGithub: true
 ---
+
+We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
 
 ## Penetration testing and security scans
 

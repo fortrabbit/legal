@@ -1,7 +1,12 @@
 ---
 title: Privacy statement
 reviewed: 2023-11-04 14:46:56
-deVersion: datenschutzerklaerung
+deVersion: 
+links: 
+  - title: Datenschutzerklaerung
+    excerpt: German version
+    route: /legal/datenschutzerklaerung
+showGithub: true
 ---
 
 ## 1. Scope of this statement

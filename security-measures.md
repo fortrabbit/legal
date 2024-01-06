@@ -2,6 +2,7 @@
 title: Security measures
 reviewed: 2023-11-11 07:05:40
 lead: It's our business to keep your business online. While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence.
+showGithub: true
 ---
 
 ## Service scope

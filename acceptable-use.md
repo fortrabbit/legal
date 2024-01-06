@@ -3,6 +3,7 @@ title: Acceptable use policy
 reviewed: 2023-11-04 14:46:02
 navigation.excerpt: What is allowed here and what not.
 lead: We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way.
+showGithub: true
 ---
 
 Make fair use of this. This document outlines what is not allowed here. fortrabbit is intended to be used to host websites, web applications, and web APIs. This policy describes forbidden uses. The examples described here are not exhaustive. We may modify this policy at any time.
