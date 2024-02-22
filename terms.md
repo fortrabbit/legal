@@ -11,7 +11,7 @@ showGithub: true
 
 ## Preamble
 
-In the following, "provider" is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Regulations to the terms and conditions as well as to these terms diverged agreements are legal, provided they have been formally approved in written form by the provider.
+In the following, "provider" is fortrabbit GmbH. Regulations to the terms and conditions as well as to these terms diverged agreements are legal, provided they have been formally approved in written form by the provider.
 
 ## § 1 Subject
 
@@ -21,7 +21,7 @@ In the following, "provider" is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berli
 ## § 2 Conclusion of the contract
 
 1. The client's registration for one of the provider's services shall be deemed to be an offer to enter into a contract. The provider may accept or refuse this offer. The acceptance of this offer takes place either expressly or implicitly by activation of the user's account. The concluded contract is not permanently stored by the provider.
-2. It is agreed on concluding this contract between the provider and the client that there is a contract for the performance of a continuing obligation. If the client selects the service with costs, he will be obliged to pay monthly the arising fees until the cancellation of the contract. If the client selects the service for less than one calendar month, the fee for the service  will be charged proportionately. The billing will be carried out on the following month and on a monthly basis. Clients paying by credit card expressly agree to have their credit card account billed monthly for the recurring charges for the life of the contract including any automatic renewal periods.
+2. It is agreed on concluding this contract between the provider and the client that there is a contract for the performance of a continuing obligation. If the client selects the service with costs, he will be obliged to pay monthly the arising fees until the cancellation of the contract. If the client selects the service for less than one calendar month, the fee for the service will be charged proportionately. The billing will be carried out on the following month and on a monthly basis. Clients paying by credit card expressly agree to have their credit card account billed monthly for the recurring charges for the life of the contract including any automatic renewal periods.
 3. A right of revocation does not exist for the client. But the client can cancel the contract at any time.
 
 ## § 3 Obligations of the provider

@@ -1,8 +1,8 @@
 ---
 title: Privacy statement
 reviewed: 2023-11-04 14:46:56
-deVersion: 
-links: 
+deVersion:
+links:
   - title: Datenschutzerklaerung
     excerpt: German version
     route: /legal/datenschutzerklaerung
@@ -20,10 +20,9 @@ This statement covers usage from unregistered website visitors as well as regist
 The legally responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
 
 fortrabbit GmbH  
-Görlitzer Str 52  
-10997 Berlin  
-<info@fortrabbit.com>  
-+49 30 609 80 784 0
+Glogauer Str. 24  
+10999 Berlin  
+<info@fortrabbit.com>
 
 ## 3. General information about data processing
 
@@ -144,7 +143,7 @@ Görlitzer Str 52
 ### 1. Description and scope of data processing
 
 1. We regularly contact our registered clients via e-mail for updates, such as scheduled maintenance, new releases and updates
-informing of security-relevant changes.
+   informing of security-relevant changes.
 2. The data from the input mask are transmitted to us during registration.
 3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
 4. In connection with the processing of data for the shipment of product information, no transfer of the data to third parties takes place.

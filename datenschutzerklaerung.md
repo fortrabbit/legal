@@ -3,7 +3,7 @@ title: Datenschutzerklärung von fortrabbit
 navigation.excerpt: German version of privacy policy.
 lead: This is the German version of privacy policy.
 reviewed: 2023-11-04 14:46:36
-links: 
+links:
   - title: Privacy policy
     excerpt: english version
     route: /legal/privacy-policy
@@ -12,7 +12,7 @@ showGithub: true
 
 ## 1. Rahmen dieser Vereinbarung
 
-Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com` und `dashboard.fortrabbit.com`.
+Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dashboard.fortrabbit.com` `dash.fortrabbit.com`.
 
 Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-Besucher als auch für registrierte Kunden.
 
@@ -21,10 +21,9 @@ Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-B
 Der Verantwortliche, im Folgenden auch "Wir" oder "Unser", im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
 
 fortrabbit GmbH  
-Görlitzer Str. 52  
-10997 Berlin  
-<info@fortrabbit.com>  
-+49 30 609 80 784 0
+Glogauer Str. 24  
+10999 Berlin  
+<info@fortrabbit.com>
 
 ## 3. Allgemeines zur Datenverarbeitung
 
