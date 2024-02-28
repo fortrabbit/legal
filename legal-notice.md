@@ -14,7 +14,7 @@ Berlin (Charlottenburg)
 DE292700027
 
 **Authorized representatives**  
-Frank Lämmer, Oliver Stark
+Frank Lämmer
 
 **Postal address**  
 fortrabbit GmbH  
