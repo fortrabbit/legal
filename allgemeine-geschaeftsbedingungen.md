@@ -1,12 +1,12 @@
 # Allgemeine Geschäftsbedingungen von fortrabbit
 
-zuletzt geändert: 11. August 2021
+zuletzt geändert: 24. Februar 2024
 
 **Bedingungen? Zu lang, nicht gelesen.** Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
 
 ## Präambel
 
-Der im folgenden genannte Anbieter ist die fortrabbit GmbH - Görlitzer Str. 52, 10997 Berlin. Von diesen Geschäftsbedingungen insgesamt oder teilweise abweichende AGB des Kunden werden vom Anbieter nicht anerkannt, es sei denn, der Anbieter hat diesen ausdrücklich zugestimmt.
+Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäftsbedingungen insgesamt oder teilweise abweichende AGB des Kunden werden vom Anbieter nicht anerkannt, es sei denn, der Anbieter hat diesen ausdrücklich zugestimmt.
 
 ## § 1 Gegenstand
 
