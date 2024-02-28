@@ -1,6 +1,6 @@
 # Imprint
 
-last modified: 18th of August 2021
+last modified: 28th of February 2024
 
 Legal notice according to German law (§5 TMG)
 
@@ -18,8 +18,8 @@ Frank Lämmer
 
 **Postal address**  
 fortrabbit GmbH  
-Görlitzer Str. 52  
-10997 Berlin
+Glogauer Str. 24  
+10999 Berlin
 
 **E-mail address**  
 info@fortrabbit.com
