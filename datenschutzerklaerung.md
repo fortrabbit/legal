@@ -1,6 +1,6 @@
 # Datenschutzerklärung von fortrabbit
 
-zuletzt geändert: 11. August 2021
+zuletzt geändert: 24. Februar 2023
 
 ## 1. Rahmen dieser Vereinbarung
 
@@ -13,10 +13,9 @@ Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-B
 Der Verantwortliche, im Folgenden auch "Wir" oder "Unser", im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
 
 fortrabbit GmbH  
-Görlitzer Str. 52  
-10997 Berlin  
+Glogauer Str. 24  
+10999 Berlin  
 info@fortrabbit.com  
-+49 30 609 80 784 0
 
 ## 3. Allgemeines zur Datenverarbeitung
 
