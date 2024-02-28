@@ -1,12 +1,12 @@
 # Terms of service
 
-last modified: 18th of August 2021
+last modified: 24th of February 2024
 
 **Terms? Too long, didn't read.** Please take the time to review this and the other legal documents associated.  The following provides basic conditions under which fortrabbit is offering its PHP cloud hosting services to clients.
 
 ## Preamble
 
-In the following, "provider" is fortrabbit GmbH, Görlitzer Str. 52, 10997 Berlin. Regulations to the terms and conditions as well as to these terms diverged agreements are legal, provided they have been formally approved in written form by the provider.
+In the following, "provider" is fortrabbit GmbH. Regulations to the terms and conditions as well as to these terms diverged agreements are legal, provided they have been formally approved in written form by the provider.
 
 ## § 1 Subject
 
