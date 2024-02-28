@@ -1,6 +1,6 @@
 # Privacy statement
 
-last modified: 16th of August 2021
+last modified: 28th of February 2024
 
 ## 1. Scope of this statement
 
@@ -13,10 +13,9 @@ This statement covers usage from unregistered website visitors as well as regist
 The legally responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
 
 fortrabbit GmbH  
-Görlitzer Str 52  
-10997 Berlin  
+Gloaguer Str. 24  
+10999 Berlin  
 info@fortrabbit.com  
-+49 30 609 80 784 0
 
 ## 3. General information about data processing
 
