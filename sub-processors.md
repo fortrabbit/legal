@@ -1,6 +1,6 @@
 # Sub-processors
 
-last modified: 4th of Januray 2023
+last modified: 10th of November 2024
 
 fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred. All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable.
 
@@ -51,7 +51,7 @@ Accounts can subscribe — via opt-in — to fortrabbit service status updates f
 
 ## Recruitment software
 
-We use software to manage our hiring processes, to evaluate and track applicants. Currently we use **Recruitee** for this. Open positions can be found under [fortrabbit1.recruitee.com](https://fortrabbit1.recruitee.com). See [Recruitee Terms](https://recruitee.com/terms).
+We use software to manage our hiring processes, to evaluate and track applicants.
 
 ## Account meta data
 
