@@ -1,18 +1,17 @@
 ---
 title: Update policies
-reviewed: 2023-11-13 19:50:18
+reviewed: 2024-11-13
 lead: This page informs you about when to expect which software updates here on fortrabbit.
 showGithub: true
 ---
 
-## Updates to be performed by clients
+## Updates performed by customers
 
-* It is the responsibility of the client to update the software they installed - this includes PHP frameworks and Content Management Systems.
-* Custom TLS certificates will need to be updated by the client.
+* It is the responsibility of the customer to update the software they installed - this includes frameworks and Content Management Systems.
 
-## Updates to be performed by fortrabbit
+## Updates performed by fortrabbit
 
-The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to clients, but also client-facing software.
+The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to customers, but also client-facing software.
 
 ### Communication
 
@@ -24,23 +23,22 @@ The fortrabbit platform is updated to the latest security patches periodically a
 ### New PHP versions
 
 * Two or three main PHP versions to choose are usually provided. This can be different major or minor versions.
-* Access to new versions will be provided some time after the final version will be released. This is usually after the first important patch release came out and also once all essential extensions are updated.
-* Clients can then select the newer PHP version for their app environments with the fortrabbit dashboard.
+* Access to new versions will be provided some time after the final version will be released.
+  * This is usually after the first important patch release came out and also once all essential extensions are updated.
 
 ### Old PHP versions
 
-* Outdated PHP versions will be removed, usually once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
+* Outdated PHP versions will be removed once the security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
 * While removing an outdated PHP version, app environments still on that version will be force upgraded to the next old but still supported version of PHP.
 
 ### PHP extensions
 
 * PHP extensions are usually updated alongside PHP update maintenance.
 
-### MySQL versions
+### Database versions
 
-* MySQL patch updates will be applied automatically.
-* Newer Apps might have newer MySQL versions.
+* Database patch updates will be applied automatically.
 
-### Let's Encrypt certs
+### TLS certificates
 
-* Let's Encrypt TLS certificates will be automatically redeployed approximately every three months.
+* Managed TLS certificates will be automatically installed, approximately every three months.
