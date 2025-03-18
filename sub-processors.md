@@ -9,10 +9,10 @@ All of our sub-processors have been assessed for security and GDPR compliance. E
 
 ## Infrastructure & data centers
 
-The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms/).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
 
-* Apps will be stored in the data center location you choose.
-* Billing related and Account data is stored in Ireland.
+- Apps will be stored in the data center location you choose.
+- Billing related and Account data is stored in Ireland.
 
 ## Payment processing
 
@@ -20,7 +20,7 @@ Credit card billing information is stored with our credit card payment processor
 
 ## Usage statistics
 
-We use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org/).
+We use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org).
 
 ## Client communication
 
@@ -32,7 +32,7 @@ Our support chat is powered by **Intercom**. This service collects some meta-dat
 
 ### Product information subscription
 
-We use **MailChimp** to occasionally send e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in the classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is an Account notification setting with the Dashboard to manage subscriptions. We will write from "<pleasereply@fortrabbit.com>". See [MailChimp Terms](https://mailchimp.com/legal/terms/).
+We use **MailChimp** to occasionally send e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in the classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is an Account notification setting with the Dashboard to manage subscriptions. We will write from "<pleasereply@fortrabbit.com>". See [MailChimp Terms](https://mailchimp.com/legal/terms).
 
 ### Personal e-mails
 
@@ -60,7 +60,7 @@ We use **Linear** as an internal ticketing system to keep track of ongoing busin
 
 ## Account profile pictures
 
-We may send a hash of your e-mail address to a 3rd party, such as **Gravatar** to see if you have an Account over there. If you have, we display your profile picture from over there; if not, a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service/).
+We may send a hash of your e-mail address to a 3rd party, such as **Gravatar** to see if you have an Account over there. If you have, we display your profile picture from over there; if not, a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service).
 
 ## Accounting
 
@@ -72,7 +72,7 @@ In certain cases we might embed content from other web services in our websites.
 
 ## Fraud protection
 
-We validate associated e-mail addresses when registering an Account against lists of trashmail providers. We use [ZeroBounce](https://www.zerobounce.net/) for that. Certain tyope of e-mails will not be accepted for Account registration.
+We validate associated e-mail addresses when registering an Account against lists of trashmail providers. We use [ZeroBounce](https://www.zerobounce.net) for that. Certain tyope of e-mails will not be accepted for Account registration.
 
 ## Content Delivery Network
 
