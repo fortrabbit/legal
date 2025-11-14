@@ -1,9 +1,7 @@
 ---
 title: Copyright
-reviewed: 2024-10-11 15:26:36
+reviewed: 2025-11-14
 showGithub: false
-figure:
-  icon: ph:copyleft-bold
 head:
   meta:
     - name: 'keywords'
