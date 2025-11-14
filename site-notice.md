@@ -1,7 +1,7 @@
 ---
 title: Site notice
 lead: Legal notice according to German law (§5 TMG)
-reviewed: 2023-11-04 14:46:50
+reviewed: 2025-11-14 15:21:50
 showGithub: true
 ---
 

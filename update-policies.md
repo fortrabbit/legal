@@ -1,6 +1,6 @@
 ---
 title: Update policies
-reviewed: 2024-11-13
+reviewed: 2025-11-14 15:22:56
 lead: This page informs you about when to expect which software updates here on fortrabbit.
 showGithub: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sub-processors
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
-reviewed: 2023-11-13 20:03:39
+reviewed: 2025-11-14 15:22:41
 showGithub: true
 ---
 

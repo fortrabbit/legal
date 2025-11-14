@@ -1,6 +1,6 @@
 ---
 title: Terms of service
-reviewed: 2023-11-04 14:47:30
+reviewed: 2025-11-14 15:22:48
 lead: Please take the time to review this and the other legal documents associated. The following provides basic conditions under which fortrabbit is offering its cloud hosting services to customers.
 links:
   - title: Allgemeine Geschäftsbedingungen
