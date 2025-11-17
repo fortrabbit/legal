@@ -2,12 +2,12 @@
 title: Datenschutzerklärung von fortrabbit
 navigation.excerpt: German version of privacy policy.
 lead: This is the German version of privacy policy.
-reviewed: 2023-11-04 14:46:36
+reviewed: 2025-11-17 12:40:08
 links:
-  - title: Privacy policy
-    excerpt: english version
-    route: /legal/privacy-policy
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement-de.md
+  - title: English version
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement.md
 ---
 
 ## 1. Rahmen dieser Vereinbarung

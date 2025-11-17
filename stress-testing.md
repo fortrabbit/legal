@@ -1,8 +1,10 @@
 ---
 title: Stress testing policies
+reviewed: 2025-11-17 12:40:29
 lead: You want to run a test to check if this works as advertised and whether it's secure?
-reviewed: 2025-11-14 15:22:37
-showGithub: true
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/stress-testing.md
 ---
 
 We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.

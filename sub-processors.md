@@ -1,8 +1,10 @@
 ---
 title: Sub-processors
+reviewed: 2025-11-17 12:40:34
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
-reviewed: 2025-11-14 15:22:41
-showGithub: true
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md
 ---
 
 All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable. The following third party services transparency report gives you an overview which external services we use, how and why.
@@ -20,7 +22,7 @@ Credit card billing information is stored with our credit card payment processor
 
 ## Usage statistics
 
-We use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org).
+We may use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience on some web properties. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org).
 
 ## Client communication
 

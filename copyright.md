@@ -1,11 +1,13 @@
 ---
 title: Copyright
-reviewed: 2025-11-14
-showGithub: false
+reviewed: 2025-11-17 12:39:34
 head:
   meta:
     - name: 'keywords'
       content: 'copyleft, copyright'
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/copyright.md
 ---
 
 ## How we use logos from others

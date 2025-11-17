@@ -1,12 +1,12 @@
 ---
 title: Terms of service
-reviewed: 2025-11-14 15:22:48
+reviewed: 2025-11-17 12:41:14
 lead: Please take the time to review this and the other legal documents associated. The following provides basic conditions under which fortrabbit is offering its cloud hosting services to customers.
 links:
-  - title: Allgemeine Geschäftsbedingungen
-    excerpt: German version
-    route: /legal/allgemeine-geschaeftsbedingungen
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/terms.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/terms-de.md
 ---
 
 ## Preamble

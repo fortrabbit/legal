@@ -1,12 +1,12 @@
 ---
 title: Privacy statement
-reviewed: 2023-11-04 14:46:56
+reviewed: 2025-11-17 12:40:12
 deVersion:
 links:
-  - title: Datenschutzerklaerung
-    excerpt: German version
-    route: /legal/datenschutzerklaerung
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement-de.md
 ---
 
 ## 1. Scope of this statement

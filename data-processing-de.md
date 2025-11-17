@@ -1,13 +1,13 @@
 ---
 title: Auftragsverarbeitung personenbezogener Daten
 navigation.excerpt: German version of the data processing agreement.
-reviewed: 2023-11-04 14:46:16
+reviewed: 2025-11-17 12:39:44
 lead: Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
 links:
-  - title: Data processing
-    excerpt: english version
-    route: /legal/data-processing
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/data-processing-de.md
+  - title: GitHub link english
+    route: https://github.com/fortrabbit/legal-new/blob/main/data-processing.md
 ---
 
 ## 1. Einleitung, Geltungsbereich, Definitionen
@@ -74,7 +74,7 @@ showGithub: true
 11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
 12. Der Auftraggeber behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
 13. Der Auftraggeber veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite.
-14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md).
+14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md](https://https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md).
 15. Sofern der Auftraggeber mit einem neuen Subunternehmen nicht einverstanden ist, besteht das Recht zur sofortigen Kündigung.
 16. Unterauftragsverhältnisse im Sinne dieses Vertrags sind nur solche Leistungen, die einen direkten Zusammenhang mit der Erbringung der Hauptleistung aufweisen.
 17. Nebenleistungen, wie beispielsweise Transport, Wartung und Reinigung sowie die Inanspruchnahme von Telekommunikationsdienstleistungen oder Benutzerservice sind nicht erfasst.

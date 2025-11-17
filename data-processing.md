@@ -2,8 +2,12 @@
 title: Data processing agreement
 navigation.excerpt: Legal basis for processing your personal data.
 lead: Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
-reviewed: 2023-11-04 14:46:32
-showGithub: true
+reviewed: 2025-11-17 12:44:15
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/data-processing.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/data-processing-de.md
 ---
 
 ## 1. Introduction, scope, definitions
@@ -70,7 +74,7 @@ showGithub: true
 11. Subcontractors listed on the website [www.fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors), hereinafter referred to as the Transparency Page, at the time of signing the contract, will comply with the terms and conditions of the contractor accepted.
 12. The contractor reserves the right to employ new subcontractors or to replace subcontractors.
 13. The contractor publishes changes in subcontractor relations on the transparency page.
-14. The client has the option to track changes on GitHub. The address is: [github.com/fortrabbit/legal/blob/master/sub-processors.md](https://github.com/fortrabbit/legal/blob/master/sub-processors.md).
+14. The client has the option to track changes on GitHub. The address is: [https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md](https://https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md).
 15. If the client does not agree with a new subcontractor, the right to immediate termination exists.
 16. Subcontracting relationships within the meaning of this contract are only those services that have a direct connection with the provision of the main service.
 17. Additional services such as transport, maintenance and cleaning as well as the use of telecommunication services or user services are not included.

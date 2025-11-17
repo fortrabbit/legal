@@ -1,13 +1,13 @@
 ---
 title: Allgemeine Geschäftsbedingungen
 navigation.excerpt: German version of the terms.
-reviewed: 2023-11-04 14:46:11
+reviewed: 2025-11-17 12:41:02
 lead: Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
 links:
-  - title: Terms
-    excerpt: English version
-    route: /legal/terms
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/terms-de.md
+  - title: English version
+    route: https://github.com/fortrabbit/legal-new/blob/main/terms.md
 ---
 
 ## Präambel

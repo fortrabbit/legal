@@ -1,7 +1,9 @@
 ---
 title: Cookie policy
-reviewed: 2025-06-13 20:58:29
-showGithub: true
+reviewed: 2025-11-17 12:39:27
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/cookie-policy.md
 ---
 
 ## What are cookies?

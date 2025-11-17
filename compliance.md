@@ -1,12 +1,14 @@
 ---
 title: Compliance
-reviewed: 2023-12-12 17:46:29
+reviewed: 2025-11-17 12:39:23
 lead: Find common compliance acronyms here. Most of em do not apply to us or we simply don't do it. At least now you know.
-showGithub: false
 head:
   meta:
     - name: 'keywords'
       content: 'FedRAMP, NDA, Security checks, Background checks, Privacy Shield, SSAE16/18 ISO27001, PCI DSS, Employee checks, Information Security Plan/Policy, Third Party Attestation/Certification (SOC 2 Type 2 Report/ ISO 27001 to include the statement of applicability (SOA)), Latest Penetration Test Report, Data Flow and Network Architecture Diagrams, Latest Vulnerability Scan, Cyber Liability Insurance Certificate, Third Party Vendor Risk Assessment, Standard Information Gathering, SIGs, SECs, NDAs, SOCs, SLAs, VRAs, VSAs or whatever, Vendor agreement'
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/compliance.md
 ---
 
 ## TOM
@@ -19,7 +21,7 @@ According to our understanding, we are not required to fill out this form. Note 
 
 ## COI
 
-A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/terms). We do provide an [Service Level Agreement](legal/service-level-agreement) which may be relevant to this question.
+A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/terms). We do provide an [Service Level Agreement](/legal/service-level-agreement) which may be relevant to this question.
 
 ## NIC
 

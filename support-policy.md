@@ -1,8 +1,10 @@
 ---
 title: Support policy
+reviewed: 2025-11-17 12:40:58
 lead: fortrabbit is a self-service hosting platform for web developers. Comprehensive documentation is included. There are still always questions. We are here to help. Here is our official support policy.
-reviewed: 2025-11-14 15:22:44
-showGithub: true
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/support-policy.md
 ---
 
 ## Support scope

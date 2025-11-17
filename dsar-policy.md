@@ -2,12 +2,12 @@
 title: Data subject access requests policies
 naviTitle: Requests for information policies
 navigation.excerpt: Our DSAR policies
-reviewed: 2023-11-11 07:12:18
+reviewed: 2025-11-17 12:40:01
 links: 
-  - title: Auskunftsersuchen
-    excerpt: German version
-    route: /legal/auskunftsersuchen
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
 ---
 
 ## Please note

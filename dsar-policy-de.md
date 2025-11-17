@@ -1,12 +1,12 @@
 ---
 title: Auskunftsersuchen
 navigation.excerpt: German version of the DSAR policies
-reviewed: 2023-11-04 14:46:19
+reviewed: 2025-11-17 12:39:53
 links:
-  - title: DSAR policies
-    excerpt: english version
-    route: /legal/dsar-policy
-showGithub: true
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
+  - title: English version
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
 ---
 
 ## 1. Auskunftsrecht
