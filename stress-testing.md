@@ -1,8 +1,13 @@
-# Stress testing
+---
+title: Stress testing policies
+reviewed: 2025-11-17 12:40:29
+lead: You want to run a test to check if this works as advertised and whether it's secure?
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/stress-testing.md
+---
 
-last modified: 18th of August 2021
-
-You want to run a test to check if this works as advertised and whether it's secure? We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
+We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
 
 ## Penetration testing and security scans
 
@@ -12,9 +17,8 @@ Feel free to perform standard penetration tests and security scans as often as r
 
 Please don't run Denial of Service tests and any other type of testing which results in heavy network load. Before running any load test, make sure to have a swift PHP response time for your App already - 200 ms or less.
 
-Please respect the following rate limits: 
+Please respect the following rate limit:
 
-* Universal Stack: Max 300 RPM
-* Professional Stack: 300 RPM per Node
+* Max 300 RPM
 
-Also mind the general [platform limits](https://help.fortrabbit.com/limits). Each App is different in the way it's built and in the way it is consumed. There are highly dynamic, compute-intensive Apps, and there are Apps that are mostly static. Some have many assets, some none. Some have only one page, some have thousands of pages. You as the developer should know your project, the way it is built and how it will be used. Follow best practices, see our [application design article](https://help.fortrabbit.com/app-design). Get insights from a plugin like [Blackfire](https://help.fortrabbit.com/blackfire) or [NewRelic](https://help.fortrabbit.com/new-relic).
+Also mind the general platform limits. Each App is different in the way it's built and in the way it is consumed. There are highly dynamic, compute-intensive Apps, and there are Apps that are mostly static. Some have many assets, some none. Some have only one page, some have thousands of pages. You as the developer should know your project, the way it is built and how it will be used. Follow best practices. Get insights from a plugin like Blackfire.

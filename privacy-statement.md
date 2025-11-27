@@ -1,6 +1,13 @@
-# Privacy statement
-
-last modified: 28th of February 2024
+---
+title: Privacy statement
+reviewed: 2025-11-17 12:40:12
+deVersion:
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement-de.md
+---
 
 ## 1. Scope of this statement
 
@@ -13,9 +20,9 @@ This statement covers usage from unregistered website visitors as well as regist
 The legally responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
 
 fortrabbit GmbH  
-Gloaguer Str. 24  
+Glogauer Str. 24  
 10999 Berlin  
-info@fortrabbit.com  
+<info@fortrabbit.com>
 
 ## 3. General information about data processing
 
@@ -136,7 +143,7 @@ info@fortrabbit.com
 ### 1. Description and scope of data processing
 
 1. We regularly contact our registered clients via e-mail for updates, such as scheduled maintenance, new releases and updates
-informing of security-relevant changes.
+   informing of security-relevant changes.
 2. The data from the input mask are transmitted to us during registration.
 3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
 4. In connection with the processing of data for the shipment of product information, no transfer of the data to third parties takes place.
@@ -190,8 +197,4 @@ informing of security-relevant changes.
 
 ## 9. Data collection by third party companies
 
-We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
-
-## 10. Rights of data subjects
-
-Please visit [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar)
+We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors)

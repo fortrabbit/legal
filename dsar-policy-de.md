@@ -1,6 +1,15 @@
-## 1. Auskunftsrecht
+---
+title: Auskunftsersuchen
+navigation.excerpt: German version of the DSAR policies
+reviewed: 2025-11-17 12:39:53
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
+  - title: English version
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
+---
 
-zuletzt geändert: 11. August 2021
+## 1. Auskunftsrecht
 
 1. Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
 2. Liegt eine solche Verarbeitung vor, können Sie von dem Verantwortlichen über folgende Informationen Auskunft verlangen:

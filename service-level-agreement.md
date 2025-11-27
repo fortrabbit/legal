@@ -1,19 +1,21 @@
-# Service level agreement
+---
+title: Service level agreement
+reviewed: 2025-11-17 09:05:54
+lead: Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. The following SLA defines the refund you'll get for downtime.
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/service-level-agreement.md
+---
 
-last modified: 18th of August 2021
+- **99.5% general uptime**
 
-**We promise to do everything we can to keep your Apps up.** Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. Please see our <a href="http://status.fortrabbit.com">public status page</a> for a history of incidents. The following SLA defines the refund you'll get for downtime.
-
-1. fortrabbit will use commercially reasonable efforts to make the fortrabbit platform available with a monthly uptime percentage (defined under sec. 2 of this SLA) depending on the product chosen by you during any monthly billing cycle. In the event fortrabbit does not meet the guaranteed uptime, you will be eligible to receive a service credit as described under sec. 6 of this SLA.
-    *  **no uptime guaranteed** during trial
-    *  **99% uptime** in general for Universal and Professional development plans
-    *  **99.9% uptime** for scaling Components with two or more Nodes — Professional production plans
-2. Monthly uptime percentage means the total number of minutes in a monthly billing cycle the fortrabbit storage system was connected to the internet ready to receive and provide information, minus the number of minutes of downtime suffered in a monthly billing cycle, divided by the total number of minutes in a monthly billing cycle.
-3. The provider reserves the right to temporarily restrict the access of certain internet users or internet user groups to the provided services, if the security of network operations, integrity of the network and/or hosted data is endangered.
-4. The provider shall inform the client about all planned network operations in advance.
-5. The provider endeavors to schedule planned network operation in low traffic periods.
-6. In the case of non-compliance of a certain service level, the provider provides an amount of credit granted under the following conditions:
-    1. Credits will be granted if the client applies within 10 calendar days of the end of the calendar month in a written form (email, fax).
-    2. The cumulative granted credits will be calculated by the actual downtime in proportion to the ongoing month.
-    3. The cumulative granted credits of all service levels shall be restricted of the total of the monthly remuneration of this service.
-7. Any liability for indirect or collateral damages as well as following damages, loss of profit, service interruption, loss of data or information is granted under the fortrabbit Terms Of Service only.
+1. fortrabbit will use commercially reasonable efforts to keep the fortrabbit platforms available at the monthly uptime percentage stated above during each billing cycle. If the guaranteed uptime is not met, you may request the service credits described in sec. 6 of this SLA.
+2. Monthly uptime percentage means the total number of minutes in a billing cycle during which the fortrabbit storage system is connected to the internet and ready to send or receive information, minus the minutes of downtime in that cycle, divided by the total minutes in the billing cycle.
+3. The provider may temporarily restrict access for certain internet users or user groups when required to protect network operations, infrastructure integrity, or hosted data.
+4. The provider shall inform the customer in advance about all planned network operations.
+5. The provider endeavors to schedule planned network operations during low-traffic periods.
+6. If a service level is not met, the provider will grant service credits under the following conditions:
+    1. Credits are granted when the customer submits a written request (email or fax) within 10 calendar days after the end of the affected month.
+    2. Credits are calculated in proportion to the actual downtime relative to the total minutes in the month.
+    3. The total credits for all service levels in a month are capped at the monthly fee paid for the affected service.
+7. The provider is not liable for indirect, collateral, or consequential damages, including loss of profit, service interruption, or loss of data or information.

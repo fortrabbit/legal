@@ -1,10 +1,18 @@
-# Datenschutzerklärung von fortrabbit
-
-zuletzt geändert: 24. Februar 2023
+---
+title: Datenschutzerklärung von fortrabbit
+navigation.excerpt: German version of privacy policy.
+lead: This is the German version of privacy policy.
+reviewed: 2025-11-17 12:40:08
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement-de.md
+  - title: English version
+    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement.md
+---
 
 ## 1. Rahmen dieser Vereinbarung
 
-Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` und `dashboard.fortrabbit.com`.
+Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dashboard.fortrabbit.com` `dash.fortrabbit.com`.
 
 Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-Besucher als auch für registrierte Kunden.
 
@@ -15,7 +23,7 @@ Der Verantwortliche, im Folgenden auch "Wir" oder "Unser", im Sinne der Datensch
 fortrabbit GmbH  
 Glogauer Str. 24  
 10999 Berlin  
-info@fortrabbit.com  
+<info@fortrabbit.com>
 
 ## 3. Allgemeines zur Datenverarbeitung
 
@@ -190,8 +198,8 @@ info@fortrabbit.com
 
 ## 9. Datenerhebung durch Drittunternehmen
 
-Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/sub-processors](https://www.fortrabbit.com/sub-processors)
+Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors)
 
 ## 10. Rechte der betroffenen Personen
 
-Siehe [fortrabbit.com/dsar](https://www.fortrabbit.com/dsar).
+Siehe [fortrabbit.com/legal/auskunftsersuchen](https://www.fortrabbit.com/legal/auskunftsersuchen).

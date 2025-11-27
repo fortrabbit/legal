@@ -1,10 +1,18 @@
-# Data subject access requests
+---
+title: Data subject access requests policies
+naviTitle: Requests for information policies
+navigation.excerpt: Our DSAR policies
+reviewed: 2025-11-17 12:40:01
+links: 
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
+  - title: German version
+    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
+---
 
-last modified: 18th of August 2021
+## Please note
 
-According to GDPR and CCPA you as an individual can require us to disclose if and what kind of data we - fortrabbit - have stored on you personally and for what purposes. You can also request to get it deleted and corrected. DSAR is the acronym for that.
-
-fortrabbit is self service, with clients in control about most data stored. Clients can explore, edit and delete the data we store on them in the fortrabbit Dashboard. Apps, Companies and Accounts can be deleted. Please see the [data collection and retention page](https://www.fortrabbit.com/data-collection) to learn more about what data is stored, what for and for how long.
+See how to get in touch [to query about your personal data here](/contact/request-dsar).
 
 ## 1. Right to information
 

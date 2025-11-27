@@ -1,10 +1,14 @@
-# Acceptable use policy
+---
+title: Acceptable use policy
+reviewed: 2025-11-17 12:39:18
+navigation.excerpt: What is allowed here and what not.
+lead: We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way.
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal-new/blob/main/acceptable-use.md
+---
 
-last modified: 18th of August 2021
-
-We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way. Make fair use of this. This document outlines what is not allowed here.
-
-fortrabbit is intended to be used to host websites, web applications, and web APIs. This policy describes forbidden uses. The examples described here are not exhaustive. We may modify this policy at any time.
+Make fair use of this. This document outlines what is not allowed here. fortrabbit is intended to be used to host websites, web applications, and web APIs. This policy describes forbidden uses. The examples described here are not exhaustive. We may modify this policy at any time.
 
 ## Prohibited content
 
@@ -38,7 +42,7 @@ It is not allowed to distribute, publish, send, or facilitate the sending of uns
 
 ## Quota and limits
 
-The fortrabbit platform has certain soft and hard limits. Hard limits are automatically enforced by the service. Soft limits are consumable resources that you agree not to exceed. More on those limits can be found here: [help.fortrabbit.com/limits](https://help.fortrabbit.com/limits) and here: [www.fortrabbit.com/specs](https://www.fortrabbit.com/specs)
+The fortrabbit platform has certain soft and hard limits. Hard limits are automatically enforced by the service. Soft limits are consumable resources that you agree not to exceed.
 
 ## Monitoring and enforcement
 
@@ -46,4 +50,4 @@ We reserve the right, but do not assume the obligation, to investigate any viola
 
 ## Reporting violations
 
-Please notify us if you become aware of any violation of this policy. Provide us with assistance to stop or remedy the violation. Please follow our [abuse reporting process](/vulnerability-reporting).
+Please notify us if you become aware of any violation of this policy. Provide us with assistance to stop or remedy the violation.
