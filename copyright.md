@@ -7,7 +7,7 @@ head:
       content: 'copyleft, copyright'
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/copyright.md
+    route: https://github.com/fortrabbit/legal/blob/main/copyright.md
 ---
 
 ## How we use logos from others

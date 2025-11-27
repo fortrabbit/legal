@@ -4,9 +4,9 @@ reviewed: 2025-11-17 12:40:12
 deVersion:
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement.md
+    route: https://github.com/fortrabbit/legal/blob/main/privacy-statement.md
   - title: German version
-    route: https://github.com/fortrabbit/legal-new/blob/main/privacy-statement-de.md
+    route: https://github.com/fortrabbit/legal/blob/main/privacy-statement-de.md
 ---
 
 ## 1. Scope of this statement

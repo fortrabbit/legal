@@ -5,7 +5,7 @@ lead: What kind of data is kept? When is data deleted? Our aim is to store only 
 reviewed: 2025-11-17 12:39:40
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/data-collection.md
+    route: https://github.com/fortrabbit/legal/blob/main/data-collection.md
 ---
 
 fortrabbit stores various types of data during hosting operations to perform relevant business functions. For some of this data fortrabbit clients have full control about erasure, other data needs to be kept for a longer period. Retention periods depend on the different types of data stored.

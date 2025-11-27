@@ -5,9 +5,9 @@ reviewed: 2025-11-17 12:41:02
 lead: Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/terms-de.md
+    route: https://github.com/fortrabbit/legal/blob/main/terms-de.md
   - title: English version
-    route: https://github.com/fortrabbit/legal-new/blob/main/terms.md
+    route: https://github.com/fortrabbit/legal/blob/main/terms.md
 ---
 
 ## Präambel

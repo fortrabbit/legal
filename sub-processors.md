@@ -4,7 +4,7 @@ reviewed: 2025-11-17 12:40:34
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/sub-processors.md
+    route: https://github.com/fortrabbit/legal/blob/main/sub-processors.md
 ---
 
 All of our sub-processors have been assessed for security and GDPR compliance. Enacted contract amendments and Data Processing Agreements (DPAs) are in place where applicable. The following third party services transparency report gives you an overview which external services we use, how and why.

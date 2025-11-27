@@ -8,7 +8,7 @@ head:
       content: 'FedRAMP, NDA, Security checks, Background checks, Privacy Shield, SSAE16/18 ISO27001, PCI DSS, Employee checks, Information Security Plan/Policy, Third Party Attestation/Certification (SOC 2 Type 2 Report/ ISO 27001 to include the statement of applicability (SOA)), Latest Penetration Test Report, Data Flow and Network Architecture Diagrams, Latest Vulnerability Scan, Cyber Liability Insurance Certificate, Third Party Vendor Risk Assessment, Standard Information Gathering, SIGs, SECs, NDAs, SOCs, SLAs, VRAs, VSAs or whatever, Vendor agreement'
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/compliance.md
+    route: https://github.com/fortrabbit/legal/blob/main/compliance.md
 ---
 
 ## TOM

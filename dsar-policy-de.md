@@ -4,9 +4,9 @@ navigation.excerpt: German version of the DSAR policies
 reviewed: 2025-11-17 12:39:53
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
+    route: https://github.com/fortrabbit/legal/blob/main/dsar-policy-de.md
   - title: English version
-    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
+    route: https://github.com/fortrabbit/legal/blob/main/dsar-policy.md
 ---
 
 ## 1. Auskunftsrecht

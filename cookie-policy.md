@@ -3,7 +3,7 @@ title: Cookie policy
 reviewed: 2025-11-17 12:39:27
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/cookie-policy.md
+    route: https://github.com/fortrabbit/legal/blob/main/cookie-policy.md
 ---
 
 ## What are cookies?

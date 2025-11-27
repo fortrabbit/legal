@@ -4,7 +4,7 @@ lead: Legal notice according to German law (§5 TMG)
 reviewed: 2025-11-17 12:40:25
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/site-notice.md
+    route: https://github.com/fortrabbit/legal/blob/main/site-notice.md
 ---
 
 **Register entry**  

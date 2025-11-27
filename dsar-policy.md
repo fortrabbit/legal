@@ -5,9 +5,9 @@ navigation.excerpt: Our DSAR policies
 reviewed: 2025-11-17 12:40:01
 links: 
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy.md
+    route: https://github.com/fortrabbit/legal/blob/main/dsar-policy.md
   - title: German version
-    route: https://github.com/fortrabbit/legal-new/blob/main/dsar-policy-de.md
+    route: https://github.com/fortrabbit/legal/blob/main/dsar-policy-de.md
 ---
 
 ## Please note
