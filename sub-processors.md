@@ -1,6 +1,6 @@
 ---
 title: Sub-processors
-reviewed: 2025-11-17 12:40:34
+reviewed: 2025-11-28 11:41:29
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
 links:
   - title: GitHub link
@@ -20,9 +20,9 @@ The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our
 
 Credit card billing information is stored with our credit card payment processor **Stripe** directly. In addition we also provide Stripe with your zip code to ensure correct authorization. Stripe might also store your IP and user agent data collected from your browser. We only keep a minimum of information on our side: a reference and an identifier. SEPA bank account information is stored with our databases. Terms available on request.
 
-## Usage statistics
+## Usage and performance statistics
 
-We may use **Matomo** (previously Piwik) to analyze traffic and help us to improve your user experience on some web properties. We store minimal data. Your IP address is anonymized. Cookies are stored on your browser. This data is only processed by us. See the [Matomo website](https://matomo.org).
+We may use a tool to analyze application performance and provide basic usage statistics, currently **NewRelic**. This helps us to improve your user experience. We store as little data as possible. Your IP address is anonymized. Cookies are stored on your browser.
 
 ## Client communication
 
