@@ -1,8 +1,12 @@
-# AI tool usage policy
-
-last modified: 26th of January 2026
-
-This policy governs the ethical, secure, and lawful use of AI tools at fortrabbit. It applies to all employees, contractors, and affiliated parties.
+---
+title: AI tool usage policy
+reviewed: 2026-01-26 13:15:22
+navigation.excerpt: How we use AI.
+lead: This policy governs the ethical, secure, and lawful use of AI tools at fortrabbit. It applies to all employees, contractors, and affiliated parties.
+links:
+  - title: GitHub link
+    route: https://github.com/fortrabbit/legal/blob/main/ai-usage-policy.md
+---
 
 ## Required
 
