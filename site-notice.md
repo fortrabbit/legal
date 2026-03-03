@@ -1,6 +1,7 @@
 ---
 title: Site notice
 lead: Legal notice according to German law (§5 TMG)
+navigation.excerpt: Sometimes called imprint.
 reviewed: 2025-11-17 12:40:25
 links:
   - title: GitHub link

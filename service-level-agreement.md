@@ -1,6 +1,7 @@
 ---
 title: Service level agreement
 reviewed: 2025-11-17 09:05:54
+navigation.excerpt: What uptime to expect and what if not.
 lead: Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. The following SLA defines the refund you'll get for downtime.
 links:
   - title: GitHub link

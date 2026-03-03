@@ -1,6 +1,7 @@
 ---
 title: Sub-processors
 reviewed: 2025-11-28 11:41:29
+navigation.excerpt: Which 3rd party services we use and why.
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
 links:
   - title: GitHub link

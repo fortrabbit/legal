@@ -1,6 +1,7 @@
 ---
 title: Cookie policy
 reviewed: 2025-11-17 12:39:27
+navigation.excerpt: What kind of cookies are used, why.
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/cookie-policy.md

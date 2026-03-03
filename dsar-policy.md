@@ -1,7 +1,7 @@
 ---
 title: Data subject access requests policies
 naviTitle: Requests for information policies
-navigation.excerpt: Our DSAR policies
+navigation.excerpt: Our DSAR policies.
 reviewed: 2025-11-17 12:40:01
 links: 
   - title: GitHub link

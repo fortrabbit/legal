@@ -1,6 +1,7 @@
 ---
 title: Compliance
 reviewed: 2025-11-17 12:39:23
+navigation.excerpt: Find common compliance acronyms here.
 lead: Find common compliance acronyms here. Most of em do not apply to us or we simply don't do it. At least now you know.
 head:
   meta:

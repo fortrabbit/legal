@@ -1,6 +1,7 @@
 ---
 title: Copyright
 reviewed: 2025-11-17 12:39:34
+navigation.excerpt: Trademarks we use. How to use our trademark.
 head:
   meta:
     - name: 'keywords'

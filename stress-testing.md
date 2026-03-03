@@ -1,6 +1,7 @@
 ---
 title: Stress testing policies
 reviewed: 2025-11-17 12:40:29
+navigation.excerpt: How you can run load- and pen-testing.
 lead: You want to run a test to check if this works as advertised and whether it's secure?
 links:
   - title: GitHub link

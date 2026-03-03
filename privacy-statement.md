@@ -1,7 +1,7 @@
 ---
 title: Privacy statement
 reviewed: 2025-11-17 12:40:12
-deVersion:
+navigation.excerpt: Which 3rd party services we use and why.
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/privacy-statement.md
