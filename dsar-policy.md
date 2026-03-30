@@ -12,7 +12,7 @@ links:
 
 ## Please note
 
-See how to get in touch [to query about your personal data here](/contact/request-dsar).
+See how to get in touch [to query about your personal data here](/contact/dsar).
 
 ## 1. Right to information
 
