@@ -1,6 +1,6 @@
 ---
 title: AI tool usage policy
-reviewed: 2026-01-26 13:15:22
+reviewed: 2026-04-13 15:07:24
 navigation.excerpt: How we use AI.
 lead: This policy governs the ethical, secure, and lawful use of AI tools at fortrabbit. It applies to all employees, contractors, and affiliated parties.
 links:
@@ -34,11 +34,7 @@ Use artificial intelligence for coding tasks, but stay in control. Suggested usa
 
 ## AI usage with content creation
 
-Get help by artificial intelligence to create articles and posts, but keep it human. Suggested usage:
-
-- Brainstorm ideas
-- Draft articles
-- Fix typos
+Get help by artificial intelligence to create public facing articles and posts, but keep it human. All content markdown driven public facing text pages with www, docs and blog need an AI disclaimer to show how much AI was used to create this content.
 
 ## Compliance
 
