@@ -1,6 +1,6 @@
 ---
 title: Sub-processors
-reviewed: 2025-11-28 11:41:29
+reviewed: 2026-04-16 15:39:32
 navigation.excerpt: Which 3rd party services we use and why.
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
 links:
@@ -23,7 +23,9 @@ Credit card billing information is stored with our credit card payment processor
 
 ## Usage and performance statistics
 
-We may use a tool to analyze application performance and provide basic usage statistics, currently **NewRelic**. This helps us to improve your user experience. We store as little data as possible. Your IP address is anonymized. Cookies are stored on your browser.
+We use a tool to see track visits called **Fathom**. This covers all web properties and is configured cookie-less.
+
+We may use a tool to analyze application performance, currently **NewRelic**. This helps us to improve your user experience. We store as little data as possible. Your IP address is anonymized. Cookies are stored on your browser.
 
 ## Client communication
 
