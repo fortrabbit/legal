@@ -1,6 +1,6 @@
 ---
 title: Update policies
-reviewed: 2025-11-17 12:41:19
+reviewed: 2026-04-30 20:45:00
 navigation.excerpt: When and what we update.
 lead: This page informs you about when to expect which software updates here on fortrabbit.
 links:
