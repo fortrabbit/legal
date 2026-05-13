@@ -1,5 +1,5 @@
 ---
-title: AI tool usage policy
+title: AI tool usage and editorial process
 created: 2026-01-26
 reviewed: 2026-05-13 17:24:00
 reviewer: fl
