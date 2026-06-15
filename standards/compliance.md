@@ -22,7 +22,7 @@ According to our understanding, we are not required to fill out this form. Note 
 
 ## COI
 
-A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/terms). We do provide an [Service Level Agreement](/legal/service-level-agreement) which may be relevant to this question.
+A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/contract/terms). We do provide an [Service Level Agreement](/legal/contract/service-level-agreement) which may be relevant to this question.
 
 ## NIC
 
