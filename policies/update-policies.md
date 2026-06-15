@@ -5,7 +5,7 @@ navigation.excerpt: When and what we update.
 lead: This page informs you about when to expect which software updates here on fortrabbit.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/update-policies.md
+    route: https://github.com/fortrabbit/legal/blob/main/policies/update-policies.md
 ---
 
 ## Updates performed by customers

@@ -5,7 +5,7 @@ navigation.excerpt: When to expect what kind of customer support.
 lead: fortrabbit is a self-service hosting platform for web developers. Comprehensive documentation is included. There are still always questions. We are here to help. Here is our official support policy.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/support-policy.md
+    route: https://github.com/fortrabbit/legal/blob/main/policies/support-policy.md
 ---
 
 ## Support scope

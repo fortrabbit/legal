@@ -5,9 +5,9 @@ navigation.excerpt: Legal basis for using the platform.
 lead: The following provides basic conditions under which fortrabbit is offering its cloud hosting services to customers.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/terms.md
+    route: https://github.com/fortrabbit/legal/blob/main/contract/terms.md
   - title: German version
-    route: https://github.com/fortrabbit/legal/blob/main/terms-de.md
+    route: https://github.com/fortrabbit/legal/blob/main/contract/terms-de.md
 ---
 
 ## Preamble

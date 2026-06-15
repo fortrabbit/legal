@@ -5,7 +5,7 @@ navigation.excerpt: Sometimes called imprint.
 reviewed: 2025-11-17 12:40:25
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/site-notice.md
+    route: https://github.com/fortrabbit/legal/blob/main/contract/site-notice.md
 ---
 
 **Register entry**  

@@ -5,7 +5,7 @@ navigation.excerpt: What uptime to expect and what if not.
 lead: Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. The following SLA defines the refund you'll get for downtime.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/service-level-agreement.md
+    route: https://github.com/fortrabbit/legal/blob/main/contract/service-level-agreement.md
 ---
 
 - **99.5% general uptime**

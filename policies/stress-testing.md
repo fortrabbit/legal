@@ -5,7 +5,7 @@ navigation.excerpt: How you can run load- and pen-testing.
 lead: You want to run a test to check if this works as advertised and whether it's secure?
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/stress-testing.md
+    route: https://github.com/fortrabbit/legal/blob/main/policies/stress-testing.md
 ---
 
 We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.

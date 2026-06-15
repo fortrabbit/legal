@@ -5,7 +5,7 @@ navigation.excerpt: What we do to keep bad guys out.
 lead: We take security very seriously — isn't that what everybody says? It's our business to keep your business online. It's our duty to keep the infrastructure secure.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/security-measures.md
+    route: https://github.com/fortrabbit/legal/blob/main/standards/security-measures.md
 ---
 
 While we don't like to expose too much detail — as secrecy is part of security — the following technical and organizational measures may give you some confidence:

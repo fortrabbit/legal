@@ -7,7 +7,7 @@ navigation.excerpt: How we use AI.
 lead: This policy governs the ethical, secure, and lawful use of AI tools at fortrabbit. It applies to all employees, contractors, and affiliated parties.
 links:
   - title: GitHub link
-    route: https://github.com/fortrabbit/legal/blob/main/ai-usage-policy.md
+    route: https://github.com/fortrabbit/legal/blob/main/policies/ai-usage-policy.md
 ---
 
 ## Required
