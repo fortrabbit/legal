@@ -1,5 +1,6 @@
 ---
 title: Security measures
+description: 'The technical and organisational measures behind the platform, in as much detail as security allows: isolation, access control, patching.'
 reviewed: 2025-11-27 12:05:06
 navigation.excerpt: What we do to keep bad guys out.
 lead: We take security very seriously — isn't that what everybody says? It's our business to keep your business online. It's our duty to keep the infrastructure secure.

@@ -1,5 +1,6 @@
 ---
 title: Data processing agreement
+description: 'The data processing agreement between fortrabbit and its customers: scope, obligations, sub-processing and the technical measures in place.'
 navigation.excerpt: Legal basis for processing your personal data.
 lead: Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
 reviewed: 2025-11-17 12:44:15
@@ -41,7 +42,7 @@ links:
 
 ## 5. Technical and organizational measures
 
-1. The data security measures described at [www.fortrabbit.com/legal/security-measures](https://www.fortrabbit.com/legal/security-measures) are determined to be binding.
+1. The data security measures described at [www.fortrabbit.com/legal/standards/security-measures](https://www.fortrabbit.com/legal/standards/security-measures) are determined to be binding.
 2. They define the minimum owed by the contractor. The description of the measures must be made in such detail that it is clear to a knowledgeable third party at any time, solely on the basis of the description, what the required minimum should be.
 3. A reference to information that can not be obtained directly from this agreement or its annexes is not permitted.
 4. The data security measures can be adapted to the technical and organizational development as long as the agreed level is not undershot.
@@ -51,7 +52,7 @@ links:
 8. Insofar as the security measures taken do not or no longer meet the requirements of the client, the contractor shall inform the client immediately.
 9. The contractor warrants that the data processed in the order will be strictly separated from other data.
 10. Copies or duplicates are not made without the knowledge of the client. Excluded are technically necessary, temporary reproductions, as far as an impairment of the here agreed data protection level is excluded.
-11. The contractor will provide regular proof of fulfillment of its obligations under the website [www.fortrabbit.com/legal/security-measures](https://www.fortrabbit.com/legal/security-measures), in particular the full implementation of the agreed technical and organizational measures.
+11. The contractor will provide regular proof of fulfillment of its obligations under the website [www.fortrabbit.com/legal/standards/security-measures](https://www.fortrabbit.com/legal/standards/security-measures), in particular the full implementation of the agreed technical and organizational measures.
 
 ## 6. Rules for the correction, deletion and blocking of data
 
@@ -71,7 +72,7 @@ links:
 8. The forwarding of data processed in the order to the subcontractor is only permitted if the contractor has documented that the subcontractor has completely fulfilled his obligations. The client can inspect the documentation.
 9. Contracting subcontractors who do not carry out on-order processing exclusively from the territory of the EU or the EEA is only possible if the conditions set out in Chapter 4 of this contract are observed. In particular, it is only permissible if and as long as the subcontractor offers adequate data protection guarantees.
 10. The contractor will inform the client on request, which concrete data protection guarantees the subcontractor offers and how proof of this can be obtained.
-11. Subcontractors listed on the website [www.fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors), hereinafter referred to as the Transparency Page, at the time of signing the contract, will comply with the terms and conditions of the contractor accepted.
+11. Subcontractors listed on the website [www.fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors), hereinafter referred to as the Transparency Page, at the time of signing the contract, will comply with the terms and conditions of the contractor accepted.
 12. The contractor reserves the right to employ new subcontractors or to replace subcontractors.
 13. The contractor publishes changes in subcontractor relations on the transparency page.
 14. The client has the option to track changes on GitHub. The address is: [https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md](https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md).

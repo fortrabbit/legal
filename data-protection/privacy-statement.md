@@ -1,5 +1,6 @@
 ---
 title: Privacy statement
+description: 'What personal data fortrabbit collects, why it is processed, which third-party services are involved, and which rights apply under GDPR.'
 reviewed: 2025-11-17 12:40:12
 navigation.excerpt: Which 3rd party services we use and why.
 links:
@@ -197,4 +198,4 @@ Glogauer Str. 24
 
 ## 9. Data collection by third party companies
 
-We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/sub-processors](https://www.fortrabbit.com/legal/sub-processors)
+We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)

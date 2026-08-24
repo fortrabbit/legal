@@ -1,5 +1,8 @@
 ---
 title: Site notice
+description: 'Company details for fortrabbit GmbH in Berlin: register entry, managing directors, VAT ID and contact address, as German law requires.'
+seo:
+  title: Site notice and company details (Impressum)
 lead: Legal notice according to German law (§5 TMG)
 navigation.excerpt: Sometimes called imprint.
 reviewed: 2025-11-17 12:40:25

@@ -1,5 +1,8 @@
 ---
 title: Cookie policy
+description: 'Which cookies the fortrabbit websites and dashboard set, what each one is for, and which of them need consent before they are placed.'
+seo:
+  title: Cookie policy and tracking on our websites
 reviewed: 2025-11-17 12:39:27
 navigation.excerpt: What kind of cookies are used, why.
 links:

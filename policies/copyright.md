@@ -1,5 +1,8 @@
 ---
 title: Copyright
+description: 'Copyright, trademark use and takedown requests: how to use the fortrabbit name and logo, and how to report infringing content hosted here.'
+seo:
+  title: Copyright and takedown requests
 reviewed: 2025-11-17 12:39:34
 navigation.excerpt: Trademarks we use. How to use our trademark.
 head:

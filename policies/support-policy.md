@@ -1,5 +1,8 @@
 ---
 title: Support policy
+description: 'What customer support covers, which channels exist, when to expect an answer, and where the line between hosting and application help sits.'
+seo:
+  title: 'Support policy: scope and response times'
 reviewed: 2025-11-17 12:40:58
 navigation.excerpt: When to expect what kind of customer support.
 lead: fortrabbit is a self-service hosting platform for web developers. Comprehensive documentation is included. There are still always questions. We are here to help. Here is our official support policy.
