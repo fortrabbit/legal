@@ -3,7 +3,7 @@ title: Cookie policy
 description: 'Which cookies the fortrabbit websites and dashboard set, what each one is for, and which of them need consent before they are placed.'
 seo:
   title: Cookie policy and tracking on our websites
-reviewed: 2025-11-17 12:39:27
+reviewed: 2026-09-12 12:00:00
 navigation.excerpt: What kind of cookies are used, why.
 links:
   - title: GitHub link
@@ -16,7 +16,11 @@ Cookies are text files stored on your device by a website's server. Each cookie 
 
 ## Cookies by fortrabbit
 
-We limit the usage of cookies for our web properties (www, docs, blog and dashboard) to functional cookies. They help to offer a convenient experience and let us recognize that you are logged in, or have set a certain color scheme. These cookies are created and used only by us and not shared with any third party. This applies to all cookies related to the `fortrabbit.com` domain.
+The cookies fortrabbit sets itself on its web properties (www, docs, blog and dashboard) are functional cookies. They help to offer a convenient experience and let us recognize that you are logged in, or have set a certain color scheme. These cookies are created and used only by us and not shared with any third party.
+
+## Advertising cookies
+
+A Google Ads remarketing tag runs on the marketing website [www.fortrabbit.com](https://www.fortrabbit.com) and on no other fortrabbit web property. It sets advertising cookies, both on the `fortrabbit.com` domain and on Google's own domains, so that fortrabbit ads can be shown to the same browser on other websites. The tag is not loaded for visitors in jurisdictions that require opt-in consent for advertising cookies — the EEA, the UK, Switzerland, Brazil and Quebec — and not when the browser sends a Global Privacy Control signal. Opt-out routes are listed on the [privacy page](/benefits/privacy).
 
 ## Cookies by fortrabbit sub-contractors
 
