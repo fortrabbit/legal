@@ -30,6 +30,10 @@ We use a tool to see track visits called **Fathom**. This covers all web propert
 
 We may use a tool to analyze application performance, currently **NewRelic**. This helps us to improve your user experience. We store as little data as possible. Your IP address is anonymized. Cookies are stored on your browser.
 
+## Advertising
+
+We run a **Google Ads** remarketing tag on our marketing website [www.fortrabbit.com](https://www.fortrabbit.com), and on none of our other web properties. The tag is loaded only for visitors in jurisdictions that do not require opt-in consent for advertising cookies, and it is not loaded when the browser sends a Global Privacy Control signal. Google receives the fact that a browser opened a page here, together with the IP address and user agent that request carries, and uses it to show fortrabbit ads to the same browser on other websites. No account, billing or app data is shared. See the [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms) and [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). Opt-out routes are listed on our [privacy page](/benefits/privacy).
+
 ## Client communication
 
 In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will use chat or contact you by e-mail.
