@@ -88,7 +88,7 @@ We validate associated e-mail addresses when registering an Account against list
 
 ## Content Delivery Network
 
-We use a CDN to serve static assets (JS,CSS) on all of the fortrabbit websites (www, blog, help, dashboard). The CDN helps us to deliver those files fast, from your nearest location. The CDN URL is "static.frbit.name" or "cdn.fortrabbit.com". Currently we are using **KeyCDN** services for this. When your browser sends the requests to those files, your IP address will be transmitted. See [KeyCDN Terms](https://www.keycdn.com/terms).
+The websites of the current platform serve their static assets themselves, without a third-party CDN.
 
 ## Website screenshots
 
