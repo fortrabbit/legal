@@ -57,6 +57,15 @@ In the following, "provider" refers to fortrabbit GmbH. The provider does not re
 5. The provider is entitled to increase the remuneration for its services at its reasonable discretion (§ 315 BGB, German Civil Code). The provider is entitled to further increases under § 315 BGB if the last price increase was at least six months ago. The provider is obliged to inform the client of a price adjustment in advance in writing (e-mail). If the client does not agree with the price increase, the client may terminate the contract within the usual periods.
 6. Invoices are issued to the client in written form only at the client's express request and against a fee.
 
+## § 6 Data export and switching
+
+1. The client can export its data at any time during the term of the contract. For this, the provider offers open interfaces and their documentation free of charge, in particular Git, SSH, SFTP, database access and the API.
+2. Exportable data are the data and digital assets the client has brought in or generated while using the service, in particular source code, files, databases, environment variables and environment settings. Excluded are data that relate only to the provider's operations, such as internal logs and security data, as well as data that affect the provider's trade secrets or the rights of third parties.
+3. The client can request in text form to switch to another provider or to its own infrastructure, or to have all exportable data deleted (Regulation (EU) 2023/2854, Data Act). A transitional period of 30 days begins when the request is received. During that period the service continues unchanged and the provider supports the switch to a reasonable extent. If the switch is technically not feasible within that period, the provider informs the client within 14 working days, states the reasons and names an alternative period of no more than seven months. The right to terminate under § 8 remains unaffected.
+4. After the transitional period, the client can retrieve its data for at least 30 more days. The provider then deletes the exportable data. The contract ends when the switch is completed successfully, and at the latest when the retrieval period ends.
+5. If the client deletes an app, an environment or its account in the dashboard, this counts as an instruction to delete the affected data immediately. The periods in paragraphs 3 and 4 do not apply in that case.
+6. The provider charges no switching fees for switching or for exporting data. The remuneration under § 5 for using the service during the transitional and retrieval periods remains unaffected.
+
 ## § 7 Warranty and liability
 
 1. The provider excludes liability for slightly negligent breaches of duty, unless damages from injury to life, body or health, the breach of a guarantee, or claims under the Product Liability Act are concerned. Liability for the breach of obligations whose fulfillment makes the proper performance of the contract possible in the first place, and on whose observance the client may regularly rely, also remains unaffected.
