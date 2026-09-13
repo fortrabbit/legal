@@ -71,7 +71,7 @@ Glogauer Str. 24
 
 1. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind.
 2. Im Falle der Erfassung der Daten zur Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist.
-3. Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens sieben Tagen der Fall, es sei denn, rechtliche oder technische Gründe bzw. die Notwendigkeit der Gefahrenabwehr machen eine längere Speicherung notwendig.
+3. Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens 30 Tagen der Fall, es sei denn, rechtliche oder technische Gründe bzw. die Notwendigkeit der Gefahrenabwehr machen eine längere Speicherung notwendig.
 4. Eine darüber hinausgehende Speicherung ist möglich.
 5. In diesem Fall werden die IP-Adressen der Nutzer gelöscht oder verfremdet, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist.
 

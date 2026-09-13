@@ -71,7 +71,7 @@ Glogauer Str. 24
 
 1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection.
 2. In the case of the collection of data for the provision of the website, this is the case when the respective session is completed.
-3. In the case of storing the data in log files, this is the case after no more than seven days, unless legal or technical reasons or the need for security make longer storage necessary.
+3. In the case of storing the data in log files, this is the case after no more than 30 days, unless legal or technical reasons or the need for security make longer storage necessary.
 4. Further storage is possible.
 5. In this case, the IP addresses of the users are deleted or alienated, so that an identification of the calling client is no longer possible.
 

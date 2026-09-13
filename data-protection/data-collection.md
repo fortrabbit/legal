@@ -43,11 +43,11 @@ Apps are containers where clients can store various types of data including file
 
 ## Logs
 
-You can interact with fortrabbit services on various transport protocols. We store connection data in log files with each access. This may include the request time, the IP address of the client, protocol details, URL called, response status, the number of bytes transferred, a referrer-url and the web user-agent (browser and OS). We are doing so for security reasons — to avoid malicious and unauthorized access. We reserve the right to analyze and block certain IPs from our services based on these access logs. Certain log parts might kept for analysis and fraud protection. In any event, we do not store client IP addresses or access data for more than 15 days.
+You can interact with fortrabbit services on various transport protocols. We store connection data in log files with each access. This may include the request time, the IP address of the client, protocol details, URL called, response status, the number of bytes transferred, a referrer-url and the web user-agent (browser and OS). We are doing so for security reasons — to avoid malicious and unauthorized access. We reserve the right to analyze and block certain IPs from our services based on these access logs. Certain log parts might kept for analysis and fraud protection. In any event, we do not store client IP addresses or access data for more than 30 days.
 
 ### System level logs
 
-System level logs, such as SSH access and connection logs are securely stored in our infrastructure and are not accessible to clients. They are maintained by fortrabbit for security reasons. Such logs are not accessible to clients and are retained for as long as required. They may contain IP addresses or App names used by clients or website visitors.
+System level logs, such as SSH access and connection logs are securely stored in our infrastructure and are not accessible to clients. They are maintained by fortrabbit for security reasons. Such logs are not accessible to clients and are retained for no more than 30 days. They may contain IP addresses or App names used by clients or website visitors.
 
 ### App level logs
 
