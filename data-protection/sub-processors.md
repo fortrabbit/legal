@@ -82,10 +82,6 @@ We employ a tax agency called **Ecovis**, as well as potentially other accountan
 
 In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might contain your IP and a timestamp as well.
 
-## Fraud protection
-
-We validate associated e-mail addresses when registering an Account against lists of trashmail providers. We use [ZeroBounce](https://www.zerobounce.net) for that. Certain tyope of e-mails will not be accepted for Account registration.
-
 ## Content Delivery Network
 
 The websites of the current platform serve their static assets themselves, without a third-party CDN.
