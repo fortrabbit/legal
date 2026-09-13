@@ -15,76 +15,67 @@ links:
 
 ## Preamble
 
-In the following, "provider" is fortrabbit GmbH. Regulations to the terms and conditions as well as to these terms diverged agreements are legal, provided they have been formally approved in written form by the provider.
+In the following, "provider" refers to fortrabbit GmbH. The provider does not recognize terms and conditions of the client that deviate from these terms in whole or in part, unless the provider has expressly agreed to them.
 
 ## § 1 Subject
 
-1. Subject to these conditions of use is the provision of data storage and the computing capacity for connecting to the internet (Cloud Webhosting Platform). The client will have access to upload the source code and to adjust the service.
-2. All services described in these terms and conditions are available only to business units, public agencies and entrepreneurs. The registration of private clients is prohibited.
+1. The subject of these terms of use is the provision of data storage and computing capacity for connection to the internet (cloud web hosting platform). The client receives access to upload source code and to configure the service.
+2. The services described in these terms are available only to businesses, public authorities and self-employed persons. Consumers are excluded from registration.
 
 ## § 2 Conclusion of the contract
 
-1. The client's registration for one of the provider's services shall be deemed to be an offer to enter into a contract. The provider may accept or refuse this offer. The acceptance of this offer takes place either expressly or implicitly by activation of the user's account. The concluded contract is not permanently stored by the provider.
-2. It is agreed on concluding this contract between the provider and the client that there is a contract for the performance of a continuing obligation. If the client selects the service with costs, he will be obliged to pay monthly the arising fees until the cancellation of the contract. If the client selects the service for less than one calendar month, the fee for the service will be charged proportionately. The billing will be carried out on the following month and on a monthly basis. Clients paying by credit card expressly agree to have their credit card account billed monthly for the recurring charges for the life of the contract including any automatic renewal periods.
-3. A right of revocation does not exist for the client. But the client can cancel the contract at any time.
+1. The client's registration for the service offered by the provider constitutes an offer to conclude a contract. The provider then accepts or rejects this offer. Acceptance can also take place implicitly by activating the account. The provider does not permanently store the contract text.
+2. Concluding the contract establishes a continuing obligation between the provider and the client. If the client books paid services, the client is obliged to pay the resulting fees at monthly intervals until the respective service is terminated. If the client uses a paid service for less than a full calendar month, the service is charged pro rata. Billing always takes place monthly in arrears. Clients paying by credit card expressly agree that their credit card is charged monthly with the recurring costs.
+3. The client has no right of withdrawal. The client can, however, end the contract at any time by termination with effect for the future.
 
 ## § 3 Obligations of the provider
 
-1. The provider shall ensure that the client has access to the provider's services.
+1. The provider ensures that the client is able to access the provider's services.
 
 ## § 4 Obligations of the client
 
-1. If the client encounters any failures using the system, the client shall inform the provider without delay of such interferences.
-2. The client is obliged to use his access data carefully and to avoid unauthorized use by third parties. Furthermore, the client shall inform the provider of such unauthorized use by third parties without delay.
-3. The client shall keep his data up to date at all times and right continuously. The client is not allowed to sublet the service, unless otherwise agreed with the provider.
-4. The client is not allowed to sublet any service to or with third parties, unless otherwise agreed with the provider.
-5. The client agrees to be contacted as a reference client by the provider in a written and electronic form.
-6. The client shall receive the necessary permit of the relevant person to the extent that he collects, processes and uses person-related data within the scope of the provider's service, unless there is a legal basis for it.
-7. The client will save the data and the value of it periodically and appropriately and must create backup copies in order to prevent the loss of data and to secure information that will guarantee its reconstruction.
-8. The client has the obligation to provide regular, risk-appropriate, data assurance at least once a day.
-9. Furthermore, the client shall exhaustively verify all data and information for virus contamination with the latest virus detection tools before uploading them.
-10. The client is obligated not to save any data or content on the storage space whose provision, publishing or use violates the law or an agreement with a third party; law in this context means criminal and copyright laws, trademark laws, privacy rights, and other rights of a third party.
-11. The client shall not distribute any pornographic, obscene, offensive content or immoral content which are adapted to a negative development of children and teenagers or which encourage a wrong self-reliance and personality.
-12. The client has the obligation of diligence for the software he installed and programmed.
-13. The client must update the software which is used to avoid hacking attempts if a security problem is known.
-14. The client ensures that in his specific area any unsecured programs or scripts will not be used.
-15. The use of open mail relays or similar systems on which e.g. spam mails are circulated gives the provider the right to immediately block the client's access.
-16. The client will immediately inform the provider as soon as there is evidence that a third party has unauthorized use of his or her service.
-17. The client commits to refraining from procedures which cause an excessive utilization of the provider's facilities.
-18. The client is obligated to exempt the provider from all claims of third parties, no matter of which kind, which arise from the illegality of contents that the client has stored on the storage covered by the contract. This obligation of indemnity shall also include the obligation to completely indemnify the provider from any legal defense costs (e.g. court and statutory legal fees). This also applies to sub-domains which are registered at the provider but are provided to the client.
-19. If and so far as the client uses the contractual storage in contrary to the assurance the non-distribution of illegal content, the provider will have the right to block access via world wide web to such content.
+1. If disruptions occur while using the system, the client shall inform the provider of them without undue delay.
+2. The client is obliged to handle access data with care, to prevent misuse by third parties, and to inform the provider immediately if a third party has obtained unauthorized access to the client's access data.
+3. The client is obliged to keep personal data up to date at all times and to update it without undue delay when it changes.
+4. The client is not permitted to sublet services, unless otherwise agreed with the provider.
+5. The client agrees that the provider may name the client as a reference customer in written and electronic form.
+6. The client is obliged to obtain the required consent of the respective data subject insofar as the client collects, processes or uses personal data in the course of using the provider's services and no statutory permission applies.
+7. The client shall back up the data transferred to the provider regularly and in a manner appropriate to the value of the data, and create own backup copies to ensure its reconstruction in case of loss. For data used in business operations, a daily backup is generally required, insofar as the data changes. In addition, before uploading data, programs and information to the services offered by the provider, the client shall check them for viruses and other malware and use state-of-the-art antivirus programs.
+8. The client undertakes not to store any content on the contractual storage space, or publish it on the internet, whose provision, publication or use violates applicable law or the rights of third parties. Violations include in particular infringements of criminal law, copyright law, trademark law and the personality rights of third parties.
+9. The client assures not to publish any erotic, pornographic, violence-glorifying or otherwise immoral content that is likely to impair the development of children and young people.
+10. The client has a duty of care for the software the client uses, installs or programs. To protect against hacking attacks, the client updates the software in use when security vulnerabilities are known. The client undertakes to ensure that no insecure programs and scripts are used in the client's area. Operating open mail relays or similar systems through which, for example, spam e-mails can be distributed entitles the provider to disconnect the client's websites from the network immediately. The client shall inform the provider without undue delay as soon as there are indications that third parties are using the service without authorization.
+11. The client undertakes to refrain from techniques that cause excessive use of the provider's facilities.
+12. The client undertakes to indemnify the provider against claims of third parties of any kind resulting from the illegality of content that the client has stored on the contractual storage space. The indemnification obligation also includes the obligation to indemnify the provider against necessary legal defense costs (for example court and attorney fees). This also applies to subdomains that are registered to the provider but provided to the client.
+13. If and insofar as the client uses the contractual storage space for distributing illegal content, contrary to the assurance given, the provider is entitled to block access to this content via the World Wide Web by suitable measures.
 
 ## § 5 Remuneration and methods of payment
 
-1. The up-to-date price list applies at all times ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)) if not otherwise agreed in written form.
-2. The cost-related service is to be paid monthly.
-3. The usage-based billing of data traffic and storage is based on the sum of all transferred data (such as, download, upload, website visitors) related to the client's contract. 1 gigabytes=1.000 megabytes; 1megabyte=1.000 kilobytes; 1 kilobyte=1.000 bytes.
-4. If a debit order cannot be redeemed, or in the event of a claim from his bank or credit card company, the provider is entitled to charge the client for the fees and bank expenses it incurs for each returned debit order of the client (currently € 15,-).
-5. The client may prove that the actual damage has been lower, and the provider may prove that the actual damage has been higher.
-6. The provider has the right to determine the amount of the remunerations by its own reasonable assessment (sec. 315 of the German Civil Code) if more than 6 months after the last price increase.
-7. The provider shall inform the client about the price adjustment in advance in a written form (email).
-8. If the client does not agree to the price adjustment, he may cancel the contract in respect to the cancellation period.
-9. The client's fee will be billed in a written form for remuneration, if expressly required.
+1. Unless otherwise agreed in writing, the current version of the price list applies ([fortrabbit.com/pricing](https://www.fortrabbit.com/pricing)).
+2. Paid services are billed monthly.
+3. For usage-based services, the charged traffic and storage result from the sum of all data transfers connected with the client's order (for example download, upload, website visitors). For determining traffic and storage, one gigabyte equals one thousand megabytes, one megabyte equals one thousand kilobytes and one kilobyte equals one thousand bytes.
+4. If a payment is not honored (for example a returned direct debit or a credit card chargeback), the provider is entitled to charge the client the costs caused by the return, currently €15.00 (incl. VAT). The client is entitled to prove lower damage, and the provider higher damage.
+5. The provider is entitled to increase the remuneration for its services at its reasonable discretion (§ 315 BGB, German Civil Code). The provider is entitled to further increases under § 315 BGB if the last price increase was at least six months ago. The provider is obliged to inform the client of a price adjustment in advance in writing (e-mail). If the client does not agree with the price increase, the client may terminate the contract within the usual periods.
+6. Invoices are issued to the client in written form only at the client's express request and against a fee.
 
-## § 7 Guarantee or liability
+## § 7 Warranty and liability
 
-1. In the event of a material breach of this agreement caused by slight negligence, the provider excludes all liability unless the liability involves injury of life, body or health or the breach of fundamental contractual duties that facilitate the enforcement of this contract in such due form the client trustfully relies upon or to the claims granted by the Product Liability Act.
-2. In cases of force majeure (in particular in case of strikes, lockouts, official or legal orders, technical difficulties, negligence of a third party) that are not the responsibility of the provider, the provider will not be liable.
-3. The limitation of liability related to section 7 (1) of this agreement also applies to the provider's vicarious agents within the scope of the contract compliance.
+1. The provider excludes liability for slightly negligent breaches of duty, unless damages from injury to life, body or health, the breach of a guarantee, or claims under the Product Liability Act are concerned. Liability for the breach of obligations whose fulfillment makes the proper performance of the contract possible in the first place, and on whose observance the client may regularly rely, also remains unaffected.
+2. The provider bears no responsibility for service outages caused by force majeure, fault of third parties, strikes, official interventions, legal interventions, or technical or other problems outside the provider's sphere of influence.
+3. The limitation of liability under § 7 (1) also applies to the provider and its vicarious agents insofar as claims in tort are asserted that are connected with the performance of the contract.
 
 ## § 8 Duration and termination
 
-1. The contract is agreed for an indefinite time period, and both parties have the right to terminate the contract.
-2. The client may terminate the contract without reason with future effect in the Dashboard.
-3. The provider shall terminate the contract with a term of one week.
-4. In all cases each of the parties may terminate the contract instantly, if the termination party can base the termination on an important reason.
-5. A due and sufficient cause for cancellation without notice exists if the client comes into default of payment obligations, has suspended payments, or if the client fails to meet its contractual obligations.
-6. In the event of a severe violation of § 4 of this Terms and Conditions the provider may terminate the contract instantly.
+1. The contract is concluded for an indefinite period and can be terminated by either party by declaration in text form (§ 126b BGB).
+2. The client can terminate the contract without giving reasons, with effect for the future, in the dashboard.
+3. The provider can terminate the contract with a notice period of one week.
+4. The right of both parties to terminate for good cause remains unaffected.
+5. Good cause for termination by the provider exists in particular if the client persistently violates its obligations, or if the client fails to meet its payment obligation despite a payment reminder and a deadline.
+6. Serious violations of § 4 of these terms also constitute a reason for termination without notice.
 
 ## § 9 Final provisions
 
-1. The contract shall be governed by German law, without regard to any choice of law rules adopted thereunder.
-2. Court of jurisdiction will be the providers head office, if the client is a merchant as defined in sec. 1 to 7 HGB (German Code of Commerce).
-3. The invalidity or inoperativeness of one or more provisions of this contract does not affect the validity of the rest of the contract and the remaining provisions shall thereby remain unaffected.
-4. The provider is not subject to a code of conduct.
-5. Contracting languages are German and English. The German version of the T&C shall be binding for the interpretation of the contract.
+1. German law applies, excluding the rules of private international law.
+2. If the client is a merchant, the provider's registered office is agreed as the place of jurisdiction for all disputes arising from or in connection with this contract.
+3. Should individual provisions of this contract be invalid or lose their validity due to a later circumstance, the validity of the remainder of the contract remains unaffected.
+4. The provider has not submitted to any voluntary codes of conduct.
+5. The contract languages are German and English. The German version is authoritative for the interpretation of these terms.
