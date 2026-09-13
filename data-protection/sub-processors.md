@@ -66,6 +66,10 @@ We use may use 3rd party software to manage our hiring processes, to evaluate an
 
 At signup, the IP address is sent to **MaxMind**, which returns a geo-location (country, region, city). The geo-location and the signup time are stored with the account, the IP address is not. This helps against fraudulent signups and phishing.
 
+## AI tools
+
+The team uses **Claude** by **Anthropic** for coding and internal work. When it helps with a support case or a ticket, Claude can read the chat conversation or ticket content, which may contain names, e-mail addresses and app names. Anthropic is based in the USA. See our [AI usage policy](/legal/policies/ai-usage-policy) and the [Anthropic privacy policy](https://www.anthropic.com/legal/privacy).
+
 ## Internal case management
 
 We use **Linear** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases from the chat system or other details such as app names there as well. See [Linear privacy](https://linear.app/privacy).

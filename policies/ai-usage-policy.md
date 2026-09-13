@@ -41,7 +41,7 @@ Use AI to help draft public-facing articles and posts, but keep it human. All ma
 
 ## Client data
 
-We avoid sharing client data with AI tools wherever possible. When unavoidable, sensitive fields are removed first.
+We avoid sharing client data with AI tools where it is not needed. To help with a support case or a ticket, an AI tool may read the conversation or ticket content. The AI providers in use are listed on the [sub-processors page](/legal/data-protection/sub-processors).
 
 ### Who writes
 
