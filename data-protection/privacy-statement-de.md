@@ -91,7 +91,9 @@ Glogauer Str. 24
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
-1. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
+1. Rechtsgrundlage für das Speichern von Cookies im Browser und den Zugriff darauf ist § 25 Abs. 2 Nr. 2 TDDDG, soweit sie für die Nutzung der Websites unbedingt erforderlich sind.
+2. Rechtsgrundlage für die anschließende Verarbeitung personenbezogener Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+3. Der Support-Chat (Intercom) lädt erst, wenn er geöffnet wird. Nicht angemeldete Besucher außerhalb der USA willigen vorher ein. Rechtsgrundlage ist in diesem Fall § 25 Abs. 1 TDDDG und Art. 6 Abs. 1 lit. a DSGVO.
 
 ### 3. Zweck der Datenverarbeitung
 

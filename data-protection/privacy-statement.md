@@ -91,7 +91,9 @@ Glogauer Str. 24
 
 ### 2. Legal basis for data processing
 
-1. The legal basis for the processing of personal data using cookies is Article 6 (1) lit. f DSGVO.
+1. The legal basis for storing cookies in the browser and accessing them is § 25 para. 2 no. 2 TDDDG (German Telecommunications Digital Services Data Protection Act), insofar as they are strictly necessary for using the websites.
+2. The legal basis for the subsequent processing of personal data is Art. 6 para. 1 lit. f GDPR.
+3. The support chat (Intercom) loads only when it is opened. Visitors outside the USA who are not logged in give their consent first. In that case, the legal basis is § 25 para. 1 TDDDG and Art. 6 para. 1 lit. a GDPR.
 
 ### 3. Purpose of the data processing
 
