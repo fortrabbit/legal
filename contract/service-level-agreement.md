@@ -1,7 +1,7 @@
 ---
 title: Service level agreement
 description: 'What uptime fortrabbit commits to, how it is measured, what counts as an outage, and what happens when the commitment is missed.'
-reviewed: 2025-11-17 09:05:54
+reviewed: 2026-09-13
 navigation.excerpt: What uptime to expect and what if not.
 lead: Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. The following SLA defines the refund you'll get for downtime.
 links:

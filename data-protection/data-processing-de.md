@@ -1,7 +1,7 @@
 ---
 title: Auftragsverarbeitung personenbezogener Daten
 navigation.excerpt: German version of the data processing agreement.
-reviewed: 2025-11-17 12:39:44
+reviewed: 2026-09-13
 lead: Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
 links:
   - title: GitHub link

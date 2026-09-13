@@ -3,7 +3,7 @@ title: Data processing agreement
 description: 'The data processing agreement between fortrabbit and its customers: scope, obligations, sub-processing and the technical measures in place.'
 navigation.excerpt: Legal basis for processing your personal data.
 lead: Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the client — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
-reviewed: 2025-11-17 12:44:15
+reviewed: 2026-09-13
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/data-processing.md

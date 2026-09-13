@@ -5,7 +5,7 @@ seo:
   title: Site notice and company details (Impressum)
 lead: Legal notice according to German law (§5 DDG)
 navigation.excerpt: Sometimes called imprint.
-reviewed: 2025-11-17 12:40:25
+reviewed: 2026-09-13
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/contract/site-notice.md
