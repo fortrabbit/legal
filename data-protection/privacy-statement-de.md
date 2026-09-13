@@ -148,7 +148,7 @@ Glogauer Str. 24
 
 1. Wir informieren registrierte Kunden per E-Mail über Änderungen, die den Dienst betreffen, etwa geplante Wartungsarbeiten, neue Versionen und sicherheitsrelevante Änderungen.
 2. Zusätzlich senden wir Hinweise zur Nutzung des Kontos, etwa Erinnerungen, die Einrichtung abzuschließen.
-3. Die E-Mails werden über Postmark versendet. Dafür werden E-Mail-Adresse, Name und Inhalt der Nachricht übermittelt.
+3. Die E-Mails werden über Postmark versendet, gelegentliche Produktankündigungen auch über MailChimp. Dafür werden E-Mail-Adresse, Name und Inhalt der Nachricht übermittelt.
 4. Die Daten werden ausschließlich für den Versand dieser Mitteilungen verwendet.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung

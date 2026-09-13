@@ -148,7 +148,7 @@ Glogauer Str. 24
 
 1. We inform registered clients by e-mail about changes that affect the service, such as scheduled maintenance, new releases and security-relevant changes.
 2. In addition, we send hints on using the account, such as reminders to finish the setup.
-3. The e-mails are sent via Postmark. For this, the e-mail address, the name and the content of the message are transmitted.
+3. The e-mails are sent via Postmark, occasional product announcements also via MailChimp. For this, the e-mail address, the name and the content of the message are transmitted.
 4. The data are used exclusively for sending these messages.
 
 ### 2. Legal basis for data processing
