@@ -115,14 +115,14 @@ Glogauer Str. 24
 
 1. Auf unserer Internetseite bieten wir Nutzern die Möglichkeit, sich unter Angabe personenbezogener Daten zu registrieren.
 2. Die Daten werden dabei in eine Eingabemaske eingegeben und an uns übermittelt und gespeichert.
-3. Eine Weitergabe der Daten an Dritte findet nicht statt.
-4. Neben den Daten die der Nutzer in unsere Eingabemasken einträgt wird zusätzlich die IP-Adresse des Nutzers, Standortdaten und Datum und Uhrzeit der Registrierung gespeichert.
-5. Im Rahmen des Registrierungsprozesses wird eine Einwilligung des Nutzers zur Verarbeitung dieser Daten eingeholt.
+3. Meldet sich der Nutzer über GitHub, GitLab oder Google an, übermittelt der jeweilige Anbieter Name, E-Mail-Adresse und Profilbild.
+4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
+5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](https://www.fortrabbit.com/legal/data-protection/sub-processors).
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
-1. Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO.
-2. Dient die Registrierung der Erfüllung eines Vertrags, dessen Vertragspartei der Nutzer ist oder der Durchführung vorvertraglicher Maßnahmen, so ist zusätzliche Rechtsgrundlage für die Verarbeitung der Daten Art. 6 Abs. 1 lit. b DSGVO.
+1. Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Registrierung der Durchführung vorvertraglicher Maßnahmen oder der Erfüllung eines Vertrags dient, dessen Vertragspartei der Nutzer ist.
+2. Rechtsgrundlage für die Standortbestimmung ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der Abwehr betrügerischer Registrierungen.
 
 ### 3. Zweck der Datenverarbeitung
 

@@ -115,13 +115,14 @@ Glogauer Str. 24
 
 1. On our website, we offer users the opportunity to register by providing personal information.
 2. The data is entered into an input mask and transmitted to us and stored.
-3. In addition to the data that the user enters in our input masks, the IP address of the user, location data and date and time of registration are also stored.
-4. As part of the registration process, the user's consent to the processing of this data is obtained.
+3. When the user signs in with GitHub, GitLab or Google, that provider transmits the name, e-mail address and profile picture.
+4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored, the IP address itself is not.
+5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors).
 
 ### 2. Legal basis for data processing
 
-1. Legal basis for the processing of the data is in the presence of the consent of the user Art. 6 para. 1 lit. a GDPR.
-2. If the registration serves the fulfillment of a contract of which the user is a party or the implementation of pre-contractual measures, an additional legal basis for the processing of the data is Art. 6 (1) lit. b DSGVO.
+1. The legal basis for the processing of the data is Art. 6 para. 1 lit. b GDPR, as the registration serves pre-contractual measures or the performance of a contract to which the user is a party.
+2. The legal basis for determining the location is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is preventing fraudulent registrations.
 
 ### 3. Purpose of the data processing
 
