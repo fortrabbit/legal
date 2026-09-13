@@ -114,7 +114,7 @@ Glogauer Str. 24
 ### 5. Advertising cookies
 
 1. For visitors outside the EEA, the UK, Switzerland, Brazil and Quebec, `www.fortrabbit.com` loads a Google Ads remarketing tag. It sets advertising cookies so that Google can show fortrabbit ads to the same browser on other websites. The individual cookies are listed in the [cookie policy](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
-2. The tag is not loaded in the regions named, when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address via MaxMind, and from the account for logged-in clients.
+2. The tag is not loaded in the regions named, when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address of the current request via MaxMind.
 3. The legal basis is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is advertising our services.
 4. The docs, the blog and the dashboard load no advertising tag.
 

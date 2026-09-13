@@ -114,7 +114,7 @@ Glogauer Str. 24
 ### 5. Werbe-Cookies
 
 1. Für Besucher außerhalb des EWR, des Vereinigten Königreichs, der Schweiz, Brasiliens und Québecs lädt `www.fortrabbit.com` ein Remarketing-Tag von Google Ads. Es setzt Werbe-Cookies, damit Google diesem Browser auf anderen Websites Werbung von fortrabbit zeigen kann. Die einzelnen Cookies nennt die [Cookie-Richtlinie](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
-2. Das Tag lädt nicht in den genannten Regionen, nicht bei unbekanntem Standort und nicht, wenn der Browser ein Global-Privacy-Control-Signal sendet. Der Standort wird über MaxMind aus der IP-Adresse bestimmt, bei angemeldeten Kunden aus dem Konto.
+2. Das Tag lädt nicht in den genannten Regionen, nicht bei unbekanntem Standort und nicht, wenn der Browser ein Global-Privacy-Control-Signal sendet. Der Standort wird über MaxMind aus der IP-Adresse der aktuellen Anfrage bestimmt.
 3. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, für unsere Dienste zu werben.
 4. Docs, Blog und Dashboard laden kein Werbe-Tag.
 
