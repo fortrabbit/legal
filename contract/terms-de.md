@@ -51,9 +51,9 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäft
 1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)).
 2. Kostenpflichtige Leistungen werden monatlich abgerechnet.
 3. Bei verbrauchsabhängigen Leistungen ergibt sich der berechnete Verkehr und Speicher aus der Summe aller mit dem Kundenauftrag in Verbindung stehenden Datentransfers (z.B. Download, Upload, Websitebesucher). Für die Feststellung des Verkehrs und des Speichers entspricht ein Gigabyte eintausend Megabyte, ein Megabyte eintausend Kilobyte und ein Kilobyte eintausend Byte.
-4. Bei Nichteinlösung einer Zahlung (z.B. Lastschrift-Rückgabe oder Kreditkarten-Rückgabe) ist der Anbieter berechtigt dem Kunden die Verursachten Kosten für die Rücklastschrift von zur Zeit 15,00 € (inkl. USt) in Rechnung zu stellen. Der Kunde ist berechtigt, einen niedrigeren Schaden nachzuweisen und der Anbieter, einen höheren.
+4. Bei Nichteinlösung einer Zahlung (z.B. Lastschrift-Rückgabe oder Kreditkarten-Rückgabe) ist der Anbieter berechtigt dem Kunden die verursachten Kosten für die Rücklastschrift pauschal mit 15,00 € in Rechnung zu stellen. Der Kunde ist berechtigt, einen niedrigeren Schaden nachzuweisen und der Anbieter, einen höheren.
 5. Der Anbieter ist berechtigt, die Vergütung für die von ihm angebotenen Leistungen nach billigem Ermessen (§ 315 BGB) zu erhöhen. Zu weiteren Erhöhungen der Vergütung gemäß § 315 BGB ist der Anbieter berechtigt, wenn die letzte Preiserhöhung mindestens sechs Monate zurückliegt. Der Anbieter ist verpflichtet den Kunden über eine Preisanpassung vorab schriftlich (E-Mail) darüber zu informieren. Ist der Kunde mit der Preiserhöhung nicht einverstanden kann er den Vertrag zu den üblichen Fristen lösen.
-6. Rechnungen an den Kunden werden nur auf ausdrücklichen Wunsch des Kunden und gegen Entgelt schriftlich erstellt.
+6. Rechnungen werden elektronisch erstellt und übermittelt.
 
 ## § 6 Datenexport und Anbieterwechsel
 

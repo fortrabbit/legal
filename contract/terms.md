@@ -54,9 +54,9 @@ In the following, "provider" refers to fortrabbit GmbH. The provider does not re
 1. Unless otherwise agreed in writing, the current version of the price list applies ([fortrabbit.com/pricing](https://www.fortrabbit.com/pricing)).
 2. Paid services are billed monthly.
 3. For usage-based services, the charged traffic and storage result from the sum of all data transfers connected with the client's order (for example download, upload, website visitors). For determining traffic and storage, one gigabyte equals one thousand megabytes, one megabyte equals one thousand kilobytes and one kilobyte equals one thousand bytes.
-4. If a payment is not honored (for example a returned direct debit or a credit card chargeback), the provider is entitled to charge the client the costs caused by the return, currently €15.00 (incl. VAT). The client is entitled to prove lower damage, and the provider higher damage.
+4. If a payment is not honored (for example a returned direct debit or a credit card chargeback), the provider is entitled to charge the client the costs caused by the return as a flat €15.00. The client is entitled to prove lower damage, and the provider higher damage.
 5. The provider is entitled to increase the remuneration for its services at its reasonable discretion (§ 315 BGB, German Civil Code). The provider is entitled to further increases under § 315 BGB if the last price increase was at least six months ago. The provider is obliged to inform the client of a price adjustment in advance in writing (e-mail). If the client does not agree with the price increase, the client may terminate the contract within the usual periods.
-6. Invoices are issued to the client in written form only at the client's express request and against a fee.
+6. Invoices are issued and delivered electronically.
 
 ## § 6 Data export and switching
 
