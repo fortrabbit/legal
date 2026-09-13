@@ -13,7 +13,7 @@ links:
 
 ## 1. Introduction, scope, definitions
 
-1. This contract is concluded between the customer of fortrabbit GmbH, hereinafter referred to as "client", and fortrabbit GmbH, hereinafter referred to as "contractor". It supplements every existing hosting contract between the contractor and the client, hereinafter also referred to as the "main contract", when the client processes personal data on the hosting platform of the contractor. In his area of application he proceeds to the principal contract of the contractor.
+1. This contract is concluded between the customer of fortrabbit GmbH, hereinafter referred to as "client", and fortrabbit GmbH, hereinafter referred to as "contractor". It supplements every existing hosting contract between the contractor and the client, hereinafter also referred to as the "main contract", when the client processes personal data on the hosting platform of the contractor. Within its scope, it takes precedence over the main contract.
 2. This contract governs the rights and obligations of client and contractor, hereinafter referred to as the parties.
 3. This contract applies to all activities in which employees of the contractor or subcontractors commissioned by it (subcontractors) process personal data of the client.
 4. Terms used in this agreement shall be understood as defined in the EU General Data Protection Regulation. Insofar as declarations have to be made in the following "in writing", the written form according to § 126 BGB is meant. Incidentally, declarations may also be made in other forms insofar as adequate verifiability is ensured.
@@ -38,7 +38,7 @@ links:
 6. If the client is subject to inspection by supervisory authorities or other bodies or if data subjects assert rights against him, the contractor undertakes to support the client to the extent necessary, insofar as the processing on the order is concerned.
 7. The contractor may only provide information to third parties or the data subject with the prior consent of the client. He will immediately forward inquiries directed to him to the client.
 8. If required by law, the contractor shall appoint a competent and reliable person as data protection officer. It has to be ensured that there are no conflicts of interest for the commissioner. In cases of doubt, the client can contact the data protection officer directly. Changes in the person or the internal tasks of the representative shall be communicated by the contractor to the client without delay.
-9. Order processing takes place within the EU or the EEA as well as on data processing equipment of the company Amazon Web Services, partly in the USA. Any transfer to a third country may only take place with the agreement of the contracting authority and under the conditions set out in Chapter V of the General Data Protection Regulation and in compliance with the provisions of this Treaty. With respect to the above-described use of Amazon Cloud, consent is given upon conclusion of the Agreement.
+9. Order processing takes place within the EU or the EEA as well as on data processing equipment of the company Amazon Web Services, partly in the USA. Any transfer to a third country may only take place with the consent of the client and under the conditions set out in Chapter V of the General Data Protection Regulation and in compliance with the provisions of this contract. With respect to the above-described use of Amazon Cloud, consent is given upon conclusion of the Agreement.
 
 ## 5. Technical and organizational measures
 
@@ -84,9 +84,9 @@ links:
 ## 8. Rights and obligations of the client
 
 1. The client alone is responsible for the assessment of the admissibility of the commissioned processing as well as for the protection of the rights of those concerned.
-2. The client issues all orders, partial orders or instructions documented. In urgent cases, instructions can be given orally. Such instructions will be confirmed by the contractor without delay.
-3. The client shall be entitled to comply with the provisions on data protection and contractual agreements with the Contractor to an appropriate extent, or by third parties, in particular by obtaining information and viewing the stored data and data processing programs, as well as other on-site inspections checks.
-4. The persons entrusted with the control shall, as far as necessary, allow the contractor access and insight.
+2. The client issues all orders, partial orders or instructions in documented form. In urgent cases, instructions can be given orally. The client confirms such instructions in documented form without delay.
+3. The client is entitled to check, to an appropriate extent, the contractor's compliance with data protection regulations and the contractual agreements, either itself or through third parties, in particular by obtaining information, by inspecting the stored data and the data processing programs, and by other on-site checks.
+4. The contractor grants the persons entrusted with the check access and insight as far as necessary.
 5. The contractor is required to provide the necessary information, to demonstrate procedures and to provide the evidence required to carry out an inspection.
 6. Inspections of the contractor shall be carried out without avoidable disruption of his business operations.
 7. Unless otherwise indicated for urgent reasons to be documented by the client, controls shall take place after reasonable advance notice and during business hours of the contractor, and not more frequently than every 12 months.
