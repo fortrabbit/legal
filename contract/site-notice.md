@@ -30,3 +30,6 @@ Glogauer Str. 24
 
 **E-mail address**  
 <info@fortrabbit.com>
+
+**Contact point under the Digital Services Act**  
+For authorities and users: <info@fortrabbit.com>, in German or English. Report illegal content hosted on fortrabbit via [report abuse](/contact/abuse).

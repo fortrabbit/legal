@@ -44,6 +44,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäft
 11. Der Kunde verpflichtet sich auf Techniken zu verzichten, die eine übermäßige Inanspruchnahme der Einrichtungen des Anbieters verursachen.
 12. Der Kunde verpflichtet sich, den Anbieter von Ansprüchen Dritter gleich welcher Art freizustellen, die aus der Rechtswidrigkeit von Inhalten resultieren, die der Kunde auf dem vertragsgegenständlichen Speicherplatz gespeichert hat. Die Freistellungsverpflichtung umfasst auch die Verpflichtung, den Anbieter von erforderlichen Rechtsverteidigungskosten (z.B. Gerichts- und Anwaltskosten) freizustellen. Dies gilt auch für Subdomains, die auf den Anbieter registriert sind, aber dem Kunden zur Verfügung gestellt werden.
 13. Wenn und soweit der Kunde den vertragsgegenständlichen Speicherplatz entgegen der Zusicherung für die Verbreitung rechtswidriger Inhalte nutzt, ist der Anbieter berechtigt, den Zugriff auf diese Inhalte über das World Wide Web durch geeignete Maßnahmen zu sperren.
+14. Die [Richtlinie zur zulässigen Nutzung](https://www.fortrabbit.com/legal/policies/acceptable-use) ist Bestandteil dieser AGB. Sie beschreibt unzulässige Inhalte und Handlungen, das Verfahren zur Meldung rechtswidriger Inhalte und wie der Anbieter mit Meldungen umgeht.
 
 ## § 5 Vergütung und Zahlungsmodalitäten
 

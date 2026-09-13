@@ -49,6 +49,17 @@ The fortrabbit platform has certain soft and hard limits. Hard limits are automa
 
 We reserve the right, but do not assume the obligation, to investigate any violation of this policy. In consequence we may: remove, disable access, or even modify content; report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. This reporting may include disclosing appropriate client information.
 
-## Reporting violations
+## Reporting illegal content
 
-Please notify us if you become aware of any violation of this policy. Provide us with assistance to stop or remedy the violation.
+Report content hosted on fortrabbit that is illegal or violates this policy by e-mail to <security@fortrabbit.com>, see [report abuse](/contact/abuse). A report should contain:
+
+- the exact URL or other location of the content
+- an explanation of why the content is illegal or violates this policy
+- the name and e-mail address of the reporter, except for reports of child sexual abuse material
+- a statement that the report is made in good faith and that its content is accurate and complete
+
+We confirm receipt, decide on the report without undue delay, and inform the reporter of the decision.
+
+## Handling reports
+
+We forward a valid report to the responsible customer and set a deadline to remove the content. If the customer does not act, or in urgent cases, we block access to the content or the app. Decisions on reports are made by people. When we restrict content or an account, we tell the customer the reasons, the facts the decision is based on, and how to object: by replying to that e-mail or by legal action. Where content indicates a criminal offence that threatens the life or safety of a person, we inform the police.

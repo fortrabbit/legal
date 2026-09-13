@@ -47,6 +47,7 @@ In the following, "provider" refers to fortrabbit GmbH. The provider does not re
 11. The client undertakes to refrain from techniques that cause excessive use of the provider's facilities.
 12. The client undertakes to indemnify the provider against claims of third parties of any kind resulting from the illegality of content that the client has stored on the contractual storage space. The indemnification obligation also includes the obligation to indemnify the provider against necessary legal defense costs (for example court and attorney fees). This also applies to subdomains that are registered to the provider but provided to the client.
 13. If and insofar as the client uses the contractual storage space for distributing illegal content, contrary to the assurance given, the provider is entitled to block access to this content via the World Wide Web by suitable measures.
+14. The [acceptable use policy](https://www.fortrabbit.com/legal/policies/acceptable-use) is part of these terms. It describes prohibited content and actions, the procedure for reporting illegal content, and how the provider handles reports.
 
 ## § 5 Remuneration and methods of payment
 
