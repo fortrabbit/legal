@@ -202,6 +202,8 @@ Glogauer Str. 24
 
 We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)
 
+Some of these services are based in the USA. Transfers there are based on the European Commission's adequacy decision for the EU-US Data Privacy Framework where the recipient is certified under it, and otherwise on the European Commission's standard contractual clauses (Art. 46 para. 2 lit. c GDPR). For persons in Switzerland, the Swiss-US Data Privacy Framework applies accordingly.
+
 ## 10. Rights of data subjects
 
 See [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).

@@ -202,6 +202,8 @@ Glogauer Str. 24
 
 Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)
 
+Einige dieser Dienste sitzen in den USA. Übermittlungen dorthin stützen sich auf den Angemessenheitsbeschluss der EU-Kommission zum EU-US Data Privacy Framework, soweit der Empfänger danach zertifiziert ist, und im Übrigen auf die Standardvertragsklauseln der EU-Kommission (Art. 46 Abs. 2 lit. c DSGVO). Für Personen in der Schweiz gilt entsprechend das Swiss-US Data Privacy Framework.
+
 ## 10. Rechte der betroffenen Personen
 
 Siehe [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).
