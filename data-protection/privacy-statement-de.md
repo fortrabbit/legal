@@ -144,19 +144,19 @@ Glogauer Str. 24
 
 ### 1. Beschreibung und Umfang der Datenverarbeitung
 
-1. Wir treten mit unseren registrierten Kunden regelmäßig per e-mail in Kontakt um über Neuerungen, wie geplante Wartungsarbeiten, neue Versionen und sicherheitsrelevante Änderungen zu informieren.
-2. Dabei werden bei der Anmeldung die Daten aus der Eingabemaske an uns übermittelt.
-3. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen.
-4. Es erfolgt im Zusammenhang mit der Datenverarbeitung für den Versand von Produktinformationen keine Weitergabe der Daten an Dritte.
-5. Die Daten werden ausschließlich für den Versand der Produktinformation verwendet.
+1. Wir informieren registrierte Kunden per E-Mail über Änderungen, die den Dienst betreffen, etwa geplante Wartungsarbeiten, neue Versionen und sicherheitsrelevante Änderungen.
+2. Zusätzlich senden wir Hinweise zur Nutzung des Kontos, etwa Erinnerungen, die Einrichtung abzuschließen.
+3. Die E-Mails werden über Postmark versendet. Dafür werden E-Mail-Adresse, Name und Inhalt der Nachricht übermittelt.
+4. Die Daten werden ausschließlich für den Versand dieser Mitteilungen verwendet.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
-1. Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletters durch den Nutzer ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO.
+1. Rechtsgrundlage für Mitteilungen, die den Vertrag betreffen, ist Art. 6 Abs. 1 lit. b DSGVO.
+2. Rechtsgrundlage für Hinweise zur Nutzung des Kontos ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, Kunden bei der Nutzung des Dienstes zu unterstützen.
 
 ### 3. Zweck der Datenverarbeitung
 
-1. Die Erhebung der E-Mail-Adresse des Nutzers dient dazu, den Produktinformationen zuzustellen.
+1. Die Verarbeitung der E-Mail-Adresse dient der Zustellung dieser Mitteilungen.
 
 ### 4. Dauer der Speicherung
 
@@ -164,8 +164,8 @@ Glogauer Str. 24
 
 ### 5. Widerspruchs- und Beseitigungsmöglichkeit
 
-1. Sie können der Speicherung für die Zukunft widersprechen, wenn Sie gleichzeitig Ihr Kundenkonto beenden.
-2. Es besteht ferner die Möglichkeit, den Bezug der E-Mails temporär zu unterbrechen, allerdings wird dadurch die Speicherung Ihrer E-Mail-Adresse, die für die Durchführung des Vertrages benötigt wird, nicht beendet.
+1. Hinweise zur Nutzung des Kontos lassen sich in den Kontoeinstellungen im Dashboard abbestellen.
+2. Mitteilungen, die für die Durchführung des Vertrags erforderlich sind, lassen sich nicht abbestellen. Die Speicherung der E-Mail-Adresse endet mit der Löschung des Kontos.
 
 ## 8. E-Mail Kontakt
 

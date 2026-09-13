@@ -144,20 +144,19 @@ Glogauer Str. 24
 
 ### 1. Description and scope of data processing
 
-1. We regularly contact our registered clients via e-mail for updates, such as scheduled maintenance, new releases and updates
-   informing of security-relevant changes.
-2. The data from the input mask are transmitted to us during registration.
-3. For the processing of the data, your consent is obtained during the registration process and reference is made to this privacy policy.
-4. In connection with the processing of data for the shipment of product information, no transfer of the data to third parties takes place.
-5. The data will be used exclusively for sending the product information.
+1. We inform registered clients by e-mail about changes that affect the service, such as scheduled maintenance, new releases and security-relevant changes.
+2. In addition, we send hints on using the account, such as reminders to finish the setup.
+3. The e-mails are sent via Postmark. For this, the e-mail address, the name and the content of the message are transmitted.
+4. The data are used exclusively for sending these messages.
 
 ### 2. Legal basis for data processing
 
-1. Legal basis for the processing of the data after the user has registered for the newsletter is the consent of the user Art. 6 para. 1 lit. a GDPR.
+1. The legal basis for messages concerning the contract is Art. 6 para. 1 lit. b GDPR.
+2. The legal basis for hints on using the account is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is supporting clients in using the service.
 
 ### 3. Purpose of the data processing
 
-1. The collection of the user's e-mail address serves to provide the product information.
+1. The e-mail address is processed to deliver these messages.
 
 ### 4. Duration of storage
 
@@ -165,8 +164,8 @@ Glogauer Str. 24
 
 ### 5. Opposition and removal possibility
 
-1. You may object to storage for the future if you terminate your Account at the same time.
-2. It is also possible to suspend the receipt of e-mails temporarily, but this does not end the storage of your e-mail address, which is required for the execution of the contract.
+1. Hints on using the account can be unsubscribed in the account settings in the dashboard.
+2. Messages required for the performance of the contract cannot be unsubscribed. Storage of the e-mail address ends when the account is deleted.
 
 ## 8. E-mail contact
 
