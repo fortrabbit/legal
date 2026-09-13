@@ -12,7 +12,7 @@ links:
 
 ## 1. Einleitung, Geltungsbereich, Definitionen
 
-1. Dieser Vertrag kommt zwischen dem Kunden der fortrabbit GmbH, im Folgenden Auftraggeber, und der fortrabbit GmbH, im Folgenden Auftragnehmer zustande. Er ergänzt jeden bestehenden Hostingvertrag zwischen dem Auftragnehmer und dem Auftraggeber, im Folgenden auch Hauptvertrag, wenn der Auftraggeber Verarbeitung von personenbezogenen Daten auf der Hosting Plattform des Auftraggebers vornimmt. In seinem Anwendungsbereich geht er dem Hauptvertrag des Auftragnehmers vor.
+1. Dieser Vertrag kommt zwischen dem Kunden der fortrabbit GmbH, im Folgenden Auftraggeber, und der fortrabbit GmbH, im Folgenden Auftragnehmer zustande. Er ergänzt jeden bestehenden Hostingvertrag zwischen dem Auftragnehmer und dem Auftraggeber, im Folgenden auch Hauptvertrag, wenn der Auftraggeber Verarbeitung von personenbezogenen Daten auf der Hosting Plattform des Auftragnehmers vornimmt. In seinem Anwendungsbereich geht er dem Hauptvertrag des Auftragnehmers vor.
 2. Dieser Vertrag regelt die Rechte und Pflichten von Auftraggeber und -nehmer, im Folgenden auch Parteien genannt.
 3. Dieser Vertrag findet auf alle Tätigkeiten Anwendung, bei denen Mitarbeiter des Auftragnehmers oder durch ihn beauftragte Unterauftragnehmer (Subunternehmer) personenbezogene Daten des Auftraggebers verarbeiten.
 4. In diesem Vertrag verwendete Begriffe sind entsprechend ihrer Definition in der EU Datenschutz-Grundverordnung zu verstehen. Soweit Erklärungen im Folgenden "schriftlich" zu erfolgen haben, ist die Schriftform nach § 126 BGB gemeint. Im Übrigen können Erklärungen auch in anderer Form erfolgen, soweit eine angemessene Nachweisbarkeit gewährleistet ist.
@@ -20,7 +20,7 @@ links:
 ## 2. Gegenstand und Dauer der Verarbeitung
 
 1. Der Auftragnehmer stellt Web-Hosting-Dienstleistungen bereit. Der Auftraggeber erhält die Möglichkeit Daten zu verarbeiten: speichern, verändern, übermitteln, löschen. Dafür erhält der Auftraggeber Zugang zu Webspace und Datenbanken. Die Tätigkeit des Auftragnehmers beschränkt sich dabei auf die Bereitstellung dieser IT-Infrastruktur.
-2. Die Verarbeitung beginnt ab dem Zeitpunkt, an dem der Auftragnehmer von den Leistungen Gebrauch macht und erfolgt auf unbestimmte Zeit bis zur Kündigung dieses Vertrags oder des Hauptvertrags durch eine Partei und die anschließende endgültige Löschung jeglicher personenbezogener Daten.
+2. Die Verarbeitung beginnt ab dem Zeitpunkt, an dem der Auftraggeber von den Leistungen Gebrauch macht und erfolgt auf unbestimmte Zeit bis zur Kündigung dieses Vertrags oder des Hauptvertrags durch eine Partei und die anschließende endgültige Löschung jeglicher personenbezogener Daten.
 
 ## 3. Art und Zweck der Datenverarbeitung
 
@@ -72,9 +72,9 @@ links:
 9. Die Beauftragung von Subunternehmern, die Verarbeitungen im Auftrag nicht ausschließlich aus dem Gebiet der EU oder des EWR erbringen, ist nur bei Beachtung der in Kapitel 4 dieses Vertrages genannten Bedingungen möglich. Sie ist insbesondere nur zulässig, soweit und solange der Subunternehmer angemessene Datenschutzgarantien bietet.
 10. Der Auftragnehmer teilt dem Auftraggeber auf Anfrage mit, welche konkreten Datenschutzgarantien der Subunternehmer bietet und wie ein Nachweis hierüber zu erlangen ist.
 11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
-12. Der Auftraggeber behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
-13. Der Auftraggeber veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite.
-14. Der Auftragnehmer hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md](https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md).
+12. Der Auftragnehmer behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
+13. Der Auftragnehmer veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite.
+14. Der Auftraggeber hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md](https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md).
 15. Sofern der Auftraggeber mit einem neuen Subunternehmen nicht einverstanden ist, besteht das Recht zur sofortigen Kündigung.
 16. Unterauftragsverhältnisse im Sinne dieses Vertrags sind nur solche Leistungen, die einen direkten Zusammenhang mit der Erbringung der Hauptleistung aufweisen.
 17. Nebenleistungen, wie beispielsweise Transport, Wartung und Reinigung sowie die Inanspruchnahme von Telekommunikationsdienstleistungen oder Benutzerservice sind nicht erfasst.
