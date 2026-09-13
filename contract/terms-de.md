@@ -65,9 +65,12 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäft
 
 ## § 7 Gewährleistung und Haftung
 
-1. Der Anbieter schließt die Haftung für leicht fahrlässige Pflichtverletzungen aus, sofern nicht Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder Verletzung einer Garantie oder Ansprüche nach dem Produkthaftungsgesetz berührt sind. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf.
-2. Der Anbieter trägt keine Verantwortung für Leistungsausfälle verursacht durch höherer Gewalt, Verschulden Dritter, Streiks, behördliche Eingriffe, juristische Eingriffe oder technische oder sonstige Probleme, die außerhalb des Einflussberreichs des Anbieters liegen.
-3. Die Haftungsbeschränkung nach § 7 Abs. 1 gilt auch für den Anbieter und ihre Erfüllungsgehilfen sofern Ansprüche aus unerlaubter Handlung geltend gemacht werden, die mit der Vertragserfüllung in Verbindung steht.
+1. Der Anbieter haftet unbeschränkt bei Vorsatz und grober Fahrlässigkeit, für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, bei Übernahme einer Garantie sowie nach dem Produkthaftungsgesetz.
+2. Bei leicht fahrlässiger Verletzung einer Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (Kardinalpflicht), haftet der Anbieter nur für den vertragstypischen, vorhersehbaren Schaden, höchstens in Höhe der monatlichen Vergütung für den betroffenen Dienst.
+3. Im Übrigen ist die Haftung für leicht fahrlässige Pflichtverletzungen ausgeschlossen.
+4. Für den Verlust von Daten haftet der Anbieter nur in Höhe des Aufwands, der bei ordnungsgemäßer Datensicherung durch den Kunden (§ 4 Abs. 7) für die Wiederherstellung angefallen wäre.
+5. Der Anbieter trägt keine Verantwortung für Leistungsausfälle verursacht durch höhere Gewalt, Verschulden Dritter, Streiks, behördliche Eingriffe, juristische Eingriffe oder technische oder sonstige Probleme, die außerhalb des Einflussbereichs des Anbieters liegen.
+6. Die Haftungsbeschränkungen nach Absatz 2 bis 4 gelten auch zugunsten der Erfüllungsgehilfen des Anbieters, auch soweit Ansprüche aus unerlaubter Handlung geltend gemacht werden.
 
 ## § 8 Laufzeit und Kündigung
 

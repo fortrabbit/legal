@@ -68,9 +68,12 @@ In the following, "provider" refers to fortrabbit GmbH. The provider does not re
 
 ## § 7 Warranty and liability
 
-1. The provider excludes liability for slightly negligent breaches of duty, unless damages from injury to life, body or health, the breach of a guarantee, or claims under the Product Liability Act are concerned. Liability for the breach of obligations whose fulfillment makes the proper performance of the contract possible in the first place, and on whose observance the client may regularly rely, also remains unaffected.
-2. The provider bears no responsibility for service outages caused by force majeure, fault of third parties, strikes, official interventions, legal interventions, or technical or other problems outside the provider's sphere of influence.
-3. The limitation of liability under § 7 (1) also applies to the provider and its vicarious agents insofar as claims in tort are asserted that are connected with the performance of the contract.
+1. The provider is liable without limitation for intent and gross negligence, for damages from injury to life, body or health, where a guarantee was given, and under the Product Liability Act.
+2. For a slightly negligent breach of an obligation whose fulfillment makes the proper performance of the contract possible in the first place, and on whose observance the client may regularly rely (cardinal obligation), the provider is liable only for the typical, foreseeable damage, and at most up to the monthly fee for the affected service.
+3. Otherwise, liability for slightly negligent breaches of duty is excluded.
+4. For the loss of data, the provider is liable only up to the effort that restoring the data would have required had the client backed it up properly (§ 4 (7)).
+5. The provider bears no responsibility for service outages caused by force majeure, fault of third parties, strikes, official interventions, legal interventions, or technical or other problems outside the provider's sphere of influence.
+6. The limitations of liability under paragraphs 2 to 4 also apply in favor of the provider's vicarious agents, including where claims in tort are asserted.
 
 ## § 8 Duration and termination
 

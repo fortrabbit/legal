@@ -20,4 +20,4 @@ links:
     1. Credits are granted when the customer submits a written request (email or fax) within 10 calendar days after the end of the affected month.
     2. Credits are calculated in proportion to the actual downtime relative to the total minutes in the month.
     3. The total credits for all service levels in a month are capped at the monthly fee paid for the affected service.
-7. The provider is not liable for indirect, collateral, or consequential damages, including loss of profit, service interruption, or loss of data or information.
+7. Liability is governed by § 7 of the [terms of service](/legal/contract/terms). Service credits are set off against any claims for damages.
