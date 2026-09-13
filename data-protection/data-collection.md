@@ -63,7 +63,7 @@ The PHP error logs contain information on runtime exceptions, allowing developer
 
 ## Backups
 
-Backups (if booked) for active Apps have a schedule and a retention period as stated with the documentation of the backups. 5 days after App deletion the last remaining backups will get deleted as well. This extra retention feature allows to recover recently-deleted Apps (with backups enabled) in case of mistakes.
+Backups (if booked) for active Apps have a schedule and a retention period as stated with the documentation of the backups. Remaining backups are deleted within an hour after the environment is deleted.
 
 ## Additional emergency snapshots
 
