@@ -92,7 +92,7 @@ The websites of the current platform serve their static assets themselves, witho
 
 ## Website screenshots
 
-We use a service to display screenshots of client Apps with the fortrabbit Dashboard. Currently we are using **page2images** for this service. The service might grab periodic screenshots of the App's default domain.
+The dashboard shows screenshots of client apps. They are created by **Urlbox**, which periodically loads the default domain of an environment.
 
 ## Knowledge base
 
