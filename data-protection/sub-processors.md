@@ -64,7 +64,7 @@ We use may use 3rd party software to manage our hiring processes, to evaluate an
 
 ## Account meta data
 
-We will store additional meta-data with your Account when you sign up. This includes your IP, the time and a possible referrer. We use **MaxMind** to convert the IP to a geo-location that will also be stored with your Account. This is an important corner stone in fraud and phishing protection. During signup, you might need to solve a Captcha. We use this to protect us from fraudulent signups. We may use **hCaptcha** or similar for this, their terms and privacy applies.
+At signup, the IP address is sent to **MaxMind**, which returns a geo-location (country, region, city). The geo-location and the signup time are stored with the account, the IP address is not. This helps against fraudulent signups and phishing.
 
 ## Internal case management
 
