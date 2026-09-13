@@ -19,7 +19,7 @@ The data stored in our client database is only accessible for individual clients
 
 ### Account
 
-Client account data containing information on name, e-mail, geo location, usage and more is retained for as long as the account is active. Clients can erase associated data by deleting their account with the fortrabbit dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events. Accounts which have had no activity for more than a given period, and which are not associated with any apps or teams, will be deleted automatically.
+Client account data containing information on name, e-mail, geo location, usage and more is retained for as long as the account is active. Clients can erase associated data by deleting their account with the fortrabbit dashboard. fortrabbit may keep anonymized hints on pre-existing Accounts to keep track of historic events. Accounts are deleted automatically when the e-mail address is not verified within 14 days, when onboarding is not finished 17 days after signup, or 12 months after an account was marked idle because it has no team, payment method or app access. Idle accounts receive a warning e-mail one week before deletion.
 
 ### Teams
 
