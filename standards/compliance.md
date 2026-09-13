@@ -27,9 +27,9 @@ According to our understanding, we are not required to fill out this form. Note 
 
 A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/contract/terms). We do provide an [Service Level Agreement](/legal/contract/service-level-agreement) which may be relevant to this question.
 
-## NIC
+## NIS2
 
-NIC Directive (EU) 2016/1148: From our understanding the Directive on security of network and information systems does not apply to us. Please understand that fortrabbit is mostly a software service, we do not control any physical networks. Apart from that, our company is a small business.
+The NIS2 Directive (EU) 2022/2555 replaced the NIS Directive (EU) 2016/1148 in October 2024. Germany implements it through the BSI Act (BSIG). Cloud computing service providers fall under it from 50 employees, or from more than €10M in both annual turnover and balance sheet total. fortrabbit is below these thresholds, so NIS2 does not apply to us at the moment.
 
 ## CPA
 
