@@ -3,7 +3,7 @@ title: Data subject access requests policies
 description: 'How fortrabbit handles data subject access requests: who may ask, what is disclosed, which deadlines apply and how identity is verified.'
 naviTitle: Requests for information policies
 navigation.excerpt: Our DSAR policies.
-reviewed: 2025-11-17 12:40:01
+reviewed: 2026-09-13
 links: 
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/dsar-policy.md
@@ -92,6 +92,7 @@ See how to get in touch [to query about your personal data here](/contact/dsar).
 4. If you object to processing for direct marketing purposes, your personal data will no longer be processed for these purposes.
 5. Regardless of Directive 2002/58 / EC, you have the option, in the context of the use of information society services, of exercising your right to opt-out by means of automated procedures that use technical specifications.
 6. In the case of data processing for scientific, historical or statistical research purposes: You also have the right, for reasons arising from your particular situation, to process personal data relating to you for scientific or historical research purposes or for statistical purposes. Art. 89 para. 1 GDPR is to be contradicted. Its right of objection may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes, and that the restriction is necessary for the performance of the research or statistical purposes.
+7. You can object to the use of your data for advertising at any time by e-mail to <info@fortrabbit.com>, including the transmission of conversion data to Google. We then delete the click ID and campaign data from your account and send no further conversion events for it.
 
 ## 8. Right to revoke the data protection consent declaration
 
@@ -105,6 +106,7 @@ See how to get in touch [to query about your personal data here](/contact/dsar).
     3. has your express consent.
 2. However, these decisions may not be based on specific categories of personal data under Art. 9 (1) GDPR, unless Art. 9 (2) lit. a or g DSGVO applies and reasonable measures have been taken to protect the rights and freedoms as well as your legitimate interests.
 3. With regard to the cases referred to in (1) and (3), the person responsible shall take reasonable measures to uphold the rights and freedoms as well as your legitimate interests, including at least the right to obtain the intervention of a person by the person responsible Position and contesting the decision.
+4. fortrabbit makes no decisions based solely on automated processing, including profiling, that have legal or similarly significant effects. Showing ads to a browser through remarketing is not such a decision.
 
 ## 10. Right to complain to a supervisory authority
 

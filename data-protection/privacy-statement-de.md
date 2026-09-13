@@ -64,7 +64,7 @@ Glogauer Str. 24
 1. Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse des Nutzers für die Dauer der Sitzung gespeichert bleiben.
 2. Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Website sicherzustellen.
 3. Zudem dienen uns die Daten zur Optimierung der Website und zur Sicherstellung der Sicherheit unserer informationstechnischen Systeme.
-4. Eine Auswertung der Daten zu Marketingzwecken findet in diesem Zusammenhang nicht statt.
+4. Die Logfiles werden nicht zu Marketingzwecken ausgewertet. Werbung behandeln die Abschnitte 5 und 10.
 5. In diesen Zwecken liegt auch unser berechtigtes Interesse an der Datenverarbeitung nach Art. 6 Abs. 1 lit. f DSGVO.
 
 ### 4. Dauer der Speicherung
@@ -111,6 +111,13 @@ Glogauer Str. 24
 5. Dies kann auch automatisiert erfolgen.
 6. Werden Cookies für unsere Website deaktiviert, können nicht mehr alle Funktionen vollumfänglich genutzt werden.
 
+### 5. Werbe-Cookies
+
+1. Für Besucher außerhalb des EWR, des Vereinigten Königreichs, der Schweiz, Brasiliens und Québecs lädt `www.fortrabbit.com` ein Remarketing-Tag von Google Ads. Es setzt Werbe-Cookies, damit Google diesem Browser auf anderen Websites Werbung von fortrabbit zeigen kann. Die einzelnen Cookies nennt die [Cookie-Richtlinie](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
+2. Das Tag lädt nicht in den genannten Regionen, nicht bei unbekanntem Standort und nicht, wenn der Browser ein Global-Privacy-Control-Signal sendet. Der Standort wird über MaxMind aus der IP-Adresse bestimmt, bei angemeldeten Kunden aus dem Konto.
+3. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, für unsere Dienste zu werben.
+4. Docs, Blog und Dashboard laden kein Werbe-Tag.
+
 ## 6. Registrierung
 
 ### 1. Beschreibung und Umfang der Datenverarbeitung
@@ -120,11 +127,14 @@ Glogauer Str. 24
 3. Meldet sich der Nutzer über GitHub, GitLab oder Google an, übermittelt der jeweilige Anbieter Name, E-Mail-Adresse und Profilbild.
 4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
 5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](https://www.fortrabbit.com/legal/data-protection/sub-processors).
+6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. Diese Werte werden nicht in einem Cookie gespeichert. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
+7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt oder über eine Einladung in ein Team, in eine App, als Kunde oder zur Abrechnung.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
 1. Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Registrierung der Durchführung vorvertraglicher Maßnahmen oder der Erfüllung eines Vertrags dient, dessen Vertragspartei der Nutzer ist.
 2. Rechtsgrundlage für die Standortbestimmung ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der Abwehr betrügerischer Registrierungen.
+3. Rechtsgrundlage für die Speicherung der Kampagnendaten und des Entstehungswegs ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, den Erfolg von Werbung und Einladungen zu messen.
 
 ### 3. Zweck der Datenverarbeitung
 
@@ -204,6 +214,34 @@ Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu ver
 
 Einige dieser Dienste sitzen in den USA. Übermittlungen dorthin stützen sich auf den Angemessenheitsbeschluss der EU-Kommission zum EU-US Data Privacy Framework, soweit der Empfänger danach zertifiziert ist, und im Übrigen auf die Standardvertragsklauseln der EU-Kommission (Art. 46 Abs. 2 lit. c DSGVO). Für Personen in der Schweiz gilt entsprechend das Swiss-US Data Privacy Framework.
 
-## 10. Rechte der betroffenen Personen
+## 10. Übermittlung von Konversionsdaten an Google
+
+### 1. Beschreibung und Umfang der Datenverarbeitung
+
+1. Für Konten, zu denen eine Klick-ID von Google Ads gespeichert ist, übermitteln wir einmal täglich Konversionsdaten an Google Ads. Die Übermittlung erfolgt direkt von Server zu Server, unabhängig von der Region des Kontos.
+2. Übermittelt werden die Klick-ID, der Zeitpunkt der Registrierung und, nach der ersten Zahlung, deren Zeitpunkt mit einem festen Konversionswert. Jedes Ereignis trägt eine Kennung aus Ereignistyp und fortrabbit-Konto-ID.
+3. Name, E-Mail-Adresse, Rechnungsdaten und App-Daten werden nicht übermittelt.
+4. Übermittelt werden nur Ereignisse innerhalb von 90 Tagen nach der Registrierung beziehungsweise nach der ersten Zahlung.
+
+### 2. Rechtsgrundlage für die Datenverarbeitung
+
+1. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.
+
+### 3. Zweck der Datenverarbeitung
+
+1. Die Übermittlung dient dazu, zu messen, welche Anzeigen zu Registrierungen und zahlenden Konten führen. Darin liegt unser berechtigtes Interesse.
+2. Google verarbeitet die Daten nach den Google Ads Data Processing Terms. Für die Übermittlung in die USA gilt Abschnitt 9.
+
+### 4. Dauer der Speicherung
+
+1. Klick-ID und Kampagnendaten bleiben gespeichert, solange das Konto besteht.
+2. Die Aufzeichnung, welche Ereignisse übermittelt wurden (Konto-ID, Ereignistyp, Zeitpunkt), wird nach 90 Tagen und mit dem Konto gelöscht.
+
+### 5. Widerspruchs- und Beseitigungsmöglichkeit
+
+1. Der Nutzer kann der Übermittlung jederzeit per E-Mail an <info@fortrabbit.com> widersprechen.
+2. Wir löschen dann Klick-ID und Kampagnendaten aus dem Konto und übermitteln keine weiteren Ereignisse.
+
+## 11. Rechte der betroffenen Personen
 
 Siehe [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).

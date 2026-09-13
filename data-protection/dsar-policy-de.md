@@ -1,7 +1,7 @@
 ---
 title: Auskunftsersuchen
 navigation.excerpt: German version of the DSAR policies
-reviewed: 2025-11-17 12:39:53
+reviewed: 2026-09-13
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/dsar-policy-de.md
@@ -87,6 +87,7 @@ Ihnen steht gegenüber dem Verantwortlichen das Recht zu, über diese Empfänger
 4. Widersprechen Sie der Verarbeitung für Zwecke der Direktwerbung, so werden die Sie betreffenden personenbezogenen Daten nicht mehr für diese Zwecke verarbeitet.
 5. Sie haben die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft - ungeachtet der Richtlinie 2002/58/EG - Ihr Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.
 6. Bei Datenverarbeitung zu wissenschaftlichen, historischen oder statistischen Forschungszwecken: Sie haben auch das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, bei der Verarbeitung Sie betreffender personenbezogener Daten, die zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gem. Art. 89 Abs. 1 DSGVO erfolgt, dieser zu widersprechen. Ihr Widerspruchsrecht kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+7. Der Nutzung Ihrer Daten für Werbung, einschließlich der Übermittlung von Konversionsdaten an Google, können Sie jederzeit per E-Mail an <info@fortrabbit.com> widersprechen. Wir löschen dann Klick-ID und Kampagnendaten aus Ihrem Konto und übermitteln dafür keine weiteren Konversionsereignisse.
 
 ## 8. Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung
 
@@ -100,6 +101,7 @@ Ihnen steht gegenüber dem Verantwortlichen das Recht zu, über diese Empfänger
     3. mit Ihrer ausdrücklichen Einwilligung erfolgt.
 2. Allerdings dürfen diese Entscheidungen nicht auf besonderen Kategorien personenbezogener Daten nach Art. 9 Abs. 1 DSGVO beruhen, sofern nicht Art. 9 Abs. 2 lit. a oder g DSGVO gilt und angemessene Maßnahmen zum Schutz der Rechte und Freiheiten sowie Ihrer berechtigten Interessen getroffen wurden.
 3. Hinsichtlich der in (1) und (3) genannten Fälle trifft der Verantwortliche angemessene Maßnahmen, um die Rechte und Freiheiten sowie Ihre berechtigten Interessen zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört.
+4. fortrabbit trifft keine ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidungen, einschließlich Profiling, die rechtliche Wirkung entfalten oder Sie in ähnlicher Weise erheblich beeinträchtigen. Das Ausspielen von Werbung an einen Browser über Remarketing ist keine solche Entscheidung.
 
 ## 10. Recht auf Beschwerde bei einer Aufsichtsbehörde
 

@@ -64,7 +64,7 @@ Glogauer Str. 24
 1. The temporary storage of the IP address by the system is necessary to allow delivery of the website to the computer of the user. To do this, the user's IP address must be kept for the duration of the session.
 2. Storage in log files is done to ensure the functionality of the website.
 3. In addition, the data is used to optimize the website and to ensure the security of our information technology systems.
-4. An evaluation of the data for marketing purposes does not take place in this context.
+4. The log files are not evaluated for marketing purposes. Advertising is covered in sections 5 and 10.
 5. In these purposes, our legitimate interest in the processing of data accords with Art. 6 para. 1 lit. f DSGVO.
 
 ### 4. Duration of storage
@@ -111,6 +111,13 @@ Glogauer Str. 24
 5. This can also be done automatically.
 6. If cookies are disabled for our website, not all features can be fully used.
 
+### 5. Advertising cookies
+
+1. For visitors outside the EEA, the UK, Switzerland, Brazil and Quebec, `www.fortrabbit.com` loads a Google Ads remarketing tag. It sets advertising cookies so that Google can show fortrabbit ads to the same browser on other websites. The individual cookies are listed in the [cookie policy](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
+2. The tag is not loaded in the regions named, when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address via MaxMind, and from the account for logged-in clients.
+3. The legal basis is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is advertising our services.
+4. The docs, the blog and the dashboard load no advertising tag.
+
 ## 6. Registration
 
 ### 1. Description and scope of data processing
@@ -120,11 +127,14 @@ Glogauer Str. 24
 3. When the user signs in with GitHub, GitLab or Google, that provider transmits the name, e-mail address and profile picture.
 4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored, the IP address itself is not.
 5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors).
+6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. These values are not stored in a cookie. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
+7. The account also records how it was created: directly, or through an invitation to a team, to an app, as a client or for billing.
 
 ### 2. Legal basis for data processing
 
 1. The legal basis for the processing of the data is Art. 6 para. 1 lit. b GDPR, as the registration serves pre-contractual measures or the performance of a contract to which the user is a party.
 2. The legal basis for determining the location is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is preventing fraudulent registrations.
+3. The legal basis for storing the campaign data and how the account was created is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is measuring the success of advertising and invitations.
 
 ### 3. Purpose of the data processing
 
@@ -204,6 +214,34 @@ We are using third party sub processors to improve our service offerings. That m
 
 Some of these services are based in the USA. Transfers there are based on the European Commission's adequacy decision for the EU-US Data Privacy Framework where the recipient is certified under it, and otherwise on the European Commission's standard contractual clauses (Art. 46 para. 2 lit. c GDPR). For persons in Switzerland, the Swiss-US Data Privacy Framework applies accordingly.
 
-## 10. Rights of data subjects
+## 10. Transmission of conversion data to Google
+
+### 1. Description and scope of data processing
+
+1. For accounts with a stored Google Ads click ID, we transmit conversion data to Google Ads once a day. The transmission runs directly from server to server, regardless of the account's region.
+2. Transmitted are the click ID, the time of registration and, after the first payment, the time of that payment with a fixed conversion value. Each event carries an identifier made of the event type and the fortrabbit account ID.
+3. Name, e-mail address, billing data and app data are not transmitted.
+4. Only events within 90 days of registration or of the first payment are transmitted.
+
+### 2. Legal basis for data processing
+
+1. The legal basis is Art. 6 para. 1 lit. f GDPR.
+
+### 3. Purpose of the data processing
+
+1. The transmission measures which ads lead to registrations and paying accounts. This is our legitimate interest.
+2. Google processes the data under the Google Ads Data Processing Terms. For the transfer to the USA, section 9 applies.
+
+### 4. Duration of storage
+
+1. The click ID and campaign data are stored as long as the account exists.
+2. The record of which events were transmitted (account ID, event type, time) is deleted after 90 days and with the account.
+
+### 5. Opposition and removal possibility
+
+1. The user can object to the transmission at any time by e-mail to <info@fortrabbit.com>.
+2. We then delete the click ID and campaign data from the account and transmit no further events.
+
+## 11. Rights of data subjects
 
 See [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).
