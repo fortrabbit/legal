@@ -199,3 +199,7 @@ Glogauer Str. 24
 ## 9. Data collection by third party companies
 
 We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)
+
+## 10. Rights of data subjects
+
+See [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).
