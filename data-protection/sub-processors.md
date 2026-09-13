@@ -96,7 +96,7 @@ The dashboard shows screenshots of client apps. They are created by **Urlbox**, 
 
 ## Knowledge base
 
-We document internal standard procedures in a knowledge base. In some cases it references client data, such as extra settings or individual agreements. The knowledge base is a private Git repository hosted on **GitHub**. A former knowledge base on **Notion** is no longer in use, but still holds documents that may reference client data until it is deleted. See the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
+We document internal standard procedures in a knowledge base. In some cases it references client data, such as extra settings or individual agreements. The knowledge base is a private Git repository hosted on **GitHub**.
 
 ## Code hosting
 
