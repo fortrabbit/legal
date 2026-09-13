@@ -10,9 +10,9 @@ links:
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/privacy-statement.md
 ---
 
-## 1. Rahmen dieser Vereinbarung
+## 1. Geltungsbereich dieser Erklärung
 
-Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen: `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dashboard.fortrabbit.com` `dash.fortrabbit.com`.
+Dies ist die nach deutschem Recht für das Surfen auf unseren Websites erforderliche Datenschutzerklärung. Die folgenden "Websites" beziehen sich auf die Internetadressen `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dash.fortrabbit.com`, `api.fortrabbit.com` und `mcp.fortrabbit.com` sowie `dashboard.fortrabbit.com` und `help.fortrabbit.com` der vorherigen Plattform.
 
 Diese Erklärung gilt sowohl für die Nutzung durch nicht registrierte Website-Besucher als auch für registrierte Kunden.
 

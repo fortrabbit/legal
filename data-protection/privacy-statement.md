@@ -12,7 +12,7 @@ links:
 
 ## 1. Scope of this statement
 
-This is the privacy statement required by German law for interacting with our websites. In the following "websites" refers to the internet addresses: `www.fortrabbit.com`, `help.fortrabbit.com`, `blog.fortrabbit.com` and `dashboard.fortrabbit.com`.
+This is the privacy statement required by German law for interacting with our websites. In the following, "websites" refers to the internet addresses `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dash.fortrabbit.com`, `api.fortrabbit.com` and `mcp.fortrabbit.com`, as well as `dashboard.fortrabbit.com` and `help.fortrabbit.com` of the previous platform.
 
 This statement covers usage from unregistered website visitors as well as registered clients.
 
