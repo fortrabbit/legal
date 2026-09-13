@@ -56,7 +56,7 @@ We use **Postmark** to send automated transactional e-mails to Accounts. These e
 
 ## Status updates
 
-Accounts can subscribe — via opt-in — to fortrabbit service status updates for downtimes and incidents. This optional service is provided by **SorryApp**. See [SorryApp Terms](https://www.sorryapp.com/terms-of-service.html). It is possible to subscribe by e-mail and Slack. It is available under [status.fortrabbit.com](http://status.fortrabbit.com). For the e-mail subscriptions **Mailgun** (see [terms](https://www.mailgun.com/terms)) is used.
+Downtimes and incidents are published on [status.fortrabbit.com](https://status.fortrabbit.com), a status page provided by **Better Stack**. The status indicator on the fortrabbit websites loads its data from Better Stack, which receives the visitor's IP address with that request. See the [Better Stack privacy policy](https://betterstack.com/privacy).
 
 ## Recruitment software
 
