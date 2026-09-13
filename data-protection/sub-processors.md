@@ -15,7 +15,7 @@ All of our sub-processors have been assessed for security and GDPR compliance. E
 
 ## Infrastructure & data centers
 
-The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our web properties (www, blog, help and dashboard) and most importantly the Apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our websites (www, docs, blog and dash) and the apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
 
 - Apps will be stored in the data center location you choose.
 - Billing related and Account data is stored in Ireland.
@@ -28,7 +28,7 @@ Credit card billing information is stored with our credit card payment processor
 
 We use a tool to see track visits called **Fathom**. This covers all web properties and is configured cookie-less.
 
-We may use a tool to analyze application performance, currently **NewRelic**. This helps us to improve your user experience. We store as little data as possible. Your IP address is anonymized. Cookies are stored on your browser.
+We use **New Relic** to monitor errors and performance of our backend. Error reports may contain request data. New Relic is not loaded on the websites and sets no cookies.
 
 ## Advertising
 
