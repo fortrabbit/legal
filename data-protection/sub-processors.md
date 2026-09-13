@@ -44,7 +44,7 @@ Our support chat is powered by **Intercom**. This service collects some meta-dat
 
 ### Product information subscription
 
-We use **MailChimp** to occasionally send e-mail updates to subscribed Accounts. These e-mails include relevant information on service updates and feature announcements, so these are not newsletters in the classical sense. With MailChimp we share e-mail addresses and names (for personalization). New fortrabbit Accounts get signed up for the newsletter automatically. That's why you need to confirm that we contact you by e-mail upfront. Each newsletter — of course — includes a one-click opt-out option. Additionally, there is an Account notification setting with the Dashboard to manage subscriptions. We will write from "<pleasereply@fortrabbit.com>". See [MailChimp Terms](https://mailchimp.com/legal/terms).
+We may use **MailChimp** to send occasional e-mail updates on service changes and feature announcements. For this, e-mail addresses and names are exported to MailChimp. Each of these e-mails includes a one-click opt-out. We write from "<pleasereply@fortrabbit.com>". See [MailChimp Terms](https://mailchimp.com/legal/terms).
 
 ### Personal e-mails
 
@@ -96,7 +96,7 @@ The dashboard shows screenshots of client apps. They are created by **Urlbox**, 
 
 ## Knowledge base
 
-We have knowledge base software to document our internal standard procedures. In some cases some client data might be referenced in there. This applies to extra settings or individual agreements for clients. Currently we are using **Notion** for this, see the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
+We document internal standard procedures in a knowledge base. In some cases it references client data, such as extra settings or individual agreements. The knowledge base is a private Git repository hosted on **GitHub**. A former knowledge base on **Notion** is no longer in use, but still holds documents that may reference client data until it is deleted. See the [Notion Terms & Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
 
 ## Code hosting
 
