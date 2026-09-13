@@ -72,7 +72,7 @@ We use **Linear** as an internal ticketing system to keep track of ongoing busin
 
 ## Account profile pictures
 
-We may send a hash of your e-mail address to a 3rd party, such as **Gravatar** to see if you have an Account over there. If you have, we display your profile picture from over there; if not, a unique generic profile icon will be displayed. See [Gravatar Terms](https://en.gravatar.com/site/terms-of-service).
+Accounts that sign in with **GitHub**, **GitLab** or **Google** receive name, e-mail address and profile picture from that provider. The profile picture is shown in the dashboard. Pictures of fortrabbit team members on the websites are loaded from **Gravatar**, which receives the visitor's IP address. No customer e-mail hashes are sent to Gravatar.
 
 ## Accounting
 
