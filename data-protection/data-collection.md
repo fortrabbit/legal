@@ -67,7 +67,7 @@ Backups (if booked) for active Apps have a schedule and a retention period as st
 
 ## Additional emergency snapshots
 
-Daily emergency backup snapshots are created for all app environments. They have a 14 days retention period. These extra backups are meant for emergency cases only and are not accessible to clients. Once an App is deleted these snapshots will fade out with the retention period; after that all traces of an app are gone.
+We may keep internal snapshots of environments for disaster recovery on a best-effort basis. There is no guarantee that a snapshot exists. Snapshots are not accessible to clients and are kept for no more than 30 days.
 
 ## Data disclosure
 
