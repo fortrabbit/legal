@@ -3,7 +3,7 @@ title: Sub-processors
 description: 'Every third-party service fortrabbit uses, what it processes and why. Sub-processors are assessed for security and GDPR, with DPAs in place.'
 seo:
   title: Sub-processors and third-party services
-reviewed: 2026-09-13
+reviewed: 2026-09-22
 navigation.excerpt: Which 3rd party services we use and why.
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.
 links:
@@ -32,7 +32,7 @@ We use **New Relic** to monitor errors and performance of our backend. Error rep
 
 ## Advertising
 
-We run a **Google Ads** remarketing tag on our marketing website [www.fortrabbit.com](https://www.fortrabbit.com), and on none of our other web properties. The tag is loaded only for visitors in jurisdictions that do not require opt-in consent for advertising cookies. It is not loaded when the location is unknown or when the browser sends a Global Privacy Control signal. Google receives the fact that a browser opened a page here, together with the IP address and user agent that request carries, and uses it to show fortrabbit ads to the same browser on other websites. The tag itself shares no account, billing or app data. See the [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms) and [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). Opt-out routes are listed on our [privacy page](/benefits/privacy).
+We run a **Google Ads** remarketing tag on [www.fortrabbit.com](https://www.fortrabbit.com), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com), and not in the dashboard. The tag is loaded only for visitors in jurisdictions that do not require opt-in consent for advertising cookies. It is not loaded when the location is unknown or when the browser sends a Global Privacy Control signal. Google receives the fact that a browser opened one of these pages, together with the IP address and user agent that request carries, and uses it to show fortrabbit ads to the same browser on other websites. The tag itself shares no account, billing or app data. See the [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms) and [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). Opt-out routes are listed on our [privacy page](/benefits/privacy).
 
 Separately, a nightly job sends conversion data to **Google Ads** server to server, for accounts created after an ad click and regardless of region: the click ID, the signup time, the time of the first payment with a fixed value, and an identifier made of the event type and the fortrabbit account ID. No name, e-mail address, billing or app data is sent. See [section 10 of the privacy statement](/legal/data-protection/privacy-statement).
 

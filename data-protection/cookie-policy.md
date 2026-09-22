@@ -3,7 +3,7 @@ title: Cookie policy
 description: 'Which cookies the fortrabbit websites and dashboard set, what each one is for, and which of them need consent before they are placed.'
 seo:
   title: Cookie policy and tracking on our websites
-reviewed: 2026-09-13
+reviewed: 2026-09-22
 navigation.excerpt: What kind of cookies are used, why.
 links:
   - title: GitHub link
@@ -20,7 +20,7 @@ The cookies fortrabbit sets itself on its web properties (www, docs, blog and da
 
 ## Advertising cookies
 
-A Google Ads remarketing tag runs on the marketing website [www.fortrabbit.com](https://www.fortrabbit.com) and on no other fortrabbit web property. It sets advertising cookies, both on the `fortrabbit.com` domain and on Google's own domains, so that fortrabbit ads can be shown to the same browser on other websites.
+A Google Ads remarketing tag runs on [www.fortrabbit.com](https://www.fortrabbit.com), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com). The dashboard carries no advertising tag. It sets advertising cookies, both on the `fortrabbit.com` domain and on Google's own domains, so that fortrabbit ads can be shown to the same browser on other websites.
 
 The tag is not loaded for visitors in jurisdictions that require opt-in consent for advertising cookies — the EEA, the UK, Switzerland, Brazil and Quebec. It is also not loaded when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address via MaxMind.
 
