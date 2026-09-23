@@ -128,7 +128,7 @@ Glogauer Str. 24
 4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored, the IP address itself is not.
 5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors).
 6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. These values are not stored in a cookie. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
-7. The account also records how it was created: directly, or through an invitation to a team, to an app, as a client or for billing.
+7. The account also records how it was created: directly, through an invitation to a team, to an app, as a client or for billing, or by import from the previous platform.
 
 ### 2. Legal basis for data processing
 

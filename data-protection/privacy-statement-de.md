@@ -128,7 +128,7 @@ Glogauer Str. 24
 4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
 5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](https://www.fortrabbit.com/legal/data-protection/sub-processors).
 6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. Diese Werte werden nicht in einem Cookie gespeichert. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
-7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt oder über eine Einladung in ein Team, in eine App, als Kunde oder zur Abrechnung.
+7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt, über eine Einladung in ein Team, in eine App, als Kunde oder zur Abrechnung, oder durch den Import von der vorherigen Plattform.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
