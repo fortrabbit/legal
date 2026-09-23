@@ -3,7 +3,7 @@ title: Data collection and retention
 description: 'Which data fortrabbit stores during hosting operations, how long each type is kept, and what customers can erase for themselves.'
 navigation.excerpt: What kind of data is stored and when it will get deleted.
 lead: What kind of data is kept? When is data deleted? Our aim is to store only the minimum data required and to delete as much as possible whenever possible.
-reviewed: 2026-09-13
+reviewed: 2026-09-23
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/data-collection.md

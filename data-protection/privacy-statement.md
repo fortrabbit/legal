@@ -1,7 +1,7 @@
 ---
 title: Privacy statement
 description: 'What personal data fortrabbit collects, why it is processed, which third-party services are involved, and which rights apply under GDPR.'
-reviewed: 2026-09-22
+reviewed: 2026-09-23
 navigation.excerpt: Which 3rd party services we use and why.
 links:
   - title: GitHub link
