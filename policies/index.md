@@ -4,4 +4,5 @@ description: 'The policies that govern day-to-day platform use: acceptable use, 
 seo:
   title: Platform policies for hosting customers
 navigation.excerpt: How the platform is operated and used.
+updated: 2026-08-24
 ---

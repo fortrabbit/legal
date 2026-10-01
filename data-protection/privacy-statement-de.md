@@ -2,6 +2,7 @@
 title: Datenschutzerklärung von fortrabbit
 navigation.excerpt: German version of privacy policy.
 lead: This is the German version of privacy policy.
+updated: 2026-09-23
 reviewed: 2026-09-23
 links:
   - title: GitHub link

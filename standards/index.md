@@ -4,4 +4,5 @@ description: 'Security standards and compliance at fortrabbit: the technical and
 seo:
   title: Security standards and compliance overview
 navigation.excerpt: Compliance and security.
+updated: 2026-08-24
 ---

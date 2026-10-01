@@ -3,6 +3,7 @@ title: Data subject access requests policies
 description: 'How fortrabbit handles data subject access requests: who may ask, what is disclosed, which deadlines apply and how identity is verified.'
 naviTitle: Requests for information policies
 navigation.excerpt: Our DSAR policies.
+updated: 2026-09-13
 reviewed: 2026-09-13
 links: 
   - title: GitHub link

@@ -4,4 +4,5 @@ description: 'How fortrabbit handles personal data: privacy statement, data proc
 seo:
   title: Data protection and GDPR compliance
 navigation.excerpt: Privacy, data handling and GDPR.
+updated: 2026-08-24
 ---

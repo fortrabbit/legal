@@ -4,4 +4,5 @@ description: 'The contractual documents behind a fortrabbit account: terms of se
 seo:
   title: 'Hosting contract, terms and site notice'
 navigation.excerpt: Terms, notices and service levels.
+updated: 2026-08-24
 ---

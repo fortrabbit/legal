@@ -1,6 +1,7 @@
 ---
 title: Auskunftsersuchen
 navigation.excerpt: German version of the DSAR policies
+updated: 2026-09-13
 reviewed: 2026-09-13
 links:
   - title: GitHub link
