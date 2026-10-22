@@ -37,7 +37,7 @@ The fortrabbit platform is updated to the latest security patches periodically a
 
 * A PHP version is outdated once its security support ends (end of life) as defined by the PHP project under [php.net/supported-versions](https://www.php.net/supported-versions.php).
 * Outdated PHP versions stay available as long as running them is secure and maintainable for us. They are provided as is, without security fixes.
-* Outdated PHP versions may cost extra. The docs list the current fees under [legacy PHP versions](https://docs.fortrabbit.com/platform/settings/php#legacy-php-versions).
+* Outdated PHP versions may cost extra. The docs list the current fees under legacy PHP versions.
 * A serious vulnerability in an outdated PHP version can force us to retire that version at any time.
 * When an outdated PHP version is retired, app environments still on that version will be upgraded to the next newer version of PHP.
 
