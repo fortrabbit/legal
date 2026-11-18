@@ -3,7 +3,7 @@ title: Datenschutzerklärung von fortrabbit
 navigation.excerpt: German version of privacy policy.
 lead: This is the German version of privacy policy.
 created: 2018-06-07
-updated: 2026-09-23
+updated: 2026-11-18
 reviewed: 2026-09-23
 ai: co-authored
 links:
@@ -90,7 +90,7 @@ Glogauer Str. 24
 1. Unsere Webseiten verwenden Cookies. Bei Cookies handelt es sich um Textdateien, die im Browser auf dem Computersystem des Nutzers gespeichert werden. Ruft ein Nutzer eine Website auf, so kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden.
 2. Dieser Cookie enthält eine charakteristische Zeichenfolge, die eine eindeutige Identifizierung des Browsers beim erneuten Aufrufen der Website ermöglicht.
 3. Wir setzen Cookies ein, um unsere Website nutzerfreundlicher zu gestalten. Einige Elemente unserer Internetseite erfordern es, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann.
-4. In den Cookies werden dabei Daten wie: Währung, Session- und Account-Informationen, Auswahl in Bestellsystemen, CSRF-Token und potentiell andere Metadaten gespeichert und übermittelt.
+4. In den Cookies werden dabei Daten wie: Währung, Session- und Konto-Informationen, Auswahl in Bestellsystemen, CSRF-Token und potentiell andere Metadaten gespeichert und übermittelt.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
@@ -127,22 +127,22 @@ Glogauer Str. 24
 
 1. Auf unserer Internetseite bieten wir Nutzern die Möglichkeit, sich unter Angabe personenbezogener Daten zu registrieren.
 2. Die Daten werden dabei in eine Eingabemaske eingegeben und an uns übermittelt und gespeichert.
-3. Meldet sich der Nutzer über GitHub, GitLab oder Google an, übermittelt der jeweilige Anbieter Name, E-Mail-Adresse und Profilbild.
-4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
+3. Meldet sich eine Person über GitHub, GitLab oder Google an, übermittelt der jeweilige Anbieter Name, E-Mail-Adresse und Profilbild.
+4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Mit dem Konto gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
 5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](/legal/data-protection/sub-processors).
-6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. Diese Werte werden nicht in einem Cookie gespeichert. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
-7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt, über eine Einladung in ein Team, in eine App, als Kunde oder zur Abrechnung, oder durch den Import von der vorherigen Plattform.
+6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. fortrabbit speichert diese Werte in keinem Cookie. Wo das Google-Ads-Tag lädt, speichert Google die Klick-ID in einem eigenen Cookie, siehe Abschnitt 5. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
+7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt, über eine Einladung in ein Team, in eine App, als Client oder zur Abrechnung, oder durch den Import von der vorherigen Plattform.
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
-1. Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Registrierung der Durchführung vorvertraglicher Maßnahmen oder der Erfüllung eines Vertrags dient, dessen Vertragspartei der Nutzer ist.
+1. Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Registrierung der Durchführung vorvertraglicher Maßnahmen oder der Erfüllung eines Vertrags dient, dessen Vertragspartei der Kunde ist.
 2. Rechtsgrundlage für die Standortbestimmung ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der Abwehr betrügerischer Registrierungen.
 3. Rechtsgrundlage für die Speicherung der Kampagnendaten und des Entstehungswegs ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, den Erfolg von Werbung und Einladungen zu messen.
 
 ### 3. Zweck der Datenverarbeitung
 
 1. Eine Registrierung des Nutzers ist für das Bereithalten bestimmter Inhalte und Leistungen auf unseren Webseiten erforderlich. Im Falle der Registrierung für kostenlose Probeangebote ist insbesondere die Registrierung zur Verhütung von Missbrauch erforderlich.
-2. Eine Registrierung des Nutzers im Zusammenhang mit der Bestellung kostenpflichtiger Dienstleistungen ist zur Erfüllung eines Vertrages mit dem Nutzer oder zur Durchführung vorvertraglicher Maßnahmen erforderlich.
+2. Eine Registrierung im Zusammenhang mit der Bestellung kostenpflichtiger Dienstleistungen ist zur Erfüllung eines Vertrages mit dem Kunden oder zur Durchführung vorvertraglicher Maßnahmen erforderlich.
 
 ### 4. Dauer der Speicherung
 
@@ -152,7 +152,7 @@ Glogauer Str. 24
 
 ### 5. Widerspruchs- und Beseitigungsmöglichkeit
 
-1. Als Nutzer haben sie jederzeit die Möglichkeit, die Registrierung aufzulösen. Die über Sie gespeicherten Daten können Sie jederzeit abändern lassen.
+1. Sie können Ihr persönliches Konto jederzeit kündigen. Die über Sie gespeicherten Daten können Sie jederzeit abändern lassen.
 2. Sind die Daten zur Erfüllung eines Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, ist eine vorzeitige Löschung der Daten nur möglich, soweit nicht vertragliche oder gesetzliche Verpflichtungen einer Löschung entgegenstehen.
 
 ## 7. Produktinformationen
@@ -175,12 +175,12 @@ Glogauer Str. 24
 
 ### 4. Dauer der Speicherung
 
-1. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Die E-Mail-Adresse des Nutzers wird demnach (wie alle vertragsrelevanten Daten) solange gespeichert, wie der Kunde ein aktives Nutzerkonto unterhält.
+1. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Die E-Mail-Adresse wird demnach, wie alle vertragsrelevanten Daten, so lange gespeichert, wie das persönliche Konto besteht.
 
 ### 5. Widerspruchs- und Beseitigungsmöglichkeit
 
 1. Hinweise zur Nutzung des Kontos lassen sich in den Kontoeinstellungen im Dashboard abbestellen.
-2. Mitteilungen, die für die Durchführung des Vertrags erforderlich sind, lassen sich nicht abbestellen. Die Speicherung der E-Mail-Adresse endet mit der Löschung des Kontos.
+2. Mitteilungen, die für die Durchführung des Vertrags erforderlich sind, lassen sich nicht abbestellen. Die Speicherung der E-Mail-Adresse für diese Mitteilungen endet mit der Löschung des Kontos. Rechnungen behalten sie für die gesetzliche Aufbewahrungsfrist, siehe die [Seite zur Datenerhebung](/legal/data-protection/data-collection).
 
 ## 8. E-Mail Kontakt
 
@@ -207,8 +207,8 @@ Glogauer Str. 24
 
 ### 5. Widerspruchs- und Beseitigungsmöglichkeit
 
-1. Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen.
-2. Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen.
+1. Die Einwilligung zur Verarbeitung der personenbezogenen Daten kann jederzeit widerrufen werden.
+2. Bei einer Kontaktaufnahme per E-Mail kann der Speicherung der personenbezogenen Daten jederzeit widersprochen werden.
 3. In einem solchen Fall kann die Konversation nicht fortgeführt werden.
 
 ## 9. Datenerhebung durch Drittunternehmen

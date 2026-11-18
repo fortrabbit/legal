@@ -2,7 +2,7 @@
 title: Privacy statement
 description: 'What personal data fortrabbit collects, why it is processed, which third-party services are involved, and which rights apply under GDPR.'
 created: 2016-02-12
-updated: 2026-09-23
+updated: 2026-11-18
 reviewed: 2026-09-23
 ai: co-authored
 navigation.excerpt: Which 3rd party services we use and why.
@@ -17,11 +17,11 @@ links:
 
 This is the privacy statement required by German law for interacting with our websites. In the following, "websites" refers to the internet addresses `www.fortrabbit.com`, `docs.fortrabbit.com`, `blog.fortrabbit.com`, `dash.fortrabbit.com`, `api.fortrabbit.com` and `mcp.fortrabbit.com`, as well as `dashboard.fortrabbit.com` and `help.fortrabbit.com` of the previous platform.
 
-This statement covers usage from unregistered website visitors as well as registered clients.
+This statement covers usage from unregistered website visitors as well as registered customers.
 
-## 2. Name and address of the responsible
+## 2. Name and address of the controller
 
-The legally responsible, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
+The controller, hereinafter also "we" or "our", within meaning of the General Data Protection Regulation and other national data laws of the member states as well as other data protection regulations, is:
 
 fortrabbit GmbH  
 Glogauer Str. 24  
@@ -38,11 +38,11 @@ Glogauer Str. 24
 
 ### 2. Legal basis for the processing of personal data
 
-1. Insofar as we obtain the consent of the data subject for processing of personal data, Art. 6 para. 1 lit. a EU General Data Protection Regulation (GDPR) as legal basis.
-2. In the processing of personal data necessary for the performance of a contract of which the data subject is a party, Art. 6 para. 1 lit. b DSGVO as legal basis. This also applies to processing operations required to carry out pre-contractual actions.
-3. If processing of personal data is required to fulfill a legal obligation that is subject to our company, Art. 6 para. 1 lit. c DSGVO as legal basis.
-4. In the event that vital interests of the data subject or another natural person require the processing of personal data, Art. 6 para. 1 lit. d DSGVO as legal basis.
-5. If processing is necessary to safeguard the legitimate interests of our company or a third party and if the interest, fundamental rights and freedoms of the data subject do not prevail over the first interest, Art. 6 para. 1 lit. f DSGVO as legal basis for processing.
+1. Insofar as we obtain the consent of the data subject for processing of personal data, Art. 6 para. 1 lit. a EU General Data Protection Regulation (GDPR) serves as the legal basis.
+2. In the processing of personal data necessary for the performance of a contract of which the data subject is a party, Art. 6 para. 1 lit. b GDPR serves as the legal basis. This also applies to processing operations required to carry out pre-contractual actions.
+3. If processing of personal data is required to fulfill a legal obligation to which our company is subject, Art. 6 para. 1 lit. c GDPR serves as the legal basis.
+4. In the event that vital interests of the data subject or another natural person require the processing of personal data, Art. 6 para. 1 lit. d GDPR serves as the legal basis.
+5. If processing is necessary to safeguard the legitimate interests of our company or a third party and if the interest, fundamental rights and freedoms of the data subject do not prevail over the first interest, Art. 6 para. 1 lit. f GDPR serves as the legal basis for processing.
 
 ### 3. Data deletion and storage duration
 
@@ -60,7 +60,7 @@ Glogauer Str. 24
 
 ### 2. Legal basis for data processing
 
-1. The legal basis for the temporary storage of data and log files is Art. 6 para. 1 lit. f DSGVO.
+1. The legal basis for the temporary storage of data and log files is Art. 6 para. 1 lit. f GDPR.
 
 ### 3. Purpose of the data processing
 
@@ -68,7 +68,7 @@ Glogauer Str. 24
 2. Storage in log files is done to ensure the functionality of the website.
 3. In addition, the data is used to optimize the website and to ensure the security of our information technology systems.
 4. The log files are not evaluated for marketing purposes. Advertising is covered in sections 5 and 10.
-5. In these purposes, our legitimate interest in the processing of data accords with Art. 6 para. 1 lit. f DSGVO.
+5. For these purposes, our legitimate interest in the processing of data is based on Art. 6 para. 1 lit. f GDPR.
 
 ### 4. Duration of storage
 
@@ -76,12 +76,12 @@ Glogauer Str. 24
 2. In the case of the collection of data for the provision of the website, this is the case when the respective session is completed.
 3. In the case of storing the data in log files, this is the case after no more than 30 days, unless legal or technical reasons or the need for security make longer storage necessary.
 4. Further storage is possible.
-5. In this case, the IP addresses of the users are deleted or alienated, so that an identification of the calling client is no longer possible.
+5. In this case, the IP addresses of the users are deleted or anonymized, so that an identification of the calling client is no longer possible.
 
 ### 5. Removal possibility
 
 1. The collection of the data for the provision of the website and the storage of the data in log files is essential for the operation of the website.
-2. There is consequently no contradiction on the part of the user.
+2. Consequently, the user cannot object.
 
 ## 5. Use of cookies
 
@@ -89,7 +89,7 @@ Glogauer Str. 24
 
 1. Our websites use cookies. Cookies are text files that are stored in the browser on the user's computer system. When a user visits a website, a cookie may be stored on the user's operating system.
 2. This cookie contains a characteristic string that allows the browser to be uniquely identified when the website is reopened.
-3. We use cookies to make our website more user-friendly. Some elements of our website require that the calling browser be identified even after a page break.
+3. We use cookies to make our website more user-friendly. Some elements of our website require that the calling browser be identified even after a page change.
 4. The cookies store and transmit data such as currency, session and account information, selection in ordering systems, CSRF tokens and potentially other metadata.
 
 ### 2. Legal basis for data processing
@@ -102,12 +102,12 @@ Glogauer Str. 24
 
 1. The purpose of using technically necessary cookies is to facilitate the use of websites for users.
 2. Some features of our website can not be offered without the use of cookies.
-3. For this it is necessary that the browser is recognized even after a page break.
-4. For these purposes, our legitimate interest in the processing of personal data is pursuant to Art. 6 para. 1 lit. f DSGVO.
+3. For this it is necessary that the browser is recognized even after a page change.
+4. For these purposes, our legitimate interest in the processing of personal data is pursuant to Art. 6 para. 1 lit. f GDPR.
 
 ### 4. Duration of storage, objection and disposal options
 
-1. Cookies are stored on the computer of the user and transmitted by this on our side.
+1. Cookies are stored on the computer of the user and transmitted by it to our website.
 2. Therefore, as a user, you have full control over the use of cookies.
 3. By changing the settings in your internet browser, you can disable or restrict the transmission of cookies.
 4. Already stored cookies can be deleted at any time.
@@ -127,47 +127,47 @@ Glogauer Str. 24
 
 1. On our website, we offer users the opportunity to register by providing personal information.
 2. The data is entered into an input mask and transmitted to us and stored.
-3. When the user signs in with GitHub, GitLab or Google, that provider transmits the name, e-mail address and profile picture.
-4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored, the IP address itself is not.
+3. When a person signs in with GitHub, GitLab or Google, that provider transmits the name, e-mail address and profile picture.
+4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored with the account, the IP address itself is not.
 5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](/legal/data-protection/sub-processors).
-6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. These values are not stored in a cookie. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
+6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. fortrabbit stores these values in no cookie. Where the Google Ads tag loads, Google stores the click ID in its own cookie, see section 5. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
 7. The account also records how it was created: directly, through an invitation to a team, to an app, as a client or for billing, or by import from the previous platform.
 
 ### 2. Legal basis for data processing
 
-1. The legal basis for the processing of the data is Art. 6 para. 1 lit. b GDPR, as the registration serves pre-contractual measures or the performance of a contract to which the user is a party.
+1. The legal basis for the processing of the data is Art. 6 para. 1 lit. b GDPR, as the registration serves pre-contractual measures or the performance of a contract to which the customer is a party.
 2. The legal basis for determining the location is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is preventing fraudulent registrations.
 3. The legal basis for storing the campaign data and how the account was created is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is measuring the success of advertising and invitations.
 
 ### 3. Purpose of the data processing
 
 1. User registration is required for the provision of certain content and services on our websites. In the case of registration for free trial offers, registration is required for the prevention of abuse.
-2. Registration of the user in connection with the ordering of paid services is required to fulfill a contract with the user or to carry out pre-contractual measures.
+2. Registration in connection with the ordering of paid services is required to fulfill a contract with the customer or to carry out pre-contractual measures.
 
 ### 4. Duration of storage
 
 1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection.
 2. This is the case during the registration process for the performance of a contract or for the performance of pre-contractual measures if the data are no longer necessary for the performance of the contract.
-3. Even after conclusion of the contract, there may be a need to store personal data of the contracting party in order to comply with contractual or legal obligations, the latter in particular according to HGB and the tax law.
+3. Even after conclusion of the contract, there may be a need to store personal data of the contracting party in order to comply with contractual or legal obligations, the latter in particular under the German Commercial Code (HGB) and tax law.
 
 ### 5. Opposition and removal possibility
 
-1. As a user, you have the option of canceling the registration at any time. You can change the data stored about you at any time.
-2. If the data are necessary for the fulfillment of a contract or for the execution of pre-contractual measures, a premature deletion of the data is only possible, as far as non-contractual or legal obligations preclude a deletion.
+1. You can cancel your personal account at any time. You can change the data stored about you at any time.
+2. If the data are necessary for the fulfillment of a contract or for the execution of pre-contractual measures, a premature deletion of the data is only possible as far as no contractual or legal obligations preclude a deletion.
 
 ## 7. Product information
 
 ### 1. Description and scope of data processing
 
-1. We inform registered clients by e-mail about changes that affect the service, such as scheduled maintenance, new releases and security-relevant changes.
+1. We inform registered customers by e-mail about changes that affect the service, such as scheduled maintenance, new releases and security-relevant changes.
 2. In addition, we send hints on using the account, such as reminders to finish the setup.
-3. The e-mails are sent via Postmark, occasional product announcements also via MailChimp. For this, the e-mail address, the name and the content of the message are transmitted.
+3. The e-mails are sent via Postmark, occasional product announcements also via Mailchimp. For this, the e-mail address, the name and the content of the message are transmitted.
 4. The data are used exclusively for sending these messages.
 
 ### 2. Legal basis for data processing
 
 1. The legal basis for messages concerning the contract is Art. 6 para. 1 lit. b GDPR.
-2. The legal basis for hints on using the account is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is supporting clients in using the service.
+2. The legal basis for hints on using the account is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is supporting customers in using the service.
 
 ### 3. Purpose of the data processing
 
@@ -175,12 +175,12 @@ Glogauer Str. 24
 
 ### 4. Duration of storage
 
-1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address of the user is therefore (like all contract-related data) stored as long as the client maintains an active user account.
+1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection. The e-mail address is therefore, like all contract-related data, stored as long as the personal account exists.
 
 ### 5. Opposition and removal possibility
 
 1. Hints on using the account can be unsubscribed in the account settings in the dashboard.
-2. Messages required for the performance of the contract cannot be unsubscribed. Storage of the e-mail address ends when the account is deleted.
+2. Messages required for the performance of the contract cannot be unsubscribed. Storage of the e-mail address for these messages ends when the account is deleted. Invoices keep it for the statutory retention period, see the [data collection page](/legal/data-protection/data-collection).
 
 ## 8. E-mail contact
 
@@ -192,7 +192,7 @@ Glogauer Str. 24
 
 ### 2. Legal basis for data processing
 
-1. Legal basis for the processing of the data is in the presence of the consent of the user Art. 6 para. 1 lit. a GDPR. The legal basis for the processing of the data transmitted in the course of sending an e-mail is Article 6 (1) lit. f DSGVO. If the e-mail contact aims to conclude a contract, then additional legal basis for the processing is Art. 6 para. 1 lit. b DSGVO.
+1. If the user has consented, the legal basis for the processing of the data is Art. 6 para. 1 lit. a GDPR. The legal basis for the processing of the data transmitted in the course of sending an e-mail is Art. 6 para. 1 lit. f GDPR. If the e-mail contact aims to conclude a contract, the additional legal basis for the processing is Art. 6 para. 1 lit. b GDPR.
 
 ### 3. Purpose of the data processing
 
@@ -203,17 +203,17 @@ Glogauer Str. 24
 1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection.
 2. For the personal data sent via e-mail, this is the case when the respective conversation with the user has ended.
 3. The conversation ends when it can be inferred from the circumstances that the relevant facts have been finally clarified.
-4. Statutory regulations, such as the obligation to store business mail, may preclude premature cancellation.
+4. Statutory regulations, such as the obligation to store business mail, may preclude early deletion.
 
 ### 5. Opposition and removal possibility
 
-1. The user has the opportunity to revoke his consent to the processing of personal data at any time.
-2. If the user contacts us by e-mail, he may object to the storage of his personal data at any time.
+1. The user can revoke their consent to the processing of personal data at any time.
+2. If the user contacts us by e-mail, they may object to the storage of their personal data at any time.
 3. In such a case, the conversation can not continue.
 
 ## 9. Data collection by third party companies
 
-We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors)
+We are using third-party sub-processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors)
 
 Some of these services are based in the USA. Transfers there are based on the European Commission's adequacy decision for the EU-US Data Privacy Framework where the recipient is certified under it, and otherwise on the European Commission's standard contractual clauses (Art. 46 para. 2 lit. c GDPR). For persons in Switzerland, the Swiss-US Data Privacy Framework applies accordingly.
 
