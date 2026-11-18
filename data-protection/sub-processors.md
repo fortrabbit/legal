@@ -18,7 +18,7 @@ All of our sub-processors have been assessed for security and GDPR compliance. E
 
 ## Infrastructure & data centers
 
-The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our websites (www, docs, blog and dash) and the apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route53, Cloudfront, etc) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our websites (www, docs, blog and dash) and the apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route 53 and others) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
 
 - Apps will be stored in the data center location you choose.
 - Billing related and Account data is stored in Ireland.
@@ -69,7 +69,13 @@ We use may use 3rd party software to manage our hiring processes, to evaluate an
 
 ## Account meta data
 
-At signup, the IP address is sent to **MaxMind**, which returns a geo-location (country, region, city). The geo-location and the signup time are stored with the account, the IP address is not. This helps against fraudulent signups and phishing.
+The IP address is sent to **MaxMind**, which returns a geo-location (country, region, city). fortrabbit uses it for three purposes:
+
+- At signup, against fraudulent signups and phishing. The geo-location and the signup time are stored with the account, the IP address is not.
+- On the websites, to preselect the currency of the prices, when neither a currency cookie nor the account's country sets it.
+- On the websites, to decide whether the Google Ads tag loads, see the [cookie policy](cookie-policy).
+
+Outside of signup, nothing from the lookup is stored.
 
 ## AI tools
 
