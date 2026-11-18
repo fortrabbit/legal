@@ -1,6 +1,6 @@
 ---
 title: Compliance
-description: 'Common compliance acronyms explained against what fortrabbit actually does: GDPR, DPA, SCC and DSAR, and where each applies to hosting.'
+description: 'Common compliance acronyms explained against what fortrabbit does: GDPR, DPA, SCC and DSAR, and where each applies to hosting.'
 seo:
   title: Compliance and regulatory questions
 created: 2024-01-06
@@ -8,7 +8,7 @@ updated: 2026-09-13
 reviewed: 2026-09-13
 ai: grammar
 navigation.excerpt: Find common compliance acronyms here.
-lead: Find common compliance acronyms here. Most of em do not apply to us or we simply don't do it. At least now you know.
+lead: Find common compliance acronyms here. Most of them do not apply to us or we don't do them. At least now you know.
 head:
   meta:
     - name: 'keywords'
@@ -20,7 +20,7 @@ links:
 
 ## TOM
 
-Technical and Organizational Measures: Please also understand that fortrabbit is a software company - a so called Platform as a Service. The actual hosting infrastructure is running on Amazon Web Services (AWS). Standard Technical and Organizational Measures for general hosting services therefore mostly don't apply here. We don't have physical access to data centers and therefore can not grant access to a third party. This aligns with other PaaS vendors on the market, also "only" providing pointers to the infrastructures TOM.
+Technical and Organizational Measures: Please also understand that fortrabbit is a software company - a so called Platform as a Service. The actual hosting infrastructure is running on Amazon Web Services (AWS). Standard Technical and Organizational Measures for general hosting services therefore mostly don't apply here. We don't have physical access to data centers and therefore can not grant access to a third party. This aligns with other PaaS vendors on the market, also "only" providing pointers to the infrastructure's TOM.
 
 ## W-8BEN-E
 
@@ -28,7 +28,7 @@ According to our understanding, we are not required to fill out this form. Note 
 
 ## COI
 
-A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except for cases of gross negligence covered by our [Terms of Service](/legal/contract/terms). We do provide an [Service Level Agreement](/legal/contract/service-level-agreement) which may be relevant to this question.
+A Certificate of Insurance document is not common in Europe. However, fortrabbit is a registered GmbH in Germany. The best analogy in English is a Limited Liability Company (LLC). We — like any other hosting company — can not agree to be liable for your losses on downtime, except as set out in § 7 of our [terms of service](/legal/contract/terms). We do provide a [service level agreement](/legal/contract/service-level-agreement) which may be relevant to this question.
 
 ## NIS2
 
@@ -36,11 +36,11 @@ The NIS2 Directive (EU) 2022/2555 replaced the NIS Directive (EU) 2016/1148 in O
 
 ## CPA
 
-Nomenclature code That’s a EU standard: CPA 63.11.12 WEB HOSTING SERVICES 63.11.1: Data processing, hosting, application services and other IT infrastructure provisioning services is what we do.
+Nomenclature code That's an EU standard: CPA 63.11.12 WEB HOSTING SERVICES 63.11.1: Data processing, hosting, application services and other IT infrastructure provisioning services is what we do.
 
-## SO27001
+## ISO 27001
 
-We are not ISO/IEC 27001:2005 certified ourselves, but our infrastructure provider AWS is.
+We are not ISO/IEC 27001 certified ourselves, but our infrastructure provider AWS is.
 
 ## HIPAA
 
@@ -48,20 +48,20 @@ Health Insurance Portability and Accountability Act is a US standard for storing
 
 ## W-9
 
-Some clients ask us for a W9 (1099 form), Request for Taxpayer Identification Number and Certification or a W-8-BEN-E. These are US standards to avoid money laundry and some other illegal practices. Sorry no. The fortrabbit company is not in based in the US. As far as we understand, US tax regulations do not apply to us.
+Some customers ask us for a W9 (1099 form), Request for Taxpayer Identification Number and Certification or a W-8-BEN-E. These are US standards to avoid money laundering and some other illegal practices. Sorry no. The fortrabbit company is not based in the US. As far as we understand, US tax regulations do not apply to us.
 
 ## SOC 1
 
-A Service Organization Control 1, or SOC 1 engagement, is an audit of the internal controls at a service organization which have been implemented to protect client data. Sorry, we are NOT doing that.
+A Service Organization Control 1, or SOC 1 engagement, is an audit of the internal controls at a service organization which have been implemented to protect customer data. Sorry, we are NOT doing that.
 
 ## SOC 2
 
-If you are hosting or processing other types of information for your clients that does not impact their financial reporting, then you may be asked for a SOC 2 audit report. Sorry, we are NOT doing that.
+If you are hosting or processing other types of information for your customers that does not impact their financial reporting, then you may be asked for a SOC 2 audit report. Sorry, we are NOT doing that.
 
 ## SSAE 18
 
-Statements on Standards for Attestation Engagements 16 or 18 (type I ot type II) is a series of enhancements aimed to increase the usefulness and quality of SOC reports, now, superseding SSAE 16. Sorry, we are NOT doing that.
+Statements on Standards for Attestation Engagements 16 or 18 (type I or type II) is a series of enhancements aimed to increase the usefulness and quality of SOC reports, now, superseding SSAE 16. Sorry, we are NOT doing that.
 
 ## Custom terms
 
-We do not practice custom terms negotiation with individual clients. The fortrabbit hosting platform service scope is a standardized self-service hosting software solution for professionals and small and medium-sized enterprises. We intend to keep our business relations "light-weight". We don't have a legal team on staff. There is no in house expertise to verify in which areas your custom contracts may contradict our standard rules. The fortrabbit platform is constantly evolving. New features will usually affect all clients and already need to be checked against our security standards, privacy rules and legal aspects.
+We do not practice custom terms negotiation with individual customers. The fortrabbit hosting platform service scope is a standardized self-service hosting software solution for professionals and small and medium-sized enterprises. We intend to keep our business relations "light-weight". We don't have a legal team on staff. There is no in house expertise to verify in which areas your custom contracts may contradict our standard rules. The fortrabbit platform is constantly evolving. New features will usually affect all customers and already need to be checked against our security standards, privacy rules and legal aspects.
