@@ -109,7 +109,7 @@ See how to get in touch [to query about your personal data here](/contact/dsar).
     3. has your express consent.
 2. However, these decisions may not be based on specific categories of personal data under Art. 9 (1) GDPR, unless Art. 9 (2) lit. a or g GDPR applies and reasonable measures have been taken to protect the rights and freedoms as well as your legitimate interests.
 3. With regard to the cases referred to in (1) and (3), the controller shall take reasonable measures to uphold the rights and freedoms as well as your legitimate interests, including at least the right to obtain the intervention of a person on the part of the controller, to express your own point of view and to contest the decision.
-4. fortrabbit makes no decisions based solely on automated processing, including profiling, that have legal or similarly significant effects. Showing ads to a browser through remarketing is not such a decision.
+4. fortrabbit checks signups automatically for signs of fraud, such as the location derived from the IP address or a match with a blocked account. Some signups are blocked by this check alone. The check is necessary to conclude the contract (Art. 22 (2) lit. a GDPR). You can contest a block, state your point of view and ask for a review by a person through [support](/contact). The deletion of unused accounts as described under [data collection](data-collection) and showing ads to a browser through remarketing are not such decisions.
 
 ## 10. Right to complain to a supervisory authority
 
