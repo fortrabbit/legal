@@ -1,11 +1,11 @@
 ---
 title: Update policies
-description: 'How and when fortrabbit changes its terms and policies, how customers are notified, and which changes take effect without prior notice.'
+description: 'When fortrabbit updates platform software, PHP versions, extensions, databases and TLS certificates, and which updates customers handle themselves.'
 seo:
-  title: How platform policies and terms change
+  title: How platform software updates work
 created: 2021-08-10
 updated: 2026-10-22
-reviewed: 2026-10-22 16:29:00
+reviewed: 2026-10-22
 ai: co-authored
 navigation.excerpt: When and what we update.
 lead: This page informs you about when to expect which software updates here on fortrabbit.
@@ -16,11 +16,11 @@ links:
 
 ## Updates performed by customers
 
-It is the responsibility of the customer to update the software they installed - this includes frameworks and Content Management Systems.
+It is the responsibility of the customer to update the software they installed - this includes frameworks and content management systems.
 
 ## Updates performed by fortrabbit
 
-The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to customers, but also client-facing software.
+The fortrabbit platform is updated to the latest security patches periodically at irregular intervals. This includes backend services such as networking and containerization not visible to customers, but also customer-facing software.
 
 ### Communication
 
