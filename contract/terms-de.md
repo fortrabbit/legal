@@ -5,7 +5,7 @@ created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
 ai: co-authored
-lead: Bitte nehmen Sie sich die Zeit, dieses und die anderen zugehörigen rechtlichen Dokumente zu lesen. Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen Fortrabbit seinen Kunden seine PHP-Cloud-Hosting-Dienste anbietet.
+lead: Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen fortrabbit seinen Kunden seine Cloud-Hosting-Dienste anbietet.
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/contract/terms-de.md
@@ -79,7 +79,7 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäft
 ## § 8 Laufzeit und Kündigung
 
 1. Der Vertrag wird auf unbestimmte Zeit geschlossen und kann von beiden Parteien durch Erklärung in Textform (§ 126 b BGB) gekündigt werden.
-2. Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Web Control Panel kündigen.
+2. Der Kunde kann seinen Vertrag ohne Angabe von Gründen mit Wirkung für die Zukunft im Dashboard kündigen.
 3. Der Anbieter kann den Vertrag mit einer Frist von einer Woche kündigen.
 4. Das vorzeitige Kündigungsrecht aus wichtigem Grund bleibt den Parteien unbenommen.
 5. Ein wichtiger Grund zur Kündigung des Vertrages liegt für den Anbieter insbesondere vor, wenn der Kunde seine Verpflichtungen nachhaltig verletzt; der Kunde trotz Zahlungserinnerung und Fristsetzung seiner Verpflichtung zur Zahlung nicht nachkommt.
