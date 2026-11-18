@@ -65,8 +65,8 @@ links:
 
 ## 7. Subcontracting
 
-1. The contractor employs the following subcontractor: Amazon Web Services.
-2. The commissioning of further subcontractors is permitted, the subcontractors are to be notified in writing to the customer prior to the beginning of the data processing. The customer can reject subcontractors.
+1. The contractor employs the subcontractors listed on the transparency page (7.11).
+2. The commissioning of further subcontractors is permitted. They are published on the transparency page before they begin processing data. The customer can object to a new subcontractor as set out in 7.15.
 3. All subcontractors shall be subject to at least data protection obligations that are comparable to those agreed in this contract. Upon request, the customer will be given access to the relevant contracts between contractor and subcontractor.
 4. The rights of the customer must also be exercised effectively against the subcontractor. In particular, the customer must be entitled to carry out inspections at subcontractors at any time, to the extent specified here, or have them carried out by third parties.
 5. The responsibilities of the contractor and the subcontractor must be clearly differentiated.

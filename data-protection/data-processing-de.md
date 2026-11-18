@@ -64,8 +64,8 @@ links:
 
 ## 7. Unterauftragsverhältnisse
 
-1. Der Auftragnehmer beschäftigt folgenden Subunternehmer: Amazon Web Services.
-2. Die Beauftragung von weiteren Subunternehmern ist zulässig, die Subunternehmer sind dem Auftraggeber vor Beginn der Datenverarbeitung schriftlich anzuzeigen. Der Auftraggeber kann Subunternehmer ablehnen.
+1. Der Auftragnehmer beschäftigt die auf der Transparenz-Seite (7.11) genannten Subunternehmer.
+2. Die Beauftragung von weiteren Subunternehmern ist zulässig. Sie werden vor Beginn der Datenverarbeitung auf der Transparenz-Seite veröffentlicht. Der Auftraggeber kann einem neuen Subunternehmer nach 7.15 widersprechen.
 3. Allen Subunternehmern werden vertraglich mindestens Datenschutzpflichten auferlegt, die den in diesem Vertrag vereinbarten vergleichbar sind. Der Auftraggeber erhält auf Verlangen Einsicht in die relevanten Verträge zwischen Auftragnehmer und Subunternehmer.
 4. Die Rechte des Auftraggebers müssen auch gegenüber dem Subunternehmer wirksam ausgeübt werden können. Insbesondere muss der Auftraggeber berechtigt sein, jederzeit in dem hier festgelegten Umfang Kontrollen auch bei Subunternehmern durchzuführen oder durch Dritte durchführen zu lassen.
 5. Die Verantwortlichkeiten des Auftragnehmers und des Subunternehmers sind eindeutig voneinander abzugrenzen.
@@ -74,7 +74,7 @@ links:
 8. Die Weiterleitung von im Auftrag verarbeiteten Daten an den Subunternehmer ist erst zulässig, wenn sich der Auftragnehmer dokumentiert davon überzeugt hat, dass der Subunternehmer seine Verpflichtungen vollständig erfüllt hat. Der Auftraggeber kann in die Dokumentation Einsicht nehmen.
 9. Die Beauftragung von Subunternehmern, die Verarbeitungen im Auftrag nicht ausschließlich aus dem Gebiet der EU oder des EWR erbringen, ist nur bei Beachtung der in Kapitel 4.9 dieses Vertrages genannten Bedingungen möglich. Sie ist insbesondere nur zulässig, soweit und solange der Subunternehmer angemessene Datenschutzgarantien bietet.
 10. Der Auftragnehmer teilt dem Auftraggeber auf Anfrage mit, welche konkreten Datenschutzgarantien der Subunternehmer bietet und wie ein Nachweis hierüber zu erlangen ist.
-11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
+11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und gelten als vom Auftraggeber akzeptiert.
 12. Der Auftragnehmer behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
 13. Der Auftragnehmer veröffentlicht Änderungen in Subunternehmerverhältnissen auf der Transparenz-Seite.
 14. Der Auftraggeber hat die Möglichkeit die Änderungen auf GitHub zu verfolgen. Die Adresse lautet: [https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md](https://github.com/fortrabbit/legal/blob/main/data-protection/sub-processors.md).
