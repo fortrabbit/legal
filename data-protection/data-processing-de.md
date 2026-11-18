@@ -2,7 +2,7 @@
 title: Auftragsverarbeitung personenbezogener Daten
 navigation.excerpt: German version of the data processing agreement.
 created: 2018-06-07
-updated: 2026-09-13
+updated: 2026-11-18
 reviewed: 2026-09-13
 ai: co-authored
 lead: Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
@@ -59,7 +59,7 @@ links:
 ## 6. Regelungen zur Berichtigung, Löschung und Sperrung von Daten
 
 1. Im Rahmen des Auftrags verarbeitete Daten wird der Auftragnehmer nur entsprechend der getroffenen vertraglichen Vereinbarung oder nach Weisung des Auftraggebers berichtigen, löschen oder sperren.
-2. Verletzt der Kunde seine vertraglichen Pflichten nachhaltig, ist der Auftragnehmer berechtigt, das Kundenkonto des Auftraggebers zu löschen. In diesem Fall werden alle Daten gelöscht. Der Auftraggeber wird auf diese Maßnahme rechtzeitig vorher hingewiesen.
+2. Verletzt der Auftraggeber seine vertraglichen Pflichten nachhaltig, ist der Auftragnehmer berechtigt, das Konto des Auftraggebers zu löschen. In diesem Fall werden alle Daten gelöscht. Der Auftraggeber wird auf diese Maßnahme rechtzeitig vorher hingewiesen.
 3. Den entsprechenden Weisungen des Auftraggebers wird der Auftragnehmer jederzeit und auch über die Beendigung dieses Vertrages hinaus Folge leisten.
 
 ## 7. Unterauftragsverhältnisse
@@ -72,7 +72,7 @@ links:
 6. Eine weitere Subbeauftragung durch den Subunternehmer ist zulässig. Es gelten die Abs. 2 bis 5 sinngemäß.
 7. Der Auftragnehmer wählt den Subunternehmer unter besonderer Berücksichtigung der Eignung der vom Subunternehmer getroffenen technischen und organisatorischen Maßnahmen sorgfältig aus.
 8. Die Weiterleitung von im Auftrag verarbeiteten Daten an den Subunternehmer ist erst zulässig, wenn sich der Auftragnehmer dokumentiert davon überzeugt hat, dass der Subunternehmer seine Verpflichtungen vollständig erfüllt hat. Der Auftraggeber kann in die Dokumentation Einsicht nehmen.
-9. Die Beauftragung von Subunternehmern, die Verarbeitungen im Auftrag nicht ausschließlich aus dem Gebiet der EU oder des EWR erbringen, ist nur bei Beachtung der in Kapitel 4 dieses Vertrages genannten Bedingungen möglich. Sie ist insbesondere nur zulässig, soweit und solange der Subunternehmer angemessene Datenschutzgarantien bietet.
+9. Die Beauftragung von Subunternehmern, die Verarbeitungen im Auftrag nicht ausschließlich aus dem Gebiet der EU oder des EWR erbringen, ist nur bei Beachtung der in Kapitel 4.9 dieses Vertrages genannten Bedingungen möglich. Sie ist insbesondere nur zulässig, soweit und solange der Subunternehmer angemessene Datenschutzgarantien bietet.
 10. Der Auftragnehmer teilt dem Auftraggeber auf Anfrage mit, welche konkreten Datenschutzgarantien der Subunternehmer bietet und wie ein Nachweis hierüber zu erlangen ist.
 11. Die zum Zeitpunkt des Vertragsabschlusses auf der Website [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors), im Folgenden Transparenz-Seite, genannten Subunternehmen erfüllen die Bedingungen und werden vom Auftragnehmer akzeptiert.
 12. Der Auftragnehmer behält sich das Recht vor neue Subunternehmer zu beschäftigen oder Subunternehmer zu ersetzen.
@@ -92,7 +92,7 @@ links:
 5. Der Auftragnehmer ist verpflichtet, erforderliche Auskünfte zu erteilen, Abläufe zu demonstrieren und Nachweise zu führen, die zur Durchführung einer Kontrolle erforderlich sind.
 6. Kontrollen beim Auftragnehmer haben ohne vermeidbare Störungen seines Geschäftsbetriebs zu erfolgen.
 7. Soweit nicht aus vom Auftraggeber zu dokumentierenden, dringlichen Gründen anders angezeigt, finden Kontrollen nach angemessener Vorankündigung und zu Geschäftszeiten des Auftragnehmers, sowie nicht häufiger als alle 12 Monate statt.
-8. Soweit der Auftragnehmer den Nachweis der korrekten Umsetzung der vereinbarten Datenschutzpflichten wie unter Kapitel 5.6 dieses Vertrages vorgesehen erbringt, soll sich eine Kontrolle auf Stichproben beschränken.
+8. Soweit der Auftragnehmer den Nachweis der korrekten Umsetzung der vereinbarten Datenschutzpflichten wie unter Kapitel 5.11 dieses Vertrages vorgesehen erbringt, soll sich eine Kontrolle auf Stichproben beschränken.
 
 ## 9. Mitteilungspflichten
 
@@ -109,7 +109,7 @@ links:
 1. Der Auftraggeber hat selbst jederzeit umfassenden Zugriff auf die Daten, sodass es einer Mitwirkung des Auftragnehmers insbesondere auch zu Berichtigung, Sperrung, Löschung nicht bedarf.
 2. Soweit eine Mitwirkung des Auftragsverarbeiter erforderlich ist, ist der Auftragsverarbeiter hierzu gegen Erstattung der anfallenden angemessenen Kosten verpflichtet. Dem Verantwortlichen steht in diesem Fall ein umfassendes Weisungsrecht über Art, Umfang und Verfahren der Datenverarbeitung gemäß Art. 29 i.V.m. 28 DSGVO zu.
 3. Der Auftragsverarbeiter hat den Verantwortlichen unverzüglich zu informieren, wenn er der Meinung ist, eine Weisung verstoße gegen datenschutzrechtliche Vorschriften. Der Auftragsverarbeiter ist berechtigt, die Durchführung der entsprechenden Weisung solange auszusetzen, bis sie durch eine hierzu befugte Person beim Verantwortlichen bestätigt oder geändert wird.
-4. Vom Auftraggeber zur Erteilung von Weisungen befugt, sind alle Personen mit einem fortrabbit Account, der bei der Company des Auftraggebers als Mitarbeiter registriert sind. Bei jeder Weisung wird sich der Mitarbeiter legitimieren müssen.
+4. Vom Auftraggeber zur Erteilung von Weisungen befugt, sind alle Personen mit einem persönlichen fortrabbit-Konto, die Mitglied eines Teams des Auftraggebers sind. Bei jeder Weisung muss sich die Person legitimieren.
 5. Alle Angestellten des Auftragnehmers sind in der Entgegennahme von Weisungen geschult und befugt.
 
 ## 11. Beendigung des Auftrags
