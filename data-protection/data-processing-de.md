@@ -59,7 +59,7 @@ links:
 ## 6. Regelungen zur Berichtigung, Löschung und Sperrung von Daten
 
 1. Im Rahmen des Auftrags verarbeitete Daten wird der Auftragnehmer nur entsprechend der getroffenen vertraglichen Vereinbarung oder nach Weisung des Auftraggebers berichtigen, löschen oder sperren.
-2. Verletzt der Auftraggeber seine vertraglichen Pflichten nachhaltig, ist der Auftragnehmer berechtigt, das Konto des Auftraggebers zu löschen. In diesem Fall werden alle Daten gelöscht. Der Auftraggeber wird auf diese Maßnahme rechtzeitig vorher hingewiesen.
+2. Verletzt der Auftraggeber seine vertraglichen Pflichten nachhaltig, ist der Auftragnehmer berechtigt, das Konto des Auftraggebers zu löschen. In diesem Fall werden alle Daten gelöscht, ausgenommen die unter [Datenerhebung](/legal/data-protection/data-collection) beschriebenen Aufzeichnungen. Der Auftraggeber wird auf diese Maßnahme rechtzeitig vorher hingewiesen.
 3. Den entsprechenden Weisungen des Auftraggebers wird der Auftragnehmer jederzeit und auch über die Beendigung dieses Vertrages hinaus Folge leisten.
 
 ## 7. Unterauftragsverhältnisse
@@ -114,7 +114,7 @@ links:
 
 ## 11. Beendigung des Auftrags
 
-1. Bei Beendigung des Auftragsverhältnisses werden die Daten vernichtet.
+1. Bei Beendigung des Auftragsverhältnisses werden die Daten nach Ablauf des Abrufzeitraums gemäß § 6 der [AGB](/legal/contract/terms) vernichtet.
 2. Ebenfalls vernichtet werden sämtliche vorhandene Kopien der Daten, nach Ablauf der Aufbewahrungsfrist, sofern eine solche besteht. Die Vernichtung hat so zu erfolgen, dass eine Wiederherstellung auch von Restinformationen mit vertretbarem Aufwand nicht mehr möglich ist.
 3. Der Auftragnehmer ist verpflichtet, die unverzügliche Rückgabe bzw. Löschung auch bei Subunternehmern herbeizuführen.
 

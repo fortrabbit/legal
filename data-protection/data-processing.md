@@ -60,7 +60,7 @@ links:
 ## 6. Rules for the correction, deletion and blocking of data
 
 1. Data processed in the context of the order will only be corrected, deleted or blocked by the contractor in accordance with the contractual agreement or the instructions of the customer.
-2. If the customer permanently violates its contractual obligations, the contractor is entitled to delete the customer's account. In this case, all data will be deleted. The customer is informed of this measure in good time beforehand.
+2. If the customer permanently violates its contractual obligations, the contractor is entitled to delete the customer's account. In this case, all data will be deleted, except for the records kept as described under [data collection](/legal/data-protection/data-collection). The customer is informed of this measure in good time beforehand.
 3. The contractor will comply with the customer's instructions at any time and beyond the termination of this contract.
 
 ## 7. Subcontracting
@@ -115,7 +115,7 @@ links:
 
 ## 11. Termination of the contract
 
-1. Upon termination of the contract, the data will be destroyed.
+1. Upon termination of the contract, the data will be destroyed after the retrieval period under § 6 of the [terms of service](/legal/contract/terms).
 2. Any existing copies of the data will also be destroyed upon expiry of the retention period, if such exists. The destruction must take place in such a way that it is no longer possible to recover even residual information with justifiable effort.
 3. The contractor is obliged to bring about the immediate return or deletion also with subcontractors.
 
