@@ -3,6 +3,7 @@ title: Update policies
 description: 'How and when fortrabbit changes its terms and policies, how customers are notified, and which changes take effect without prior notice.'
 seo:
   title: How platform policies and terms change
+created: 2021-08-10
 updated: 2026-10-22
 reviewed: 2026-10-22 16:29:00
 navigation.excerpt: When and what we update.

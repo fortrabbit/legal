@@ -3,6 +3,7 @@ title: Compliance
 description: 'Common compliance acronyms explained against what fortrabbit actually does: GDPR, DPA, SCC and DSAR, and where each applies to hosting.'
 seo:
   title: Compliance and regulatory questions
+created: 2024-01-06
 updated: 2026-09-13
 reviewed: 2026-09-13
 navigation.excerpt: Find common compliance acronyms here.

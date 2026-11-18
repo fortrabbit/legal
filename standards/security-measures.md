@@ -1,6 +1,7 @@
 ---
 title: Security measures
 description: 'The technical and organisational measures behind the platform, in as much detail as security allows: isolation, access control, patching.'
+created: 2018-05-30
 updated: 2025-11-27
 reviewed: 2025-11-27 12:05:06
 navigation.excerpt: What we do to keep bad guys out.

@@ -1,6 +1,7 @@
 ---
 title: Acceptable use policy
 description: 'What may and may not be hosted on fortrabbit. The platform is for websites, web applications and web APIs; this policy lists the exceptions.'
+created: 2018-05-31
 updated: 2026-09-13
 reviewed: 2026-09-13
 navigation.excerpt: What is allowed here and what not.

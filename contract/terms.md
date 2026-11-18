@@ -3,6 +3,7 @@ title: Terms of service
 description: 'The terms of service governing a fortrabbit account: what the platform provides, what is expected in return, and how either side ends it.'
 seo:
   title: Terms of service for the hosting platform
+created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
 navigation.excerpt: Legal basis for using the platform.

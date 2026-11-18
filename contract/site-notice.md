@@ -5,6 +5,7 @@ seo:
   title: Site notice and company details (Impressum)
 lead: Legal notice according to German law (§5 DDG)
 navigation.excerpt: Sometimes called imprint.
+created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
 links:

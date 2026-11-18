@@ -1,6 +1,7 @@
 ---
 title: Auskunftsersuchen
 navigation.excerpt: German version of the DSAR policies
+created: 2021-08-05
 updated: 2026-09-13
 reviewed: 2026-09-13
 links:

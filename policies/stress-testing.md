@@ -1,6 +1,7 @@
 ---
 title: Stress testing policies
 description: 'Load and penetration testing on a hosted app is allowed within bounds, because some tests affect other customers. What is permitted, and how.'
+created: 2021-08-10
 updated: 2024-01-06
 reviewed: 2025-11-17 12:40:29
 navigation.excerpt: How you can run load- and pen-testing.

@@ -3,6 +3,7 @@ title: Sub-processors
 description: 'Every third-party service fortrabbit uses, what it processes and why. Sub-processors are assessed for security and GDPR, with DPAs in place.'
 seo:
   title: Sub-processors and third-party services
+created: 2018-05-30
 updated: 2026-09-22
 reviewed: 2026-09-22
 navigation.excerpt: Which 3rd party services we use and why.

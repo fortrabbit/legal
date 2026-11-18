@@ -3,6 +3,7 @@ title: Support policy
 description: 'What customer support covers, which channels exist, when to expect an answer, and where the line between hosting and application help sits.'
 seo:
   title: 'Support policy: scope and response times'
+created: 2018-05-31
 updated: 2024-01-06
 reviewed: 2025-11-17 12:40:58
 navigation.excerpt: When to expect what kind of customer support.
