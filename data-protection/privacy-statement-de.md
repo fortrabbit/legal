@@ -116,7 +116,7 @@ Glogauer Str. 24
 
 ### 5. Werbe-Cookies
 
-1. Für Besucher außerhalb des EWR, des Vereinigten Königreichs, der Schweiz, Brasiliens und Québecs laden `www.fortrabbit.com`, `docs.fortrabbit.com` und `blog.fortrabbit.com` ein Remarketing-Tag von Google Ads. Es setzt Werbe-Cookies, damit Google diesem Browser auf anderen Websites Werbung von fortrabbit zeigen kann. Die einzelnen Cookies nennt die [Cookie-Richtlinie](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
+1. Für Besucher außerhalb des EWR, des Vereinigten Königreichs, der Schweiz, Brasiliens und Québecs laden `www.fortrabbit.com`, `docs.fortrabbit.com` und `blog.fortrabbit.com` ein Remarketing-Tag von Google Ads. Es setzt Werbe-Cookies, damit Google diesem Browser auf anderen Websites Werbung von fortrabbit zeigen kann. Die einzelnen Cookies nennt die [Cookie-Richtlinie](/legal/data-protection/cookie-policy).
 2. Das Tag lädt nicht in den genannten Regionen, nicht bei unbekanntem Standort und nicht, wenn der Browser ein Global-Privacy-Control-Signal sendet. Der Standort wird über MaxMind aus der IP-Adresse der aktuellen Anfrage bestimmt.
 3. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, für unsere Dienste zu werben.
 4. Das Dashboard lädt kein Werbe-Tag.
@@ -129,7 +129,7 @@ Glogauer Str. 24
 2. Die Daten werden dabei in eine Eingabemaske eingegeben und an uns übermittelt und gespeichert.
 3. Meldet sich der Nutzer über GitHub, GitLab oder Google an, übermittelt der jeweilige Anbieter Name, E-Mail-Adresse und Profilbild.
 4. Zur Abwehr betrügerischer Registrierungen wird die IP-Adresse an MaxMind übermittelt, um daraus den Standort (Land, Region, Stadt) zu bestimmen. Gespeichert werden dieser Standort sowie Datum und Uhrzeit der Registrierung, nicht die IP-Adresse selbst.
-5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](https://www.fortrabbit.com/legal/data-protection/sub-processors).
+5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](/legal/data-protection/sub-processors).
 6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. Diese Werte werden nicht in einem Cookie gespeichert. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
 7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt, über eine Einladung in ein Team, in eine App, als Kunde oder zur Abrechnung, oder durch den Import von der vorherigen Plattform.
 
@@ -213,7 +213,7 @@ Glogauer Str. 24
 
 ## 9. Datenerhebung durch Drittunternehmen
 
-Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)
+Wir verwenden externe Unterauftragsverarbeiter, um unsere Serviceangebote zu verbessern. Dazu kann auch die Weitergabe einiger personenbezogener Daten gehören. Eine Liste der verwendeten Dienste und ihrer Anwendung finden Sie hier: [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors)
 
 Einige dieser Dienste sitzen in den USA. Übermittlungen dorthin stützen sich auf den Angemessenheitsbeschluss der EU-Kommission zum EU-US Data Privacy Framework, soweit der Empfänger danach zertifiziert ist, und im Übrigen auf die Standardvertragsklauseln der EU-Kommission (Art. 46 Abs. 2 lit. c DSGVO). Für Personen in der Schweiz gilt entsprechend das Swiss-US Data Privacy Framework.
 
@@ -247,4 +247,4 @@ Einige dieser Dienste sitzen in den USA. Übermittlungen dorthin stützen sich a
 
 ## 11. Rechte der betroffenen Personen
 
-Siehe [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).
+Siehe [fortrabbit.com/legal/data-protection/dsar-policy](/legal/data-protection/dsar-policy).

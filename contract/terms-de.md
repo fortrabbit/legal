@@ -47,11 +47,11 @@ Der im folgenden genannte Anbieter ist die fortrabbit GmbH. Von diesen Geschäft
 11. Der Kunde verpflichtet sich auf Techniken zu verzichten, die eine übermäßige Inanspruchnahme der Einrichtungen des Anbieters verursachen.
 12. Der Kunde verpflichtet sich, den Anbieter von Ansprüchen Dritter gleich welcher Art freizustellen, die aus der Rechtswidrigkeit von Inhalten resultieren, die der Kunde auf dem vertragsgegenständlichen Speicherplatz gespeichert hat. Die Freistellungsverpflichtung umfasst auch die Verpflichtung, den Anbieter von erforderlichen Rechtsverteidigungskosten (z.B. Gerichts- und Anwaltskosten) freizustellen. Dies gilt auch für Subdomains, die auf den Anbieter registriert sind, aber dem Kunden zur Verfügung gestellt werden.
 13. Wenn und soweit der Kunde den vertragsgegenständlichen Speicherplatz entgegen der Zusicherung für die Verbreitung rechtswidriger Inhalte nutzt, ist der Anbieter berechtigt, den Zugriff auf diese Inhalte über das World Wide Web durch geeignete Maßnahmen zu sperren.
-14. Die [Richtlinie zur zulässigen Nutzung](https://www.fortrabbit.com/legal/policies/acceptable-use) ist Bestandteil dieser AGB. Sie beschreibt unzulässige Inhalte und Handlungen, das Verfahren zur Meldung rechtswidriger Inhalte und wie der Anbieter mit Meldungen umgeht.
+14. Die [Richtlinie zur zulässigen Nutzung](/legal/policies/acceptable-use) ist Bestandteil dieser AGB. Sie beschreibt unzulässige Inhalte und Handlungen, das Verfahren zur Meldung rechtswidriger Inhalte und wie der Anbieter mit Meldungen umgeht.
 
 ## § 5 Vergütung und Zahlungsmodalitäten
 
-1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste ([fortrabbit.com/pricing](http://www.fortrabbit.com/pricing)).
+1. Es gilt, sofern nicht anders schriftlich vereinbart, immer die aktuelle Version der Preisliste ([fortrabbit.com/pricing](/pricing)).
 2. Kostenpflichtige Leistungen werden monatlich abgerechnet.
 3. Bei verbrauchsabhängigen Leistungen ergibt sich der berechnete Verkehr und Speicher aus der Summe aller mit dem Kundenauftrag in Verbindung stehenden Datentransfers (z.B. Download, Upload, Websitebesucher). Für die Feststellung des Verkehrs und des Speichers entspricht ein Gigabyte eintausend Megabyte, ein Megabyte eintausend Kilobyte und ein Kilobyte eintausend Byte.
 4. Bei Nichteinlösung einer Zahlung (z.B. Lastschrift-Rückgabe oder Kreditkarten-Rückgabe) ist der Anbieter berechtigt dem Kunden die verursachten Kosten für die Rücklastschrift pauschal mit 15,00 € in Rechnung zu stellen. Der Kunde ist berechtigt, einen niedrigeren Schaden nachzuweisen und der Anbieter, einen höheren.

@@ -116,7 +116,7 @@ Glogauer Str. 24
 
 ### 5. Advertising cookies
 
-1. For visitors outside the EEA, the UK, Switzerland, Brazil and Quebec, `www.fortrabbit.com`, `docs.fortrabbit.com` and `blog.fortrabbit.com` load a Google Ads remarketing tag. It sets advertising cookies so that Google can show fortrabbit ads to the same browser on other websites. The individual cookies are listed in the [cookie policy](https://www.fortrabbit.com/legal/data-protection/cookie-policy).
+1. For visitors outside the EEA, the UK, Switzerland, Brazil and Quebec, `www.fortrabbit.com`, `docs.fortrabbit.com` and `blog.fortrabbit.com` load a Google Ads remarketing tag. It sets advertising cookies so that Google can show fortrabbit ads to the same browser on other websites. The individual cookies are listed in the [cookie policy](/legal/data-protection/cookie-policy).
 2. The tag is not loaded in the regions named, when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address of the current request via MaxMind.
 3. The legal basis is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is advertising our services.
 4. The dashboard loads no advertising tag.
@@ -129,7 +129,7 @@ Glogauer Str. 24
 2. The data is entered into an input mask and transmitted to us and stored.
 3. When the user signs in with GitHub, GitLab or Google, that provider transmits the name, e-mail address and profile picture.
 4. To prevent fraudulent registrations, the IP address is sent to MaxMind to determine the location (country, region, city). This location and the date and time of registration are stored, the IP address itself is not.
-5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors).
+5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](/legal/data-protection/sub-processors).
 6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. These values are not stored in a cookie. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
 7. The account also records how it was created: directly, through an invitation to a team, to an app, as a client or for billing, or by import from the previous platform.
 
@@ -213,7 +213,7 @@ Glogauer Str. 24
 
 ## 9. Data collection by third party companies
 
-We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](https://www.fortrabbit.com/legal/data-protection/sub-processors)
+We are using third party sub processors to improve our service offerings. That might also include sharing some personal data. See a list of services in use and their application here: [fortrabbit.com/legal/data-protection/sub-processors](/legal/data-protection/sub-processors)
 
 Some of these services are based in the USA. Transfers there are based on the European Commission's adequacy decision for the EU-US Data Privacy Framework where the recipient is certified under it, and otherwise on the European Commission's standard contractual clauses (Art. 46 para. 2 lit. c GDPR). For persons in Switzerland, the Swiss-US Data Privacy Framework applies accordingly.
 
@@ -247,4 +247,4 @@ Some of these services are based in the USA. Transfers there are based on the Eu
 
 ## 11. Rights of data subjects
 
-See [fortrabbit.com/legal/data-protection/dsar-policy](https://www.fortrabbit.com/legal/data-protection/dsar-policy).
+See [fortrabbit.com/legal/data-protection/dsar-policy](/legal/data-protection/dsar-policy).

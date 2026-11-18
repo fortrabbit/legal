@@ -57,4 +57,4 @@ You can restrict or block cookies through your browser settings.
 
 ## Contacting us
 
-If you have questions about this policy, please contact us, see [fortrabbit.com/contact](https://fortrabbit.com/contact).
+If you have questions about this policy, please contact us, see [fortrabbit.com/contact](/contact).
