@@ -4,6 +4,7 @@ navigation.excerpt: German version of the data processing agreement.
 created: 2018-06-07
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: co-authored
 lead: Datenverarbeitung, die möglicherweise auch personenbezogene Daten umfasst, findet beim Webhosting auf mehreren Ebenen statt. Diese Vereinbarung gilt für Fälle, in denen Sie - der Kunde - personenbezogene Daten auf unserer Plattform erheben und verarbeiten. Es bietet Vertragsbedingungen, die den Anforderungen der DSGVO entsprechen.
 links:
   - title: GitHub link

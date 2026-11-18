@@ -4,6 +4,7 @@ description: 'What may and may not be hosted on fortrabbit. The platform is for 
 created: 2018-05-31
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: co-authored
 navigation.excerpt: What is allowed here and what not.
 lead: We provide you with keys to a powerful computing platform. Use our services in a considerate and professional way.
 links:

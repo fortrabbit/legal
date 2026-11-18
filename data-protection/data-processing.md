@@ -6,6 +6,7 @@ lead: Data processing, potentially including personal data, happens on multiple 
 created: 2018-05-30
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: co-authored
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/data-processing.md

@@ -4,6 +4,7 @@ description: 'What personal data fortrabbit collects, why it is processed, which
 created: 2016-02-12
 updated: 2026-09-23
 reviewed: 2026-09-23
+ai: co-authored
 navigation.excerpt: Which 3rd party services we use and why.
 links:
   - title: GitHub link

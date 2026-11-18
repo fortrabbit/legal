@@ -6,6 +6,7 @@ seo:
 created: 2025-06-13
 updated: 2026-09-22
 reviewed: 2026-09-22
+ai: co-authored
 navigation.excerpt: What kind of cookies are used, why.
 links:
   - title: GitHub link

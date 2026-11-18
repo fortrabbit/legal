@@ -4,6 +4,7 @@ description: 'What uptime fortrabbit commits to, how it is measured, what counts
 created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: grammar
 navigation.excerpt: What uptime to expect and what if not.
 lead: Uptime is our bread-and-butter. We pride ourselves on a good uptime track record. The following SLA defines the refund you'll get for downtime.
 links:

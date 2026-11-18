@@ -8,6 +8,7 @@ navigation.excerpt: Sometimes called imprint.
 created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: grammar
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/contract/site-notice.md

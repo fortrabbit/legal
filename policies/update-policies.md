@@ -6,6 +6,7 @@ seo:
 created: 2021-08-10
 updated: 2026-10-22
 reviewed: 2026-10-22 16:29:00
+ai: co-authored
 navigation.excerpt: When and what we update.
 lead: This page informs you about when to expect which software updates here on fortrabbit.
 links:

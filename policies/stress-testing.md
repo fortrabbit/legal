@@ -4,6 +4,7 @@ description: 'Load and penetration testing on a hosted app is allowed within bou
 created: 2021-08-10
 updated: 2024-01-06
 reviewed: 2025-11-17 12:40:29
+ai: grammar
 navigation.excerpt: How you can run load- and pen-testing.
 lead: You want to run a test to check if this works as advertised and whether it's secure?
 links:

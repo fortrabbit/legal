@@ -6,6 +6,7 @@ seo:
 created: 2016-02-12
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: co-authored
 navigation.excerpt: Legal basis for using the platform.
 lead: The following provides basic conditions under which fortrabbit is offering its cloud hosting services to customers.
 links:

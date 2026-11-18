@@ -5,6 +5,7 @@ created: 2026-01-26
 updated: 2026-09-13
 reviewed: 2026-09-13
 reviewer: fl
+ai: co-authored
 navigation.excerpt: How we use AI.
 lead: This policy governs the ethical, secure, and lawful use of AI tools at fortrabbit. It applies to all employees, contractors, and affiliated parties.
 links:

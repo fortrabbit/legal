@@ -6,6 +6,7 @@ lead: What kind of data is kept? When is data deleted? Our aim is to store only 
 created: 2021-08-05
 updated: 2026-09-23
 reviewed: 2026-09-23
+ai: co-authored
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/data-collection.md

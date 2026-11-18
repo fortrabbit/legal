@@ -4,6 +4,7 @@ description: 'The technical and organisational measures behind the platform, in 
 created: 2018-05-30
 updated: 2025-11-27
 reviewed: 2025-11-27 12:05:06
+ai: grammar
 navigation.excerpt: What we do to keep bad guys out.
 lead: We take security very seriously — isn't that what everybody says? It's our business to keep your business online. It's our duty to keep the infrastructure secure.
 links:

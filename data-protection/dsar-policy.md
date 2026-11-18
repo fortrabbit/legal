@@ -6,6 +6,7 @@ navigation.excerpt: Our DSAR policies.
 created: 2021-08-05
 updated: 2026-09-13
 reviewed: 2026-09-13
+ai: co-authored
 links: 
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/dsar-policy.md
