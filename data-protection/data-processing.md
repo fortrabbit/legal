@@ -110,7 +110,7 @@ links:
 1. The customer has full access to the data at all times, so that it is not necessary for the contractor to cooperate, in particular also for correction, blocking or deletion.
 2. Where the co-operation of the processor is required, the processor is obliged to co-operate against reimbursement of the reasonable costs incurred. In this case, the controller has a comprehensive right to issue instructions on the type, scope and procedure of data processing pursuant to Art. 29 in conjunction with Art. 28 GDPR too.
 3. The processor must inform the controller without delay if it believes that an instruction violates data protection regulations. The processor shall be entitled to suspend the execution of the relevant instruction until it has been confirmed or changed by a person authorized to do so by the person responsible.
-4. Authorized by the customer to issue instructions are all persons with a personal fortrabbit account who are members of a team of the customer. With every instruction, the person must identify themselves.
+4. Authorized by the customer to issue instructions are all persons with a personal fortrabbit account who are members of a team of the customer, except persons with a client account. With every instruction, the person must identify themselves.
 5. All employees of the contractor are trained and authorized to receive instructions.
 
 ## 11. Termination of the contract

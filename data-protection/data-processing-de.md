@@ -109,7 +109,7 @@ links:
 1. Der Auftraggeber hat selbst jederzeit umfassenden Zugriff auf die Daten, sodass es einer Mitwirkung des Auftragnehmers insbesondere auch zu Berichtigung, Sperrung, Löschung nicht bedarf.
 2. Soweit eine Mitwirkung des Auftragsverarbeiter erforderlich ist, ist der Auftragsverarbeiter hierzu gegen Erstattung der anfallenden angemessenen Kosten verpflichtet. Dem Verantwortlichen steht in diesem Fall ein umfassendes Weisungsrecht über Art, Umfang und Verfahren der Datenverarbeitung gemäß Art. 29 i.V.m. 28 DSGVO zu.
 3. Der Auftragsverarbeiter hat den Verantwortlichen unverzüglich zu informieren, wenn er der Meinung ist, eine Weisung verstoße gegen datenschutzrechtliche Vorschriften. Der Auftragsverarbeiter ist berechtigt, die Durchführung der entsprechenden Weisung solange auszusetzen, bis sie durch eine hierzu befugte Person beim Verantwortlichen bestätigt oder geändert wird.
-4. Vom Auftraggeber zur Erteilung von Weisungen befugt, sind alle Personen mit einem persönlichen fortrabbit-Konto, die Mitglied eines Teams des Auftraggebers sind. Bei jeder Weisung muss sich die Person legitimieren.
+4. Vom Auftraggeber zur Erteilung von Weisungen befugt, sind alle Personen mit einem persönlichen fortrabbit-Konto, die Mitglied eines Teams des Auftraggebers sind, ausgenommen Personen mit einem Client-Konto. Bei jeder Weisung muss sich die Person legitimieren.
 5. Alle Angestellten des Auftragnehmers sind in der Entgegennahme von Weisungen geschult und befugt.
 
 ## 11. Beendigung des Auftrags
