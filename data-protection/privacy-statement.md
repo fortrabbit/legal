@@ -132,23 +132,27 @@ Glogauer Str. 24
 5. Further recipients, for example for payment processing and support, are named in the [list of sub-processors](/legal/data-protection/sub-processors).
 6. If the user arrives through an ad or a campaign link, the Google Ads click ID (`gclid`), the campaign parameters (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) and the signup button used are stored with the account. fortrabbit stores these values in no cookie. Where the Google Ads tag loads, Google stores the click ID in its own cookie, see section 5. During a sign-in with GitHub, GitLab or Google, they are held briefly in the browser's session storage.
 7. The account also records how it was created: directly, through an invitation to a team, to an app, as a client or for billing, or by import from the previous platform.
+8. Actions in the dashboard, API, CLI and MCP are recorded as events, including the IP address. Deleted objects are recorded as well. Both are described on the [data collection page](/legal/data-protection/data-collection).
 
 ### 2. Legal basis for data processing
 
 1. The legal basis for the processing of the data is Art. 6 para. 1 lit. b GDPR, as the registration serves pre-contractual measures or the performance of a contract to which the customer is a party.
 2. The legal basis for determining the location is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is preventing fraudulent registrations.
 3. The legal basis for storing the campaign data and how the account was created is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is measuring the success of advertising and invitations.
+4. The legal basis for keeping records of deleted objects and events is Art. 6 para. 1 lit. f GDPR. Our legitimate interest is fraud prevention, security and a traceable history of actions.
 
 ### 3. Purpose of the data processing
 
 1. User registration is required for the provision of certain content and services on our websites. In the case of registration for free trial offers, registration is required for the prevention of abuse.
 2. Registration in connection with the ordering of paid services is required to fulfill a contract with the customer or to carry out pre-contractual measures.
+3. After an account is deleted, records of deleted objects and events are kept to prevent fraud and abuse, and to show the people who had access, former team members included, what happened in the past.
 
 ### 4. Duration of storage
 
 1. The data will be deleted as soon as they are no longer necessary for the purpose of their collection.
 2. This is the case during the registration process for the performance of a contract or for the performance of pre-contractual measures if the data are no longer necessary for the performance of the contract.
 3. Even after conclusion of the contract, there may be a need to store personal data of the contracting party in order to comply with contractual or legal obligations, the latter in particular under the German Commercial Code (HGB) and tax law.
+4. Records of deleted objects and events are deleted after 10 years.
 
 ### 5. Opposition and removal possibility
 

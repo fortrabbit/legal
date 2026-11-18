@@ -43,7 +43,7 @@ The data in our customer database is accessible to each customer after signing i
 
 ### Personal account
 
-Personal account data containing information on name, e-mail, geo location, usage and more is retained for as long as the account is active. Customers can erase associated data by deleting their account with the fortrabbit dashboard, except for invoices. fortrabbit may keep anonymized hints on pre-existing accounts to keep track of historic events. Accounts are deleted automatically when the e-mail address is not verified within 14 days, when onboarding is not finished 17 days after signup, or 12 months after an account was marked idle because it has no team, payment method or app access. Idle accounts receive a warning e-mail one week before deletion.
+Personal account data containing information on name, e-mail, geo location, usage and more is retained for as long as the account is active. Customers can erase associated data by deleting their account with the fortrabbit dashboard, except for invoices and the records described under "Deleted objects" and "Events". Accounts are deleted automatically when the e-mail address is not verified within 14 days, when onboarding is not finished 17 days after signup, or 12 months after an account was marked idle because it has no team, payment method or app access. Idle accounts receive a warning e-mail one week before deletion.
 
 If an account was created after an ad click or a campaign link, the click ID, the campaign parameters and the signup button used are stored with it. Every account also records how it was created: directly, through an invitation to a team, to an app, as a client or for billing, or by import from the previous platform. These fields are kept as long as the account exists. For accounts with a click ID, conversion data is sent to Google, see [section 10 of the privacy statement](privacy-statement). The record of those uploads is deleted after 90 days and with the account.
 
@@ -61,6 +61,22 @@ Invoices, including the receiver's name, postal address and e-mail, are kept for
 
 Customers see and download their invoices in the dashboard as long as the payment method exists. When the payment method or the personal account is deleted, the invoices are no longer accessible in the dashboard, but fortrabbit keeps them for the full 10 years.
 
+### Deleted objects
+
+When an app, environment, domain, SSH key, team, personal account or payment method is deleted, fortrabbit keeps a record of it: type, ID, name, creation and deletion date, who deleted it, and the people who had access at that time. For a personal account, the record holds the person's name. For an SSH key, it holds the key's name.
+
+These records help to detect fraud, such as a blocked account that comes back with the same name or SSH key, and they let customers look up what happened in the past. People who had access to a deleted object, former team members included, can see its record. fortrabbit staff see all records.
+
+Records of deleted objects are deleted after 10 years.
+
+### Events
+
+fortrabbit records actions on apps, environments, teams, personal accounts and payment methods as events: who did what and when, from which IP address, through which channel, such as dashboard, API or MCP, and the old and new value of a change. Events keep the names of the people and objects involved, also after these are deleted.
+
+Events serve security, fraud prevention and a traceable history. Each person sees their own events and the events of shared objects, such as apps, teams and payment methods. fortrabbit staff see all events.
+
+Events are deleted after 10 years.
+
 ## Support chat
 
 Customer support communications between fortrabbit and our customers are deleted when an account is deleted.
@@ -71,7 +87,7 @@ Environments are where customers store files and databases. Apps and environment
 
 ## Logs
 
-You can interact with fortrabbit services on various transport protocols. We store connection data in log files with each access. This may include the request time, the IP address of the client, protocol details, URL called, response status, the number of bytes transferred, a referrer-url and the web user-agent (browser and OS). We are doing so for security reasons — to avoid malicious and unauthorized access. We reserve the right to analyze and block certain IPs from our services based on these access logs. Certain log parts might be kept for analysis and fraud protection. In any event, we do not store customer IP addresses or access data for more than 30 days.
+You can interact with fortrabbit services on various transport protocols. We store connection data in log files with each access. This may include the request time, the IP address of the client, protocol details, URL called, response status, the number of bytes transferred, a referrer-url and the web user-agent (browser and OS). We are doing so for security reasons — to avoid malicious and unauthorized access. We reserve the right to analyze and block certain IPs from our services based on these access logs. Certain log parts might be kept for analysis and fraud protection. Log files with IP addresses and access data are deleted after 30 days at the latest. Events keep the IP address as described under "Events".
 
 ### System level logs
 

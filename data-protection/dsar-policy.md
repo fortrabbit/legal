@@ -75,6 +75,10 @@ See how to get in touch [to query about your personal data here](/contact/dsar).
     4. for archival purposes of public interest, scientific or historical research purposes or for statistical purposes under Art. 89 (1) GDPR, to the extent that the law referred to in subparagraph (a) is likely to render impossible or seriously affect the achievement of the objectives of that processing, or
     5. to assert, exercise or defend legal claims.
 
+### 4. Fraud prevention
+
+1. Records of deleted objects and events are kept for 10 years, based on our legitimate interest in fraud prevention and security, Art. 6 para. 1 lit. f GDPR. We may refuse to erase them where these compelling legitimate grounds override your interests, Art. 17 para. 1 lit. c and Art. 21 para. 1 GDPR.
+
 ## 5. Right to notification
 
 1. If you have asserted the right of rectification, erasure or restriction of the processing to the controller, the latter is obliged to notify all recipients to whom your personal data have been disclosed of this correction or deletion of the data or restriction of processing unless this proves to be impossible or is associated with a disproportionate effort. You have the right to be informed by the controller about these recipients.

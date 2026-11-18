@@ -132,23 +132,27 @@ Glogauer Str. 24
 5. Weitere Empfänger, etwa für Zahlungsabwicklung und Support, nennt die [Liste der Unterauftragsverarbeiter](/legal/data-protection/sub-processors).
 6. Kommt der Nutzer über eine Anzeige oder einen Kampagnenlink, werden die Klick-ID von Google Ads (`gclid`), die Kampagnenparameter (`utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, `utm_content`) und der verwendete Registrierungs-Button mit dem Konto gespeichert. fortrabbit speichert diese Werte in keinem Cookie. Wo das Google-Ads-Tag lädt, speichert Google die Klick-ID in einem eigenen Cookie, siehe Abschnitt 5. Während einer Anmeldung über GitHub, GitLab oder Google liegen sie kurz im Sitzungsspeicher des Browsers.
 7. Zusätzlich speichert das Konto, wie es entstanden ist: direkt, über eine Einladung in ein Team, in eine App, als Client oder zur Abrechnung, oder durch den Import von der vorherigen Plattform.
+8. Aktionen im Dashboard, über API, CLI und MCP werden als Events aufgezeichnet, einschließlich der IP-Adresse. Gelöschte Objekte werden ebenfalls aufgezeichnet. Beides beschreibt die [Seite zur Datenerhebung](/legal/data-protection/data-collection).
 
 ### 2. Rechtsgrundlage für die Datenverarbeitung
 
 1. Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. b DSGVO, da die Registrierung der Durchführung vorvertraglicher Maßnahmen oder der Erfüllung eines Vertrags dient, dessen Vertragspartei der Kunde ist.
 2. Rechtsgrundlage für die Standortbestimmung ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der Abwehr betrügerischer Registrierungen.
 3. Rechtsgrundlage für die Speicherung der Kampagnendaten und des Entstehungswegs ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, den Erfolg von Werbung und Einladungen zu messen.
+4. Rechtsgrundlage für die Aufbewahrung der Aufzeichnungen über gelöschte Objekte und Events ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in Betrugsprävention, Sicherheit und einer nachvollziehbaren Historie.
 
 ### 3. Zweck der Datenverarbeitung
 
 1. Eine Registrierung des Nutzers ist für das Bereithalten bestimmter Inhalte und Leistungen auf unseren Webseiten erforderlich. Im Falle der Registrierung für kostenlose Probeangebote ist insbesondere die Registrierung zur Verhütung von Missbrauch erforderlich.
 2. Eine Registrierung im Zusammenhang mit der Bestellung kostenpflichtiger Dienstleistungen ist zur Erfüllung eines Vertrages mit dem Kunden oder zur Durchführung vorvertraglicher Maßnahmen erforderlich.
+3. Nach dem Löschen eines Kontos werden Aufzeichnungen über gelöschte Objekte und Events aufbewahrt, um Betrug und Missbrauch zu verhindern und den Personen mit Zugriff, auch ehemaligen Team-Mitgliedern, zu zeigen, was in der Vergangenheit geschehen ist.
 
 ### 4. Dauer der Speicherung
 
 1. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind.
 2. Dies ist für die während des Registrierungsvorgangs zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen dann der Fall, wenn die Daten für die Durchführung des Vertrages nicht mehr erforderlich sind.
 3. Auch nach Abschluss des Vertrags kann eine Erforderlichkeit, personenbezogene Daten des Vertragspartners zu speichern, bestehen, um vertraglichen oder gesetzlichen Verpflichtungen, letztere insbesondere nach HGB und dem Steuerrecht nachzukommen.
+4. Aufzeichnungen über gelöschte Objekte und Events werden nach 10 Jahren gelöscht.
 
 ### 5. Widerspruchs- und Beseitigungsmöglichkeit
 

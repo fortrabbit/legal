@@ -73,6 +73,10 @@ So erreichen Sie uns für [Anfragen zu Ihren personenbezogenen Daten](/contact/d
     4. für im öffentlichen Interesse liegende Archivzwecke, wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit das unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder
     5. zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
+### 4. Betrugsprävention
+
+1. Aufzeichnungen über gelöschte Objekte und Events werden 10 Jahre aufbewahrt, auf Grundlage unseres berechtigten Interesses an Betrugsprävention und Sicherheit, Art. 6 Abs. 1 lit. f DSGVO. Wir können ihre Löschung ablehnen, soweit diese zwingenden schutzwürdigen Gründe Ihre Interessen überwiegen, Art. 17 Abs. 1 lit. c und Art. 21 Abs. 1 DSGVO.
+
 ## 5. Recht auf Unterrichtung
 
 1. Haben Sie das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verantwortlichen geltend gemacht, ist dieser verpflichtet, allen Empfängern, denen die Sie betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.
