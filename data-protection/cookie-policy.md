@@ -23,7 +23,7 @@ The cookies fortrabbit sets itself on its web properties (www, docs, blog and da
 
 ## Advertising cookies
 
-A Google Ads remarketing tag runs on [www.fortrabbit.com](https://www.fortrabbit.com), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com). The dashboard carries no advertising tag. It sets advertising cookies, both on the `fortrabbit.com` domain and on Google's own domains, so that fortrabbit ads can be shown to the same browser on other websites.
+A Google Ads remarketing tag runs on [www.fortrabbit.com](/), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com). The dashboard carries no advertising tag. It sets advertising cookies, both on the `fortrabbit.com` domain and on Google's own domains, so that fortrabbit ads can be shown to the same browser on other websites.
 
 The tag is not loaded for visitors in jurisdictions that require opt-in consent for advertising cookies — the EEA, the UK, Switzerland, Brazil and Quebec. It is also not loaded when the location is unknown, or when the browser sends a Global Privacy Control signal. The location is determined from the IP address via MaxMind.
 
