@@ -12,7 +12,7 @@ links:
     route: https://github.com/fortrabbit/legal/blob/main/contract/service-level-agreement.md
 ---
 
-- **99.5% general uptime**
+- **99.7% general uptime**
 
 1. fortrabbit will use commercially reasonable efforts to keep the fortrabbit platforms available at the monthly uptime percentage stated above during each billing cycle. If the guaranteed uptime is not met, you may request the service credits described in sec. 6 of this SLA.
 2. Monthly uptime percentage means the total number of minutes in a billing cycle during which the fortrabbit storage system is connected to the internet and ready to send or receive information, minus the minutes of downtime in that cycle, divided by the total minutes in the billing cycle.
