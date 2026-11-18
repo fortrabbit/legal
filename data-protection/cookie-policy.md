@@ -4,8 +4,8 @@ description: 'Which cookies the fortrabbit websites and dashboard set, what each
 seo:
   title: Cookie policy and tracking on our websites
 created: 2025-06-13
-updated: 2026-09-22
-reviewed: 2026-09-22
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: co-authored
 navigation.excerpt: What kind of cookies are used, why.
 links:

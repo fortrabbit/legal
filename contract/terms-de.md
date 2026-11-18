@@ -2,8 +2,8 @@
 title: Allgemeine Geschäftsbedingungen
 navigation.excerpt: German version of the terms.
 created: 2016-02-12
-updated: 2026-09-13
-reviewed: 2026-09-13
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: co-authored
 lead: Im Folgenden finden Sie die grundlegenden Bedingungen, unter denen fortrabbit seinen Kunden seine Cloud-Hosting-Dienste anbietet.
 links:

@@ -4,8 +4,8 @@ description: 'When fortrabbit updates platform software, PHP versions, extension
 seo:
   title: How platform software updates work
 created: 2021-08-10
-updated: 2026-10-22
-reviewed: 2026-10-22
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: co-authored
 navigation.excerpt: When and what we update.
 lead: This page informs you about when to expect which software updates here on fortrabbit.

@@ -5,7 +5,7 @@ navigation.excerpt: Legal basis for processing your personal data.
 lead: Data processing, potentially including personal data, happens on multiple levels with web hosting. This agreement covers cases where you — the customer — are collecting and processing personal data on our platform. It offers contractual terms that meet GDPR requirements.
 created: 2018-05-30
 updated: 2026-11-18
-reviewed: 2026-09-13
+reviewed: 2026-11-18
 ai: co-authored
 links:
   - title: GitHub link

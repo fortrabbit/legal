@@ -4,8 +4,8 @@ description: 'Every third-party service fortrabbit uses, what it processes and w
 seo:
   title: Sub-processors and third-party services
 created: 2018-05-30
-updated: 2026-09-22
-reviewed: 2026-09-22
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: co-authored
 navigation.excerpt: Which 3rd party services we use and why.
 lead: fortrabbit wouldn't be possible without relying on third party services. We have carefully reviewed and chosen our business partners. We have mapped all data we share with third party providers, the kind of data collected and to which geographical destinations it is transferred.

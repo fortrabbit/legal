@@ -5,7 +5,7 @@ navigation.excerpt: What kind of data is stored and when it will get deleted.
 lead: What kind of data is kept? When is data deleted? We aim to balance privacy, security, observability and convenience.
 created: 2021-08-05
 updated: 2026-11-18
-reviewed: 2026-09-23
+reviewed: 2026-11-18
 ai: co-authored
 links:
   - title: GitHub link

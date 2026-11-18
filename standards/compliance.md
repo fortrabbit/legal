@@ -4,8 +4,8 @@ description: 'Common compliance acronyms explained against what fortrabbit does:
 seo:
   title: Compliance and regulatory questions
 created: 2024-01-06
-updated: 2026-09-13
-reviewed: 2026-09-13
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: grammar
 navigation.excerpt: Find common compliance acronyms here.
 lead: Find common compliance acronyms here. Most of them do not apply to us or we don't do them. At least now you know.

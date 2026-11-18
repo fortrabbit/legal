@@ -4,8 +4,8 @@ description: 'Copyright, trademark use and takedown requests: how to use the for
 seo:
   title: Copyright and takedown requests
 created: 2025-02-17
-updated: 2025-02-17
-reviewed: 2025-11-17
+updated: 2026-11-18
+reviewed: 2026-11-18
 ai: grammar
 navigation.excerpt: Trademarks we use. How to use our trademark.
 head:

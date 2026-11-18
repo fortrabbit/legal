@@ -4,7 +4,7 @@ navigation.excerpt: German version of privacy policy.
 lead: This is the German version of privacy policy.
 created: 2018-06-07
 updated: 2026-11-18
-reviewed: 2026-09-23
+reviewed: 2026-11-18
 ai: co-authored
 links:
   - title: GitHub link

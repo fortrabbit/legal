@@ -3,7 +3,7 @@ title: AI tool usage and editorial process
 description: 'How fortrabbit uses AI in the product and in its own work, what stays human-reviewed, and how AI involvement is disclosed on each page.'
 created: 2026-01-26
 updated: 2026-11-18
-reviewed: 2026-09-13
+reviewed: 2026-11-18
 reviewer: fl
 ai: co-authored
 navigation.excerpt: How we use AI.
