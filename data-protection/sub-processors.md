@@ -18,10 +18,10 @@ All of our sub-processors have been assessed for security and GDPR compliance. E
 
 ## Infrastructure & data centers
 
-The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our websites (www, docs, blog and dash) and the apps our clients create here. Various different services from AWS (EC2, RDS, S3, Route 53 and others) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
+The fortrabbit platform runs on **Amazon Web Services** (AWS). That includes our websites (www, docs, blog and dash) and the apps our customers create here. Various different services from AWS (EC2, RDS, S3, Route 53 and others) are used in combination. See [AWS Service Terms](https://aws.amazon.com/service-terms).
 
 - Apps will be stored in the data center location you choose.
-- Billing related and Account data is stored in Ireland.
+- Billing related and account data is stored in Ireland.
 
 ## Payment processing
 
@@ -29,35 +29,35 @@ Credit card billing information is stored with our credit card payment processor
 
 ## Usage and performance statistics
 
-We use a tool to see track visits called **Fathom**. This covers all web properties and is configured cookie-less.
+We use a tool to track visits called **Fathom**. This covers all web properties and is configured cookie-less.
 
 We use **New Relic** to monitor errors and performance of our backend. Error reports may contain request data. New Relic is not loaded on the websites and sets no cookies.
 
 ## Advertising
 
-We run a **Google Ads** remarketing tag on [www.fortrabbit.com](https://www.fortrabbit.com), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com), and not in the dashboard. The tag is loaded only for visitors in jurisdictions that do not require opt-in consent for advertising cookies. It is not loaded when the location is unknown or when the browser sends a Global Privacy Control signal. Google receives the fact that a browser opened one of these pages, together with the IP address and user agent that request carries, and uses it to show fortrabbit ads to the same browser on other websites. The tag itself shares no account, billing or app data. See the [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms) and [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). Opt-out routes are listed on our [privacy page](/benefits/privacy).
+We run a **Google Ads** remarketing tag on [www.fortrabbit.com](/), [docs.fortrabbit.com](https://docs.fortrabbit.com) and [blog.fortrabbit.com](https://blog.fortrabbit.com), and not in the dashboard. The tag is loaded only for visitors in jurisdictions that do not require opt-in consent for advertising cookies. It is not loaded when the location is unknown or when the browser sends a Global Privacy Control signal. Google receives the fact that a browser opened one of these pages, together with the IP address and user agent that request carries, and uses it to show fortrabbit ads to the same browser on other websites. The tag itself shares no account, billing or app data. See the [Google Ads Data Processing Terms](https://business.safety.google/adsprocessorterms) and [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). Opt-out routes are listed on our [privacy page](/benefits/privacy).
 
 Separately, a nightly job sends conversion data to **Google Ads** server to server, for accounts created after an ad click and regardless of region: the click ID, the signup time, the time of the first payment with a fixed value, and an identifier made of the event type and the fortrabbit account ID. No name, e-mail address, billing or app data is sent. See [section 10 of the privacy statement](/legal/data-protection/privacy-statement).
 
-## Client communication
+## Customer communication
 
 In order to help you successfully deploy and manage your applications here, we need to be able to communicate with you. In most cases we will use chat or contact you by e-mail.
 
 ### Support service
 
-Our support chat is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo-location when you interact and provide your name and e-mail to get in touch with us. For logged-in accounts, the name, e-mail address and an account ID are shared via API. This helps us giving you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "<support@fortrabbit.com>" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your account with fortrabbit, the connected data-set will also get deleted. Intercom analyzes your usage using cookies to "improve service" and "enhance user experience". They collect publicly available contact and social information and share it with their partners. For more info on privacy practices, visit the [Intercom Privacy](https://www.intercom.com/terms-and-policies#privacy) and see the [Intercom Terms](https://www.intercom.com/terms-and-policies#terms).
+Our support chat is powered by **Intercom**. This service collects some meta-data, like browser, operating system and geo-location when you interact and provide your name and e-mail to get in touch with us. For logged-in accounts, the name, e-mail address and an account ID are shared via API. This helps us give you a personal and fast support. In general the support channel is chat, but it is not limited to that. The help desk is also employed when you write an e-mail to "<support@fortrabbit.com>" and possibly other addresses. Sometimes our answers in the support desk might be delivered by e-mail to make sure they'll reach you. When you delete your account with fortrabbit, the connected data-set will also get deleted. Intercom analyzes your usage using cookies to "improve service" and "enhance user experience". They collect publicly available contact and social information and share it with their partners. For more info on privacy practices, visit the [Intercom Privacy](https://www.intercom.com/terms-and-policies#privacy) and see the [Intercom Terms](https://www.intercom.com/terms-and-policies#terms).
 
 ### Product information subscription
 
-We may use **MailChimp** to send occasional e-mail updates on service changes and feature announcements. For this, e-mail addresses and names are exported to MailChimp. Each of these e-mails includes a one-click opt-out. We write from "<pleasereply@fortrabbit.com>". See [MailChimp Terms](https://mailchimp.com/legal/terms).
+We may use **Mailchimp** to send occasional e-mail updates on service changes and feature announcements. For this, e-mail addresses and names are exported to Mailchimp. Each of these e-mails includes a one-click opt-out. We write from "<pleasereply@fortrabbit.com>". See [Mailchimp Terms](https://mailchimp.com/legal/terms).
 
 ### Personal e-mails
 
-We are required by law to store all business communication for ten years. So we will save your e-mails, when you contacts us by e-mail. Our personal mail (MX) accounts are by **Google** (gSuite). See [gSuite Terms](https://gsuite.google.com/terms/standard_terms_checkout.html).
+We are required by law to store all business communication for ten years. So we will save your e-mails, when you contact us by e-mail. Our personal mail (MX) accounts are by **Google** (Google Workspace). See [gSuite Terms](https://gsuite.google.com/terms/standard_terms_checkout.html).
 
 ### Transactional e-mails
 
-We use **Postmark** to send automated transactional e-mails to Accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". Naturally, there is no opt-out for these. Again, that's why you need to confirm that you are willing to be contacted by e-mail when signing up. We will write from "<pleasereply@fortrabbit.com>". See [Postmark Terms](https://postmarkapp.com/terms-of-service).
+We use **Postmark** to send automated transactional e-mails to accounts. These e-mails include relevant information. They are either triggered by intervals or user interaction. Examples are: "double opt-in sign-up", "invoice notice", "trial expire notice" or "password reset". E-mails required for the contract have no opt-out. Hints on using the account can be unsubscribed in the account settings. We will write from "<pleasereply@fortrabbit.com>". See [Postmark Terms](https://postmarkapp.com/terms-of-service).
 
 ## Status updates
 
@@ -65,7 +65,7 @@ Downtimes and incidents are published on [status.fortrabbit.com](https://status.
 
 ## Recruitment software
 
-We use may use 3rd party software to manage our hiring processes, to evaluate and track applicants. If you apply for a job here, consider the privacy from the 3rd party provider.
+We may use third-party software to manage our hiring processes, to evaluate and track applicants. If you apply for a job here, consider the privacy policy of the third-party provider.
 
 ## Account meta data
 
@@ -83,7 +83,7 @@ The team uses **Claude** by **Anthropic** for coding and internal work. When it 
 
 ## Internal case management
 
-We use **Linear** as an internal ticketing system to keep track of ongoing business tasks. We might link client cases from the chat system or other details such as app names there as well. See [Linear privacy](https://linear.app/privacy).
+We use **Linear** as an internal ticketing system to keep track of ongoing business tasks. We might link customer cases from the chat system or other details such as app names there as well. See [Linear privacy](https://linear.app/privacy).
 
 ## Account profile pictures
 
@@ -95,23 +95,23 @@ We employ a tax agency called **Ecovis**, as well as potentially other accountan
 
 ## Embedded content
 
-In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or just an image from another website. Of course, this might contain your IP and a timestamp as well.
+In certain cases we might embed content from other web services in our websites. This can be a hotlink, some JS, or an iframe. Examples are a **YouTube** video, or a poll by **Google forms** or an image from another website. Of course, this might contain your IP and a timestamp as well.
 
-## Content Delivery Network
+## Content delivery network
 
 The websites of the current platform serve their static assets themselves, without a third-party CDN.
 
 ## Website screenshots
 
-The dashboard shows screenshots of client apps. They are created by **Urlbox**, which periodically loads the default domain of an environment.
+The dashboard shows screenshots of customer apps. They are created by **Urlbox**, which periodically loads the default domain of an environment.
 
 ## Knowledge base
 
-We document internal standard procedures in a knowledge base. In some cases it references client data, such as extra settings or individual agreements. The knowledge base is a private Git repository hosted on **GitHub**.
+We document internal standard procedures in a knowledge base. In some cases it references customer data, such as extra settings or individual agreements. The knowledge base is a private Git repository hosted on **GitHub**.
 
 ## Code hosting
 
-Your Git code base is hosted on **GitHub**. We connect to through our fortrabbit GitHub app.
+Your Git code base is hosted on **GitHub**. We connect to it through our fortrabbit GitHub app.
 
 ## FOSS
 
