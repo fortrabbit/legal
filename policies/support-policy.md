@@ -5,10 +5,10 @@ seo:
   title: 'Support policy: scope and response times'
 created: 2018-05-31
 updated: 2024-01-06
-reviewed: 2025-11-17 12:40:58
+reviewed: 2025-11-17
 ai: grammar
 navigation.excerpt: When to expect what kind of customer support.
-lead: fortrabbit is a self-service hosting platform for web developers. Comprehensive documentation is included. There are still always questions. We are here to help. Here is our official support policy.
+lead: fortrabbit is a self-service hosting platform for web developers. Documentation is included. There are still always questions. We are here to help. Here is our official support policy.
 links:
   - title: GitHub link
     route: https://github.com/fortrabbit/legal/blob/main/policies/support-policy.md
@@ -31,11 +31,11 @@ links:
 
 ## Not covered
 
-* Debugging client application code
+* Debugging customer application code
 * Troubleshooting slow MySQL queries
 * Setting up local development
 * General performance tuning
-* Modifying or patching client software
+* Modifying or patching customer software
 * General coding questions
 * Training in Git
 
@@ -45,7 +45,7 @@ Technically, fortrabbit staff is able to view and even edit all uploaded files a
 
 ## Support channel
 
-Technical support is available through the web based client support system which can be found on all fortrabbit web properties.
+Technical support is available through the web based customer support system which can be found on all fortrabbit web properties.
 
 ## Support hours
 
@@ -57,8 +57,8 @@ Every support request will be answered. The main support time frame is bound to 
 
 ## Monitoring
 
-The fortrabbit platform is monitored 24/7 by comprehensive automated systems. On-call schedules and escalation policies for technical support are in place.
+The fortrabbit platform is monitored 24/7 by automated systems. On-call schedules and escalation policies for technical support are in place.
 
 ## Incident handling
 
-We will respond swiftly to diagnose and correct platform incidents. In the event of a bigger issue, a notice will be posted on the status site at [status.fortrabbit.com](http://status.fortrabbit.com).
+We will respond swiftly to diagnose and correct platform incidents. In the event of a bigger issue, a notice will be posted on the status site at [status.fortrabbit.com](https://status.fortrabbit.com).
