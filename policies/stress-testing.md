@@ -3,7 +3,7 @@ title: Stress testing policies
 description: 'Load and penetration testing on a hosted app is allowed within bounds, because some tests affect other customers. What is permitted, and how.'
 created: 2021-08-10
 updated: 2024-01-06
-reviewed: 2025-11-17 12:40:29
+reviewed: 2025-11-17
 ai: grammar
 navigation.excerpt: How you can run load- and pen-testing.
 lead: You want to run a test to check if this works as advertised and whether it's secure?
@@ -12,7 +12,7 @@ links:
     route: https://github.com/fortrabbit/legal/blob/main/policies/stress-testing.md
 ---
 
-We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other clients, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
+We understand the need to ensure integrity and compliance. Some tests might have adverse impacts on other customers, so we only permit certain types and within certain bounds. Please review this page carefully before getting started.
 
 ## Penetration testing and security scans
 
@@ -20,10 +20,10 @@ Feel free to perform standard penetration tests and security scans as often as r
 
 ## Load testing
 
-Please don't run Denial of Service tests and any other type of testing which results in heavy network load. Before running any load test, make sure to have a swift PHP response time for your App already - 200 ms or less.
+Please don't run Denial of Service tests and any other type of testing which results in heavy network load. Before running any load test, make sure to have a swift PHP response time for your app already - 200 ms or less.
 
 Please respect the following rate limit:
 
 * Max 300 RPM
 
-Also mind the general platform limits. Each App is different in the way it's built and in the way it is consumed. There are highly dynamic, compute-intensive Apps, and there are Apps that are mostly static. Some have many assets, some none. Some have only one page, some have thousands of pages. You as the developer should know your project, the way it is built and how it will be used. Follow best practices. Get insights from a plugin like Blackfire.
+Also mind the general platform limits. Each app is different in the way it's built and in the way it is consumed. There are highly dynamic, compute-intensive apps, and there are apps that are mostly static. Some have many assets, some none. Some have only one page, some have thousands of pages. You as the developer should know your project, the way it is built and how it will be used. Follow best practices. Get insights from a plugin like Blackfire.
