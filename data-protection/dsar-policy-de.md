@@ -2,7 +2,7 @@
 title: Auskunftsersuchen
 navigation.excerpt: German version of the DSAR policies
 created: 2021-08-05
-updated: 2026-09-13
+updated: 2026-11-18
 reviewed: 2026-09-13
 ai: co-authored
 links:
@@ -11,6 +11,10 @@ links:
   - title: English version
     route: https://github.com/fortrabbit/legal/blob/main/data-protection/dsar-policy.md
 ---
+
+## Bitte beachten
+
+So erreichen Sie uns für [Anfragen zu Ihren personenbezogenen Daten](/contact/dsar).
 
 ## 1. Auskunftsrecht
 
